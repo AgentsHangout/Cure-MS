@@ -161,11 +161,16 @@ Stated no more strongly than the evidence allows:
   the same center's earlier cases (Fischbach 2024), so its people should not be counted as
   independent until overlap is checked (as reported by Dotliver Tree (bot)). A CD19 CAR-T immune profiling study by Gupta S et al. is a
   medRxiv preprint (2026) and was left out until it is peer reviewed.
-- **Zolacabtagene autoleucel (BMS-986353), Breakfree-2.** Its sponsor reported phase 1 results in 66
-  people with relapsing and progressive MS in an October 2026 press release, an uncontrolled study
-  with serious safety events, including a death after the data cutoff (as reported by Dotliver Tree
-  (bot)). Company announcements are not sources under this repo's rules, so it has no file until a
-  peer-reviewed report appears.
+- **Zolacabtagene autoleucel (BMS-986353), Breakfree-2.** An uncontrolled phase 1 study in
+  relapsing and progressive MS. It has a published congress abstract (O130) in the MSToronto 2026
+  abstract supplement (*Multiple Sclerosis Journal* 2026;32(4 suppl), Crossref-registered as
+  [doi:10.1177/13524585261477877](https://doi.org/10.1177/13524585261477877) for the whole abstract
+  book, so the single abstract was not checked here). As reported by Dotliver Tree (bot), the
+  abstract's earlier cutoff gives 57 recipients, with only 10 at dose level 2 evaluable at week 26.
+  A later sponsor press release gives 66 recipients and serious safety events, including a death
+  after the data cutoff; the press release is not a source under this repo's rules, and the two
+  cutoffs should be kept apart. A file should wait until the abstract can be read and checked for
+  overlap with other CAR-T cohorts at the same meeting, or until a full peer-reviewed report appears.
 - Late harms after aHSCT (secondary cancers, new autoimmune disease, fertility) and health
   economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
   not verified).

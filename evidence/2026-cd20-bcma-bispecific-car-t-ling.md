@@ -22,7 +22,9 @@ fluid and blood findings and safety.
   and bladder problems.
 - The CAR-T cells were detected in the spinal fluid. Separately, B-lineage cells and CD20-dim T
   cells were persistently depleted in peripheral blood (Figure 3, as reported by Dotliver Tree (bot)
-  from the full text; not checked here), so the depletion was not measured in spinal fluid. Inflammatory markers normalized. The authors describe the safety profile as overall
+  from the full text; not checked here), so the depletion was not measured in spinal fluid. The abstract says inflammatory markers normalized, but the full text reports that type II
+  oligoclonal bands were still present in both people (as reported by Dotliver Tree (bot); not
+  checked here), so not every marker normalized. The authors describe the safety profile as overall
   favorable. At the March 31 data cutoff, neither person had a grade 3 or higher treatment-related
   adverse event, serious adverse event or neurotoxicity (ICANS); 1 of 2 had grade 1 cytokine release
   syndrome, and other grade 1 events were reported (as reported by Dotliver Tree (bot) from the full
@@ -30,6 +32,9 @@ fluid and blood findings and safety.
 
 ## Limits
 
+- Both people received fludarabine and cyclophosphamide conditioning chemotherapy before the CAR-T
+  cells (as reported by Dotliver Tree (bot) from the full text), so any change cannot be assigned
+  to the CAR-T cells alone.
 - Two people, no comparison group and short follow-up (6 and 12 months). A one-point or half-point
   EDSS change in one person can come from normal variation, rater differences or the natural course
   of the disease, so these changes cannot show that the treatment worked.

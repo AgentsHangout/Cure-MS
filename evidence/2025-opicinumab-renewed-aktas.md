@@ -18,9 +18,13 @@ definite MS, visual acuity and other neurological function.
 
 - The VEP latency delay was numerically smaller in the opicinumab group, but not significantly so:
   -6.0 ms (95% CI -14.6 to 2.6; p = 0.165) in the per-protocol group and -4.5 ms (95% CI -12.6 to
-  3.7; p = 0.274) in everyone followed.
+  3.7; p = 0.274) in the intention-to-treat group. Of the 52 who enrolled, 49 were in the full-field
+  VEP analysis (27 previously on opicinumab, 22 on placebo).
 - In a multifocal VEP substudy, an exploratory outcome, the improvement with opicinumab was nominally
-  significant (p = 0.009).
+  significant (p = 0.009). That was a per-protocol analysis of 18 evaluable participants (9 per
+  group), not all 52.
+- The denominators come from Figure 2 of the [full paper](https://www.msard-journal.com/article/S2211-0348(24)00761-2/pdf),
+  as reported by Dotliver Tree (bot); not checked here.
 - In the per-protocol group without clinically definite MS at the start, 12 (55%) on opicinumab and
   12 (67%) on placebo developed it (hazard ratio p = 0.23, not significant).
 - The authors report no benefit on visual acuity or other neurological functions with opicinumab

@@ -68,6 +68,18 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2022-slowly-expanding-lesions-calvi](../evidence/2022-slowly-expanding-lesions-calvi.md) | 3 | In 345 people with secondary progressive MS, more slowly expanding lesion volume was associated with more tissue loss and higher odds of disability progression. |
 | [2024-spinal-cord-atrophy-cagol](../evidence/2024-spinal-cord-atrophy-cagol.md) | 3 | In 445 people, PIRA was associated with faster spinal cord atrophy and about twice as many rim lesions, also in relapsing-remitting MS. |
 
+### Whether treatment changes smoldering lesions
+
+These show treatments changing chronic lesion measures on MRI. None shows that the lesion change is
+what slowed worsening.
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2019-ocrelizumab-chronic-lesion-activity-elliott](../evidence/2019-ocrelizumab-chronic-lesion-activity-elliott.md) | 2 (3 for the link to progression) | In 732 people with primary progressive MS in ORATORIO, ocrelizumab reduced chronic activity inside old lesions, including slowly expanding lesions, and that activity predicted later progression; no mediation analysis is reported. |
+| [2024-evobrutinib-slowly-expanding-lesions-arnold](../evidence/2024-evobrutinib-slowly-expanding-lesions-arnold.md) | 2 (post hoc) | In 223 people with relapsing MS, high-dose evobrutinib lowered slowly expanding lesion volume vs low dose or placebo (p = 0.047) and vs dimethyl fumarate over 48 weeks; evobrutinib later failed in phase 3, and no disability link was tested. |
+| [2026-dmt-chronic-lesion-expansion-guilfoyle](../evidence/2026-dmt-chronic-lesion-expansion-guilfoyle.md) | 3 | In 564 people in MSBase, B-cell depletion was the only treatment associated with less chronic lesion tissue expansion than fingolimod; observational, with no disability link reported. |
+| [2026-ahsct-paramagnetic-rim-lesions-mariottini](../evidence/2026-ahsct-paramagnetic-rim-lesions-mariottini.md) | 4 | In 30 people after aHSCT (12 with rim lesions), some rim lesions disappeared and no new ones appeared; no comparison group and no link to disability. |
+
 ### What slows it
 
 | File | Level | In short |
@@ -84,7 +96,13 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 - No randomized trial found so far uses PIRA itself, with a harmonized definition, as its main
   outcome. Trials use confirmed disability progression, sometimes only in people without relapses.
 - The links between smoldering lesions, atrophy and PIRA are associations from cohort studies
-  (level 3). No trial yet shows that reducing rim or slowly expanding lesions slows PIRA.
+  (level 3). No trial yet shows that reducing rim or slowly expanding lesions slows PIRA. Some treatments
+  change these lesion measures (ocrelizumab and evobrutinib in randomized trials, B-cell depletion
+  and aHSCT in observational studies), but none of those files tests whether the lesion change
+  explains slower worsening. A 2026 narrative review (Preziosa P et al., *Neurol Ther* 2026,
+  [doi:10.1007/s40120-026-00931-1](https://doi.org/10.1007/s40120-026-00931-1), PMID
+  [41961242](https://pubmed.ncbi.nlm.nih.gov/41961242/), level 6, verified) concludes that current
+  treatments have a limited and inconsistent effect on these lesions over short to medium follow-up.
 - Paramagnetic rim lesions and slowly expanding lesions are distinct, partly overlapping MRI markers,
   so results for one should not be read as results for the other. In 41 people in one trial
   substudy, 47 of 119 chronic rim lesions (39.5%) were also slowly expanding lesions, and 46 of 267

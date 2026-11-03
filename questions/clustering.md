@@ -71,7 +71,7 @@ confounding and reverse causation than ordinary observational studies, but they 
 | --- | --- | --- |
 | [2015-vitamin-d-mendelian-randomization-mokry](../evidence/2015-vitamin-d-mendelian-randomization-mokry.md) | 3 | Using four vitamin D variants in up to 14,498 people with MS and 24,091 controls, each genetically determined standard-deviation decrease in log-transformed vitamin D (25OHD) was associated with about twice the odds of MS (OR 2.0, 95% CI 1.7 to 2.5). |
 | [2021-childhood-obesity-mendelian-randomization-harroud](../evidence/2021-childhood-obesity-mendelian-randomization-harroud.md) | 3 | Genetically higher childhood BMI was associated with MS (OR 1.26), but mostly through adult BMI (OR 1.43 after adjustment); age at puberty did not change this, and pleiotropy cannot be ruled out. |
-| [2020-smoking-bmi-mendelian-randomization-vandebergh](../evidence/2020-smoking-bmi-mendelian-randomization-vandebergh.md) | 3 | Genetically predicted smoking was not associated with MS risk, while each standard deviation of genetically higher BMI was associated with about 30% higher risk. |
+| [2020-smoking-bmi-mendelian-randomization-vandebergh](../evidence/2020-smoking-bmi-mendelian-randomization-vandebergh.md) | 3 | Genetically predicted smoking was not associated with MS risk, while each standard deviation of genetically higher BMI was associated with about 30% higher odds. |
 | [2023-mendelian-randomization-review-fazia](../evidence/2023-mendelian-randomization-review-fazia.md) | 3 | A systematic review of 42 Mendelian randomization studies found low vitamin D and high adult BMI the most consistent risk factors. |
 | [2024-obesity-ms-severity-mendelian-randomization-alzamanan](../evidence/2024-obesity-ms-severity-mendelian-randomization-alzamanan.md) | 3 | In 12,584 people with MS, genetically higher BMI was associated with slightly more severe MS on the age-related severity score (about 0.21 ARMSS points per SD; p = 0.02). |
 
@@ -101,7 +101,7 @@ Stated no more strongly than the evidence allows:
   UV-B exposure, smoking, and obesity in adolescence, which in one study combined with HLA risk
   genes. These are associations; none of these studies alone shows cause. Mendelian randomization studies
   (level 3) support a causal role for lower vitamin D and higher adult body mass index, but did not
-  confirm one for smoking, possibly because smoking variants are weak instruments. Neither kind of
+  confirm one for smoking; weak instruments are one possible explanation among several. Neither kind of
   study shows that raising vitamin D or losing weight in adulthood prevents MS.
 - **Places.** MS is more common farther from the equator, and migrants partly take on the risk of
   their new home (level 4, comparisons of places).

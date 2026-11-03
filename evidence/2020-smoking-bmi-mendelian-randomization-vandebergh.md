@@ -18,14 +18,13 @@ smoking and BMI.
 - Genetically predicted smoking was not associated with MS risk, and it did not explain the link
   between BMI and MS.
 - Each standard-deviation increase in genetically predicted BMI (roughly 5 kg/m²) was associated with
-  about a 30% higher MS risk.
+  about 30% higher odds of MS.
 
 ## Limits
 
-- Genetic variants for smoking explain only a small part of smoking behavior, so a null result may
-  mean the test was not sensitive enough, not that smoking has no effect. The authors say the gap
-  between observational studies and this result needs more work.
-- Smoking could also act through mechanisms (for example lung irritation) that these variants do not
-  capture well.
+- One possible explanation for the null smoking result is weak-instrument bias: the variants
+  explain only a small part of smoking behavior. The full paper also discusses other explanations,
+  and the authors say the gap between observational studies and this result needs more work. The
+  null result does not show that smoking has no effect.
 - The abstract gives the numbers of variants used but not confidence intervals.
 - Numbers come from the abstract.

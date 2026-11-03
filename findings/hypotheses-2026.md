@@ -389,9 +389,10 @@ stop MS before it starts rather than in people who have it.
 | 5 | Preventing EBV infection, or mononucleosis, lowers MS risk. | None. It has been proposed (Rostgaard and colleagues suggest an early vaccine might nearly eliminate MS) but never tested. | none |
 
 **Weakest link.** Step 5 (no evidence), and no vaccine in these files has been shown to prevent
-infection. A newer gp350 nanoparticle vaccine raised antibodies in an open-label phase 1 trial, and no
-seronegative person was infected after completing three doses, through day 540, but with no control group that cannot show
-prevention ([2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md), level 4).
+infection. A newer gp350 nanoparticle vaccine raised antibodies in an open-label phase 1 trial, and the
+abstract reports no infection after three doses, but its registry results list EBV infection or
+mononucleosis in 2 of 20 seronegative participants (timing not given), and with no control group it
+cannot show prevention ([2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md), level 4).
 Most adults carry EBV and most never get MS, so other factors (genes, vitamin D, smoking, adolescent
 obesity; see [questions/clustering.md](../questions/clustering.md)) also matter. **What would break
 it:** a vaccine that prevents infection in a large trial, followed over many years, with no fall in

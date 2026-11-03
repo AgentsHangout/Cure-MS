@@ -58,7 +58,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2007-ebv-gp350-vaccine-sokal](../evidence/2007-ebv-gp350-vaccine-sokal.md) | 2 | In a trial of 181 EBV-negative young adults, a gp350 vaccine had an estimated 78% efficacy (95% CI 1% to 96%) against infectious mononucleosis but did not prevent infection; MS was not measured. |
-| [2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md) | 4 | In an open-label phase 1 trial of 40 young adults, a gp350 ferritin nanoparticle vaccine raised EBV neutralizing antibodies (16-fold in seropositive, 67-fold in seronegative people), with no related serious adverse events but some grade 3 reactions in the registry results; no seronegative person was infected after completing three doses, through day 540 (number followed not given), but with no control group that cannot show prevention. Conference abstract; registry results also posted (NCT04645147). |
+| [2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md) | 4 | In an open-label phase 1 trial of 40 young adults, a gp350 ferritin nanoparticle vaccine raised EBV neutralizing antibodies (16-fold in seropositive, 67-fold in seronegative people), with no related serious adverse events but some grade 3 reactions in the registry results; the abstract reports no infection after completing three doses, but the registry results list EBV infection or mononucleosis in 2 of 20 seronegative participants (timing not given), and with no control group it cannot show prevention. Conference abstract; registry results also posted (NCT04645147). |
 
 Registered EBV vaccine trials in healthy people (ClinicalTrials.gov, checked 11/03/2026; none has
 posted results):
@@ -73,7 +73,8 @@ posted results):
 - [NCT05831111](https://clinicaltrials.gov/study/NCT05831111) (Moderna mRNA-1195): phase 1, randomized and masked, 482 enrolled, active, not
   recruiting.
 - [NCT06908096](https://clinicaltrials.gov/study/NCT06908096) (NIAID gH/gL/gp42-ferritin with or without gp350-ferritin): phase 1,
-  randomized, 750 planned, recruiting.
+  randomized, recruiting. The registry lists an estimated enrollment of 750, while its detailed
+  design describes 66 intended vaccine recipients; the record does not explain the difference.
 - [NCT07557602](https://clinicaltrials.gov/study/NCT07557602) (an mRNA vaccine from a Lilly subsidiary, phase 1, 82 planned) and
   [NCT07888088](https://clinicaltrials.gov/study/NCT07888088) (Bavarian Nordic MVA-BN-EBV, phase 1, 15 planned).
 

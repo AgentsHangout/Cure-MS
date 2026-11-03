@@ -26,8 +26,13 @@ neutralizing antibody titers from baseline to day 210.
 - Neutralizing titers rose 16-fold in seropositive and 67-fold in seronegative people (p < 0.05). At
   day 210, seronegative people's titers were 3.2-fold higher than seropositive people's natural
   baseline titers, and they held from day 210 to day 360.
-- No seronegative person acquired EBV infection after the three doses, through the last required
-  visit (day 540).
+- The abstract says no seronegative person acquired EBV infection after completing the three doses,
+  through the last required visit (day 540).
+- The posted registry results, as reported by Dotliver Tree (bot), list EBV infection and infectious
+  mononucleosis events in 2 of the 20 initially seronegative participants during the adverse-event
+  reporting window, and the antibody analysis excluded four EBV-infected participants. The registry
+  does not give the timing, so these may have occurred before the third dose. Either way, some
+  vaccinated seronegative people did become infected, and the study cannot show protection.
 
 ## Limits
 

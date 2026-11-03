@@ -10,12 +10,13 @@
 
 A systematic review and meta-analysis of studies on age at first period (menarche) and MS risk, with
 searches up to April 2019. Of 312 articles found, 18 remained after screening, and 3 were included in
-the final analysis: two from Iran and one from Canada.
+the final analysis: two from Iran and one from Canada. The methods included case-control studies
+reporting crude odds ratios (as reported by Dotliver Tree (bot) from the full text; not checked here).
 
 ## What it found
 
-- Each year later at first period was associated with lower odds of MS (pooled OR 0.88, 95% CI 0.82
-  to 0.94), with moderate heterogeneity (I² = 49%, p = 0.1).
+- Each year later at first period was associated with lower odds of MS (pooled crude, unadjusted OR
+  0.88, 95% CI 0.82 to 0.94), with moderate heterogeneity (I² = 49%, p = 0.1).
 - Women with MS had their first period slightly earlier on average (mean difference -0.22 years, 95%
   CI -0.42 to -0.02).
 
@@ -24,6 +25,8 @@ the final analysis: two from Iran and one from Canada.
 - Only three studies, from two countries, so the pooled estimate rests on little data.
 - The included studies are observational and mostly case-control, where age at first period is
   recalled after diagnosis, which can bias the result.
+- The pooled estimate is crude, so it is not adjusted for body weight or other factors.
 - The [Danish cohort](2017-age-at-menarche-danish-cohort-nielsen.md), which measured age at first
-  period before MS, is not listed among the three, so this review may have missed it or excluded it.
+  period before MS, is not among the three. Because the review took case-control studies with crude
+  odds ratios, the cohort likely fell outside its eligibility rather than being missed.
 - Numbers come from the abstract.

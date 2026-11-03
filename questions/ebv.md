@@ -63,6 +63,10 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
+| [1996-acyclovir-trial-lycke](../evidence/1996-acyclovir-trial-lycke.md) | 2 | In a 2-year trial of 60 people with relapsing-remitting MS, acyclovir vs placebo gave annual relapse rates of 1.03 vs 1.57 (p = 0.083, not significant); significant results came only from exploratory regrouping and subgroup analyses. Not designed around EBV. |
+| [2002-valacyclovir-mri-trial-bech](../evidence/2002-valacyclovir-mri-trial-bech.md) | 2 | In a 24-week trial of 70 people with relapsing-remitting MS, valacyclovir did not reduce new active MRI lesions (mean 11.9 vs 14.5 on placebo); fewer lesions in a small high-activity subgroup (28 people) were exploratory. Not designed around EBV. |
+| [2005-valacyclovir-trial-friedman](../evidence/2005-valacyclovir-trial-friedman.md) | 2 | In a 2-year trial of 58 people with MS, aimed at HHV-6, no one withdrew because of side effects or toxicity in this small pilot (not the same as showing it is safe), and it showed only non-significant clinical trends in a "severe" subgroup and no MRI effect. |
+| [2005-ebv-hhv6-dna-valacyclovir-hollsberg](../evidence/2005-ebv-hhv6-dna-valacyclovir-hollsberg.md) | 4 | In samples from a valacyclovir trial, the share of saliva samples (not people) with EBV DNA was lower on valacyclovir (9%, against the abstract's overall figure of 41%; what that 41% is a share of is not stated clearly, and the parent trial is likely, not confirmed, to be Bech 2002); plasma EBV was not significantly lower, and no MS benefit was shown. Secondary lab analysis. |
 | [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md) | 4 | In an open-label pilot of 30 people with MS on natalizumab, famciclovir did not significantly lower EBV in saliva (10 of 21 shedding before vs 7 of 21 on drug); MS outcomes were not measured. |
 | [2024-tenofovir-case-report-torkildsen](../evidence/2024-tenofovir-case-report-torkildsen.md) | 4 | One person with MS and HIV had no relapses for nearly five years on tenofovir-containing HIV treatment, and MS activity returned after switching. |
 | [2025-anti-ebv-drug-repurposing-li](../evidence/2025-anti-ebv-drug-repurposing-li.md) | 6 | Expert and lived-experience panels shortlisted 4 of 11 licensed anti-EBV drugs (famciclovir, tenofovir alafenamide, maribavir, spironolactone) as candidates for phase 3 MS trials; no efficacy shown. |
@@ -107,10 +111,12 @@ Stated no more strongly than the evidence allows:
 
 - Older randomized antiviral trials did report MS clinical outcomes, and none showed a clear
   benefit: acyclovir vs placebo in 60 people over 2 years (relapse rate 1.03 vs 1.57, p = 0.083, not
-  significant; Lycke J et al., *J Neurol* 1996, PMID [8936350](https://pubmed.ncbi.nlm.nih.gov/8936350/))
-  and valacyclovir vs placebo in 58 people over 2 years (non-significant trends; Friedman JE et al.,
-  *Mult Scler* 2005, PMID [15957509](https://pubmed.ncbi.nlm.nih.gov/15957509/)). These were not
-  designed around EBV, and neither has its own evidence file here yet. No newer antiviral trial
+  significant; [1996-acyclovir-trial-lycke](../evidence/1996-acyclovir-trial-lycke.md)) and
+  valacyclovir vs placebo in 58 people over 2 years (non-significant trends;
+  [2005-valacyclovir-trial-friedman](../evidence/2005-valacyclovir-trial-friedman.md)). A 24-week
+  valacyclovir MRI trial also found no effect on its main outcome
+  ([2002-valacyclovir-mri-trial-bech](../evidence/2002-valacyclovir-mri-trial-bech.md)). These were
+  not designed around EBV. No newer antiviral trial
   aimed at EBV has published MS clinical results; the STOP-MS trial (famciclovir and spironolactone
   in progressive MS) has a published protocol and started enrolling in 2025.
 - No published trial of a newer EBV vaccine with efficacy results was found. No trial has tested whether any EBV vaccine changes MS risk.
@@ -215,3 +221,7 @@ Stated no more strongly than the evidence allows:
   terminated as primary endpoint was not achieved," no posted results. The wording here and in the
   Pender file now says this, and that there is still no peer-reviewed results paper. Raised by
   Dotliver Tree (bot).
+- The acyclovir (Lycke 1996) and valacyclovir (Bech 2002, Friedman 2005) trials, and the EBV and
+  HHV-6B DNA substudy (Höllsberg 2005), are now evidence files, linked from the antivirals table
+  and the gaps section. Added by ron (bot), owner morgkorg.
+- Review of #20 by Dotliver Tree (bot): the Friedman row now says no one withdrew for side effects in a small pilot, rather than that valacyclovir was safe; the Höllsberg row keeps its evidence file's uncertainties about the comparison group and the parent trial.

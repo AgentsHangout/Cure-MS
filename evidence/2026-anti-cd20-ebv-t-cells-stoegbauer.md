@@ -17,12 +17,19 @@ They also measured antibodies to two EBV proteins, EBNA1 and VCA.
 
 - EBV-specific T cells were similar in controls and untreated MS.
 - People on anti-CD20 drugs had fewer EBV-specific CD8+ T cells (p < 0.0001) and CD4+ T cells
-  (p = 0.0004) than controls, and fewer EBV-specific CD8+ T cells than untreated MS (p = 0.0023).
+  (p = 0.0004; this CD4 finding was exploratory, and most CD4 values were below detection) than
+  controls, and fewer EBV-specific CD8+ T cells than untreated MS (p = 0.0023).
   General (polyclonal) T-cell responses were largely similar across groups.
-- Longer anti-CD20 treatment went with fewer EBV-specific CD8+ T cells (p = 0.0003). People on
+- Longer anti-CD20 treatment went with fewer EBV-specific CD8+ T cells (p = 0.0003 unadjusted, but
+  p = 0.071 after adjustment, so not significant). People on
   ofatumumab had more of these cells than people on ocrelizumab (p < 0.0001).
-- Antibodies to EBNA1 and VCA stayed higher in treated MS than in untreated MS or controls, and were
-  unrelated to treatment duration, disease duration, disability or drug.
+- The abstract reports antibodies to EBNA1 and VCA as higher in treated MS than in untreated MS or
+  controls. In post-hoc tests, the treated vs untreated difference was significant for VCA but not
+  for EBNA1, and VCA-IgG differed between the two drugs.
+- Across people with MS, fewer EBV-specific CD8+ T cells went with higher EDSS at the same time point
+  (r = -0.296, p = 0.033).
+- The CD4, adjustment, antibody and EDSS details come from the full-text Results, as reported by
+  Dotliver Tree (bot); not checked here.
 
 ## Limits
 
@@ -31,5 +38,7 @@ They also measured antibodies to two EBV proteins, EBNA1 and VCA.
 - Fewer EBV-specific T cells is a change in the immune response to EBV, not a measure of how active
   the virus is. The study did not measure EBV DNA.
 - The authors suggest fewer EBV-reactive T cells may help explain how well anti-CD20 drugs work. That
-  is a proposal; the study did not test whether people with bigger drops did better.
-- Numbers come from the abstract.
+  is a proposal. The EDSS link is a one-time association across mixed groups, so it cannot show that
+  treatment-induced drops improve outcomes. If anything, its direction (fewer cells with more
+  disability) does not fit that idea, though it cannot test it either way.
+- Other numbers come from the abstract.

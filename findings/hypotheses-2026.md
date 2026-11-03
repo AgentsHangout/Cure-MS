@@ -349,8 +349,8 @@ points against it, and a valacyclovir substudy in the literature found less EBV 
 MS, not about what keeps it going. No file covers whether B-cell
 depletion already changes EBV activity itself, which matters for any "on top of anti-CD20" version.
 Five files show that anti-CD20 drugs go with lower EBV-specific T-cell responses and a general fall
-in antibodies; one found no EBV DNA in saliva in five treated people. None links these changes to MS
-outcomes (see [questions/ebv.md](../questions/ebv.md)).
+in antibodies; one found no EBV DNA in saliva in five treated people. None shows that treatment-induced
+changes improve MS outcomes (see [questions/ebv.md](../questions/ebv.md)).
 **What would break it:** a placebo-controlled trial in which an antiviral clearly lowers EBV activity
 but MS outcomes do not change.
 
@@ -431,7 +431,7 @@ large potential reach.
 - **Thin spots in the evidence files:**
   - No file on whether B-cell depletion changes EBV activity itself, or whether that relates to its
     effect on MS (hypotheses 5 and 6). Five files now cover this on anti-CD20 drugs; only one measured
-    EBV DNA (no salivary shedding in five treated people), and none showed a link to outcomes.
+    EBV DNA (no salivary shedding in five treated people), and none showed that treatment-induced changes improve outcomes.
   - No file showing that treating rim or slowly expanding lesions slows PIRA (hypothesis 2).
   - No file with BTK inhibitor and anti-CD20 combination data, or a full peer-reviewed fenebrutinib
     phase 3 trial report (hypothesis 2). A PubMed search on 11/03/2026 found neither (FENtrepid has

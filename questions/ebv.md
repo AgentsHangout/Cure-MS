@@ -85,8 +85,8 @@ measured EBV DNA, in saliva and B cells, and its saliva result rests on five tre
 | File | Level | In short |
 | --- | --- | --- |
 | [2025-ocrelizumab-anti-ebv-igg-esposito](../evidence/2025-ocrelizumab-anti-ebv-igg-esposito.md) | 3 | In 58 people followed for about 4.8 years on ocrelizumab, anti-EBV IgG fell 8.2%, about as much as total IgG and anti-CMV IgG; the change was not associated with relapses, MRI activity or EDSS worsening. |
-| [2026-anti-cd20-ebv-t-cells-stoegbauer](../evidence/2026-anti-cd20-ebv-t-cells-stoegbauer.md) | 4 | In a cross-sectional study of 183 people, those on anti-CD20 drugs had fewer EBV-specific CD8+ and CD4+ T cells than controls and untreated MS, while general T-cell responses were preserved; EBV antibodies stayed higher. |
-| [2024-ocrelizumab-ebv-cd8-abbadessa](../evidence/2024-ocrelizumab-ebv-cd8-abbadessa.md) | 4 | In 41 people measured before and 6 and 12 months after starting ocrelizumab, CD8+ T cells multiplied less in response to EBV peptides; no comparison group. |
+| [2026-anti-cd20-ebv-t-cells-stoegbauer](../evidence/2026-anti-cd20-ebv-t-cells-stoegbauer.md) | 4 | In a cross-sectional study of 183 people, those on anti-CD20 drugs had fewer EBV-specific CD8+ and CD4+ T cells than controls and untreated MS, while general T-cell responses were preserved (the CD4 finding was exploratory); fewer EBV-specific CD8+ T cells went with higher EDSS at one time point. |
+| [2024-ocrelizumab-ebv-cd8-abbadessa](../evidence/2024-ocrelizumab-ebv-cd8-abbadessa.md) | 4 | In 10 treatment-naive people tested before and 6 months after starting ocrelizumab, CD8+ T cells multiplied less in response to EBV peptides; only 4 siponimod patients as a comparison. |
 | [2026-ebv-lytic-cd4-anti-cd20-bjornevik](../evidence/2026-ebv-lytic-cd4-anti-cd20-bjornevik.md) | 4 (3 for MS vs controls) | EBV-specific CD4+ T cells, mostly against late lytic antigens, were about twice as high in untreated MS as in controls; starting anti-CD20 therapy lowered them, and no EBV DNA was detected in saliva in five treated people. |
 | [2026-anti-cd20-antiviral-signatures-dorso](../evidence/2026-anti-cd20-antiviral-signatures-dorso.md) | 4 | In a small cross-sectional study, people on ocrelizumab had lower EBV-specific CD4+ T-cell responses, while CMV and SARS-CoV-2 responses were similar. |
 
@@ -142,8 +142,9 @@ Stated no more strongly than the evidence allows:
   no salivary shedding was detected in five treated people (Bjornevik 2026, level 4), which is not
   proof the virus was cleared. The other anti-CD20 files show lower EBV-specific T-cell responses
   (level 4) and an antibody fall that matched the fall in all antibodies (level 3). None shows that
-  these changes predict or explain MS outcomes; in the one file that tested a link, the antibody
-  change was not associated with outcomes in 58 people.
+  treatment-induced changes predict or explain MS outcomes. The antibody change was not associated
+  with outcomes in 58 people (Esposito 2025), and the one link found is a one-time association between
+  fewer EBV-specific CD8+ T cells and higher EDSS (Stögbauer 2026).
 - Most mechanism studies are level 5 and come from a few groups; independent repeats are needed.
 - Infectious mononucleosis studies use hospital or clinic diagnoses. Age at first infection without
   symptoms is almost never measured.

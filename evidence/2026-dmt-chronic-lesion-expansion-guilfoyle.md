@@ -12,14 +12,16 @@ A retrospective, observational study using linked clinical data from MSBase and 
 Repository. 564 adults with at least three MRI scans contributed 1,648 stable treatment periods across
 7 therapies. The authors compared chronic lesion tissue expansion (CLTE), the slow outward growth of
 established lesions, as well as new T2 lesions and brain atrophy, between treatments, with fingolimod
-as the comparator, adjusting for demographic, clinical and imaging factors.
+as the comparator, adjusting for demographic, clinical and imaging factors. The CLTE analysis itself
+used 517 people and 1,464 treatment periods (as reported by Dotliver Tree (bot) from the full text; not checked here).
 
 ## What it found
 
 - B-cell depleting therapy was the only treatment associated with significantly lower CLTE than
   fingolimod (beta = -4.03, p = 0.017).
-- But the overall test for any difference between treatments was not significant (p = 0.44). The
-  authors did not detect a change in a person's CLTE slope after switching to B-cell therapy, and
+- But the overall test for any difference between treatments was not significant (p = 0.44). A small
+  analysis did not detect a change in a person's CLTE slope after switching to B-cell therapy, which
+  does not prove there was none, and
   found no association between CLTE and EDSS in this cohort. These details come from the full text,
   as reported by Dotliver Tree (bot); not checked here.
 - CLTE was also independently associated with age, baseline lesion volume and imaging center.

@@ -20,15 +20,20 @@ rim lesions (PRLs) over time.
 - In the after-only group, the count fell in 4 of 7 people with PRLs (57%), over a median of 51
   months, and 10 of 20 PRLs (50%) resolved.
 - Yearly PRL disappearance rates were -0.36 and -0.43 in the two groups. No new PRLs appeared.
-- In the before-and-after group only, the number of PRLs at baseline correlated with disability
-  (r = 0.741, p = 0.006).
+- In the before-and-after group only, the number of PRLs at baseline correlated with disability at
+  the same time (r = 0.741, p = 0.006).
 
 ## Limits
 
 - Very small: only 12 people with PRLs across both groups, and 46 PRLs in total, with no comparison
   group. PRLs are thought to last for years, but without a control group the study cannot show how
   much faster they disappeared than they would have anyway.
-- It does not show that losing PRLs slowed disability or PIRA. The authors' suggestion that aHSCT
-  acts on microglia and macrophages inside the brain is a hypothesis.
+- The changes after aHSCT are uncontrolled, so they cannot show that aHSCT caused them. It also does
+  not show that losing PRLs leads to later disability benefit; the only disability link is a
+  same-time correlation with baseline PRL count.
+- [Amin 2026](2026-ahsct-rim-lesions-7t-amin.md) found no rims resolving in 5 people followed up after
+  aHSCT on 7T MRI, so the two small studies disagree.
+- The authors' suggestion that aHSCT acts on microglia and macrophages inside the brain is a
+  hypothesis.
 - Rims can fade as lesions age or burn out, not only when inflammation is treated, so a rim that
   disappears is not necessarily a lesion that healed.

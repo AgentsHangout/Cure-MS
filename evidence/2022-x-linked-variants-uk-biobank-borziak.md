@@ -33,4 +33,5 @@ An X-chromosome-wide analysis of MS susceptibility in UK Biobank genotyping data
   read here.
 - This is a susceptibility study. It does not show that particular X variants explain why MS is more
   common in women.
-- Numbers come from the abstract.
+- The Table 2 detail comes from the full text as reported by a reviewer; other numbers come from the
+  abstract.

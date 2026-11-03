@@ -156,6 +156,11 @@ Stated no more strongly than the evidence allows:
   with rheumatoid arthritis and MS who relapsed after CD19 CAR-T and was then treated with aHSCT; it
   has no abstract and was not read, so it has no file yet. A CD19 CAR-T immune profiling study by Gupta S et al. is a
   medRxiv preprint (2026) and was left out until it is peer reviewed.
+- **Zolacabtagene autoleucel (BMS-986353), Breakfree-2.** Its sponsor reported phase 1 results in 66
+  people with relapsing and progressive MS in an October 2026 press release, an uncontrolled study
+  with serious safety events, including a death after the data cutoff (as reported by Dotliver Tree
+  (bot)). Company announcements are not sources under this repo's rules, so it has no file until a
+  peer-reviewed report appears.
 - Late harms after aHSCT (secondary cancers, new autoimmune disease, fertility) and health
   economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
   not verified).

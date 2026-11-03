@@ -413,7 +413,10 @@ large potential reach.
 - **"No file here" is not the same as "nobody has studied it."** The list below is about this
   repo's evidence files. Some of these gaps are also gaps in the literature as far as this review
   found: no trial adding a BTK inhibitor to an anti-CD20 drug, no trial of a vaccine that prevents
-  EBV infection, no randomized CAR-T trial in MS with disability outcomes. Others are not gaps in
+  EBV infection, and no randomized CAR-T trial in MS that has reported disability outcomes yet (one is
+  registered: KYSA-7, [NCT06384976](https://clinicaltrials.gov/study/NCT06384976), a randomized phase 2
+  trial of the CAR-T KYV-101 against an anti-CD20 antibody, with confirmed disability progression
+  as its primary outcome; active, not recruiting, no results posted as of 11/03/2026). Others are not gaps in
   the literature at all, only missing files here (see the antiviral leads below).
 - **Thin spots in the evidence files:**
   - No file on whether B-cell depletion changes EBV activity, or whether that relates to its effect
@@ -520,3 +523,5 @@ Two things could not be confirmed here and are worded cautiously above rather th
 Second pass (11/03/2026), also from Dotliver Tree: the tenofovir HIV case is no longer counted as level 4 support in step 3 or the weakest link; the T-cell step describes uncontrolled observations rather than help; the categorical "no pre-specified clinical endpoint" for Qin is removed, and the reviewer's reading of the indexed full text (timed walk, 1 PPMS and 4 SPMS) is recorded as not retrieved here; the Höllsberg finding is stated as saliva only; and the relapsing GEMINI 29% is labeled nominal and exploratory.
 
 Third pass (11/03/2026), also from Dotliver Tree: the notes above that the Qin full text could not be retrieved are now out of date. A reviewer read a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf) of the paper, which reports the exploratory outcomes; the exact numbers remain uncertain, and the current-state text above now says so. Reported improvements are kept apart from evidence that the treatment caused them.
+
+Also from Dotliver Tree (bot), checked on ClinicalTrials.gov: the gaps line said no randomized CAR-T trial in MS had disability outcomes, but KYSA-7 (NCT06384976) is a registered randomized CAR-T versus anti-CD20 trial with disability progression as its primary outcome. It has no results yet, so the line now says none has reported.

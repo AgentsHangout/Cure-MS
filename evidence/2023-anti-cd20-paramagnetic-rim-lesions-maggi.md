@@ -21,7 +21,9 @@ without rims (124 in treated people).
   presentation.
 - On MRI, none of the rims in treated people disappeared at follow-up. There was no treatment effect
   on PRL volume, magnetic susceptibility or T1 time.
-- PIRA occurred in 20% of treated people, more often in those with 4 or more PRLs (p = 0.027).
+- PIRA occurred in 20% of treated people (9 of 46). Across all 72 participants, treated and
+  untreated pooled (11 PIRA events), PIRA was more common in those with 4 or more PRLs (p = 0.027).
+  The counts come from the full-text Results, as reported by Dotliver Tree (bot); not checked here.
 
 ## Limits
 
@@ -29,7 +31,7 @@ without rims (124 in treated people).
   follow-up could show changes this one missed.
 - It shows that anti-CD20 drugs did not make rims disappear over 2 years. It does not show that they
   have no benefit for these lesions or for PIRA.
-- The link between more PRLs and PIRA is an association in treated people, not a test of whether
-  reducing PRLs would lower PIRA.
+- The link between more PRLs and PIRA is an association across treated and untreated people, based
+  on 11 events, not a test of whether reducing PRLs would lower PIRA.
 - The gene-network predictions are computational (level 5).
-- Numbers come from the abstract.
+- Other numbers come from the abstract.

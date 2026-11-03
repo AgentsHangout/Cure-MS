@@ -160,7 +160,8 @@ used to guide care.
   small, short or negative (level 2), and clemastine raised a safety signal in progressive MS
   (level 4).
 - **Where cell therapies fit.** aHSCT has two small randomized trials (MIST and ASTIMS, level 2),
-  neither against current high-efficacy drugs, and mostly observational support (level 3); CAR-T
+  neither a dedicated comparison with today's most-used high-efficacy drugs (MIST's drug arm included
+  natalizumab but excluded ocrelizumab and alemtuzumab), and mostly observational support (level 3); CAR-T
   has only case reports and tiny early-phase studies (level 4). Larger randomized comparisons with
   the best current drugs are still needed.
 - **Whether biomarkers can guide care.** sNfL and GFAP predict risk in cohorts (level 3), but no

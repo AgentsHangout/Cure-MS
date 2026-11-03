@@ -94,7 +94,8 @@ Stated no more strongly than the evidence allows:
 ## Gaps noticed so far
 
 - Only two small randomized trials of aHSCT have reported (MIST and ASTIMS), and neither compared
-  aHSCT with anti-CD20 antibodies or other current high-efficacy drugs. Randomized trials against current high-efficacy drugs are under way (for example
+  aHSCT with anti-CD20 antibodies; MIST's drug arm included natalizumab (21 people) but excluded
+  ocrelizumab and alemtuzumab, and ASTIMS used mitoxantrone. Randomized trials against current high-efficacy drugs are under way (for example
   StarMS in the UK, protocol PMID [38316583](https://pubmed.ncbi.nlm.nih.gov/38316583/), not yet
   given a file) but have not reported in the sources found.
 - The ocrelizumab comparison is small and short. No comparison with ofatumumab or other anti-CD20

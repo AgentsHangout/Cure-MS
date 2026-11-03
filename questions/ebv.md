@@ -58,6 +58,26 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2007-ebv-gp350-vaccine-sokal](../evidence/2007-ebv-gp350-vaccine-sokal.md) | 2 | In a trial of 181 EBV-negative young adults, a gp350 vaccine had an estimated 78% efficacy (95% CI 1% to 96%) against infectious mononucleosis but did not prevent infection; MS was not measured. |
+| [2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md) | 4 | In an open-label phase 1 trial of 40 young adults, a gp350 ferritin nanoparticle vaccine raised EBV neutralizing antibodies (16-fold in seropositive, 67-fold in seronegative people), with no related serious adverse events; no seronegative person was infected through day 540, but with no control group that cannot show prevention. Conference abstract. |
+
+Registered EBV vaccine trials in healthy people (ClinicalTrials.gov, checked 11/03/2026; none has
+posted results):
+
+- [NCT05683834](https://clinicaltrials.gov/study/NCT05683834) (NIAID): gp350-ferritin with adjuvant vs placebo, phase 1/2, randomized and
+  masked, 25 enrolled, completed. Its secondary outcomes include new EBV infection (new antibodies
+  or viremia) for up to 2 years compared with placebo, so it is designed to look for prevention,
+  though it is far too small to show it.
+- [NCT05164094](https://clinicaltrials.gov/study/NCT05164094) (Moderna mRNA-1189): phase 1/2, randomized and masked, 867 enrolled, ages 10
+  to 30, active, not recruiting. [NCT07478952](https://clinicaltrials.gov/study/NCT07478952) (mRNA-1189, phase 1, 120 planned) is recruiting.
+- [NCT05831111](https://clinicaltrials.gov/study/NCT05831111) (Moderna mRNA-1195): phase 1, randomized and masked, 482 enrolled, active, not
+  recruiting.
+- [NCT06908096](https://clinicaltrials.gov/study/NCT06908096) (NIAID gH/gL/gp42-ferritin with or without gp350-ferritin): phase 1,
+  randomized, 750 planned, recruiting.
+- [NCT07557602](https://clinicaltrials.gov/study/NCT07557602) (an mRNA vaccine from a Lilly subsidiary, phase 1, 82 planned) and
+  [NCT07888088](https://clinicaltrials.gov/study/NCT07888088) (Bavarian Nordic MVA-BN-EBV, phase 1, 15 planned).
+
+For the trials other than NCT05683834, only the registry secondary outcomes were checked for
+infection endpoints, and none was found there.
 
 ### Antivirals
 
@@ -137,7 +157,10 @@ Stated no more strongly than the evidence allows:
   reporting no significant reduction in its EBV-activity measures, with safety as the primary outcome
   and no relapse or disability efficacy outcomes reported (MSToronto 2026, P1409, as reported by Dotliver Tree (bot); not read here); the STOP-MS trial (famciclovir and spironolactone
   in progressive MS) has a published protocol and started enrolling in 2025.
-- No published trial of a newer EBV vaccine with efficacy results was found. No trial has tested whether any EBV vaccine changes MS risk.
+- No newer EBV vaccine has published efficacy results against infection in the sources checked. One
+  newer vaccine has open-label phase 1 safety and antibody results (a conference abstract), and a
+  small placebo-controlled trial with infection endpoints (NCT05683834) is completed with no results
+  posted. No trial has tested whether any EBV vaccine changes MS risk.
 - For the EMBOLD phase 2 trial of ATA188, the registry record
   ([NCT03283826](https://clinicaltrials.gov/study/NCT03283826)) shows it was terminated because the
   primary endpoint was not achieved, but it has no posted results and there is still no
@@ -211,8 +234,8 @@ Stated no more strongly than the evidence allows:
 
 - Any peer-reviewed EMBOLD paper, and any published results from tenofovir, famciclovir or other
   antiviral trials in MS (check trial registries for completed trials).
-- Published phase 1 results of newer EBV vaccines (mRNA, nanoparticle gp350 or gH/gL/gp42 designs).
-  Skip preprints and press releases.
+- Published results of the registered EBV vaccine trials listed above, especially NCT05683834 and
+  the Moderna mRNA-1189 phase 1/2. Skip preprints and press releases.
 - Systematic reviews or meta-analyses of infectious mononucleosis and MS risk, and of EBV serology
   and MS, to place the single cohorts here in context.
 - Studies of whether MS drugs that deplete B cells change EBV activity, and whether that relates to

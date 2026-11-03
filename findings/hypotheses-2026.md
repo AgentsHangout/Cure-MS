@@ -444,7 +444,7 @@ large potential reach.
       [doi:10.1191/1352458505ms1185oa](https://doi.org/10.1191/1352458505ms1185oa), PMID
       [15957509](https://pubmed.ncbi.nlm.nih.gov/15957509/). Level 2.
     - Höllsberg P et al., *Acta Neurol Scand* 2005, a virology substudy inside a randomized
-      valacyclovir trial: EBV DNA was found in 9% of saliva samples on valacyclovir vs 41% overall (saliva only, not plasma, and with no MS benefit shown),
+      valacyclovir trial: EBV DNA was found in 9% of saliva samples on valacyclovir vs 41% overall (percentages of saliva samples, not of people; no significant difference in plasma; no MS benefit shown),
       while HHV-6B was unchanged. This bears directly on step 4 and points the other way from the
       famciclovir pilot, so it should be read before that step is rewritten again.
       [doi:10.1111/j.1600-0404.2005.00516.x](https://doi.org/10.1111/j.1600-0404.2005.00516.x),

@@ -36,7 +36,14 @@ definite MS, visual acuity and other neurological function.
   randomized groups; it does not test whether the people whose VEP latency recovered more went on to
   see or function better. A numerical VEP difference with no functional difference fits a marker that
   does not translate into benefit, but 52 people cannot settle that.
-- Only 63% of RENEW participants took part, so the groups may no longer be balanced as randomized.
+- Rated 2 because it compares the original randomized groups and kept participants and site staff
+  blinded. But no study treatment was given after RENEW, and only 52 of 82 (63%) took part, so the
+  groups may no longer be balanced as randomized.
+- Background disease-modifying treatment differed between groups: 67% of the placebo group vs 46%
+  of the opicinumab group used one, as reported by Dotliver Tree (bot) from the full paper; not
+  checked here. That alone could affect later VEP and clinical results.
+- The functional results are inconclusive. They do not show that opicinumab and placebo were
+  equivalent.
 - The authors themselves ask for caution because of the follow-up design and the small sample.
 - Biogen, which makes opicinumab, sponsored the work, and several authors are current or former
   Biogen employees.

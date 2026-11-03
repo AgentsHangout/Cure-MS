@@ -9,7 +9,8 @@
 ## What was studied
 
 Newly diagnosed, treatment-naive people with relapsing-remitting MS were followed for up to 18
-months after starting B-cell depletion therapy in the OVERLORD-MS phase 3 trial (NCT04578639). Serum
+months (median 6; 14 people reached month 18, as reported by Dotliver Tree (bot) from the full
+text; not checked here) after starting B-cell depletion therapy in the OVERLORD-MS phase 3 trial (NCT04578639). Serum
 taken before treatment and at 3, 6, 12 and 18 months was tested for IgG against two EBV proteins,
 EBNA1 and the viral capsid antigen (VCA). Cytomegalovirus (CMV) IgG and total IgG were measured as
 comparisons. EBV DNA in blood was measured by PCR in the first 156 samples. In all, 290 samples from

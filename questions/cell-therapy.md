@@ -69,6 +69,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. The abstract reports no clinical outcomes; the full paper reportedly describes short, uncontrolled clinical observations and a serious liver-enzyme elevation (reported by a reviewer, not checked here). |
 | [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. The abstract reports no clinical outcomes. The paper reports exploratory clinical outcomes for the 5 patients (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf)); the exact values are inconsistent between versions, and without a control group they cannot show the treatment caused any change. |
+| [2026-cd20-bcma-bispecific-car-t-ling](../evidence/2026-cd20-bcma-bispecific-car-t-ling.md) | 4 | Reported in 2 people with secondary progressive MS given a CD20/BCMA bispecific CAR-T product: EDSS 4.0 to 3.0 and 6.5 to 6.0 over 12 and 6 months, with CAR-T cells measured in spinal fluid in one of them and B-lineage cells depleted in blood before naive B cells returned; uncontrolled, company-funded and company-authored. |
 
 ## What the evidence so far suggests
 
@@ -87,7 +88,8 @@ Stated no more strongly than the evidence allows:
   mixed cohorts (level 3), with higher rates in progressive MS, higher disability and earlier years.
   More recent cohorts of relapsing-remitting MS reported 0 to 0.6% (level 3). Severe short-term side
   effects are common after aHSCT.
-- **CAR-T.** Only 7 people with MS are described in the two peer-reviewed reports here (level 4).
+- **CAR-T.** The three peer-reviewed reports with files here describe 9 people with MS (level 4);
+  other published single cases exist (see the handoff leads).
   They show the cells can be given and can act in the spinal fluid; they cannot yet establish an effect
   on disability or relapses. The Qin paper includes exploratory clinical outcomes in its 5 patients
   (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf); the exact values differ
@@ -149,11 +151,33 @@ Stated no more strongly than the evidence allows:
   PMID 40050008); found in PubMed, not verified on Crossref.
 - Results of ongoing randomized trials of aHSCT vs high-efficacy drugs (StarMS in the UK, and others
   named in Inglese M et al., *Handb Clin Neurol* 2024, PMID 39111916, a review not used as evidence).
-- More CAR-T reports: Ling Z et al., a CD20/BCMA bispecific CAR-T case report in progressive MS
-  (*Front Immunol* 2026, PMID 42871097), and Ismail FS et al. on anti-BCMA CAR-T and microglia
-  (*Signal Transduct Target Ther* 2025, PMID 41419461, which may overlap with the Qin trial); found in
-  PubMed, not verified on Crossref. A CD19 CAR-T immune profiling study by Gupta S et al. is a
+- More CAR-T reports. Ling Z et al. 2026 now has a file. Ismail FS et al. (*Signal Transduct Target
+  Ther* 2025, PMID 41419461) is a three-author commentary on the Qin trial with no abstract, so it adds
+  no new patients. Two more peer-reviewed single cases include MS but have no file yet: Pecher AC et al.
+  (*Ann Rheum Dis* 2025, PMID 40312206), a letter whose title describes relapse after CD19 CAR-T in a person with rheumatoid
+  arthritis and MS, later treated with aHSCT (no abstract, not read, so which disease relapsed is
+  not verified here); and Murphy DJ et
+  al. (*Leuk Lymphoma* 2026, PMID 42251699), CAR-T for chronic lymphocytic leukemia with CNS
+  involvement in a person who also had MS (not verified or read). A 2024 ASH conference abstract describes CD19 CAR-T (KYV-101) in 4 people with MS; it may expand
+  the same center's earlier cases (Fischbach 2024), so its people should not be counted as
+  independent until overlap is checked (as reported by Dotliver Tree (bot)). A CD19 CAR-T immune profiling study by Gupta S et al. is a
   medRxiv preprint (2026) and was left out until it is peer reviewed.
+- **Zolacabtagene autoleucel (BMS-986353), Breakfree-2.** An uncontrolled phase 1 study in
+  relapsing and progressive MS. It has a published congress abstract (O130) in the MSToronto 2026
+  abstract supplement (*Multiple Sclerosis Journal* 2026;32(4 suppl), Crossref-registered as
+  [doi:10.1177/13524585261477877](https://doi.org/10.1177/13524585261477877) for the whole abstract
+  book, so the single abstract was not checked here). As reported by Dotliver Tree (bot), the
+  abstract's earlier cutoff gives 57 recipients, with only 10 at dose level 2 evaluable at week 26.
+  A later sponsor press release gives 66 recipients and serious safety events, including a death
+  after the data cutoff; the press release is not a source under this repo's rules, and the two
+  cutoffs should be kept apart; the later update also reports grade 4 neurotoxicity (ICANS).
+- **Azercabtagene zapreleucel (azer-cel), TG Therapeutics.** A company-hosted MSToronto 2026
+  late-breaking presentation reports 26 people with progressive MS: EDSS stable or improved in 16 of
+  18 at day 90 and 7 of 8 at day 180, grade 3 or higher adverse events in 11 of 26 and serious
+  adverse events in 4 of 26 (as reported by Dotliver Tree (bot) from the slides; not checked here). Uncontrolled, with early
+  follow-up and shrinking denominators that differ from the company's headline; a company
+  presentation, not a peer-reviewed report, so no file yet. A file should wait until the abstract can be read and checked for
+  overlap with other CAR-T cohorts at the same meeting, or until a full peer-reviewed report appears.
 - Late harms after aHSCT (secondary cancers, new autoimmune disease, fertility) and health
   economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
   not verified).

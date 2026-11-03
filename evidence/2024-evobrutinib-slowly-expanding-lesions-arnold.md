@@ -17,8 +17,10 @@ baseline to week 48.
 
 ## What it found
 
-- SEL volume was lower with higher evobrutinib doses than with placebo or low-dose evobrutinib.
-- With 75 mg twice daily vs placebo or 25 mg once daily, the shift in SEL volume was -474.5 mm³
+- SEL volume was lower with higher evobrutinib doses than in the placebo-then-low-dose group.
+- With 75 mg twice daily vs the placebo-then-25 mg group (one sequence group that took placebo for
+  24 weeks and then low-dose evobrutinib, not separate placebo and low-dose arms; as reported by Dotliver Tree (bot) from the full paper; not checked here),
+  the shift in SEL volume was -474.5 mm³
   (95% CI -1,098.0 to -3.0; p = 0.047). Compared with dimethyl fumarate it was -711.6 mm³ (95% CI
   -1,290.0 to -149.0; p = 0.011). Dimethyl fumarate did not differ from placebo or low dose.
 - In subgroups, the high vs low dose difference was significant in people with EDSS 3.5 or more and

@@ -9,7 +9,8 @@
 ## What was studied
 
 An MRI analysis of ORATORIO, the randomized, placebo-controlled, double-blind phase 3 trial of
-ocrelizumab in 732 people with primary progressive MS (NCT01194570). Using standard T1- and T2-weighted
+ocrelizumab in 732 people with primary progressive MS (NCT01194570). The MRI analysis included 555 of
+them (384 on ocrelizumab, 171 on placebo; as reported by Dotliver Tree (bot) from the full paper; not checked here). Using standard T1- and T2-weighted
 scans, the authors identified slowly expanding or evolving lesions (SELs) within lesions already
 present at baseline. They measured chronic lesion activity as growth in T1-hypointense ("black hole")
 volume and fall in T1 signal intensity inside those old lesions. They tested whether these measures
@@ -21,7 +22,8 @@ and whether ocrelizumab changed them.
 - Most of the build-up of T1-hypointense lesion volume came from chronic activity inside old lesions,
   not from new lesions. SELs lost more T1 signal and built up more T1-hypointense volume than other
   parts of old lesions.
-- Chronic activity inside old lesions, both in SELs and elsewhere, predicted later composite
+- In the placebo group (the prediction analysis was done in placebo-treated people only, as reported by Dotliver Tree (bot) from the full paper; not checked here),
+  chronic activity inside old lesions, both in SELs and elsewhere, predicted later composite
   progression, with consistent trends on each part of the composite. Whole-brain volume loss and
   T1-hypointense build-up in new lesions did not predict it at the population level.
 - Ocrelizumab reduced these measures of chronic lesion activity, both in SELs and in other parts of
@@ -29,13 +31,15 @@ and whether ocrelizumab changed them.
 
 ## Limits
 
-- The trial shows that ocrelizumab both reduced chronic lesion activity and (in the main ORATORIO
-  results) slowed progression, and that chronic lesion activity predicted progression. The abstract
-  does not report a mediation analysis, so it does not show that the effect on these lesions is
+- The trial shows that ocrelizumab reduced chronic lesion activity and (in the main ORATORIO
+  results) slowed progression, and that in untreated (placebo) people chronic lesion activity
+  predicted progression. Because the prediction analysis used placebo data only, it does not test
+  whether lowering lesion activity on ocrelizumab went with slower progression. No mediation
+  analysis is reported, so it does not show that the effect on these lesions is
   why progression slowed.
 - These SELs were identified on conventional MRI, not paramagnetic rim lesions, so the results
   should not be read as results for rim lesions.
 - Primary progressive MS only. The outcome was a composite of confirmed progression, not PIRA as
   defined in relapsing MS.
 - The authors include employees of Roche, which makes ocrelizumab, and the trial was sponsored by
-  Roche. Numbers are not given in the abstract.
+  Roche. The abstract gives no effect sizes.

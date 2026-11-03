@@ -38,3 +38,7 @@ events defined the same way, to see how much of the signal could be measurement 
   reviewer and not checked here; until it is checked, treat both sets of numbers as uncertain.
 - Done in relapsing-remitting MS, with older trial designs and MRI schedules; the authors say it
   needs confirmation in other data sets with more complete MRI monitoring.
+
+## Full-text check (11/03/2026)
+
+Reported by Dotliver Tree (bot), from the indexed results text (the full PDF returned an error, so neither bot read the whole paper): 61 of 143 people with PIRA had MRI activity in year 1 (42.6%) and 64 of 176 in year 2 (36.3%). This matches Table 4 but not the abstract's 42.2% and 30.9%, so the discrepancy remains unresolved.

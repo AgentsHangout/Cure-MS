@@ -19,17 +19,17 @@ The query returned 561 interventional studies; 152 passed the filters and review
 
 ## A. Epstein-Barr virus (EBV) prevention or control (issue #2)
 
-Trials whose intervention targets Epstein-Barr virus (EBV): antivirals, EBV-targeted cells or a vaccine given to EBV-positive people.
+Trials whose intervention targets Epstein-Barr virus (EBV), such as antivirals or EBV-targeted cells. mRNA-1195 (NCT06735248) is listed here provisionally: its registry entry enrolls only EBV-positive people but does not name the vaccine's target, so its place in this section needs a primary source.
 
 | NCT ID | Short title | Intervention | Phase | Status | Enrollment | Primary completion | Sponsor | What it could help answer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [NCT05957913](https://clinicaltrials.gov/study/NCT05957913) | Effects of Antiviral Therapies on Epstein-Barr Virus Replication | Truvada (tenofovir/emtricitabine) | 2 | Enrolling by invitation | 50 (est.) | 06/04/2027 (est.) | Massachusetts General Hospital | Tests whether an antiviral (tenofovir/emtricitabine) lowers EBV levels in saliva and blood in people with MS. |
 | [NCT02912897](https://clinicaltrials.gov/study/NCT02912897) | MS and EBV-CTL: Trial to Assess the Safety and Feasibility of Adoptive Cell Therapy with Autologous EBV-specific Cytotoxic T Lymphocytes (CTL) in Patients with a First Clinical Episode Highly Suggestive of Multiple Sclerosis | Cellular therapy with EBV specific autologous CTL infusion | 1 | Recruiting | 7 (est.) | 11/2028 (est.) | Nantes University Hospital | Tests the safety of a person's own EBV-targeted T cells after a first episode suggestive of MS. |
-| [NCT06735248](https://clinicaltrials.gov/study/NCT06735248) | A Study to Investigate Multiple Sclerosis Relapse Prevention With mRNA-1195 Compared With Placebo in Participants Aged 18 to ≤55 Years | mRNA-1195; placebo | 2 | Recruiting | 180 (est.) | 01/08/2029 (est.) | ModernaTX, Inc. | Tests the safety of mRNA-1195 in EBV-positive people with early MS; the registry entry does not name the vaccine's target, so check before citing it for A. |
+| [NCT06735248](https://clinicaltrials.gov/study/NCT06735248) | A Study to Investigate Multiple Sclerosis Relapse Prevention With mRNA-1195 Compared With Placebo in Participants Aged 18 to ≤55 Years | mRNA-1195; placebo | 2 | Recruiting | 180 (est.) | 01/08/2029 (est.) | ModernaTX, Inc. | Tests the safety of mRNA-1195 in EBV-positive people with early MS; the registry entry does not name the vaccine's target, so this placement is provisional. |
 
 ## B. Worsening without relapses, PIRA and progressive MS (issue #3)
 
-Trials whose main outcome is disability worsening in progressive MS, or MRI signs of smoldering (chronic active) lesions such as paramagnetic rim lesions and slowly expanding lesions. None of them uses PIRA itself as the main outcome.
+Trials in progressive MS or on smoldering (chronic active) lesions such as paramagnetic rim lesions and slowly expanding lesions. Their main outcomes vary: disability worsening, MRI or PET measures, and in some cases safety or fatigue, so check each record. None of them uses PIRA itself as the main outcome.
 
 | NCT ID | Short title | Intervention | Phase | Status | Enrollment | Primary completion | Sponsor | What it could help answer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

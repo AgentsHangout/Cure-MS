@@ -1,8 +1,8 @@
 {
   "_about": "Hand-reviewed filing for tools/fetch_trials.py. Keys are NCT IDs. q = A-F, APPROVED or OTHER. note = one plain line on what the trial tests and which question it could help answer (from the registry record, not from outside knowledge). rank orders the Other section (lower = more relevant; only the first 25 are shown). exclude = true removes a study that passed the automatic filters, with a reason. A trial not listed here goes to Other as 'not yet reviewed'. Reviewed 11/03/2026.",
   "_section_notes": {
-    "A": "Trials whose intervention targets Epstein-Barr virus (EBV): antivirals, EBV-targeted cells or a vaccine given to EBV-positive people.",
-    "B": "Trials whose main outcome is disability worsening in progressive MS, or MRI signs of smoldering (chronic active) lesions such as paramagnetic rim lesions and slowly expanding lesions. None of them uses PIRA itself as the main outcome.",
+    "A": "Trials whose intervention targets Epstein-Barr virus (EBV), such as antivirals or EBV-targeted cells. mRNA-1195 (NCT06735248) is listed here provisionally: its registry entry enrolls only EBV-positive people but does not name the vaccine's target, so its place in this section needs a primary source.",
+    "B": "Trials in progressive MS or on smoldering (chronic active) lesions such as paramagnetic rim lesions and slowly expanding lesions. Their main outcomes vary: disability worsening, MRI or PET measures, and in some cases safety or fatigue, so check each record. None of them uses PIRA itself as the main outcome.",
     "C": "Trials whose stated aim or main outcome is myelin repair or nerve protection: nerve-signal speed (evoked potentials), vision after optic neuritis, brain shrinkage, or walking in progressive MS with a drug aimed at nerve protection.",
     "D": "Autologous (and one allogeneic) stem cell transplant trials, and CAR-T and other gene-engineered T-cell trials. Phase 1 trials are included here because they are cell therapies. Most CAR-T trials are small, single-arm and measure safety first.",
     "E": "No active phase 2 or 3 trial in this run uses a blood biomarker such as sNfL or GFAP to decide treatment, and none has one as its main outcome. Biomarker-guided trials in earlier phases (for example NCT03109288, TRAP-MS, phase 1/2) fall outside the query's phase filter.",
@@ -15,7 +15,7 @@
 
   "NCT05957913": {"q": "A", "note": "Tests whether an antiviral (tenofovir/emtricitabine) lowers EBV levels in saliva and blood in people with MS."},
   "NCT02912897": {"q": "A", "note": "Tests the safety of a person's own EBV-targeted T cells after a first episode suggestive of MS."},
-  "NCT06735248": {"q": "A", "note": "Tests the safety of mRNA-1195 in EBV-positive people with early MS; the registry entry does not name the vaccine's target, so check before citing it for A."},
+  "NCT06735248": {"q": "A", "note": "Tests the safety of mRNA-1195 in EBV-positive people with early MS; the registry entry does not name the vaccine's target, so this placement is provisional."},
 
   "NCT07225504": {"q": "B", "note": "Tests remibrutinib against placebo on 6-month confirmed disability worsening in secondary progressive MS."},
   "NCT07299019": {"q": "B", "note": "Tests orelabrutinib against placebo on confirmed disability worsening in secondary progressive MS."},

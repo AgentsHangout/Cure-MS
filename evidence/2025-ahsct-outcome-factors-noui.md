@@ -18,19 +18,25 @@ after transplant, using univariable Cox models.
 ## What it found
 
 - People whose last treatment before aHSCT was rituximab had less inflammatory activity afterwards
-  (HR 0.18, 95% CI 0.04 to 0.78).
-- EBV detection was associated with more inflammatory activity (HR 2.3, 95% CI 1.05 to 5.07).
+  (HR 0.18, 95% CI 0.04 to 0.78). This compared 46 people on rituximab with 106 on other drugs, with
+  only two inflammatory events in the rituximab group (as reported by Dotliver Tree (bot) from the full text; not checked here).
+- EBV detection was associated with more inflammatory activity (HR 2.3, 95% CI 1.05 to 5.07). EBV was
+  measured after transplant by qPCR in blood, serum or plasma, generally weekly for 5 to 7 weeks, and
+  the virology analysis covers only transplants after 2012 (as reported by Dotliver Tree (bot) from the full text; not checked here).
 - CDW was associated with longer disease duration (HR 1.09 per unit, 95% CI 1.00 to 1.19) and was
   less likely in people with gadolinium-enhancing lesions before transplant (HR 0.08, 95% CI 0.01 to
   0.64).
-- No CDW events occurred in people who had never had a disease-modifying treatment.
+- No CDW events occurred in the 18 people who had never had a disease-modifying treatment (as reported by Dotliver Tree (bot) from the full text).
 
 ## Limits
 
 - Univariable models only, so each factor was tested alone, without adjusting for the others. Many
   factors were tested, so some associations could be chance findings.
 - Retrospective and observational, with few events for some factors (wide confidence intervals).
-- The EBV finding is an association; the abstract does not say how or when EBV was detected.
+- The EBV finding is an association. EBV testing differed between centers and covered only part of
+  the cohort, and rituximab use may confound it, since rituximab removes B cells, where EBV lives.
+- The rituximab result rests on two events, and the treatment-naive result on 18 people, so both are
+  fragile.
 - The authors' phrasing that rituximab "appears to be protective" is stronger than an unadjusted
   association can support.
-- Numbers come from the abstract.
+- Other numbers come from the abstract.

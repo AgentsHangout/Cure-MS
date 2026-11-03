@@ -22,7 +22,7 @@ At 10 years, across all diseases:
 - New (secondary) autoimmune disease: cumulative incidence 10.3% (95% CI 7.7 to 13.3), median 24.5
   months after transplant.
 - New cancers: 4.1% (95% CI 2.2 to 6.8), late (median 81.7 months), and more likely with older age
-  (HR 2.26 per 10 years), not with disease type.
+  (HR 2.26 per 10 years); no statistically significant association with disease type was detected.
 - Endocrine complications, including thyroid problems and gonadal dysfunction (as reported by Dotliver Tree (bot) from the full text; not checked here): 16.2% (95% CI 12.6 to 20.1), earlier (median 15.4
   months), more often in women (HR 4.27).
 - Cardiovascular complications: 14.7% (95% CI 11.2 to 18.6).

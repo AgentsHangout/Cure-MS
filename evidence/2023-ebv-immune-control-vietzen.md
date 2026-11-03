@@ -21,8 +21,9 @@ the infecting EBV strain and in a second herpesvirus, cytomegalovirus (CMV).
   T cells killed cells that react to GlialCAM.
 - Some EBV variants raised the level of HLA-E, a molecule that helped these autoreactive cells
   escape being killed.
-- Combinations of host and virus genetic features were associated with up to 260 times higher risk
-  of MS.
+- Some combinations of host and virus genetic features were associated with MS, with estimates up
+  to "260-fold" for particular combinations. This is a comparison of people with and without MS for
+  those combinations, not a risk multiplier for people in general.
 - The authors suggest this could help identify people at risk early and point to new treatments.
   That is a proposal, not a tested result.
 
@@ -31,7 +32,10 @@ the infecting EBV strain and in a second herpesvirus, cytomegalovirus (CMV).
 - The killing experiments were done in cells (level 5), not in people.
 - The abstract does not give how many people were studied or how they were chosen, so the "up to
   260-fold" figure cannot be judged from the abstract. It is the top of a range for specific
-  combinations and is an association, not a measured cause. Check the full paper.
+  combinations and is an association, not a measured cause. A reviewer reported that it is a
+  case-control odds estimate for particular genetic combinations compared with selected controls
+  who had high EBNA1 antibody levels, not a general-population risk; this was reported by a
+  reviewer, not checked here (the full text is not in PMC or Europe PMC). Check the full paper.
 - Not yet repeated by an independent group, as far as this search found. A 2026 paper by the same
   first author on pediatric MS (*PNAS*, PMID 42821346) was seen in PubMed but not reviewed or
   verified.

@@ -92,8 +92,9 @@ ocrelizumab (110 aHSCT and 343 ocrelizumab participants matched, 3 years) that f
 date from 2005 to 2016, and ASTIMS (21 people, aHSCT vs mitoxantrone; less MRI activity, no
 difference in disability progression; Mancardi GL et al., *Neurology* 2015,
 [doi:10.1212/WNL.0000000000001329](https://doi.org/10.1212/WNL.0000000000001329), PMID
-[25672923](https://pubmed.ncbi.nlm.nih.gov/25672923/)). Neither trial compared aHSCT with current
-high-efficacy drugs. **What would break it:** randomized trials against current high-efficacy
+[25672923](https://pubmed.ncbi.nlm.nih.gov/25672923/)). Neither was a dedicated comparison with today's most-used high-efficacy drugs: MIST's drug arm
+included natalizumab (21 people) but excluded ocrelizumab and alemtuzumab, and ASTIMS compared
+with mitoxantrone. **What would break it:** randomized trials against current high-efficacy
 drugs, with blinded disability ratings, finding no advantage; or late harms (cancers, other
 autoimmune disease, fertility) that the current files barely cover turning out to be common.
 

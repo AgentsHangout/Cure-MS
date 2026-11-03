@@ -390,8 +390,8 @@ stop MS before it starts rather than in people who have it.
 
 **Weakest link.** Step 5 (no evidence), and no vaccine in these files has been shown to prevent
 infection. A newer gp350 nanoparticle vaccine raised antibodies in an open-label phase 1 trial, and the
-abstract reports no infection after three doses, but its registry results list EBV infection or
-mononucleosis in 2 of 20 seronegative participants (timing not given), and with no control group it
+abstract reports no infection after three doses, but its registry results list EBV infection in 2
+of 20 and mononucleosis in 2 of 20 seronegative participants (overlap and timing not reported), and with no control group it
 cannot show prevention ([2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md), level 4).
 Most adults carry EBV and most never get MS, so other factors (genes, vitamin D, smoking, adolescent
 obesity; see [questions/clustering.md](../questions/clustering.md)) also matter. **What would break

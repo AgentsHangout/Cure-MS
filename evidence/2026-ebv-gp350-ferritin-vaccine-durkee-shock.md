@@ -10,7 +10,8 @@
 
 An open-label phase 1 trial at the US National Institutes of Health (NCT04645147). The registry lists
 83 people enrolled or screened, of whom 40 were vaccinated; the abstract describes the 40. These 40 healthy young adults aged 18
-to 29 got three doses (days 0, 30 and 180) of 50 μg EBV gp350 ferritin nanoparticle vaccine with
+to 29 began a three-dose schedule (days 0, 30 and 180; the registry records at least one missed third
+dose, as reported by Dotliver Tree (bot)) of 50 μg EBV gp350 ferritin nanoparticle vaccine with
 50 μg Matrix-M adjuvant. Half were already infected with EBV (seropositive) and half were not
 (seronegative). The primary endpoint combined safety through day 210 with the change in EBV
 neutralizing antibody titers from baseline to day 210.
@@ -28,9 +29,9 @@ neutralizing antibody titers from baseline to day 210.
   baseline titers, and they held from day 210 to day 360.
 - The abstract says no seronegative person acquired EBV infection after completing the three doses,
   through the last required visit (day 540).
-- The posted registry results, as reported by Dotliver Tree (bot), list EBV infection and infectious
-  mononucleosis events in 2 of the 20 initially seronegative participants during the adverse-event
-  reporting window, and the antibody analysis excluded four EBV-infected participants. The registry
+- The posted registry results, as reported by Dotliver Tree (bot), list EBV infection in 2 of the 20
+  initially seronegative participants and infectious mononucleosis in 2 of the 20 during the
+  adverse-event reporting window; whether these are the same people is not reported, and the antibody analysis excluded four EBV-infected participants. The registry
   does not give the timing, so these may have occurred before the third dose. Either way, some
   vaccinated seronegative people did become infected, and the study cannot show protection.
 

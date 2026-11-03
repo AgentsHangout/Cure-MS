@@ -17,10 +17,10 @@ and people living with MS then scored the candidates using set criteria.
 
 - 11 candidate drugs were listed. Six got the same top score.
 - After further review, the expert panel shortlisted 4 drugs with what they judged the best balance
-  of evidence against EBV, safety and tolerability, for possible use in phase 3 MS trials.
-- The abstract does not name the 4 drugs. A trial protocol from an overlapping group (STOP-MS) tests
-  famciclovir and spironolactone in progressive MS (see the handoff in
-  [questions/ebv.md](../questions/ebv.md)).
+  of evidence against EBV, safety and tolerability, for possible use in phase 3 MS trials. The
+  abstract names them: famciclovir, tenofovir alafenamide, maribavir and spironolactone.
+- A trial protocol from an overlapping group (STOP-MS) tests two of these, famciclovir and
+  spironolactone, in progressive MS (see the handoff in [questions/ebv.md](../questions/ebv.md)).
 
 ## Limits
 

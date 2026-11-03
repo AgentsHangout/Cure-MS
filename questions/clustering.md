@@ -73,7 +73,7 @@ confounding and reverse causation than ordinary observational studies, but they 
 | [2021-childhood-obesity-mendelian-randomization-harroud](../evidence/2021-childhood-obesity-mendelian-randomization-harroud.md) | 3 | Genetically higher childhood BMI was associated with MS (OR 1.26), but mostly through adult BMI (OR 1.43 after adjustment); age at puberty did not change this. |
 | [2020-smoking-bmi-mendelian-randomization-vandebergh](../evidence/2020-smoking-bmi-mendelian-randomization-vandebergh.md) | 3 | Genetically predicted smoking was not associated with MS risk, while each standard deviation of genetically higher BMI was associated with about 30% higher risk. |
 | [2023-mendelian-randomization-review-fazia](../evidence/2023-mendelian-randomization-review-fazia.md) | 3 | A systematic review of 42 Mendelian randomization studies found low vitamin D and high adult BMI the most consistent risk factors. |
-| [2024-obesity-ms-severity-mendelian-randomization-alzamanan](../evidence/2024-obesity-ms-severity-mendelian-randomization-alzamanan.md) | 3 | In 12,584 people with MS, genetically higher BMI was associated with more severe MS (p = 0.02). |
+| [2024-obesity-ms-severity-mendelian-randomization-alzamanan](../evidence/2024-obesity-ms-severity-mendelian-randomization-alzamanan.md) | 3 | In 12,584 people with MS, genetically higher BMI was associated with slightly more severe MS on the age-related severity score (about 0.21 ARMSS points per SD; p = 0.02). |
 
 ### Geography and migration
 

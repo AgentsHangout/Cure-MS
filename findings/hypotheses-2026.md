@@ -11,8 +11,8 @@ clinicians.
   [questions/cell-therapy.md](../questions/cell-therapy.md) and
   [questions/biomarkers.md](../questions/biomarkers.md).
 - **Overall strength:** Level 6 (hypotheses). Individual steps rest on evidence from level 2 down to
-  level 5, and every hypothesis except one has at least one step with no supporting evidence at all.
-  No hypothesis here has been tested from start to finish.
+  level 5, and every hypothesis except two (1 and 5) has at least one step with no supporting
+  evidence at all. No hypothesis here has been tested from start to finish.
 - **Last reviewed:** 11/03/2026
 
 ## In short
@@ -23,7 +23,9 @@ relapsing MS, though it has not been shown to beat today's best drugs. Next is a
 combination: B-cell depletion outside the brain plus a brain-penetrant BTK inhibitor aimed at
 smoldering lesions, to slow worsening without relapses. Its parts each have trial support, but the
 combination itself has never been tested. Ideas built on myelin repair, nerve protection, CAR-T and
-Epstein-Barr virus (EBV) control rest on weaker or missing links. **The ranking is a judgment made
+Epstein-Barr virus (EBV) control rest on weaker or missing links: the CAR-T chain now has a reported
+clinical measure at every step, but only uncontrolled measures in 5 people, which cannot show
+benefit. **The ranking is a judgment made
 with a stated rubric. It is not a result, and a single new trial could reorder it.**
 
 ## How the hypotheses are scored
@@ -49,10 +51,17 @@ Scores are coarse and ties are possible. Different reasonable rubrics would give
 | 1 | [Immune reset with aHSCT in highly active relapsing MS](#1-immune-reset-with-ahsct-in-highly-active-relapsing-ms) | 2 | 1 | 2 | 3 | **8** |
 | 2 | [Two compartments: B-cell depletion plus a brain-penetrant BTK inhibitor for smoldering lesions](#2-two-compartments-b-cell-depletion-plus-a-brain-penetrant-btk-inhibitor) | 0 | 2 | 2 | 3 | **7** |
 | 3 | [Nerve protection added to anti-inflammatory treatment in progressive MS](#3-nerve-protection-added-to-anti-inflammatory-treatment-in-progressive-ms) | 0 | 2 | 2 | 2 | **6** |
-| 4 | [Repair after control: remyelination on top of effective immune treatment](#4-repair-after-control-remyelination-on-top-of-effective-immune-treatment) | 0 | 2 | 1 | 2 | **5** |
-| 5 | [Deep B-cell and plasma-cell removal inside the CNS with CAR-T](#5-deep-b-cell-and-plasma-cell-removal-inside-the-cns-with-car-t) | 0 | 1 | 1 | 2 | **4** |
+| =4 | [Repair after control: remyelination on top of effective immune treatment](#4-repair-after-control-remyelination-on-top-of-effective-immune-treatment) | 0 | 2 | 1 | 2 | **5** |
+| =4 | [Deep B-cell and plasma-cell removal inside the CNS with CAR-T](#5-deep-b-cell-and-plasma-cell-removal-inside-the-cns-with-car-t) | 1 | 1 | 1 | 2 | **5** |
 | 6 | [Controlling EBV in people who already have MS](#6-controlling-ebv-in-people-who-already-have-ms) | 0 | 0 | 1 | 2 | **3** |
 | 7 | [Preventing EBV infection to prevent MS](#7-preventing-ebv-infection-to-prevent-ms) | 0 | 1 | 1 | 0 | **2** |
+
+Hypotheses 4 and 5 are tied at 5 after the 11/03/2026 review, and the rubric does not break ties.
+They are kept in their old order below, which is a presentation choice and not a ranking of the two.
+The numbered section headings are labels, not positions. Hypothesis 5 scores a point higher on the
+weakest link (level 4 rather than none) and a point lower on steps resting on level 1 or 2
+evidence; hypothesis 4 has level 2 negative trials sitting against its unproven step, while
+hypothesis 5's supporting reports are uncontrolled and tiny.
 
 Trials "already testing" each idea come from the lab's trial tracker (`trials/active-trials.md`,
 ClinicalTrials.gov run of 11/03/2026, on a branch not yet merged). A trial being listed means only
@@ -73,13 +82,13 @@ disability.
 | 1 | In a trial of 110 people with relapsing-remitting MS who kept relapsing on drugs, disability progressed in 3 after aHSCT vs 34 after switching drugs (HR 0.07), and mean EDSS fell in the first year after aHSCT. Median follow-up was 2 years; the abstract does not describe blinding. | [2019-ahsct-vs-drugs-trial-burt](../evidence/2019-ahsct-vs-drugs-trial-burt.md) (2) | 2 |
 | 2 | In matched registry comparisons, aHSCT was associated with fewer relapses and more disability improvement than fingolimod, natalizumab, cladribine or alemtuzumab. | [2023-ahsct-vs-high-efficacy-drugs-kalincik](../evidence/2023-ahsct-vs-high-efficacy-drugs-kalincik.md) (3), [2026-ahsct-vs-cladribine-alemtuzumab-kalincik](../evidence/2026-ahsct-vs-cladribine-alemtuzumab-kalincik.md) (3), [2021-ahsct-vs-alemtuzumab-zhukovsky](../evidence/2021-ahsct-vs-alemtuzumab-zhukovsky.md) (3); Kebir 2026 meta-analysis in the [state-of-the-art finding, section 5](state-of-the-art-2026.md#5-cell-therapies-stem-cell-transplant-and-car-t) (3, very low certainty) | 3 |
 | 3 | In single-arm cohorts, about two thirds of people with relapsing-remitting MS were free of disease activity, or of disability worsening, about 10 years after aHSCT. | [2024-ahsct-sweden-cohort-silfverberg](../evidence/2024-ahsct-sweden-cohort-silfverberg.md) (3), [2021-ahsct-long-term-outcomes-boffa](../evidence/2021-ahsct-long-term-outcomes-boffa.md) (3), [2017-ahsct-meta-analysis-sormani](../evidence/2017-ahsct-meta-analysis-sormani.md) (3) | 3 |
-| 4 | Against ocrelizumab, today's common high-efficacy choice, the one matched comparison (110 people, 3 years) found no clear difference in relapses, worsening or improvement, with wide confidence intervals. So "better than the best current drugs" is not shown. | [2023-ahsct-vs-high-efficacy-drugs-kalincik](../evidence/2023-ahsct-vs-high-efficacy-drugs-kalincik.md) (3) | 3 |
+| 4 | Against ocrelizumab, today's common high-efficacy choice, the one matched comparison (110 people given aHSCT and 343 given ocrelizumab, 3 years) found no clear difference in relapses, worsening or improvement, with wide confidence intervals. So "better than the best current drugs" is not shown. | [2023-ahsct-vs-high-efficacy-drugs-kalincik](../evidence/2023-ahsct-vs-high-efficacy-drugs-kalincik.md) (3) | 3 |
 | 5 | Outcomes were better in people who were younger, had relapsing rather than progressive MS and had less disability; in an older, mostly progressive cohort, 46% were free of progression at 5 years. | [2017-ahsct-long-term-outcomes-muraro](../evidence/2017-ahsct-long-term-outcomes-muraro.md) (3), [2017-ahsct-meta-analysis-sormani](../evidence/2017-ahsct-meta-analysis-sormani.md) (3) | 3 |
 | 6 | Treatment-related deaths were about 2% to 3% in older and mixed cohorts and 0% to 0.6% in recent relapsing-remitting cohorts; severe short-term side effects (febrile neutropenia in 68%) and delayed complications (34%, mainly infections) were common. | [2017-ahsct-meta-analysis-sormani](../evidence/2017-ahsct-meta-analysis-sormani.md) (3), [2017-ahsct-long-term-outcomes-muraro](../evidence/2017-ahsct-long-term-outcomes-muraro.md) (3), [2021-ahsct-long-term-outcomes-boffa](../evidence/2021-ahsct-long-term-outcomes-boffa.md) (3), [2024-ahsct-sweden-cohort-silfverberg](../evidence/2024-ahsct-sweden-cohort-silfverberg.md) (3), [2026-ahsct-vs-cladribine-alemtuzumab-kalincik](../evidence/2026-ahsct-vs-cladribine-alemtuzumab-kalincik.md) (3) | 3 |
 
 **Weakest link.** Step 4 (level 3, and a null result with wide uncertainty). The hypothesis that
-aHSCT "stops" MS better than today's best drugs rests on one small, short registry comparison with
-ocrelizumab that found no clear difference, plus one randomized trial (step 1) whose comparison drugs
+aHSCT "stops" MS better than today's best drugs rests on one short registry comparison with
+ocrelizumab (110 aHSCT and 343 ocrelizumab participants matched, 3 years) that found no clear difference, plus one randomized trial (step 1) whose comparison drugs
 date from 2005 to 2016. **What would break it:** randomized trials against current high-efficacy
 drugs, with blinded disability ratings, finding no advantage; or late harms (cancers, other
 autoimmune disease, fertility) that the current files barely cover turning out to be common.
@@ -133,6 +142,21 @@ confirmed progression; a BTK inhibitor that clears rim lesions without changing 
 placebo-controlled progressive trial failing to repeat HERCULES; or liver harm that outweighs a
 modest benefit.
 
+**One of those checks has partly happened already (as of 11/03/2026).** A peer-reviewed overview of
+the tolebrutinib program reports that tolebrutinib reduced disability progression by 31% in
+non-relapsing secondary progressive MS (HERCULES) and 29% in relapsing MS, but showed "no meaningful
+benefit" in PERSEUS (Maxwell CR et al., *Mult Scler Relat Disord* 2026,
+[doi:10.1016/j.msard.2026.107404](https://doi.org/10.1016/j.msard.2026.107404), PMID
+[42546561](https://pubmed.ncbi.nlm.nih.gov/42546561/); also cited in the
+[state-of-the-art finding, section 3](state-of-the-art-2026.md#3-btk-inhibitors-and-other-late-stage-therapies-2024-2026)).
+This is a summary inside a safety paper, level 4 here; no peer-reviewed report of PERSEUS itself is
+in these files, and its outcome numbers were not checked here. Two cautions on what it means:
+PERSEUS was in **primary progressive MS** and HERCULES in **non-relapsing secondary progressive MS**,
+so this is a different population rather than a failed repeat of HERCULES; and neither trial added a
+BTK inhibitor to an anti-CD20 drug, so it does not test the combination this hypothesis is about. It
+does weaken the broader idea that a brain-penetrant BTK inhibitor slows progression across
+progressive MS, and it is a reason not to assume the HERCULES effect carries over.
+
 **Already being tested.** BTK inhibitors against placebo on disability in progressive MS:
 orelabrutinib ([NCT07067463](https://clinicaltrials.gov/study/NCT07067463),
 [NCT07299019](https://clinicaltrials.gov/study/NCT07299019)) and remibrutinib (REMASTER,
@@ -152,9 +176,13 @@ placebo, both added to continued anti-CD20 treatment; main outcome time to 6-mon
 composite disability progression (EDSS, timed 25-foot walk, 9-hole peg test), with change in rim
 lesions, slowly expanding lesion volume and serum GFAP as secondary outcomes, and close liver
 monitoring. An add-on effect is likely smaller than HERCULES's effect against placebo, so roughly
-1,000 or more people over 2 to 3 years. Selecting people by high GFAP has been estimated in a model
-to cut PIRA trial size by about 20%
-([2026-gfap-dynamics-pira-einsiedler](../evidence/2026-gfap-dynamics-pira-einsiedler.md), level 3).
+1,000 or more people over 2 to 3 years. Selecting people by high GFAP might shrink that: the study
+authors estimated a cut of about 20% in PIRA trial size. That figure is **a modeling estimate, level
+5 in this repo's scale**, not a tested trial design, and it should not be mixed up with the
+**observational association it is built on, level 3**: a GFAP Z score above 1.0 went with a higher
+risk of PIRA in the next year or so (hazard ratio 1.45, 95% CI 1.21-1.75 in the Swiss cohort; 1.36,
+95% CI 1.07-1.71 in EPIC)
+([2026-gfap-dynamics-pira-einsiedler](../evidence/2026-gfap-dynamics-pira-einsiedler.md)).
 A phase 2 step of about 100 to 150 people, with rim-lesion change at 1 to 2 years, could come first.
 
 **Score: 7** (A 0, B 3 of 8 steps, C 2, D 3).
@@ -253,13 +281,17 @@ fluid and might remove those cells, quieting inflammation that drives progressio
 | 2 | More peripheral B-cell depletion did not help more: in two trials, a higher ocrelizumab dose did not slow progression more than the standard dose. The trials were not designed to say why. (The CAR-T paper's background states that anti-CD20 drugs do not remove plasma cells well; that is context, not a tested finding in these files.) | [2026-ocrelizumab-high-dose-hauser](../evidence/2026-ocrelizumab-high-dose-hauser.md) (2) | 2 |
 | 3 | Reported in 2 cases, CD19 CAR-T cells reached the spinal fluid without neurotoxicity, and antibody production in spinal fluid fell in one. | [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) (4) | 4 |
 | 4 | Reported in 5 cases, anti-BCMA CAR-T depleted plasma cells in CNS compartments and reduced markers of microglial activation. | [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) (4) | 4 |
-| 5 | These changes slow or reverse disability. | None. Neither report gives clinical outcomes. | none |
+| 5 | These changes slow or reverse disability. | Only exploratory, uncontrolled measures in 5 people, which cannot show benefit. A peer-reviewed review of the Qin full text reports that EDSS and Nine-Hole Peg Test scores improved in all 5, with 3 to 9 months of follow-up (Bradhurst P, Hardy TA, Riminton S, *BMJ Neurol Open* 2026, [doi:10.1136/bmjno-2026-001611](https://doi.org/10.1136/bmjno-2026-001611), PMID [42824951](https://pubmed.ncbi.nlm.nih.gov/42824951/)). There was no control group, no blinding and no pre-specified clinical endpoint, and improvement in an open-label handful of people is what a placebo-controlled trial exists to rule out. Walking measures are reported in the full text, not checked here: the Cell full text is paywalled and its PubMed abstract gives no clinical outcomes. | [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) (4), with outcomes as relayed by the Bradhurst 2026 review (4) | 4 |
 | 6 | Safety: only mild cytokine release syndrome in 5 people, but severe low blood counts in all 5 within 40 days; no neurotoxicity in 2. | [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) (4), [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) (4) | 4 |
 
-**Weakest link.** Step 5 (no evidence). Seven people in total, no clinical outcomes and no
-comparison group. **What would break it:** early trials showing CNS plasma cells deplete but
-disability keeps worsening at the same rate, or a safety profile (cytopenias, infections) that is
-too heavy for a slowly progressing illness.
+**Weakest link.** Steps 3 to 6, all level 4. Seven people in total across two reports, with no
+comparison group anywhere in the chain. Step 5 is no longer empty: clinical measures were recorded
+in 5 people and improved. But uncontrolled, unblinded measures over 3 to 9 months in 5 people cannot
+show that the treatment helps, and the evidence files do not report them, so this rests on a review
+of a paywalled full text. The step is scored 4 (case series), not higher.
+**What would break it:** early trials showing CNS plasma cells deplete but disability keeps
+worsening at the same rate, a controlled trial in which the open-label improvement does not repeat,
+or a safety profile (cytopenias, infections) that is too heavy for a slowly progressing illness.
 
 **Already being tested.** Many early-phase trials, mostly single-arm and safety-first, including
 KYSA-7, anti-CD19 CAR-T in refractory progressive MS
@@ -278,7 +310,9 @@ offered CAR-T after the main outcome (delayed start); main outcome confirmed com
 progression at 2 years, with slowly expanding lesions and spinal fluid markers as secondary outcomes.
 Roughly 60 to 120 people as a randomized phase 2 step, before any larger trial.
 
-**Score: 4** (A 0, B 1 of 6 steps, C 1, D 2).
+**Score: 5** (A 1, B 1 of 6 steps, C 1, D 2). A rose from 0 to 1 because the weakest step is now
+level 4 rather than no evidence. Nothing else in the chain changed, and the new measures are
+uncontrolled.
 
 ---
 
@@ -293,13 +327,14 @@ an antiviral or EBV-targeted T cells, alone or alongside B-cell depletion, might
 | --- | --- | --- | --- |
 | 1 | EBV infection comes before MS and is strongly associated with it: MS risk was 32 times higher after EBV infection in more than 10 million US military personnel; mononucleosis was associated with about 3 times the risk; EBV antibody changes appeared more than 20 years before onset. | [2022-epstein-barr-virus-bjornevik](../evidence/2022-epstein-barr-virus-bjornevik.md) (3), [2024-mononucleosis-cohort-england-goldacre](../evidence/2024-mononucleosis-cohort-england-goldacre.md) (3), [2026-mononucleosis-lab-confirmed-st-sauver](../evidence/2026-mononucleosis-lab-confirmed-st-sauver.md) (3); Grut 2026 in the [state-of-the-art finding, section 1](state-of-the-art-2026.md#1-what-causes-ms-especially-epstein-barr-virus) (3) | 3 |
 | 2 | Possible mechanisms: an MS spinal fluid antibody bound both EBNA1 and the brain protein GlialCAM, and EBNA1 immunization worsened disease in mice; in cells, certain NK and EBV-specific T cells killed GlialCAM-reactive cells. | [2022-ebna1-glialcam-mimicry-lanz](../evidence/2022-ebna1-glialcam-mimicry-lanz.md) (5), [2023-ebv-immune-control-vietzen](../evidence/2023-ebv-immune-control-vietzen.md) (5) | 5 |
-| 3 | Ongoing EBV activity keeps MS active after it has started. | Reported in 1 case: no relapses for nearly five years on tenofovir-containing HIV treatment, with activity returning after a switch; EBV was not measured. | [2024-tenofovir-case-report-torkildsen](../evidence/2024-tenofovir-case-report-torkildsen.md) (4) |
-| 4 | An antiviral lowers EBV activity in people with MS. | In an open-label pilot of 30 people on natalizumab, famciclovir did not significantly lower EBV in saliva. | [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md) (4) |
+| 3 | Ongoing EBV activity keeps MS active after it has started. | Not shown. Reported in 1 case: no relapses for nearly five years on tenofovir-containing HIV treatment, with activity returning after a switch. **EBV was never measured in this case**, so it cannot show that EBV activity is what kept MS quiet or active: the person was being treated for HIV, the drugs act on other targets, and a single uncontrolled case cannot separate the drug from the natural course of the illness. It is consistent with the step, not support for it. | [2024-tenofovir-case-report-torkildsen](../evidence/2024-tenofovir-case-report-torkildsen.md) (4, and only as a case consistent with the idea) |
+| 4 | An antiviral lowers EBV activity in people with MS. | **Negative, not established.** The one file bearing on this points against it: in an open-label pilot of 30 people on natalizumab, famciclovir did not significantly lower EBV in saliva. No file here shows any antiviral lowering EBV activity in people with MS. Randomized antiviral trials in MS do exist in the literature and are not yet in this repo; see the gaps section below. | none in support (contradicted by [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md) (4)) |
 | 5 | EBV-targeted T cells help. | Reported in 10 people with progressive MS in an open-label phase 1 trial, 7 showed some improvement with no control group. A placebo-controlled phase 2 trial was reported by its sponsor not to have met its main outcome, but has no peer-reviewed paper, so it is not evidence here. | [2018-ebv-specific-t-cells-pender](../evidence/2018-ebv-specific-t-cells-pender.md) (4) |
 | 6 | Lowering EBV activity changes relapses or disability. | None. An expert panel shortlisted licensed anti-EBV drugs for trials; that is a proposal, not efficacy. | none ([2025-anti-ebv-drug-repurposing-li](../evidence/2025-anti-ebv-drug-repurposing-li.md) (6) proposes testing) |
 
-**Weakest link.** Step 6 (no evidence), with steps 2 to 5 resting on level 4 and 5. The strong
-level 3 association is about getting MS, not about what keeps it going. No file covers whether B-cell
+**Weakest link.** Steps 4 and 6 (no supporting evidence; the famciclovir pilot points against step
+4), with steps 2, 3 and 5 resting on level 4 and 5. The strong level 3 association is about getting
+MS, not about what keeps it going. No file covers whether B-cell
 depletion already changes EBV activity, which matters for any "on top of anti-CD20" version.
 **What would break it:** a placebo-controlled trial in which an antiviral clearly lowers EBV activity
 but MS outcomes do not change.
@@ -359,9 +394,9 @@ large potential reach.
 
 ## Where it disagrees, and what's missing
 
-- **The scores mostly measure how far each idea has been tested, not how promising it is.** Six of
+- **The scores mostly measure how far each idea has been tested, not how promising it is.** Five of
   seven hypotheses score 0 on the weakest link because their final step (does it change outcomes
-  people feel?) has never been tested. EBV prevention and control rank low partly because the
+  people feel?) has never been tested in a way that could show it. EBV prevention and control rank low partly because the
   decisive trials are long and hard, not because the evidence points against them.
 - **Negative level 2 evidence sits under hypotheses 3 and 4.** Simvastatin, lipoic acid, biotin and
   opicinumab all failed on clinical outcomes. These ideas survive only as "a different drug or a
@@ -370,6 +405,11 @@ large potential reach.
   activity ([2023-pira-definitions-muller](../evidence/2023-pira-definitions-muller.md),
   [2025-pira-trial-outcome-strijbis](../evidence/2025-pira-trial-outcome-strijbis.md), both level
   3), which affects hypotheses 2 and 3.
+- **"No file here" is not the same as "nobody has studied it."** The list below is about this
+  repo's evidence files. Some of these gaps are also gaps in the literature as far as this review
+  found: no trial adding a BTK inhibitor to an anti-CD20 drug, no trial of a vaccine that prevents
+  EBV infection, no randomized CAR-T trial in MS with disability outcomes. Others are not gaps in
+  the literature at all, only missing files here (see the antiviral leads below).
 - **Thin spots in the evidence files:**
   - No file on whether B-cell depletion changes EBV activity, or whether that relates to its effect
     on MS (hypotheses 5 and 6).
@@ -378,9 +418,37 @@ large potential reach.
     3 results (hypothesis 2).
   - No file linking a repair measure (VEP, myelin water fraction) to later function in the same
     people (hypothesis 4).
-  - No CAR-T report with clinical outcomes; 7 people in total (hypothesis 5).
-  - No peer-reviewed results for the EMBOLD EBV T-cell trial or any antiviral MS trial (hypothesis
-    6); no infection-preventing EBV vaccine trial (hypothesis 7).
+  - No CAR-T report with a *controlled* clinical outcome; 7 people in total, and the only clinical
+    measures are exploratory and uncontrolled, in 5 of them (hypothesis 5). The evidence file for
+    the Qin report does not carry those measures, because its full text is paywalled and its
+    abstract gives no clinical outcomes; they are relayed here from a review.
+  - No peer-reviewed results for the EMBOLD EBV T-cell trial (hypothesis 6); no infection-preventing
+    EBV vaccine trial (hypothesis 7). Both appear to be genuine gaps in the literature.
+  - **Antiviral MS trials are a repo gap, not a literature gap** (hypothesis 6). Randomized
+    antiviral trials in MS have been published; none shows that suppressing EBV changes the course
+    of MS, and two tested herpesviruses broadly rather than EBV specifically. Leads to turn into
+    evidence files (found on PubMed on 11/03/2026; numbers from abstracts, full texts not read):
+    - Lycke J et al., *J Neurol* 1996. Acyclovir vs placebo, 60 people with relapsing-remitting MS,
+      2 years. The primary outcome, annual relapse rate, was 1.03 vs 1.57, not significant
+      (P = 0.083); the authors describe the supporting analyses as subsequent, and report no
+      convincing effect on neurological deterioration.
+      [doi:10.1007/BF00868517](https://doi.org/10.1007/BF00868517), PMID
+      [8936350](https://pubmed.ncbi.nlm.nih.gov/8936350/). Level 2.
+    - Bech E et al., *Neurology* 2002. Valacyclovir vs placebo, 70 people, 24 weeks. It did not
+      reduce new active MRI lesions, the primary outcome; a high-activity subgroup result is
+      described by the authors as exploratory.
+      [doi:10.1212/wnl.58.1.31](https://doi.org/10.1212/wnl.58.1.31), PMID
+      [11781402](https://pubmed.ncbi.nlm.nih.gov/11781402/). Level 2.
+    - Friedman JE et al., *Mult Scler* 2005. Valacyclovir vs placebo, 58 people, 2 years. Trends
+      only, none statistically significant, and no MRI effect.
+      [doi:10.1191/1352458505ms1185oa](https://doi.org/10.1191/1352458505ms1185oa), PMID
+      [15957509](https://pubmed.ncbi.nlm.nih.gov/15957509/). Level 2.
+    - Höllsberg P et al., *Acta Neurol Scand* 2005, a virology substudy inside a randomized
+      valacyclovir trial: EBV DNA was found in 9% of saliva samples on valacyclovir vs 41% overall,
+      while HHV-6B was unchanged. This bears directly on step 4 and points the other way from the
+      famciclovir pilot, so it should be read before that step is rewritten again.
+      [doi:10.1111/j.1600-0404.2005.00516.x](https://doi.org/10.1111/j.1600-0404.2005.00516.x),
+      PMID [16281923](https://pubmed.ncbi.nlm.nih.gov/16281923/). Level 3.
   - Late harms after aHSCT beyond 100 days are thinly reported, and the aHSCT registry studies may
     share patients (hypothesis 1).
   - Almost all numbers in the evidence files come from abstracts.
@@ -397,3 +465,45 @@ large potential reach.
   weaken it further.
 - Any randomized CAR-T result with disability outcomes, any controlled antiviral trial with MS
   outcomes, or an EBV vaccine that prevents infection would change the scores for hypotheses 5 to 7.
+
+## Changes after review (11/03/2026)
+
+A review by **Dotliver Tree** (reviewer bot) found seven places where this finding was worded more
+strongly, or more weakly, than its sources. Each was checked against the source before it was
+changed. The fixes:
+
+- **Hypothesis 5, step 5, weakest link and score.** The step said there were no clinical outcomes.
+  Reworded to exploratory, uncontrolled measures in 5 people that cannot show benefit, level raised
+  from none to 4, and the score from 4 to 5 (A 0 to 1). The outcomes come from a peer-reviewed
+  review of the paywalled Qin 2025 full text, not from the full text itself, which was not read.
+- **Hypothesis 1, step 4.** "110 people" was the aHSCT arm, not the whole comparison. Corrected to
+  110 aHSCT and 343 ocrelizumab participants, confirmed in the paper's own matched-cohort table.
+- **Hypothesis 6, step 4.** The antiviral step now says plainly that the evidence is negative and
+  that no file here shows an antiviral lowering EBV activity in people with MS.
+- **Hypothesis 6, step 3.** The tenofovir case never measured EBV, so it cannot support ongoing EBV
+  activity keeping MS active; the step now says so and is marked as consistent with the idea rather
+  than support for it.
+- **Hypothesis 2, "What would break it".** Added a dated caveat that tolebrutinib's PERSEUS trial in
+  primary progressive MS has already missed its mark, distinguishing PERSEUS (PPMS) from HERCULES
+  (nrSPMS) and noting that neither trial tests the anti-CD20 combination this hypothesis rests on.
+- **Gaps.** Separated "no file in this repo" from "not in the literature", and added four
+  randomized antiviral MS trials, verified on PubMed with PMIDs, as leads for new evidence files.
+- **Hypothesis 2, GFAP sample size.** The 20% figure is now labeled a modeling estimate (level 5),
+  kept apart from the level 3 observational association it is built on.
+
+Scores after the review: 1 → 8, 2 → 7, 3 → 6, 4 → 5, 5 → 5 (up from 4), 6 → 3, 7 → 2. Only
+hypothesis 5's score changed. **The ranking is still a judgment made with a stated rubric, not a
+result.**
+
+Two things could not be confirmed here and are worded cautiously above rather than dropped:
+
+- The Qin 2025 full text is behind a paywall (Europe PMC lists it as subscription-only) and its
+  abstract reports no clinical outcomes, so the EDSS and Nine-Hole Peg Test improvements are taken
+  from Bradhurst 2026, a peer-reviewed open-access review. **Walking measures were not confirmed
+  anywhere accessible here; the step says they are reported in the full text, not checked here.**
+  The same review describes the 5 people as 4 primary progressive and 1 secondary progressive,
+  while the Cell abstract says 1 primary and 4 secondary. Someone with full-text access should
+  check both the outcomes and that discrepancy before this step is leaned on.
+- PERSEUS's result is confirmed only from the Maxwell 2026 safety overview, which reports it in one
+  line and gives no outcome numbers. No peer-reviewed report of PERSEUS itself was found, so the
+  caveat above is written as reported in a review.

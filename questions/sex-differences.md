@@ -70,6 +70,19 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2020-postpartum-relapse-breastfeeding-langer-gould](../evidence/2020-postpartum-relapse-breastfeeding-langer-gould.md) | 3 | In 466 pregnancies (2008-2016), relapse rates fell from 0.37 before to 0.14-0.07 during pregnancy and were 0.27 in the first 3 months after birth, with no rise above the prepregnancy rate. |
 | [2024-pregnancy-dmt-relapse-yeh](../evidence/2024-pregnancy-dmt-relapse-yeh.md) | 3 | In 2,009 live births in the MSBase registry, the share of pregnancies (resulting in live births) followed by a relapse within 6 months after birth varied by treatment group, from 4.1% (ocrelizumab, 3 of 73 pregnancies) to 30.5% (natalizumab stopped early, 25 of 82, a selected subset of 419 natalizumab pregnancies, not an exhaustive split). |
 
+### Births, onset timing and later MS course
+
+All observational. Having MS can itself shape whether and when people have children, so these
+links may run in either direction.
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2020-pregnancy-cis-onset-nguyen](../evidence/2020-pregnancy-cis-onset-nguyen.md) | 3 | In 2,557 women with MS, earlier pregnancy went with a first event a median 3.3 years later (HR 0.68); more pregnancies did not delay it further. |
+| [2020-parity-disability-israel-achiron](../evidence/2020-parity-disability-israel-achiron.md) | 3 | In 2,281 women with relapsing-remitting MS, giving birth after onset went with lower risk of moderate disability (HR 0.68) but not severe disability; no dose-response. |
+| [2009-parity-secondary-progression-koch](../evidence/2009-parity-secondary-progression-koch.md) | 3 | In 277 women, number of births was not independently associated with secondary progression. |
+| [2020-reproductive-history-progressive-ms-zeydan](../evidence/2020-reproductive-history-progressive-ms-zeydan.md) | 3 and 4 | Women with MS had fewer full-term pregnancies than controls; fewer pregnancies and earlier menopause went with earlier progressive onset in a small clinic series. |
+| [2025-menopausal-hormone-therapy-adipokines-juutinen](../evidence/2025-menopausal-hormone-therapy-adipokines-juutinen.md) | 4 | In 16 menopausal women with MS, one inflammation-related adipokine fell during a year of hormone therapy, with no comparison group and no clinical outcomes. |
+
 ### Puberty, menopause and the pill
 
 | File | Level | In short |
@@ -164,8 +177,10 @@ Stated no more strongly than the evidence allows:
   X-chromosome genes explain why MS is more common in women.
 - Age at first period, puberty timing, menopause and the pill now have files (all level 3). Earlier
   first period is associated with higher MS risk, but the one Mendelian randomization study suggests
-  this runs largely through body weight. No file yet covers hormone replacement therapy, number of
-  pregnancies and later MS course, or sex hormone levels measured before onset.
+  this runs largely through body weight. Number of births and later course now has files, with mixed results that
+  may reflect who chooses pregnancy. Hormone replacement therapy has only one 16-person marker study,
+  with no randomized trial of its effect on MS outcomes. Sex hormone levels measured before onset
+  still have no file.
 - Nearly all numbers here come from abstracts. Several abstracts leave out details (the Canadian
   ratio in early birth years, regional ratios in the Atlas, the populations in the linkage study).
 - Transgender and gender-diverse people with MS, and people with sex chromosome differences (such
@@ -240,8 +255,9 @@ Searches not yet done:
 
 - Mendelian randomization of age at menopause and sex hormone levels on MS risk (age at puberty now
   has a file).
-- Cohort studies of number of pregnancies (parity) and later MS risk or course, and of hormone
-  replacement therapy (menopause and disability now has one file).
+- Randomized or well-controlled studies of menopausal hormone therapy on MS outcomes, and
+  population-based studies of parity and later course that account for disease severity before
+  pregnancy.
 - Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity. The IMSGC severity
   study now has a file and, per a reviewer's full-text read, has no sex-stratified analysis.
   Replication of the Jokubaitis sex-specific severity loci, and independent X-chromosome-wide studies.

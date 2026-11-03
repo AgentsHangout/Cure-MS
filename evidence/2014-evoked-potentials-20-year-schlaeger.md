@@ -23,7 +23,8 @@ predicted EDSS at 20 years.
   20, it is not a prediction that could be made from entry data alone.
 - In the 22 people with data, the change in combined visual and motor latency over the first two
   years went with the change in EDSS over 20 years (rho = 0.43, p = 0.047). This is from the
-  paper's Results and Table 2, as reported by Dotliver Tree (bot); not checked here.
+  paper's indexed full-text Results, which refer to Table 2, as reported by Dotliver Tree (bot). The
+  table itself was not seen, and the figures were not checked here.
 
 ## Limits
 

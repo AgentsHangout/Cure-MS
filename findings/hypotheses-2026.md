@@ -453,8 +453,11 @@ large potential reach.
   - **Antiviral MS trials** (hypothesis 6) now have files: acyclovir (Lycke 1996), valacyclovir
     (Bech 2002, Friedman 2005) and the Höllsberg 2005 EBV and HHV-6B DNA substudy, listed in
     [questions/ebv.md](../questions/ebv.md). None establishes an EBV-mediated benefit, and the trials were not designed specifically
-    around EBV. No newer
-    EBV-directed antiviral trial has published MS clinical results.
+    around EBV. In the sources checked, no newer
+    peer-reviewed EBV-directed antiviral trial with MS clinical efficacy results was identified. The
+    randomized TAF-MS study of tenofovir with natalizumab (safety primary outcome, saliva EBV
+    outcomes) is listed as completed by its sponsor, and results may have been submitted to a
+    registry; they were not verified here.
   - Late harms after aHSCT beyond 100 days are thinly reported, and the aHSCT registry studies may
     share patients (hypothesis 1).
   - Almost all numbers in the evidence files come from abstracts.

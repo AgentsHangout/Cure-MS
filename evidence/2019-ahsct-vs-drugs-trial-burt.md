@@ -46,7 +46,8 @@ year, confirmed on 2 visits 6 months apart.
   According to the full text, ocrelizumab was excluded because it was not licensed until 2017, and
   alemtuzumab was excluded because of concern about added risk if people later crossed over to
   transplant. Natalizumab was the most common drug (21 of 55); 2 people received rituximab. So the
-  trial does not compare aHSCT with anti-CD20 antibodies or alemtuzumab as used today.
+  trial was not a dedicated comparison against a modern anti-CD20 regimen, or against alemtuzumab
+  as used today.
 - People in the drug group whose disability worsened after at least 1 year could cross over to
   aHSCT (31 did), and 4 more left to have a transplant elsewhere. The authors note that crossover
   prevented comparison of the two groups after 1 year and limited longer-term comparison of

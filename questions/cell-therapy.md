@@ -68,7 +68,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. The abstract reports no clinical outcomes; the full paper reportedly describes short, uncontrolled clinical observations and a serious liver-enzyme elevation (reported by a reviewer, not checked here). |
-| [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. No clinical outcomes reported. |
+| [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. The abstract reports no clinical outcomes; the full paper reportedly reports exploratory clinical outcomes for the 5 patients, which are uncontrolled and not proof of efficacy (reported by a reviewer, not checked here). |
 
 ## What the evidence so far suggests
 
@@ -89,13 +89,16 @@ Stated no more strongly than the evidence allows:
   effects are common after aHSCT.
 - **CAR-T.** Only 7 people with MS are described in the two peer-reviewed reports here (level 4).
   They show the cells can be given and can act in the spinal fluid; they do not yet show any effect
-  on disability or relapses.
+  on disability or relapses. The Qin paper reportedly includes exploratory clinical outcomes in its 5
+  patients (reported by a reviewer, not checked here); being uncontrolled, they could not show
+  efficacy.
 
 ## Gaps noticed so far
 
-- Only two small randomized trials of aHSCT have reported (MIST and ASTIMS), and neither compared
-  aHSCT with anti-CD20 antibodies; MIST's drug arm included natalizumab (21 people) but excluded
-  ocrelizumab and alemtuzumab, and ASTIMS used mitoxantrone. Randomized trials against current high-efficacy drugs are under way (for example
+- Only two small randomized trials of aHSCT have reported (MIST and ASTIMS), and neither was a
+  dedicated comparison against a modern anti-CD20 regimen; MIST's drug arm included natalizumab (21
+  people) and 2 people on rituximab but excluded ocrelizumab and alemtuzumab, and ASTIMS used
+  mitoxantrone. Randomized trials against current high-efficacy drugs are under way (for example
   StarMS in the UK, protocol PMID [38316583](https://pubmed.ncbi.nlm.nih.gov/38316583/), not yet
   given a file) but have not reported in the sources found.
 - The ocrelizumab comparison is small and short. No comparison with ofatumumab or other anti-CD20
@@ -178,3 +181,27 @@ source before anything was changed, except where noted.
   abstract reports none, and that the full paper reportedly describes short, uncontrolled clinical
   observations and a serious liver-enzyme elevation. **Not checked here**: the publisher's site
   blocked automated access, and no copy is in PubMed Central or Europe PMC. No figures were added.
+- **aHSCT comparator (Dotliver Tree, review of #19).** "Neither compared aHSCT with anti-CD20
+  antibodies" changed to "neither was a dedicated comparison against a modern anti-CD20 regimen",
+  here and in [2019-ahsct-vs-drugs-trial-burt](../evidence/2019-ahsct-vs-drugs-trial-burt.md),
+  because the MIST evidence file records that 2 comparator patients received rituximab (from the
+  PMC6439765 full text; that full text could not be re-retrieved today, so this rests on the
+  evidence file). The overview's open-questions bullet now mentions the 2 rituximab patients too.
+- **Qin 2025 clinical outcomes (Dotliver Tree, review of #19).** "No clinical outcomes reported"
+  changed, here, in the overview row and in
+  [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md), to say the abstract reports none and the
+  full paper reportedly reports exploratory, uncontrolled outcomes for 5 patients that are not proof
+  of efficacy. **Not checked here**: the publisher blocked automated access (HTTP 403) and the paper
+  is not in PubMed Central or Europe PMC full text. No figures were added.
+- **Overview: clemastine wording (Dotliver Tree).** In
+  [findings/state-of-the-art-2026.md](../findings/state-of-the-art-2026.md), "the simvastatin and
+  clemastine signals did not hold up" was replaced: TRAP-MS (9 people with progressive MS in a
+  platform-study arm, safety and disability slopes) differs from ReBUILD (50 people with relapsing MS
+  and chronic optic neuropathy, randomized crossover, visual evoked potential latency) in population,
+  design and outcome, so it is not a direct replication. Confirmed in both PubMed abstracts (PMIDs
+  29029896 and 40371642). The simvastatin wording was kept.
+- **Overview: PIRA definition caveat (Dotliver Tree).** Added to the overview where PIRA is
+  discussed: PIRA is worsening outside a study's set relapse windows, not proof that no relapse or
+  inflammation occurred, and definitions differ by study. Supported by the Müller 2023 and Strijbis
+  2025 abstracts (PMIDs 37782515 and 39960455: varied definitions; 42.2% of people with PIRA had MRI
+  activity in year 1), both already evidence files here.

@@ -27,7 +27,9 @@ fluid and central nervous system.
 
 - Only 5 people, no comparison group, and the trial was still ongoing.
 - The abstract reports no clinical outcomes, such as disability progression, so it does not show
-  that the treatment slows MS.
+  that the treatment slows MS. The full paper reportedly reports exploratory clinical outcomes for
+  the 5 patients (reported by a reviewer, not checked here, because the full text could not be
+  retrieved). Uncontrolled observations in 5 people are not proof of efficacy.
 - Lab and imaging-marker changes do not establish benefit to people.
 - Severe low blood counts occurred in everyone, so safety needs study in more people.
 - Funding and conflicts are not described in the abstract.

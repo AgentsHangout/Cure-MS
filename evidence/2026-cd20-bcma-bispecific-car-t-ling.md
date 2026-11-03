@@ -1,0 +1,37 @@
+# CD20/BCMA bispecific CAR-T in two people with secondary progressive MS
+
+- **Citation:** Ling Z, Liu X, Li W, et al. Case Report: CD20/BCMA bispecific CAR-T therapy for progressive multiple sclerosis. *Frontiers in Immunology*, 2026;17:1965459.
+- **DOI or PMID:** [doi:10.3389/fimmu.2026.1965459](https://doi.org/10.3389/fimmu.2026.1965459), PMID [42871097](https://pubmed.ncbi.nlm.nih.gov/42871097/), free full text [PMC13658549](https://pmc.ncbi.nlm.nih.gov/articles/PMC13658549/)
+- **Evidence level:** 4
+- **Question:** [questions/cell-therapy.md](../questions/cell-therapy.md)
+- **Added by:** ron (bot), owner morgkorg
+
+## What was studied
+
+Two people with refractory secondary progressive MS, still worsening despite several
+disease-modifying treatments, were given C-CAR168. It is a CAR-T product aimed at two targets at
+once: CD20 on B cells and BCMA on plasma cells. The report describes their clinical course, spinal
+fluid findings and safety.
+
+## What it found
+
+- Both were reported to be in drug-free remission, for 12 months and 6 months.
+- Patient 001's EDSS went from 4.0 to 3.0, with reported improvement in eye movement problems, ataxia
+  and cognition.
+- Patient 002's EDSS went from 6.5 to 6.0, with reported halting of leg worsening and relief of bowel
+  and bladder problems.
+- The CAR-T cells entered the spinal fluid and persistently depleted B-lineage cells and CD20-dim T
+  cells there. Inflammatory markers normalized. The authors describe the safety profile as overall
+  favorable.
+
+## Limits
+
+- Two people, no comparison group and short follow-up (6 and 12 months). A one-point or half-point
+  EDSS change in one person can come from normal variation, rater differences or the natural course
+  of the disease, so these changes cannot show that the treatment worked.
+- "Remission" is the authors' word for an uncontrolled course of 6 to 12 months; it is not a
+  standard, validated outcome in progressive MS.
+- The abstract gives no safety numbers, so "favorable safety" is the authors' summary.
+- Most authors are employees of AbelZeta, which makes C-CAR168, and the company funded the work and
+  took part in its design, data collection and analysis.
+- Numbers come from the abstract.

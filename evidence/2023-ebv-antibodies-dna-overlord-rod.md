@@ -21,7 +21,9 @@ comparisons. EBV DNA in blood was measured by PCR in the first 156 samples. In a
 - EBNA1 IgG fell compared with baseline: by 12.7% at 6 months (95% CI -18.8 to -6.60; p < 0.001),
   12.1% at 12 months (p = 0.006) and 14.6% at 18 months (p = 0.02).
 - VCA IgG rose by 13.7% after 3 months (95% CI 9.4 to 18.1; p < 0.001) and stayed at that level.
-- CMV IgG fell, but less than EBNA1 IgG, and total IgG fell too.
+- CMV IgG and total IgG also fell. The abstract says CMV IgG fell less than EBNA1 IgG, but in the
+  indexed Results that was not true at every visit; the changes varied by visit (as reported by
+  Dotliver Tree (bot); not checked here).
 - People carrying the HLA-DRB1*15:01 risk allele had higher EBNA1 IgG at baseline (p = 0.02).
 - EBV DNA was found in the blood in only 3 of 156 samples from 64 people.
 

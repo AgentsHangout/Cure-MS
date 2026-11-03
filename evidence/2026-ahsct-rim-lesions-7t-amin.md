@@ -22,7 +22,7 @@ age 38.9, median disease duration 9 years), and 5 had follow-up scans.
 
 - Only 7 people, 5 with follow-up, and a single rater. It cannot show that aHSCT never affects rim
   lesions.
-- It points the other way from [Mariottini 2026](2026-ahsct-paramagnetic-rim-lesions-mariottini.md),
+- Its finding differs from [Mariottini 2026](2026-ahsct-paramagnetic-rim-lesions-mariottini.md),
   where some rims disappeared after aHSCT. The two studies differ in MRI strength (7T here), follow-up
   length and size, and both are too small and uncontrolled to settle the question.
 - No link to disability was tested.

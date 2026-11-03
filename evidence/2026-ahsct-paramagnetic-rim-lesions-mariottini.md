@@ -32,7 +32,7 @@ rim lesions (PRLs) over time.
   not show that losing PRLs leads to later disability benefit; the only disability link is a
   same-time correlation with baseline PRL count.
 - [Amin 2026](2026-ahsct-rim-lesions-7t-amin.md) found no rims resolving in 5 people followed up after
-  aHSCT on 7T MRI, so the two small studies disagree.
+  aHSCT on 7T MRI, a different finding; the two small, uncontrolled studies differ in follow-up, population and MRI method.
 - The authors' suggestion that aHSCT acts on microglia and macrophages inside the brain is a
   hypothesis.
 - Rims can fade as lesions age or burn out, not only when inflammation is treated, so a rim that

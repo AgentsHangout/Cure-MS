@@ -70,18 +70,18 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 ### Whether treatment changes smoldering lesions
 
-These show treatments changing chronic lesion measures on MRI. None shows that the lesion change is
-what slowed worsening.
+These examine whether treatments change chronic lesion measures on MRI. Some found changes and some
+did not. None shows that a lesion change is what slowed worsening.
 
 | File | Level | In short |
 | --- | --- | --- |
 | [2019-ocrelizumab-chronic-lesion-activity-elliott](../evidence/2019-ocrelizumab-chronic-lesion-activity-elliott.md) | 2 (3 for the link to progression) | In 555 people with primary progressive MS in ORATORIO's MRI analysis, ocrelizumab reduced chronic activity inside old lesions, including slowly expanding lesions; in placebo-treated people only, that activity predicted later progression. No mediation analysis is reported. |
 | [2024-evobrutinib-slowly-expanding-lesions-arnold](../evidence/2024-evobrutinib-slowly-expanding-lesions-arnold.md) | 2 (post hoc) | In 223 people with relapsing MS, high-dose evobrutinib lowered slowly expanding lesion volume vs a placebo-then-low-dose group (p = 0.047) and vs dimethyl fumarate over 48 weeks; evobrutinib later failed in phase 3, and no disability link was tested. |
 | [2023-anti-cd20-paramagnetic-rim-lesions-maggi](../evidence/2023-anti-cd20-paramagnetic-rim-lesions-maggi.md) | 3 | In 72 people followed about 2 years, none of 150 rim lesions in anti-CD20-treated people disappeared, with no treatment effect on rim lesion measures; across all 72 people, PIRA (11 events) was more common with 4 or more rim lesions. |
-| [2024-ibudilast-slowly-enlarging-lesions-nakamura](../evidence/2024-ibudilast-slowly-enlarging-lesions-nakamura.md) | 2 (secondary analysis) | In 195 people with progressive MS in SPRINT-MS, ibudilast lowered slowly enlarging lesion volume by 23% vs placebo; no link to disability was shown. |
+| [2024-ibudilast-slowly-enlarging-lesions-nakamura](../evidence/2024-ibudilast-slowly-enlarging-lesions-nakamura.md) | 2 (secondary analysis) | In 195 people with progressive MS in SPRINT-MS, ibudilast lowered slowly enlarging lesion volume by 23% vs placebo in a post hoc analysis; no treatment-mediated disability benefit was demonstrated. |
 | [2026-dmt-chronic-lesion-expansion-guilfoyle](../evidence/2026-dmt-chronic-lesion-expansion-guilfoyle.md) | 3 | In 564 people in MSBase, B-cell depletion was the only treatment associated with less chronic lesion tissue expansion than fingolimod (p = 0.017), but the overall treatment test was not significant (p = 0.44), a small switch analysis detected no change in a person's slope, and no EDSS link was found. |
 | [2026-ahsct-paramagnetic-rim-lesions-mariottini](../evidence/2026-ahsct-paramagnetic-rim-lesions-mariottini.md) | 4 | In 30 people after aHSCT (12 with rim lesions), some rim lesions disappeared and no new ones appeared; no comparison group, and the only disability link is a same-time correlation. |
-| [2026-ahsct-rim-lesions-7t-amin](../evidence/2026-ahsct-rim-lesions-7t-amin.md) | 4 | In 7 people (5 followed up) on 7T MRI, no rim lesions resolved after aHSCT, the opposite of the other small aHSCT study. |
+| [2026-ahsct-rim-lesions-7t-amin](../evidence/2026-ahsct-rim-lesions-7t-amin.md) | 4 | In 7 people (5 followed up) on 7T MRI, no rim lesions resolved after aHSCT, a different finding from the other small, uncontrolled aHSCT study, which differed in follow-up, population and MRI method. |
 
 ### What slows it
 
@@ -102,7 +102,7 @@ what slowed worsening.
   (level 3). No trial yet shows that reducing rim or slowly expanding lesions slows PIRA. Some treatments
   change these lesion measures (ocrelizumab, evobrutinib and ibudilast in randomized trials or their
   analyses), while the observational results are mixed: anti-CD20 drugs did not make rims disappear
-  over 2 years (Maggi 2023), and two small aHSCT studies disagree. None of these files tests whether a
+  over 2 years (Maggi 2023), and two small aHSCT studies had different findings. None of these files tests whether a
   lesion change explains slower worsening. A 2026 narrative review (Preziosa P et al., *Neurol Ther* 2026,
   [doi:10.1007/s40120-026-00931-1](https://doi.org/10.1007/s40120-026-00931-1), PMID
   [41961242](https://pubmed.ncbi.nlm.nih.gov/41961242/), level 6, verified) concludes that current

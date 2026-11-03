@@ -27,8 +27,10 @@ was published.
   ratio of 0.80 (95% CI 0.61 to 1.04; p = 0.090), and for 6 months 0.70 (95% CI 0.51 to 0.98;
   nominal p = 0.038). These come from indexed publisher Results text, as reported by Dotliver Tree (bot); the full paper itself was not accessible, and the figures were not checked here. The indexed
   Methods name both as key secondary outcomes in a prespecified pooled analysis of the two trials. The
-  Results call the 3-month result not significant and the 6-month result nominally significant. Their
-  exact order in the trials' testing hierarchy could not be confirmed.
+  Results call the 3-month result not significant and the 6-month result nominally significant. The pooled
+  analyses were to be run only if both trials met their relapse outcome, which they did, and the paper
+  labels the 6-month result nominal. The order of the pooled tests among themselves could not be
+  confirmed, so none of them should be read as a confirmed benefit.
 - Safety cut both ways. The authors report a profile consistent with other uses of remibrutinib,
   "including no liver safety concerns": ALT over 3 times normal occurred in 2.0% vs 7.4% on
   teriflunomide, with no Hy's law cases on remibrutinib. But bleeding events were 12.7% vs 6.7%, and

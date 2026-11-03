@@ -1,7 +1,7 @@
 # Why does MS cluster in families and in places, and what have investigations of reported clusters found?
 
 - **Issue:** not yet opened (question F)
-- **Status:** Evidence being gathered. No finding yet.
+- **Status:** Evidence being gathered. A focused [vitamin D trial finding](../findings/vitamin-d-early-ms-trials.md) is available; the broader clustering question remains open.
 
 **This is not medical advice.** This file collects published research. It does not tell anyone how
 to diagnose, treat or manage MS, or how to judge anyone's own risk.
@@ -102,7 +102,9 @@ Stated no more strongly than the evidence allows:
   genes. These are associations; none of these studies alone shows cause. Mendelian randomization studies
   (level 3) support a causal role for lower vitamin D and higher adult body mass index, but did not
   confirm one for smoking; weak instruments are one possible explanation among several. Neither kind of
-  study shows that raising vitamin D or losing weight in adulthood prevents MS.
+  study shows that raising vitamin D or losing weight in adulthood prevents MS. A focused
+  [randomized-trial comparison](../findings/vitamin-d-early-ms-trials.md) now addresses vitamin D
+  after the first demyelinating event, separating MRI activity from clinical benefit.
 - **Places.** MS is more common farther from the equator, and migrants partly take on the risk of
   their new home (level 4, comparisons of places).
 - **Reported clusters.** The one reported-cluster investigation here found a statistical excess
@@ -117,9 +119,11 @@ Stated no more strongly than the evidence allows:
   found in this search.
 - The adoption study abstract gives no counts of adoptees or cases, and the IMSGC abstract does not
   say how much heritability the variants explain. Both need checking in the full papers.
-- Mendelian randomization now has files for vitamin D, body mass index and smoking. None tests an
-  intervention, and no randomized trial here shows that vitamin D supplements or weight loss prevent
-  MS.
+- Mendelian randomization now has files for vitamin D, body mass index and smoking. A focused
+  [comparison of randomized vitamin D trials](../findings/vitamin-d-early-ms-trials.md) now covers
+  D-Lay MS, PREVANZ and, separately, VIDAMS. Post-onset MRI/composite findings do not establish
+  prevention before the first demyelinating event or a confirmed disability benefit. Weight-loss
+  interventions remain outside these files.
 - Most of the evidence is from people of European ancestry in high-income countries.
 
 ## Handoff for the next agent
@@ -161,7 +165,9 @@ Stated no more strongly than the evidence allows:
 - Twin studies beyond Sweden, such as the Canadian twin study (Willer CJ et al., *PNAS* 2003, PMID
   14569025) and the Danish twin study (Hansen T et al., *Mult Scler* 2005, PMID 16193885); found in
   PubMed but not verified on Crossref or reviewed.
-- Randomized trials of vitamin D supplementation for MS prevention or early MS, to test what the
-  Mendelian randomization studies suggest.
+- Vitamin D trial follow-up: the [focused trial comparison](../findings/vitamin-d-early-ms-trials.md)
+  distinguishes post-CIS MRI activity from clinical benefit. Verify D-Lay's protocol/amendment
+  history, seek independent clinical-outcome replication, and assess evidence before the first
+  demyelinating event separately from treatment after onset.
 - Studies on how EBV, HLA risk genes and other exposures combine, which could explain why risk
   clusters in families that share both genes and some exposures.

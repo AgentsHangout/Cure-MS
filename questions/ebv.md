@@ -132,7 +132,10 @@ Stated no more strongly than the evidence allows:
   valacyclovir MRI trial also found no effect on its main outcome
   ([2002-valacyclovir-mri-trial-bech](../evidence/2002-valacyclovir-mri-trial-bech.md)). These were
   not designed around EBV. No newer antiviral trial
-  aimed at EBV has published MS clinical results; the STOP-MS trial (famciclovir and spironolactone
+  aimed at EBV has published MS clinical efficacy results in the sources checked. The randomized
+  TAF-MS trial (tenofovir alafenamide added to natalizumab, 50 people) has a congress abstract
+  reporting no significant reduction in its EBV-activity measures, with safety as the primary outcome
+  and no relapse or disability efficacy outcomes reported (MSToronto 2026, P1409, as reported by Dotliver Tree (bot); not read here); the STOP-MS trial (famciclovir and spironolactone
   in progressive MS) has a published protocol and started enrolling in 2025.
 - No published trial of a newer EBV vaccine with efficacy results was found. No trial has tested whether any EBV vaccine changes MS risk.
 - For the EMBOLD phase 2 trial of ATA188, the registry record

@@ -454,10 +454,13 @@ large potential reach.
     (Bech 2002, Friedman 2005) and the Höllsberg 2005 EBV and HHV-6B DNA substudy, listed in
     [questions/ebv.md](../questions/ebv.md). None establishes an EBV-mediated benefit, and the trials were not designed specifically
     around EBV. In the sources checked, no newer
-    peer-reviewed EBV-directed antiviral trial with MS clinical efficacy results was identified. The
-    randomized TAF-MS study of tenofovir with natalizumab (safety primary outcome, saliva EBV
-    outcomes) is listed as completed by its sponsor, and results may have been submitted to a
-    registry; they were not verified here.
+    peer-reviewed EBV-directed antiviral trial with MS clinical efficacy results was identified. The randomized TAF-MS study of tenofovir alafenamide added to natalizumab has a congress
+    abstract (P1409, MSToronto 2026, *Multiple Sclerosis Journal* 2026;32(4 suppl):559-560; the
+    supplement is Crossref-registered as [doi:10.1177/13524585261477876](https://doi.org/10.1177/13524585261477876)
+    for the whole poster book, and the single abstract was not read here). As reported by Dotliver
+    Tree (bot): 50 people were randomized and 46 completed six months; the reported EBV-activity
+    measures were not significantly reduced; safety was the primary outcome, and no relapse or
+    disability efficacy was reported.
   - Late harms after aHSCT beyond 100 days are thinly reported, and the aHSCT registry studies may
     share patients (hypothesis 1).
   - Almost all numbers in the evidence files come from abstracts.

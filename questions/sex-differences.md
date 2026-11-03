@@ -139,7 +139,11 @@ Stated no more strongly than the evidence allows:
 - No published phase 3 estriol trial and no published randomized testosterone trial results were
   found. A testosterone trial protocol (TOTEM RRMS) was seen but not verified.
 - No recent human genetic study that analyzes the X chromosome in depth, or tests for sex-specific
-  genetic effects in MS, was found and verified in this search.
+  genetic effects in MS, was found in the searches checked (11/03/2026). The IMSGC risk map
+  ([2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md)) reports one X-chromosome variant,
+  and the IMSGC severity study
+  ([2023-ms-severity-gwas-imsgc](../evidence/2023-ms-severity-gwas-imsgc.md)) reports no sex or
+  X-chromosome analysis in its abstract; its full text was not checked.
 - Age at first period, puberty timing, menopause and the pill now have files (all level 3). Earlier
   first period is associated with higher MS risk, but the one Mendelian randomization study suggests
   this runs largely through body weight. No file yet covers hormone replacement therapy, number of
@@ -220,8 +224,8 @@ Searches not yet done:
   has a file).
 - Cohort studies of number of pregnancies (parity) and later MS risk or course, and of hormone
   replacement therapy (menopause and disability now has one file).
-- Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity, including the IMSGC
-  severity work.
+- Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity. The IMSGC severity
+  study now has a file; check its full text for any analysis by sex.
 - Studies of MS in people with Klinefelter syndrome (XXY) or Turner syndrome (X0).
 - Sex ratio trends in non-European populations (for example Iran, Japan, Latin America).
 

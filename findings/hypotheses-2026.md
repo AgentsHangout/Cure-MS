@@ -172,8 +172,10 @@ fumarate ([NCT07776743](https://clinicaltrials.gov/study/NCT07776743)) and remib
 ([NCT07222956](https://clinicaltrials.gov/study/NCT07222956)). Switching from ocrelizumab to
 remibrutinib ([NCT06846281](https://clinicaltrials.gov/study/NCT06846281)) and long-term tolebrutinib
 safety ([NCT06372145](https://clinicaltrials.gov/study/NCT06372145)). No trial in the tracker adds a
-BTK inhibitor to an anti-CD20 drug. Peer-reviewed fenebrutinib phase 3 results were not available
+BTK inhibitor to an anti-CD20 drug. No full peer-reviewed fenebrutinib phase 3 trial report was available
 when the state-of-the-art finding was written, and a PubMed search on 11/03/2026 still found none.
+FENtrepid has been presented at conferences, with an abstract in a journal supplement, but that is
+not a full trial report.
 Remibrutinib beat teriflunomide on relapses in relapsing MS (REMODEL-1 and 2,
 [2026-remibrutinib-remodel-wiendl](../evidence/2026-remibrutinib-remodel-wiendl.md), level 2), so not
 every BTK inhibitor fails on relapses. But it was not an add-on to an anti-CD20 drug, and its
@@ -427,8 +429,9 @@ large potential reach.
   - No file on whether B-cell depletion changes EBV activity, or whether that relates to its effect
     on MS (hypotheses 5 and 6).
   - No file showing that treating rim or slowly expanding lesions slows PIRA (hypothesis 2).
-  - No file with BTK inhibitor and anti-CD20 combination data, or peer-reviewed fenebrutinib phase
-    3 results (hypothesis 2). A PubMed search on 11/03/2026 found neither; REMODEL (remibrutinib vs
+  - No file with BTK inhibitor and anti-CD20 combination data, or a full peer-reviewed fenebrutinib
+    phase 3 trial report (hypothesis 2). A PubMed search on 11/03/2026 found neither (FENtrepid has
+    only conference abstracts and presentations); REMODEL (remibrutinib vs
     teriflunomide) is now a file but does not fill this gap.
   - No file linking a treatment-induced change in a repair measure (VEP, myelin water fraction) to
     later function in the same people (hypothesis 4). RENEWED, Schlaeger 2014 and Öncel 2026 are now files, and none

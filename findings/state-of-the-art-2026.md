@@ -75,9 +75,10 @@ Liver injury is the main safety concern: across 2,958 trial participants given t
 criteria for serious drug-induced liver injury, including one who needed a transplant and died (level
 4). Evobrutinib did not beat teriflunomide in two phase 3 trials and raised liver enzymes more often,
 while fenebrutinib and the anti-CD40L antibody frexalimab reduced new brain lesions in phase 2 trials
-(level 2). Phase 3 results for fenebrutinib have been announced by its maker but had not appeared in
-a peer-reviewed journal when this was written, so they are not summarized here (a PubMed search on
-11/03/2026 still found none). Remibrutinib is the first BTK inhibitor here to beat teriflunomide on
+(level 2). Phase 3 results for fenebrutinib have been announced by its maker and presented at conferences,
+with a conference abstract in a journal supplement, but no full peer-reviewed trial report had
+appeared when this was written, so they are not summarized here (a PubMed search on 11/03/2026
+still found none). Remibrutinib is the first BTK inhibitor here to beat teriflunomide on
 relapses in phase 3: in two trials of 2,007 people with relapsing MS (REMODEL-1 and 2), the yearly
 relapse rate was about a third lower (level 2). Liver enzyme rises were less common than on
 teriflunomide, but bleeding events and serious infections were more common, and the pooled
@@ -188,7 +189,7 @@ trial) and outcome (safety stopping rules and disability slopes rather than visu
 delay), so it is not a direct replication of ReBUILD and does not test the same question. BTK
 inhibitors split by drug and by
 setting: tolebrutinib helped in non-relapsing secondary progressive MS but not on relapses, and
-evobrutinib failed in relapsing MS. Peer-reviewed phase 3 results for fenebrutinib, and long-term
+evobrutinib failed in relapsing MS. A full peer-reviewed phase 3 trial report for fenebrutinib, and long-term
 randomized data for aHSCT and CAR-T, are the largest gaps.
 
 ## What would change this

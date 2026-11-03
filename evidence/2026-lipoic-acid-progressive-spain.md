@@ -24,10 +24,12 @@ walking speed on the Timed 25-Foot Walk.
   outcomes.
 - On MRI, whole-brain volume seemed stable with lipoic acid while it trended down with placebo, and
   deep gray matter volume stayed stable with lipoic acid but fell with placebo. These were secondary
-  outcomes.
+  outcomes. Total T2 lesion volume (a measure of MS lesions on MRI) increased more in the lipoic
+  acid group; the authors report the brain volume pattern held after accounting for this.
 - More people stopped the study on lipoic acid (37%) than on placebo (17%). The lipoic acid group
   had more proteinuria (protein in the urine), a newly described adverse event, and fewer suicidal
-  ideation events.
+  ideation events. Because of treatment-related proteinuria, lab monitoring during the trial was
+  increased from every 6 months to every 3 months.
 
 ## Limits
 

@@ -29,8 +29,12 @@ from the eye to the brain. A faster signal is read as a sign of new myelin.
 ## Limits
 
 - Small (50 people), single center and short (150 days).
-- The main outcome is a nerve-signal measure, not something people feel. The abstract reports no
-  change in vision or disability that people would notice.
+- The main outcome is a nerve-signal measure, not something people feel. The trial showed no
+  established patient-important functional benefit. The abstract reports only the VEP result, but
+  the trial did measure visual function: a reviewer reports that the prespecified low-contrast
+  letter acuity result was +0.9 letters per eye (95% CI -0.1 to 1.9; p=0.085), and that a +1.6
+  letter result (p=0.022) came from a post hoc delayed-treatment analysis. Reported by a reviewer,
+  not checked here (the open full-text copy was blocked by the host site on 11/03/2026).
 - Only people with relapsing MS and optic nerve damage were included, so it does not show an effect
   in progressive MS or in other nerve pathways.
 - A later study gave clemastine to people with progressive MS and stopped that arm for safety (see

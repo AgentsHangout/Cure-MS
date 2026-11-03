@@ -59,14 +59,14 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2006-vitamin-d-munger](../evidence/2006-vitamin-d-munger.md) | 3 | In white US military personnel (148 cases), higher blood vitamin D before onset was associated with lower MS risk (OR 0.59 per 50 nmol/L); no link was seen in Black and Hispanic participants. |
 | [2018-sun-exposure-life-course-tremlett](../evidence/2018-sun-exposure-life-course-tremlett.md) | 3 | In 151 women with MS and 235 controls, living in high UV-B areas before onset was associated with a 45% lower MS risk. |
 | [2011-smoking-meta-analysis-handel](../evidence/2011-smoking-meta-analysis-handel.md) | 3 | Pooling 14 observational studies (3,052 cases), smoking was associated with about 1.5 times the MS risk. |
-| [2014-adolescent-obesity-hla-hedstrom](../evidence/2014-adolescent-obesity-hla-hedstrom.md) | 3 | In two Swedish case-control studies, obesity combined with HLA risk genes was associated with much higher MS risk (OR 16.2 and 13.8) than neither. |
+| [2014-adolescent-obesity-hla-hedstrom](../evidence/2014-adolescent-obesity-hla-hedstrom.md) | 3 | In a Swedish and a Northern California case-control study, high BMI at age 20 (27 or more, recalled) combined with HLA risk genes was associated with much higher MS risk (OR 16.2 and 13.8) than neither. |
 
 ### Geography and migration
 
 | File | Level | In short |
 | --- | --- | --- |
 | [2019-latitude-prevalence-simpson](../evidence/2019-latitude-prevalence-simpson.md) | 4 | Across 880 prevalence estimates, MS prevalence rose by about 4 to 5 per 100,000 per degree of latitude, and the gradient had grown since 2011. |
-| [2000-migrant-age-range-hammond](../evidence/2000-migrant-age-range-hammond.md) | 4 | Migrants from the UK and Ireland to Australia had lower prevalence than in their home countries (except in Hobart), with no clear difference by migration before or after age 15. |
+| [2000-migrant-age-range-hammond](../evidence/2000-migrant-age-range-hammond.md) | 4 | Migrants from the UK and Ireland to Australia had lower prevalence than in their home countries (except in Hobart), with no clear difference by migration before or after age 15 in this 2000 analysis; a 2011 reassessment by the same group corrected it and found lower risk for those who arrived before 15 (22.3 vs 53.9 per 100,000). |
 
 ### Investigations of reported clusters
 

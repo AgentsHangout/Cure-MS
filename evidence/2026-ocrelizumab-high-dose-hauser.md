@@ -1,4 +1,4 @@
-# MUSETTE and GAVOTTE: a higher dose of ocrelizumab did not slow progression more
+# MUSETTE and GAVOTTE: no additional benefit from a higher dose of ocrelizumab
 
 - **Citation:** Hauser SL, Giovannoni G, Montalban X, et al. Efficacy and safety of a bodyweight-adjusted higher dose of ocrelizumab in relapsing (MUSETTE) and primary progressive (GAVOTTE) multiple sclerosis: two multicentre, randomised, double-blind, parallel-group phase 3b trials. *Lancet*, 2026;407(10544):2180-2194.
 - **DOI or PMID:** [doi:10.1016/S0140-6736(26)00147-9](https://doi.org/10.1016/S0140-6736(26)00147-9), PMID [42208560](https://pubmed.ncbi.nlm.nih.gov/42208560/)
@@ -22,12 +22,14 @@ confirmed disability progression (EDSS, timed 25-foot walk or 9-hole peg test).
 - In GAVOTTE (753 people, primary progressive MS), 47% vs 49% (hazard ratio 0.95, 95% CI 0.76 to
   1.18; not significant).
 - Safety was similar between doses.
-- So in two trials, more of the same anti-CD20 drug did not further slow disability progression. The
-  trials were not designed to explain why.
+- So neither trial showed additional benefit from the higher dose on confirmed disability
+  progression. This does not show that the two doses are equivalent. The trials compared doses and
+  were not designed to explain the result.
 
 ## Limits
 
 - Compares two doses of the same drug; there was no placebo arm.
-- The outcome was composite confirmed disability progression, not PIRA specifically.
+- The outcome was composite confirmed disability progression, not PIRA specifically, so the trials
+  say nothing direct about PIRA.
 - Upper age limit of 56.
 - Funded by the drug's maker (F. Hoffmann-La Roche).

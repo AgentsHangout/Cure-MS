@@ -31,9 +31,17 @@ activity" (NEDA: no relapses, no new MRI lesions and no disability worsening).
 
 ## Limits
 
-- Observational, not randomized. The abstract does not say how the groups were chosen or whether
-  they were matched, so differences between the people in each group may explain part of the result.
+- Observational, not randomized, and not matched. According to the full text
+  ([PMC7841472](https://pmc.ncbi.nlm.nih.gov/articles/PMC7841472/)), treatment mostly followed each
+  center's local practice: Uppsala mainly used aHSCT and Sahlgrenska mainly used alemtuzumab, with
+  exceptions (for example, alemtuzumab at Uppsala when aHSCT was judged unsuitable or the person
+  asked for it). The groups differed at baseline: people given aHSCT were younger, had more relapses
+  in the prior year and higher disability scores. The authors argue that allocation by center limits
+  selection bias, but differences between centers and between the people treated may still explain
+  part of the result.
 - Small (144 people) and from Swedish centers only.
 - Compares aHSCT with one drug only. It does not show how aHSCT compares with anti-CD20 antibodies
   such as ocrelizumab.
-- Funding and conflicts are not described in the abstract.
+- Funded by Swedish medical societies, patient organizations, foundations and Swedish government
+  research funds (ALF), according to the full text. Several authors report lecture or advisory fees
+  from drug companies.

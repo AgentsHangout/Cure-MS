@@ -19,12 +19,19 @@ parenchymal fraction. Other MRI and retinal measures of tissue damage were secon
 - In a trial of 255 people, brain parenchymal fraction fell by 0.0010 per year with ibudilast vs
   0.0019 per year with placebo (difference 0.0009, 95% CI 0.00004 to 0.0017; P=0.04). The authors
   estimate this as about 2.5 ml less brain tissue loss over 96 weeks.
+- Disability progression on the EDSS, confirmed over 20 weeks, was a secondary outcome. The full
+  paper gives a hazard ratio of 0.74 with ibudilast vs placebo, with a 95% CI that crosses 1.00, so
+  the result is inconclusive: it neither shows a benefit nor rules one out. (A reviewer gives the CI
+  as 0.43 to 1.28; the full-text wording, checked here, only says the CI overlaps 1.00.)
 - Ibudilast was associated with more gastrointestinal side effects, headache and depression.
 
 ## Limits
 
 - The main outcome is an MRI measure of brain shrinkage, not disability or symptoms people feel. The
-  abstract does not report a difference in disability.
+  disability result was inconclusive (see above).
+- The statistical plan did not correct for multiple comparisons in secondary outcomes, so the
+  confidence intervals for secondary results are not adjusted and, as the authors say, should not be
+  used to infer definite treatment effects.
 - Phase 2 and modest in size; the 95% CI comes close to no effect.
 - A later phase 3 trial in progressive MS would be needed to show an effect people can feel. Note
   that for simvastatin, a positive phase 2 atrophy result was not confirmed on disability in phase 3

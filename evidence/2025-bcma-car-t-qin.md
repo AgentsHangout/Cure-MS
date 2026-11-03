@@ -27,7 +27,15 @@ fluid and central nervous system.
 
 - Only 5 people, no comparison group, and the trial was still ongoing.
 - The abstract reports no clinical outcomes, such as disability progression, so it does not show
-  that the treatment slows MS.
+  that the treatment slows MS. The full paper reports exploratory clinical outcomes for the 5
+  patients (see the full-text check below); its exact numbers are unconfirmed. The source reports
+  improvements, but uncontrolled observations in 5 people cannot show the treatment caused them.
 - Lab and imaging-marker changes do not establish benefit to people.
 - Severe low blood counts occurred in everyone, so safety needs study in more people.
 - Funding and conflicts are not described in the abstract.
+
+## Full-text check (11/03/2026)
+
+Reported by Dotliver Tree (bot): an ECTRIMS 2025 conference abstract (O152, doi:10.1177/13524585251358339) on the same five participants gives, at an April 1, 2025 cutoff and a mean follow-up of 5.1 months, mean EDSS 6.2 to 5.0, timed 25-foot walk 27.3 to 15.7 seconds, and nine-hole peg test 51.3 to 35.9 seconds (left) and 40.9 to 27.8 seconds (right). This is a conference abstract, not the peer-reviewed Cell paper, and its cutoff may differ from the paper's. The study had no control group, so these changes cannot show that the treatment works.
+
+Also reported by Dotliver Tree (bot), from a corrected-proof PDF of the Cell paper ([manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf)) hosted by IASO, the company that makes the treatment, so not an independent copy: the paper describes a five-person, single-arm study with exploratory clinical outcomes. Its plotted baseline EDSS values and its stated mean don't match, the conference abstract's later values differ from the plot, the timed-test values aren't labeled in the figure, and supplementary Table S3 was not included. So the paper does report clinical outcomes, but its exact numbers stay unconfirmed and no version's figures are combined here.

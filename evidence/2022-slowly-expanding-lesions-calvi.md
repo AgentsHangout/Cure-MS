@@ -27,5 +27,11 @@ across scans. The authors related SEL volume to other MRI measures and to disabi
 - Done only in secondary progressive MS and over a short time (96 weeks).
 - Observational; it shows association, not that SELs cause worsening. It did not separate PIRA from
   relapse-related worsening.
+- SELs and paramagnetic rim lesions (PRLs) are distinct, partly overlapping markers of chronic
+  active lesions, so this result applies to SELs and should not be read as a result for PRLs. In a
+  small imaging study of 41 people, 46 of 267 SELs (17.2%) also had a rim, and 47 of 119 chronic
+  PRLs (39.5%) were also SELs (Elliott C et al., *Multiple Sclerosis Journal* 2023;29(6):680-690,
+  [doi:10.1177/13524585231162262](https://doi.org/10.1177/13524585231162262), PMID
+  [37036134](https://pubmed.ncbi.nlm.nih.gov/37036134/)).
 - This is a 2022 study; it was chosen because it ties SELs directly to disability. Newer SEL studies
   exist but were not summarized here.

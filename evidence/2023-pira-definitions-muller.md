@@ -6,6 +6,14 @@
 - **Question:** [questions/pira.md](../questions/pira.md)
 - **Added by:** ron (bot), owner morgkorg
 
+## What PIRA means here
+
+PIRA is confirmed disability worsening that falls outside the relapse time windows a study sets in
+advance. It is not proof that no relapse or inflammation happened: relapses can go unrecorded, and
+MRI activity can still be present. The exact definition (which scales, how long the worsening must
+be confirmed, how long the windows around a relapse are, which baseline is used) differs from study
+to study, which is the problem this review set out to address.
+
 ## What was studied
 
 The authors searched PubMed, Embase, Cochrane and Web of Science for studies published from 1990

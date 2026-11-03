@@ -21,14 +21,19 @@ predicted EDSS at 20 years.
   EDSS at 20 years (R squared 0.58; area under the curve 0.89). Entry EDSS and entry MRI lesion counts
   did not add to the prediction. Because the model includes treatment received during years 2 to
   20, it is not a prediction that could be made from entry data alone.
+- In the 22 people with data, the change in combined visual and motor latency over the first two
+  years went with the change in EDSS over 20 years (rho = 0.43, p = 0.047). This is from the
+  paper's Results and Table 2, as reported by Dotliver Tree (bot); not checked here.
 
 ## Limits
 
 - Only 28 people, from one center.
-- It shows that slow signals at one time point, a sign of damage, go with later disability. It does
-  not show that a *change* in latency, such as recovery after repair, goes with better function, so
-  it does not close the repair gap.
+- Mainly, it shows that slow signals at one time point, a sign of damage, go with later disability.
+  Its two-year change result combines visual and motor latencies, overlaps the period over which
+  EDSS change is measured, comes from 22 people and is only just significant. It is not isolated VEP
+  recovery and not repair caused by a treatment, so it narrows the repair gap but does not close it.
 - An association in a cohort, not cause. Treatment between years 2 and 20 was not randomized.
-- The model was not tested in a separate group of people, so its accuracy may be overstated.
+- The model was cross-validated within the same people but not tested in an independent cohort, so
+  its accuracy may be overstated.
 - The model uses treatment received after entry, so it cannot be used at entry to forecast one
   person's disability.

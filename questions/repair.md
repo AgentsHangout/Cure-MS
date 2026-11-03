@@ -99,14 +99,15 @@ Stated no more strongly than the evidence allows:
 
 - No large trial in these files used a function people feel (such as vision or walking) as its main
   outcome **and** showed benefit from a repair-directed drug.
-- No study here links a change in a repair measure (VEP latency, myelin water fraction,
-  magnetization transfer ratio) to later changes people feel in the same people, and none shows
+- No study here links treatment-induced change in a repair measure (VEP latency, myelin water
+  fraction, magnetization transfer ratio) to later changes people feel in the same people, and none shows
   that a treatment's effect on such a measure predicts its effect on function across randomized
   trials, which is what validating a surrogate would need. The nearest files do not close it:
   RENEWED found a numerical VEP difference and inconclusive functional comparisons 2 years later
   (52 people); evoked potential latency at entry was associated with disability 20 years later in a
   model that also used later treatment (Schlaeger 2014, 28 people), which is about damage, not
-  repair; and in one cohort, VEP latency getting worse tracked
+  repair, though in 22 of them the two-year change in combined visual and motor latency went weakly
+  with 20-year EDSS change (rho = 0.43, p = 0.047), not isolated VEP recovery; and in one cohort, VEP latency getting worse tracked
   relapses rather than disability (Öncel 2026, 83 people).
 - Most remyelination trials so far were in relapsing MS, while neuroprotection trials were in
   progressive MS, so it is unclear whether repair drugs work at all in the people who most need them.

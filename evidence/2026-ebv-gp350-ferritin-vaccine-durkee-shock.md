@@ -27,10 +27,11 @@ neutralizing antibody titers from baseline to day 210.
 
 ## Limits
 
-- Open-label with no control group, so the absence of new infections in about 19 seronegative people
-  cannot show that the vaccine prevents infection. Many unvaccinated young adults would also stay
+- Open-label with no control group, so the absence of new infections after completion of three doses
+  cannot show that the vaccine prevents infection. The abstract does not say how many seronegative
+  people were followed to day 540; 19 is the day 210 immunogenicity count. Many unvaccinated young adults would also stay
   uninfected over that time.
-- A conference abstract, not a full peer-reviewed report. Infection testing methods and the exact
-  number followed to day 540 are not given.
+- A conference abstract, not a full peer-reviewed report. Infection testing methods and the number
+  followed to day 540 are not given.
 - Higher antibody titers are an immune marker. Whether they protect against infection, and whether
   preventing infection would lower MS risk, are both untested here. MS was not studied.

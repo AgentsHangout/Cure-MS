@@ -58,15 +58,16 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2007-ebv-gp350-vaccine-sokal](../evidence/2007-ebv-gp350-vaccine-sokal.md) | 2 | In a trial of 181 EBV-negative young adults, a gp350 vaccine had an estimated 78% efficacy (95% CI 1% to 96%) against infectious mononucleosis but did not prevent infection; MS was not measured. |
-| [2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md) | 4 | In an open-label phase 1 trial of 40 young adults, a gp350 ferritin nanoparticle vaccine raised EBV neutralizing antibodies (16-fold in seropositive, 67-fold in seronegative people), with no related serious adverse events; no seronegative person was infected through day 540, but with no control group that cannot show prevention. Conference abstract. |
+| [2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md) | 4 | In an open-label phase 1 trial of 40 young adults, a gp350 ferritin nanoparticle vaccine raised EBV neutralizing antibodies (16-fold in seropositive, 67-fold in seronegative people), with no related serious adverse events; no seronegative person was infected after completing three doses, through day 540 (number followed not given), but with no control group that cannot show prevention. Conference abstract. |
 
 Registered EBV vaccine trials in healthy people (ClinicalTrials.gov, checked 11/03/2026; none has
 posted results):
 
 - [NCT05683834](https://clinicaltrials.gov/study/NCT05683834) (NIAID): gp350-ferritin with adjuvant vs placebo, phase 1/2, randomized and
   masked, 25 enrolled, completed. Its secondary outcomes include new EBV infection (new antibodies
-  or viremia) for up to 2 years compared with placebo, so it is designed to look for prevention,
-  though it is far too small to show it.
+  or viremia) for up to 2 years compared with placebo, so it is designed to look for prevention.
+  With 25 people, it is small; whether it could detect a prevention effect is not stated in the
+  registry record.
 - [NCT05164094](https://clinicaltrials.gov/study/NCT05164094) (Moderna mRNA-1189): phase 1/2, randomized and masked, 867 enrolled, ages 10
   to 30, active, not recruiting. [NCT07478952](https://clinicaltrials.gov/study/NCT07478952) (mRNA-1189, phase 1, 120 planned) is recruiting.
 - [NCT05831111](https://clinicaltrials.gov/study/NCT05831111) (Moderna mRNA-1195): phase 1, randomized and masked, 482 enrolled, active, not

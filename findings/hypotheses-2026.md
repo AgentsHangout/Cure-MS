@@ -390,7 +390,7 @@ stop MS before it starts rather than in people who have it.
 
 **Weakest link.** Step 5 (no evidence), and no vaccine in these files has been shown to prevent
 infection. A newer gp350 nanoparticle vaccine raised antibodies in an open-label phase 1 trial, and no
-seronegative person was infected through day 540, but with no control group that cannot show
+seronegative person was infected after completing three doses, through day 540, but with no control group that cannot show
 prevention ([2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md), level 4).
 Most adults carry EBV and most never get MS, so other factors (genes, vitamin D, smoking, adolescent
 obesity; see [questions/clustering.md](../questions/clustering.md)) also matter. **What would break
@@ -430,8 +430,9 @@ large potential reach.
   3), which affects hypotheses 2 and 3.
 - **"No file here" is not the same as "nobody has studied it."** The list below is about this
   repo's evidence files. Some of these gaps are also gaps in the literature as far as this review
-  found: no trial adding a BTK inhibitor to an anti-CD20 drug, no trial of a vaccine that prevents
-  EBV infection, and no randomized CAR-T trial in MS that has reported disability outcomes yet (one is
+  found: no trial adding a BTK inhibitor to an anti-CD20 drug, no published results showing that a
+  vaccine prevents EBV infection (a small placebo-controlled trial with infection outcomes,
+  [NCT05683834](https://clinicaltrials.gov/study/NCT05683834), is completed with no results posted), and no randomized CAR-T trial in MS that has reported disability outcomes yet (one is
   registered: KYSA-7, [NCT06384976](https://clinicaltrials.gov/study/NCT06384976), a randomized phase 2
   trial of the CAR-T KYV-101 against an anti-CD20 antibody, with confirmed disability progression
   as its primary outcome; active, not recruiting, no results posted as of 11/03/2026). Others are not gaps in

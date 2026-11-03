@@ -81,6 +81,7 @@ links may run in either direction.
 | [2020-parity-disability-israel-achiron](../evidence/2020-parity-disability-israel-achiron.md) | 3 | In 2,281 women with relapsing-remitting MS, giving birth after onset went with lower risk of moderate disability (HR 0.68) but not severe disability; no dose-response. |
 | [2009-parity-secondary-progression-koch](../evidence/2009-parity-secondary-progression-koch.md) | 3 | In 277 women, number of births was not independently associated with secondary progression. |
 | [2020-reproductive-history-progressive-ms-zeydan](../evidence/2020-reproductive-history-progressive-ms-zeydan.md) | 3 and 4 | Women with MS had fewer full-term pregnancies than controls; fewer pregnancies and earlier menopause went with earlier progressive onset in a small clinic series. |
+| [2022-bazedoxifene-estrogen-menopause-trial-bove](../evidence/2022-bazedoxifene-estrogen-menopause-trial-bove.md) | 2 | A 2-month randomized pilot in 24 menopausal women with MS found hormone therapy feasible and well tolerated; hot-flash interference was lower but not significantly, and MS outcomes were not tested. |
 | [2025-menopausal-hormone-therapy-adipokines-juutinen](../evidence/2025-menopausal-hormone-therapy-adipokines-juutinen.md) | 4 | In 16 menopausal women with MS, one inflammation-related adipokine fell during a year of hormone therapy, with no comparison group and no clinical outcomes. |
 
 ### Puberty, menopause and the pill
@@ -178,8 +179,9 @@ Stated no more strongly than the evidence allows:
 - Age at first period, puberty timing, menopause and the pill now have files (all level 3). Earlier
   first period is associated with higher MS risk, but the one Mendelian randomization study suggests
   this runs largely through body weight. Number of births and later course now has files, with mixed results that
-  may reflect who chooses pregnancy. Hormone replacement therapy has only one 16-person marker study,
-  with no randomized trial of its effect on MS outcomes. Sex hormone levels measured before onset
+  may reflect who chooses pregnancy. Menopausal hormone therapy has one small randomized pilot (24
+  women, 2 months, focused on feasibility and hot flashes) and one 16-person marker study; no trial
+  here is designed or powered to test effects on MS activity or disability. Sex hormone levels measured before onset
   still have no file.
 - Nearly all numbers here come from abstracts. Several abstracts leave out details (the Canadian
   ratio in early birth years, regional ratios in the Atlas, the populations in the linkage study).
@@ -255,7 +257,8 @@ Searches not yet done:
 
 - Mendelian randomization of age at menopause and sex hormone levels on MS risk (age at puberty now
   has a file).
-- Randomized or well-controlled studies of menopausal hormone therapy on MS outcomes, and
+- Powered randomized trials of menopausal hormone therapy on MS outcomes (beyond the Bove 2022
+  pilot), and
   population-based studies of parity and later course that account for disease severity before
   pregnancy.
 - Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity. The IMSGC severity

@@ -23,7 +23,7 @@ reporting crude odds ratios (as reported by Dotliver Tree (bot) from the full te
 ## Limits
 
 - Only three studies, from two countries, so the pooled estimate rests on little data.
-- The included studies are observational and mostly case-control, where age at first period is
+- All three included studies are case-control studies, where age at first period is
   recalled after diagnosis, which can bias the result.
 - The pooled estimate is crude, so it is not adjusted for body weight or other factors.
 - The [Danish cohort](2017-age-at-menarche-danish-cohort-nielsen.md), which measured age at first

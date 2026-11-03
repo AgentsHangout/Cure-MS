@@ -68,7 +68,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. The abstract reports no clinical outcomes; the full paper reportedly describes short, uncontrolled clinical observations and a serious liver-enzyme elevation (reported by a reviewer, not checked here). |
-| [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. The abstract reports no clinical outcomes; the full paper reportedly reports exploratory clinical outcomes for the 5 patients, which are uncontrolled and not proof of efficacy (reported by a reviewer, not checked here). |
+| [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. The abstract reports no clinical outcomes. The paper reports exploratory clinical outcomes for the 5 patients (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf)); the exact values are inconsistent between versions, and without a control group they cannot show the treatment caused any change. |
 
 ## What the evidence so far suggests
 
@@ -88,9 +88,9 @@ Stated no more strongly than the evidence allows:
   More recent cohorts of relapsing-remitting MS reported 0 to 0.6% (level 3). Severe short-term side
   effects are common after aHSCT.
 - **CAR-T.** Only 7 people with MS are described in the two peer-reviewed reports here (level 4).
-  They show the cells can be given and can act in the spinal fluid; they do not yet show any effect
+  They show the cells can be given and can act in the spinal fluid; they cannot yet establish an effect
   on disability or relapses. The Qin paper includes exploratory clinical outcomes in its 5 patients
-  (seen by a reviewer in a corrected proof hosted by the treatment's maker; the exact values differ
+  (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf); the exact values differ
   between its figure, its text and a conference abstract, so none are quoted here); being uncontrolled, they could not show
   efficacy.
 

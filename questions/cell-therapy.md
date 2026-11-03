@@ -72,9 +72,11 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2024-ahsct-vs-natalizumab-progressive-kalincik](../evidence/2024-ahsct-vs-natalizumab-progressive-kalincik.md) | 3 | In progressive MS with advanced disability and low relapse activity, 39 aHSCT patients matched with 65 on natalizumab showed no evidence of a difference in confirmed worsening (HR 1.49, 95% CI 0.70 to 3.14); 6 needed intensive care. |
 | [2025-ahsct-outcome-factors-noui](../evidence/2025-ahsct-outcome-factors-noui.md) | 3 | In the same 174-person Swedish cohort as Silfverberg 2024, unadjusted analyses linked prior rituximab to less inflammatory activity after aHSCT and longer disease duration to more disability worsening. |
 
-Taken together, these fit the idea that aHSCT helps most when there is still inflammatory activity:
-the active SPMS cohort did better than comparators, while the progressive cohort with advanced
-disability and lower (not absent) relapse activity showed no evidence of benefit. Both are observational and small, so this is a pattern, not a test.
+Taken together, these are consistent with the idea that aHSCT matters most when there is still
+inflammatory activity: aHSCT was associated with less worsening in the active SPMS cohort, while no
+difference was shown in progressive MS with advanced disability and lower (not absent) relapse
+activity. Both are observational and small, and the difference between the two studies is not a
+tested interaction, so this is a pattern, not a test.
 
 ### CAR-T in MS
 

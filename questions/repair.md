@@ -53,6 +53,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2021-bexarotene-ccmr-one-brown](../evidence/2021-bexarotene-ccmr-one-brown.md) | 2 | In 52 people with relapsing-remitting MS, bexarotene did not change the main MRI myelin measure and was poorly tolerated; some exploratory signals. |
 | [2019-opicinumab-synergy-cadavid](../evidence/2019-opicinumab-synergy-cadavid.md) | 2 | In 419 people with relapsing MS, opicinumab showed no dose-response for confirmed disability improvement (49% on placebo; 40% to 65% across doses). |
 | [2026-opicinumab-affinity-calabresi](../evidence/2026-opicinumab-affinity-calabresi.md) | 2 | In 263 people with relapsing MS, opicinumab added to standard treatment did not meet its disability-response outcome (difference 0.15, 95% CI -0.05 to 0.35). |
+| [2017-opicinumab-renew-cadavid](../evidence/2017-opicinumab-renew-cadavid.md) | 2 | In 82 people after a first optic neuritis, opicinumab did not meet its main VEP latency outcome (-3.5 ms, p = 0.33); the per-protocol group showed more recovery (-7.6 ms, p = 0.050). |
+| [2025-opicinumab-renewed-aktas](../evidence/2025-opicinumab-renewed-aktas.md) | 2 | Two years after RENEW, in 52 of its 82 participants, VEP latency was numerically but not significantly better with opicinumab, and the authors report no benefit on visual acuity or other neurological functions. |
 
 ### Neuroprotection trials in progressive MS
 
@@ -69,6 +71,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2023-myelin-water-imaging-caverzasi](../evidence/2023-myelin-water-imaging-caverzasi.md) | 2 | In the 50 ReBUILD participants, myelin water fraction in the corpus callosum rose while people took clemastine; proposed as a trial measure of remyelination. |
 | [2017-clemastine-rebuild-green](../evidence/2017-clemastine-rebuild-green.md) | 2 | Also an example of VEP latency used as a trial's main measure of remyelination (listed above). |
+| [2014-evoked-potentials-20-year-schlaeger](../evidence/2014-evoked-potentials-20-year-schlaeger.md) | 3 | In 28 people, longer visual and motor evoked potential latencies at entry went with higher disability 20 years later (rho = 0.72). A sign of damage at one time point, not of repair. |
+| [2026-vep-change-relapses-oncel](../evidence/2026-vep-change-relapses-oncel.md) | 3 | In 83 people with relapsing-remitting MS over about 2 years, VEP latency getting longer went with relapses, not with worsening disability; amplitude loss had only a weak link to disability. |
 
 ## What the evidence so far suggests
 
@@ -98,7 +102,11 @@ Stated no more strongly than the evidence allows:
 - No study here links a change in a repair measure (VEP latency, myelin water fraction,
   magnetization transfer ratio) to later changes people feel in the same people, and none shows
   that a treatment's effect on such a measure predicts its effect on function across randomized
-  trials, which is what validating a surrogate would need.
+  trials, which is what validating a surrogate would need. The nearest files do not close it:
+  RENEWED found a numerical VEP difference and no reported functional benefit 2 years later (52
+  people); evoked potential latency at one time point predicts later disability (Schlaeger 2014, 28
+  people), which is about damage, not repair; and in one cohort, VEP latency getting worse tracked
+  relapses rather than disability (Öncel 2026, 83 people).
 - Most remyelination trials so far were in relapsing MS, while neuroprotection trials were in
   progressive MS, so it is unclear whether repair drugs work at all in the people who most need them.
 - No peer-reviewed metformin trial results were found; only protocols, plus a conference-stage

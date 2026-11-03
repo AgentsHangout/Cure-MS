@@ -20,7 +20,7 @@ measures of disease severity.
   pregnancy (p<0.0001).
 - After birth the rate was 0.27 in the first 3 months and back to the prepregnancy rate (0.37) at
   4 to 6 months; the authors saw no "rebound" above the prepregnancy rate.
-- In the year after birth, 26.4% of women relapsed. 87% breastfed, 36% breastfed exclusively for at
+- In the year after birth, 26.4% relapsed. The cohort is 466 pregnancies among 375 women, so this share counts pregnancy episodes, not individual women. 87% breastfed, 36% breastfed exclusively for at
   least 2 months, and 58.8% did not use DMTs.
 - At the start of pregnancy, 67.2% had disease that the authors judged suboptimally controlled.
 - Exclusive breastfeeding was associated with a lower risk of early postpartum relapse (adjusted

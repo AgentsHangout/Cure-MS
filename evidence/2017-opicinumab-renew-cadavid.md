@@ -30,14 +30,14 @@ start.
 
 - The main result was negative; the per-protocol results are secondary and do not make this a
   positive trial.
-- The main paper reports VEP latency, not vision people notice. A separate RENEW analysis of
+- The primary endpoint was VEP latency, not vision people notice. A separate RENEW analysis of
   exploratory vision outcomes in the per-protocol group (Petrillo J et al., *J Neuroophthalmol*
   2019, [doi:10.1097/WNO.0000000000000697](https://doi.org/10.1097/WNO.0000000000000697), PMID
   [30095536](https://pubmed.ncbi.nlm.nih.gov/30095536/)) found no significant between-group
   difference in patient-reported vision at any time point. High-contrast visual acuity in the
   affected eye recovered by 11.8 letters on placebo and 8.7 on opicinumab at week 24 (p = 0.202).
   Most people recovered substantially whichever group they were in. So the larger per-protocol VEP
-  recovery did not come with better vision. That paper's correlations between acuity and VEP are not
+  recovery did not establish better visual outcomes. That paper's correlations between acuity and VEP are not
   in its abstract and are not summarized here.
 - 82 people after a first episode of optic neuritis, so it does not tell us about long-standing
   damage or established MS.

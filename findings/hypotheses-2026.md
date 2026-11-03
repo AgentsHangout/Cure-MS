@@ -424,8 +424,8 @@ large potential reach.
   - No file showing that treating rim or slowly expanding lesions slows PIRA (hypothesis 2).
   - No file with BTK inhibitor and anti-CD20 combination data, or peer-reviewed fenebrutinib phase
     3 results (hypothesis 2).
-  - No file linking a change in a repair measure (VEP, myelin water fraction) to later function in
-    the same people (hypothesis 4). RENEWED, Schlaeger 2014 and Öncel 2026 are now files, and none
+  - No file linking a treatment-induced change in a repair measure (VEP, myelin water fraction) to
+    later function in the same people (hypothesis 4). RENEWED, Schlaeger 2014 and Öncel 2026 are now files, and none
     closes it (see [questions/repair.md](../questions/repair.md)).
   - No CAR-T report with a *controlled* clinical outcome; 7 people in total, and the only clinical
     measures are exploratory and uncontrolled, in 5 of them (hypothesis 5). The Qin paper reports

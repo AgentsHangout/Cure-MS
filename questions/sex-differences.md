@@ -86,8 +86,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md) | 3 | In 1,813 people with relapse-onset MS, secondary sex-stratified severity analyses found one genome-wide significant locus in women and a different one in men, for one severity measure only; small and unreplicated. |
 | [2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md) | 3 | In a multi-ancestry risk study (sex analyses in its Japanese and European subsets), 11 of 145 lead variants showed nominal sex differences, none surviving multiple-testing correction: tested, but inconclusive. |
-| [2022-x-linked-variants-uk-biobank-borziak](../evidence/2022-x-linked-variants-uk-biobank-borziak.md) | 3 | An X-chromosome-wide UK Biobank analysis reported 20 variants in 14 genes more common in people with MS; replication and adjustment details are not given in the abstract. |
-| [2014-x-chromosome-autoimmune-gwas-chang](../evidence/2014-x-chromosome-autoimmune-gwas-chang.md) | 3 | Methods for X-chromosome-wide studies, applied to 16 autoimmune disease data sets including two MS data sets; no MS-specific X finding in the abstract. |
+| [2022-x-linked-variants-uk-biobank-borziak](../evidence/2022-x-linked-variants-uk-biobank-borziak.md) | 3 | An X-chromosome-wide UK Biobank analysis reported 20 variants in 14 genes more common in people with MS; no independent validation, and its "20-fold" figure is a cross-sectional subgroup comparison, not incidence. |
+| [2014-x-chromosome-autoimmune-gwas-chang](../evidence/2014-x-chromosome-autoimmune-gwas-chang.md) | 3 | Methods for X-chromosome-wide studies, applied to 16 autoimmune disease data sets including two MS data sets; MS candidates were exploratory and not replicated between the MS data sets. |
 
 ### Sex hormone studies and trials
 

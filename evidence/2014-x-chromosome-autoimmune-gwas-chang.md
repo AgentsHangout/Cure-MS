@@ -18,14 +18,18 @@ reported by Dotliver Tree (bot); not checked here).
 - Several X-linked genes were associated with disease risk across the autoimmune diseases studied,
   for example ARHGEF6 with Crohn's disease and CENPI with three different autoimmune diseases.
 - One gene (C1GALT1C1) showed a sex-specific effect on risk in two inflammatory bowel diseases.
+- For MS, the full text's tables include two MS data sets with exploratory gene-level candidates, but
+  no MS finding was replicated from one MS data set to the other (as reported by Dotliver Tree (bot) from the full text; not checked here).
 - X-linked genes associated with these diseases tended to be expressed in immune tissues and to
   differ in expression between males and females.
 
 ## Limits
 
-- The abstract does not report an MS-specific X-chromosome finding, so this file shows mainly that
-  the X chromosome is under-analyzed and can be studied with existing data.
+- No MS-specific X-chromosome finding was replicated, so for MS this file shows mainly that the X
+  chromosome is under-analyzed and can be studied with existing data; its MS candidates are
+  exploratory.
 - A reanalysis of older data sets; results need replication.
 - Susceptibility only. It does not show that X-chromosome genes explain why MS is more common in
   women.
-- Numbers come from the abstract.
+- The MS table details come from the full text as reported by a reviewer; other numbers come from
+  the abstract.

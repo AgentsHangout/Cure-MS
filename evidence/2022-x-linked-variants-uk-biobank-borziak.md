@@ -16,14 +16,17 @@ An X-chromosome-wide analysis of MS susceptibility in UK Biobank genotyping data
 - 20 variants in 14 genes were reported as significantly more common in people with MS. The authors
   group the genes into immune pathways (for example LAMP2, F8, ELF4) and remyelination pathways (for
   example NSDHL, RBM10, AR, the androgen receptor gene).
-- In women, carrying variants linked to both myelination and immunity functions together was
-  reported to go with a 20-fold higher MS incidence.
+- The abstract reports a 20-fold higher MS incidence in women carrying variants linked to both
+  myelination and immunity. The full text's Table 2 shows cross-sectional frequencies of selected
+  variant combinations, not incidence or risk over time (as reported by Dotliver Tree (bot) from the full text; not checked here), so this is better read as
+  exploratory enrichment in women with MS, in rare subgroups.
 
 ## Limits
 
 - The abstract does not describe correction for population structure, the number of MS cases or
   replication in an independent sample, so these findings need confirmation.
-- The 20-fold figure comes from a co-occurrence analysis in a subgroup and is likely to be unstable.
+- The 20-fold figure is a cross-sectional comparison in rare variant-combination subgroups, with no
+  independent validation, and is not a measure of incidence.
 - The pathway labels (immunity, remyelination) are the authors' interpretation of gene functions,
   not tested mechanisms.
 - A published comment on the article exists (*Mult Scler Relat Disord* 2022;66:104190) and was not

@@ -9,8 +9,8 @@
 ## What was studied
 
 Two randomized, double-blind, double-dummy, event-driven phase 3 trials in relapsing MS. 1,873 people
-(974 in GEMINI 1, 899 in GEMINI 2) took tolebrutinib, a brain-penetrant BTK inhibitor (60 mg once
-daily), or teriflunomide (14 mg once daily). Median follow-up was 139 weeks. The main outcome was the
+(974 in GEMINI 1, 899 in GEMINI 2) were randomized to tolebrutinib, a brain-penetrant BTK inhibitor
+(60 mg once daily), or teriflunomide (14 mg once daily). Median follow-up was 139 weeks. The main outcome was the
 yearly relapse rate. The key secondary outcome was disability worsening confirmed over at least 6
 months, pooled across both trials.
 

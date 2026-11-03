@@ -79,7 +79,7 @@ disability.
 
 | # | Step | Evidence | Level |
 | --- | --- | --- | --- |
-| 1 | In a trial of 110 people with relapsing-remitting MS who kept relapsing on drugs, disability progressed in 3 after aHSCT vs 34 after switching drugs (HR 0.07), and mean EDSS fell in the first year after aHSCT. Median follow-up was 2 years; the abstract does not describe blinding. | [2019-ahsct-vs-drugs-trial-burt](../evidence/2019-ahsct-vs-drugs-trial-burt.md) (2) | 2 |
+| 1 | In a trial of 110 people with relapsing-remitting MS who kept relapsing on drugs, disability progressed in 3 after aHSCT vs 34 after switching drugs (HR 0.07), and mean EDSS fell in the first year after aHSCT. Median follow-up was 2 years. The full text says the neurologist rating EDSS was masked but relapse recording was not, ocrelizumab and alemtuzumab were excluded from the comparison arm, and crossover after 1 year limits longer comparison. | [2019-ahsct-vs-drugs-trial-burt](../evidence/2019-ahsct-vs-drugs-trial-burt.md) (2) | 2 |
 | 2 | In matched registry comparisons, aHSCT was associated with fewer relapses and more disability improvement than fingolimod, natalizumab, cladribine or alemtuzumab. | [2023-ahsct-vs-high-efficacy-drugs-kalincik](../evidence/2023-ahsct-vs-high-efficacy-drugs-kalincik.md) (3), [2026-ahsct-vs-cladribine-alemtuzumab-kalincik](../evidence/2026-ahsct-vs-cladribine-alemtuzumab-kalincik.md) (3), [2021-ahsct-vs-alemtuzumab-zhukovsky](../evidence/2021-ahsct-vs-alemtuzumab-zhukovsky.md) (3); Kebir 2026 meta-analysis in the [state-of-the-art finding, section 5](state-of-the-art-2026.md#5-cell-therapies-stem-cell-transplant-and-car-t) (3, very low certainty) | 3 |
 | 3 | In single-arm cohorts, about two thirds of people with relapsing-remitting MS were free of disease activity, or of disability worsening, about 10 years after aHSCT. | [2024-ahsct-sweden-cohort-silfverberg](../evidence/2024-ahsct-sweden-cohort-silfverberg.md) (3), [2021-ahsct-long-term-outcomes-boffa](../evidence/2021-ahsct-long-term-outcomes-boffa.md) (3), [2017-ahsct-meta-analysis-sormani](../evidence/2017-ahsct-meta-analysis-sormani.md) (3) | 3 |
 | 4 | Against ocrelizumab, today's common high-efficacy choice, the one matched comparison (110 people given aHSCT and 343 given ocrelizumab, 3 years) found no clear difference in relapses, worsening or improvement, with wide confidence intervals. So "better than the best current drugs" is not shown. | [2023-ahsct-vs-high-efficacy-drugs-kalincik](../evidence/2023-ahsct-vs-high-efficacy-drugs-kalincik.md) (3) | 3 |
@@ -88,8 +88,12 @@ disability.
 
 **Weakest link.** Step 4 (level 3, and a null result with wide uncertainty). The hypothesis that
 aHSCT "stops" MS better than today's best drugs rests on one short registry comparison with
-ocrelizumab (110 aHSCT and 343 ocrelizumab participants matched, 3 years) that found no clear difference, plus one randomized trial (step 1) whose comparison drugs
-date from 2005 to 2016. **What would break it:** randomized trials against current high-efficacy
+ocrelizumab (110 aHSCT and 343 ocrelizumab participants matched, 3 years) that found no clear difference, plus two small randomized trials: MIST (step 1), whose comparison drugs
+date from 2005 to 2016, and ASTIMS (21 people, aHSCT vs mitoxantrone; less MRI activity, no
+difference in disability progression; Mancardi GL et al., *Neurology* 2015,
+[doi:10.1212/WNL.0000000000001329](https://doi.org/10.1212/WNL.0000000000001329), PMID
+[25672923](https://pubmed.ncbi.nlm.nih.gov/25672923/)). Neither trial compared aHSCT with current
+high-efficacy drugs. **What would break it:** randomized trials against current high-efficacy
 drugs, with blinded disability ratings, finding no advantage; or late harms (cancers, other
 autoimmune disease, fertility) that the current files barely cover turning out to be common.
 
@@ -468,7 +472,7 @@ large potential reach.
 
 ## Changes after review (11/03/2026)
 
-A review by **Dotliver Tree** (reviewer bot) found seven places where this finding was worded more
+A review by **Dotliver Tree** (reviewer bot) found eight places where this finding was worded more
 strongly, or more weakly, than its sources. Each was checked against the source before it was
 changed. The fixes:
 
@@ -490,6 +494,10 @@ changed. The fixes:
   randomized antiviral MS trials plus one virology substudy, verified on PubMed with PMIDs, as leads for new evidence files.
 - **Hypothesis 2, GFAP sample size.** The 20% figure is now labeled a modeling estimate (level 5),
   kept apart from the level 3 observational association it is built on.
+- **Hypothesis 1, weakest link (a further point from the same review).** "One randomized trial"
+  changed to two small randomized trials, MIST and ASTIMS (Mancardi 2015, aHSCT vs mitoxantrone in
+  21 people). ASTIMS was verified on PubMed and Crossref (PMID 25672923); its numbers come from the
+  abstract. The steps and score were not changed.
 
 Scores after the review: 1 → 8, 2 → 7, 3 → 6, 4 → 5, 5 → 5 (up from 4), 6 → 3, 7 → 2. Only
 hypothesis 5's score changed. **The ranking is still a judgment made with a stated rubric, not a

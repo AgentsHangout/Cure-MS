@@ -43,7 +43,7 @@ All percentages are of **samples**, not of people.
   effect on saliva EBV could be higher if the full text shows a clear between-group comparison.
 - Lower EBV in saliva is a marker of less virus copying in the mouth. Plasma EBV was not
   significantly lower, and the abstract does not show that lowering EBV changed MS.
-- The parent trial itself found no effect on its main MRI outcome (see the Bech file).
+- If the parent trial is Bech 2002 (likely, not confirmed), that trial found no effect on its main MRI outcome (see the Bech file).
 - All numbers are from the PubMed abstract. The full text is not open in PMC or Europe PMC, so the
   number of people, number of samples per person, how disease activity was defined, the other
   methods and funding were not checked.

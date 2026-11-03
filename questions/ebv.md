@@ -58,7 +58,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2007-ebv-gp350-vaccine-sokal](../evidence/2007-ebv-gp350-vaccine-sokal.md) | 2 | In a trial of 181 EBV-negative young adults, a gp350 vaccine had an estimated 78% efficacy (95% CI 1% to 96%) against infectious mononucleosis but did not prevent infection; MS was not measured. |
-| [2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md) | 4 | In an open-label phase 1 trial of 40 young adults, a gp350 ferritin nanoparticle vaccine raised EBV neutralizing antibodies (16-fold in seropositive, 67-fold in seronegative people), with no related serious adverse events; no seronegative person was infected after completing three doses, through day 540 (number followed not given), but with no control group that cannot show prevention. Conference abstract. |
+| [2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md) | 4 | In an open-label phase 1 trial of 40 young adults, a gp350 ferritin nanoparticle vaccine raised EBV neutralizing antibodies (16-fold in seropositive, 67-fold in seronegative people), with no related serious adverse events; no seronegative person was infected after completing three doses, through day 540 (number followed not given), but with no control group that cannot show prevention. Conference abstract; registry results also posted (NCT04645147). |
 
 Registered EBV vaccine trials in healthy people (ClinicalTrials.gov, checked 11/03/2026; none has
 posted results):

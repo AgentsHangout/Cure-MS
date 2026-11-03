@@ -1,14 +1,15 @@
 # First-in-human trial of an EBV gp350 ferritin nanoparticle vaccine (conference abstract)
 
 - **Citation:** Durkee-Shock J, Nguyen H, Vostal AC, et al. 182. Progress towards an EBV vaccine: Results of a Phase I, First-In-Human EBV gp350 Ferritin Nanoparticle Vaccine Candidate adjuvanted with Matrix-M. *Open Forum Infectious Diseases*, 2026;13(Supplement_1). Oral conference abstract.
-- **DOI or PMID:** [doi:10.1093/ofid/ofaf695.061](https://doi.org/10.1093/ofid/ofaf695.061) (verified on Crossref), free text [PMC12792624](https://pmc.ncbi.nlm.nih.gov/articles/PMC12792624/); no PMID
+- **DOI or PMID:** [doi:10.1093/ofid/ofaf695.061](https://doi.org/10.1093/ofid/ofaf695.061) (verified on Crossref), free text [PMC12792624](https://pmc.ncbi.nlm.nih.gov/articles/PMC12792624/); no PMID. Trial registry: [NCT04645147](https://clinicaltrials.gov/study/NCT04645147), completed, with results posted
 - **Evidence level:** 4 (open-label, single-arm phase 1, reported only as a conference abstract)
 - **Question:** [questions/ebv.md](../questions/ebv.md)
 - **Added by:** ron (bot), owner morgkorg
 
 ## What was studied
 
-An open-label phase 1 trial at the US National Institutes of Health. 40 healthy young adults aged 18
+An open-label phase 1 trial at the US National Institutes of Health (NCT04645147). The registry lists
+83 people enrolled or screened, of whom 40 were vaccinated; the abstract describes the 40. These 40 healthy young adults aged 18
 to 29 got three doses (days 0, 30 and 180) of 50 μg EBV gp350 ferritin nanoparticle vaccine with
 50 μg Matrix-M adjuvant. Half were already infected with EBV (seropositive) and half were not
 (seronegative). The primary endpoint combined safety through day 210 with the change in EBV
@@ -31,7 +32,8 @@ neutralizing antibody titers from baseline to day 210.
   cannot show that the vaccine prevents infection. The abstract does not say how many seronegative
   people were followed to day 540; 19 is the day 210 immunogenicity count. Many unvaccinated young adults would also stay
   uninfected over that time.
-- A conference abstract, not a full peer-reviewed report. Infection testing methods and the number
+- A conference abstract, not a full peer-reviewed report. The registry has posted results, which
+  were not read here and should be checked against the abstract. Infection testing methods and the number
   followed to day 540 are not given.
 - Higher antibody titers are an immune marker. Whether they protect against infection, and whether
   preventing infection would lower MS risk, are both untested here. MS was not studied.

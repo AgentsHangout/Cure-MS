@@ -80,6 +80,13 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2025-menopause-disability-progression-bridge](../evidence/2025-menopause-disability-progression-bridge.md) | 3 | In 987 Australian women with relapse-onset MS, menopause was not associated with confirmed disability progression (HR 0.95, 95% CI 0.70 to 1.29) or conversion to secondary progressive MS. |
 | [2024-oral-contraceptives-uk-biobank-nova](../evidence/2024-oral-contraceptives-uk-biobank-nova.md) | 3 | In 181,058 UK Biobank women, pill use was not significantly associated with MS overall (ever use HR 1.30, 95% CI 0.93 to 1.82); higher risks appeared only in subgroups, such as women who never gave birth. |
 
+### Genetic studies split by sex
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md) | 3 | In 1,813 people with relapse-onset MS, secondary sex-stratified severity analyses found one genome-wide significant locus in women and a different one in men; small and unreplicated. |
+| [2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md) | 3 | In a multi-ancestry risk study (29,374 cases), 11 of 145 lead variants showed nominal sex differences, none surviving multiple-testing correction: tested, but inconclusive. |
+
 ### Sex hormone studies and trials
 
 | File | Level | In short |
@@ -138,10 +145,15 @@ Stated no more strongly than the evidence allows:
   America, and from non-European ancestry groups, are thin here.
 - No published phase 3 estriol trial and no published randomized testosterone trial results were
   found. A testosterone trial protocol (TOTEM RRMS) was seen but not verified.
-- No recent human genetic study that analyzes the X chromosome in depth, or tests for sex-specific
-  genetic effects in MS, was found in the searches checked (11/03/2026). The IMSGC risk map
-  ([2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md)) reports one X-chromosome variant,
-  and the IMSGC severity study
+- Sex-specific genetic effects have been tested, but not settled. For severity, a 1,813-person
+  MSBase study found one genome-wide significant locus in women and a different one in men in
+  secondary analyses ([2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md));
+  these need replication. For susceptibility, a multi-ancestry study found nominal sex differences
+  at 11 of 145 lead variants, none surviving correction for multiple testing
+  ([2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md)). No study
+  here analyzes the X chromosome in depth; the IMSGC risk map
+  ([2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md)) reports one X-chromosome
+  variant, and the larger IMSGC severity study
   ([2023-ms-severity-gwas-imsgc](../evidence/2023-ms-severity-gwas-imsgc.md)) reports no sex or
   X-chromosome analysis in its abstract; its full text was not checked.
 - Age at first period, puberty timing, menopause and the pill now have files (all level 3). Earlier

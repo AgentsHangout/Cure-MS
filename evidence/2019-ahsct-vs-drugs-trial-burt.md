@@ -38,11 +38,22 @@ year, confirmed on 2 visits 6 months apart.
 
 - Small trial. 103 of 110 stayed in the trial, 98 were assessed at 1 year, and only 23 were followed
   every year for 5 years (median follow-up 2 years).
-- The abstract does not describe blinding. A transplant cannot easily be hidden from participants or
-  doctors, which can affect a rated outcome like EDSS. Check the full text.
-- The comparison arm was a switch to another drug chosen at the time (2005 to 2016). The abstract
-  does not say which drugs were used, so it is not clear how many people got the high-efficacy drugs
-  used today, such as ocrelizumab. Check the full text.
+- Partly masked. According to the full text, the neurologist who rated EDSS (the main outcome) was
+  masked to treatment group, and all participants wore a wig at that visit so hair loss after
+  transplant would not reveal the group; but the physician who recorded relapses was not masked.
+  Participants and treating doctors knew which treatment was given.
+- The comparison arm was a drug chosen by each person's neurologist at the time (2005 to 2016).
+  According to the full text, ocrelizumab was excluded because it was not licensed until 2017, and
+  alemtuzumab was excluded because of concern about added risk if people later crossed over to
+  transplant. Natalizumab was the most common drug (21 of 55); 2 people received rituximab. So the
+  trial was not a dedicated comparison against a modern anti-CD20 regimen, or against alemtuzumab
+  as used today.
+- People in the drug group whose disability worsened after at least 1 year could cross over to
+  aHSCT (31 did), and 4 more left to have a transplant elsewhere. The authors note that crossover
+  prevented comparison of the two groups after 1 year and limited longer-term comparison of
+  secondary outcomes.
 - Only people with frequent relapses on treatment and moderate disability were included, so it says
   nothing about progressive MS or milder disease.
-- Funding is not described in the abstract.
+- Funded by charitable foundations, a family, a financial company (Morgan Stanley) and the UK
+  National Institute for Health Research Sheffield Clinical Research Facility; the full text states
+  there was no industry or pharmaceutical support.

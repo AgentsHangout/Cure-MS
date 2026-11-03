@@ -77,6 +77,18 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2018-ebv-specific-t-cells-pender](../evidence/2018-ebv-specific-t-cells-pender.md) | 4 | In an open-label phase 1 trial, 10 people with progressive MS received their own EBV-specific T cells; no serious adverse events, and 7 showed some improvement, with no control group. |
 
+### Anti-CD20 treatment and the immune response to EBV
+
+These measure immune responses to EBV, not how active the virus is. None measured EBV DNA in blood or
+saliva.
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2025-ocrelizumab-anti-ebv-igg-esposito](../evidence/2025-ocrelizumab-anti-ebv-igg-esposito.md) | 3 | In 58 people followed for about 4.8 years on ocrelizumab, anti-EBV IgG fell 8.2%, about as much as total IgG and anti-CMV IgG; the change was not associated with relapses, MRI activity or EDSS worsening. |
+| [2026-anti-cd20-ebv-t-cells-stoegbauer](../evidence/2026-anti-cd20-ebv-t-cells-stoegbauer.md) | 4 | In a cross-sectional study of 183 people, those on anti-CD20 drugs had fewer EBV-specific CD8+ and CD4+ T cells than controls and untreated MS, while general T-cell responses were preserved; EBV antibodies stayed higher. |
+| [2024-ocrelizumab-ebv-cd8-abbadessa](../evidence/2024-ocrelizumab-ebv-cd8-abbadessa.md) | 4 | In 41 people measured before and 6 and 12 months after starting ocrelizumab, CD8+ T cells multiplied less in response to EBV peptides; no comparison group. |
+| [2026-anti-cd20-antiviral-signatures-dorso](../evidence/2026-anti-cd20-antiviral-signatures-dorso.md) | 4 | In a small cross-sectional study, people on ocrelizumab had lower EBV-specific CD4+ T-cell responses, while CMV and SARS-CoV-2 responses were similar. |
+
 ### Infectious mononucleosis and timing
 
 | File | Level | In short |
@@ -125,6 +137,10 @@ Stated no more strongly than the evidence allows:
   primary endpoint was not achieved, but it has no posted results and there is still no
   peer-reviewed results paper. Detailed results are known only from company announcements, which
   are not sources under this repo's rules.
+- No file shows whether anti-CD20 drugs change EBV activity itself (EBV DNA in blood or saliva).
+  The four anti-CD20 files show lower EBV-specific T-cell responses (level 4) and an antibody fall
+  that matched the fall in all antibodies (level 3), and none links these changes to MS outcomes. In
+  the one file that tested a link, the antibody change was not associated with outcomes in 58 people.
 - Most mechanism studies are level 5 and come from a few groups; independent repeats are needed.
 - Infectious mononucleosis studies use hospital or clinic diagnoses. Age at first infection without
   symptoms is almost never measured.
@@ -175,8 +191,6 @@ Stated no more strongly than the evidence allows:
   file rather than given its own.
 - **Teriflunomide and EBV shedding.** Gold J et al., letter, *Mult Scler Relat Disord* 2022, PMID
   36544305 (seen in PubMed, not verified on Crossref or read).
-- **Anti-CD20 therapy and EBV immunity.** Stögbauer J et al., *J Neuroinflammation* 2026, PMID
-  42806375 (seen, not verified or read).
 - **EBV lytic-antigen T cells in MS.** Bjornevik K et al., *Sci Transl Med* 2026, PMID 42455903
   (seen, not verified or read).
 - **Antibody reactivity to EBNA1 and GlialCAM in people.** Sattarnezhad N et al., *PNAS* 2025, PMID

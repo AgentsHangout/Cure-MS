@@ -347,7 +347,10 @@ an antiviral or EBV-targeted T cells, alone or alongside B-cell depletion, might
 **Weakest link.** Steps 4 and 6 (no supporting evidence file in this repo; for step 4 the famciclovir pilot
 points against it, and a valacyclovir substudy in the literature found less EBV DNA in saliva only, not yet a file), and step 3 has no support either (one level 4 case that never measured EBV); steps 2 and 5 rest on level 5 and level 4. The strong level 3 association is about getting
 MS, not about what keeps it going. No file covers whether B-cell
-depletion already changes EBV activity, which matters for any "on top of anti-CD20" version.
+depletion already changes EBV activity itself, which matters for any "on top of anti-CD20" version.
+Four files show that anti-CD20 drugs go with lower EBV-specific T-cell responses and a general fall
+in antibodies, but none measured EBV DNA or linked these changes to MS outcomes (see
+[questions/ebv.md](../questions/ebv.md)).
 **What would break it:** a placebo-controlled trial in which an antiviral clearly lowers EBV activity
 but MS outcomes do not change.
 
@@ -426,8 +429,9 @@ large potential reach.
   as its primary outcome; active, not recruiting, no results posted as of 11/03/2026). Others are not gaps in
   the literature at all, only missing files here (see the antiviral leads below).
 - **Thin spots in the evidence files:**
-  - No file on whether B-cell depletion changes EBV activity, or whether that relates to its effect
-    on MS (hypotheses 5 and 6).
+  - No file on whether B-cell depletion changes EBV activity itself, or whether that relates to its
+    effect on MS (hypotheses 5 and 6). Four files now cover the immune response to EBV on anti-CD20
+    drugs; none measured EBV DNA or showed a link to outcomes.
   - No file showing that treating rim or slowly expanding lesions slows PIRA (hypothesis 2).
   - No file with BTK inhibitor and anti-CD20 combination data, or a full peer-reviewed fenebrutinib
     phase 3 trial report (hypothesis 2). A PubMed search on 11/03/2026 found neither (FENtrepid has

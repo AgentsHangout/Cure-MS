@@ -31,9 +31,9 @@ neutralizing antibody titers from baseline to day 210.
   through the last required visit (day 540).
 - The posted registry results, as reported by Dotliver Tree (bot), list EBV infection in 2 of the 20
   initially seronegative participants and infectious mononucleosis in 2 of the 20 during the
-  adverse-event reporting window; whether these are the same people is not reported, and the antibody analysis excluded four EBV-infected participants. The registry
-  does not give the timing, so these may have occurred before the third dose. Either way, some
-  vaccinated seronegative people did become infected, and the study cannot show protection.
+  adverse-event reporting window; whether these are the same people is not reported, and the antibody analysis excluded four EBV-infected participants. The registry does
+  not report when these events happened, so they cannot be aligned with the abstract's
+  post-third-dose observation. The study cannot show protection.
 
 ## Limits
 

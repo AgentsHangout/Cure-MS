@@ -67,7 +67,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2026-paramagnetic-rim-lesions-lauerer](../evidence/2026-paramagnetic-rim-lesions-lauerer.md) | 3 | In 862 people, having paramagnetic rim lesions was associated with higher risk of PIRA (HR 1.8) and, in exploratory analyses, with spinal fluid signs of inflammation inside the CNS and faster brain atrophy. |
 | [2022-slowly-expanding-lesions-calvi](../evidence/2022-slowly-expanding-lesions-calvi.md) | 3 | In 345 people with secondary progressive MS, more slowly expanding lesion volume was associated with more tissue loss and higher odds of disability progression. |
 | [2024-spinal-cord-atrophy-cagol](../evidence/2024-spinal-cord-atrophy-cagol.md) | 3 | In 445 people, PIRA was associated with faster spinal cord atrophy and about twice as many rim lesions, also in relapsing-remitting MS. |
-| [2023-ms-severity-gwas-imsgc](../evidence/2023-ms-severity-gwas-imsgc.md) | 3 | In 12,584 people with MS (replicated in 9,805), a DYSF-ZNF638 variant was associated with greater severity; two copies meant needing a walking aid a median 3.7 years sooner. Severity genes pointed to the nervous system, not the immune system. |
+| [2023-ms-severity-gwas-imsgc](../evidence/2023-ms-severity-gwas-imsgc.md) | 3 | In 12,584 people with MS (replicated in 9,805), a DYSF-ZNF638 variant was associated with greater severity; two copies meant needing a walking aid a median 3.7 years sooner. Severity heritability was enriched in nervous system tissues, which does not rule out immune roles; the worsening outcomes were not reported as PIRA. |
 
 ### Whether treatment changes smoldering lesions
 

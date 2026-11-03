@@ -10,8 +10,9 @@
 
 A genome-wide association study of MS severity rather than MS risk. Severity was the Age-Related MS
 Severity Score in 12,584 people with MS, and findings were replicated in another 9,805 people with
-MS. The authors also looked at brain tissue, heritability across tissues, and Mendelian randomization
-of possible protective factors.
+MS. The authors also tested longitudinal disability outcomes in 8,325 people (24-week confirmed EDSS
+worsening and time to needing a walking aid), and looked at brain tissue, heritability across
+tissues, and Mendelian randomization of possible protective factors (as reported by Dotliver Tree (bot) from the full paper; not checked here).
 
 ## What it found
 
@@ -19,8 +20,8 @@ of possible protective factors.
   carrying two copies of the risk version needed a walking aid a median of 3.7 years sooner, and had
   more brainstem and cortical damage in brain tissue.
 - A second region (DNM3-PIGC, rs149097173) showed a suggestive association.
-- Heritability of severity was enriched in central nervous system tissues, unlike MS risk genes,
-  which point to the immune system.
+- Heritability of severity was enriched in central nervous system tissues, whereas MS risk genes
+  are enriched in immune cells. This enrichment does not rule out immune contributions to severity.
 - Mendelian randomization suggested higher educational attainment may be protective.
 - The authors conclude that resilience of the brain and spinal cord, and possibly cognitive reserve,
   may shape how MS progresses.
@@ -28,9 +29,12 @@ of possible protective factors.
 ## Limits
 
 - One significant variant, with a modest average effect; it cannot predict an individual's course.
+- The disability-worsening outcomes were not reported as worsening independent of relapses (PIRA),
+  so this does not show that the variant drives PIRA specifically.
 - The severity score is a single-time ranking of disability for age, not a measured rate of change
   in each person.
 - The abstract does not report analyses by sex or of the X chromosome, so it does not answer
   whether severity genes differ between women and men. The full text was not available to check.
 - Mostly people of European ancestry.
-- Numbers come from the abstract.
+- The longitudinal cohort and outcome details come from the full paper as reported by a reviewer;
+  other numbers come from the abstract.

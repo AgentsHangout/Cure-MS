@@ -185,8 +185,9 @@ Stated no more strongly than the evidence allows:
   follow-up and shrinking denominators that differ from the company's headline; a company
   presentation, not a peer-reviewed report, so no file yet. A file should wait until the abstract can be read and checked for
   overlap with other CAR-T cohorts at the same meeting, or until a full peer-reviewed report appears.
-- Late harms after aHSCT in MS specifically (the EBMT late-effects survey pools diseases and counts gonadal
-  dysfunction among endocrine effects, but gives no MS-specific fertility outcomes) and health economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
+- Late harms after aHSCT in MS specifically (the EBMT late-effects survey pools diseases; its abstract names
+  gonadal dysfunction among late effects, but the checked abstract gives no MS-specific fertility
+  outcomes, and the paper's exact endpoint classification was not verified) and health economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
   not verified).
 
 ## Changes after review (11/03/2026)

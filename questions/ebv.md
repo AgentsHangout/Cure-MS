@@ -100,9 +100,14 @@ Stated no more strongly than the evidence allows:
 
 ## Gaps noticed so far
 
-- No randomized trial of an antiviral with MS clinical outcomes has published results. The STOP-MS
-  trial (famciclovir and spironolactone in progressive MS) has a published protocol and started
-  enrolling in 2025.
+- Older randomized antiviral trials did report MS clinical outcomes, and none showed a clear
+  benefit: acyclovir vs placebo in 60 people over 2 years (relapse rate 1.03 vs 1.57, p = 0.083, not
+  significant; Lycke J et al., *J Neurol* 1996, PMID [8936350](https://pubmed.ncbi.nlm.nih.gov/8936350/))
+  and valacyclovir vs placebo in 58 people over 2 years (non-significant trends; Friedman JE et al.,
+  *Mult Scler* 2005, PMID [15957509](https://pubmed.ncbi.nlm.nih.gov/15957509/)). These were not
+  designed around EBV, and neither has its own evidence file here yet. No newer antiviral trial
+  aimed at EBV has published MS clinical results; the STOP-MS trial (famciclovir and spironolactone
+  in progressive MS) has a published protocol and started enrolling in 2025.
 - No published trial of a newer EBV vaccine with efficacy results was found. No trial has tested whether any EBV vaccine changes MS risk.
 - The EMBOLD phase 2 results for ATA188 are known only from company announcements, which are not
   sources under this repo's rules.
@@ -171,3 +176,9 @@ Stated no more strongly than the evidence allows:
 - Studies of whether MS drugs that deplete B cells change EBV activity, and whether that relates to
   their effect on MS.
 - Independent repeats of the molecular mimicry findings (GlialCAM, anoctamin-2, alpha-crystallin B).
+
+## Changes after review (11/03/2026)
+
+- The gaps line on antiviral trials said none had published MS clinical outcomes. Older randomized
+  acyclovir (Lycke 1996) and valacyclovir (Friedman 2005) trials did, without a clear benefit; the
+  line now says so. Found by Dotliver Tree (bot) in review.

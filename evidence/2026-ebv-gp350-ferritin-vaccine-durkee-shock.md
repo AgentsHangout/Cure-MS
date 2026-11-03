@@ -18,8 +18,11 @@ neutralizing antibody titers from baseline to day 210.
 ## What it found
 
 - 16 of 20 seropositive and 19 of 20 seronegative people completed the primary endpoint at day 210.
-- Reactions were mild to moderate (mostly injection site pain and tenderness, fatigue, chills and
-  headache). There were no serious adverse events related to the vaccine.
+- The abstract describes reactions as mild to moderate (mostly injection site pain and tenderness,
+  fatigue, chills and headache), with no serious adverse events related to the vaccine. The posted
+  registry results, as reported by Dotliver Tree (bot), list grade 3 local reactions in 1
+  seronegative and 1 seropositive participant and grade 3 systemic reactions in 2 and 4, so not all
+  reactions were mild to moderate.
 - Neutralizing titers rose 16-fold in seropositive and 67-fold in seronegative people (p < 0.05). At
   day 210, seronegative people's titers were 3.2-fold higher than seropositive people's natural
   baseline titers, and they held from day 210 to day 360.

@@ -10,9 +10,12 @@
 
 A phase 3, double-blind, placebo-controlled trial of 1,131 people with secondary progressive MS who
 were no longer having relapses. They were randomly assigned 2:1 to tolebrutinib 60 mg daily (754) or
-placebo (377). Tolebrutinib is an oral BTK inhibitor that enters the brain and acts on B cells and on
-myeloid cells, including microglia, the brain's resident immune cells. The main outcome was
-disability progression confirmed over at least 6 months. Median follow-up was 133 weeks.
+placebo (377). "Nonrelapsing" meant no clinical relapses for at least 24 months before entry
+(per the trial registration, [NCT04411641](https://clinicaltrials.gov/study/NCT04411641)), plus
+documented disability progression in the 12 months before screening. Tolebrutinib is an oral BTK
+inhibitor that enters the brain and acts on B cells and on myeloid cells, including microglia, the
+brain's resident immune cells. The main outcome was disability progression on the EDSS confirmed over
+at least 6 months. Median follow-up was 133 weeks.
 
 ## What it found
 
@@ -27,8 +30,9 @@ disability progression confirmed over at least 6 months. Median follow-up was 13
 - Only people with non-relapsing secondary progressive MS were included, so it does not show an
   effect in other MS types. In relapsing MS, tolebrutinib did not lower relapses more than
   teriflunomide (GEMINI 1 and 2, PMID [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/)).
-- The outcome was confirmed disability progression in people without relapses, which is close to
-  PIRA but was not defined as PIRA.
+- The outcome was EDSS-based confirmed disability progression in people without recent relapses.
+  It was not defined as PIRA and is not interchangeable with a harmonized PIRA definition, which
+  sets its own relapse windows and confirmation rules.
 - The trial shows the drug slowed progression, not which mechanism (microglia, B cells or other) is
   responsible.
 - Liver injury is a safety concern for this drug.

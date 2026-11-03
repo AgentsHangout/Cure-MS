@@ -31,3 +31,9 @@ exploratory analyses they looked at spinal fluid markers and brain volume loss.
 - The confidence interval is wide, and only 104 PIRA events were seen.
 - The spinal fluid and atrophy results were exploratory.
 - Needs special MRI sequences that are not part of routine care everywhere.
+- PRLs and slowly expanding lesions (SELs) are distinct, partly overlapping markers of chronic active
+  lesions, so this result applies to PRLs and should not be read as a result for SELs. In a small
+  imaging study of 41 people, 47 of 119 chronic PRLs (39.5%) were also SELs, and 46 of 267 SELs
+  (17.2%) also had a rim (Elliott C et al., *Multiple Sclerosis Journal* 2023;29(6):680-690,
+  [doi:10.1177/13524585231162262](https://doi.org/10.1177/13524585231162262), PMID
+  [37036134](https://pubmed.ncbi.nlm.nih.gov/37036134/)).

@@ -16,7 +16,9 @@ and tissue integrity inside them with magnetization transfer ratio.
 
 ## What it found
 
-- Ibudilast lowered slowly enlarging lesion volume by 23% compared with placebo (p = 0.003).
+- Slowly enlarging lesion volume was 23% lower with ibudilast than with placebo (p = 0.003). This
+  refers to the baseline volume of tissue later classified as slowly enlarging, not a 23% shrinkage
+  of established lesions (as reported by Dotliver Tree (bot) from the full text; not checked here).
 - It also reduced the change in magnetization transfer ratio inside those lesions (0.22% per year,
   p = 0.04).
 - The full text also looked at clinical links: the analysis of SEL volume against confirmed

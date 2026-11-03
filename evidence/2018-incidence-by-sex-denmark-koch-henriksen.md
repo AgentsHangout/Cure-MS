@@ -18,7 +18,12 @@ age-period-cohort analysis and also looked at season of birth.
 
 - From the 1950-1959 onset period to 2000-2009, incidence in women more than doubled, from 5.91
   (95% CI 5.60-6.24) to 12.33 (11.91-12.75) per 100,000 per year.
-- In men, incidence rose by a modest 24%, from 4.52 (4.24-4.81) to 6.08 (5.79-6.38).
+- In men, incidence rose from 4.52 (4.24-4.81) to 6.08 (5.79-6.38) per 100,000 per year. The
+  abstract calls this "a modest 24% increase", but those two rates compute to an increase of about
+  34.5% (6.08 / 4.52 = 1.345). In the abstract the 24% is attached to these same two rates for men,
+  so it does not seem to describe a different measure. **The source's figures are not internally
+  consistent.** Both are given here as the abstract reports them; which is right was not resolved,
+  because the full text is not open.
 - For onset at age 50 or older, incidence rose 4.30-fold in women and 2.72-fold in men.
 - The female-to-male ratio rose over time and with year of birth. There was a significant birth
   cohort effect in addition to age and period effects. No significant season-of-birth effect was
@@ -33,3 +38,5 @@ age-period-cohort analysis and also looked at season of birth.
   stronger rise at older onset ages could partly reflect better diagnosis.
 - It shows trends by sex, not their causes.
 - One country with a mainly European-ancestry population.
+- The abstract's "24%" rise in men does not match its own rates (about 34.5%); see above. Check the
+  full paper before relying on either figure.

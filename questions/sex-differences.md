@@ -25,8 +25,10 @@ asks:
 ## Why it matters
 
 The sex difference is one of the largest and most consistent facts about MS, and it is not
-explained. If the ratio has changed within a few generations, something in the environment or way
-of life must be involved, since genes do not change that fast. Pregnancy is a natural experiment:
+explained. If the ratio has changed within a few generations, genes alone are unlikely to explain
+it, since they do not change that fast. But a changing ratio does not by itself prove an
+environmental cause: changes in ascertainment (how cases are found and diagnosed) and in the
+population have to be considered first. Pregnancy is a natural experiment:
 relapses fall late in pregnancy and rise after birth, which points to hormones or immune changes
 that might be studied. Sex chromosomes and hormones can be separated in animal studies, which helps
 decide which to study in people. And if men and women differ in how MS progresses, that matters for
@@ -57,7 +59,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2006-sex-ratio-canada-orton](../evidence/2006-sex-ratio-canada-orton.md) | 4 | In 27,074 Canadians with MS, the female-to-male ratio by year of birth rose for at least 50 years and exceeded 3.2 to 1 (r=0.84). |
-| [2018-incidence-by-sex-denmark-koch-henriksen](../evidence/2018-incidence-by-sex-denmark-koch-henriksen.md) | 4 | In 19,536 Danes with MS onset 1950-2009, incidence in women more than doubled (5.91 to 12.33 per 100,000 per year) while in men it rose 24% (4.52 to 6.08). |
+| [2018-incidence-by-sex-denmark-koch-henriksen](../evidence/2018-incidence-by-sex-denmark-koch-henriksen.md) | 4 | In 19,536 Danes with MS onset 1950-2009, incidence in women more than doubled (5.91 to 12.33 per 100,000 per year); in men it rose from 4.52 to 6.08. The abstract calls the rise in men 24%, but these rates compute to about 34.5%; the source's figures are inconsistent, and this was not resolved. |
 | [2020-global-prevalence-atlas-walton](../evidence/2020-global-prevalence-atlas-walton.md) | 4 | Country-reported data: about 2.8 million people live with MS worldwide, and females are twice as likely as males to live with MS. |
 
 ### Pregnancy and relapses after birth
@@ -66,7 +68,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [1998-pregnancy-relapse-prims-confavreux](../evidence/1998-pregnancy-relapse-prims-confavreux.md) | 3 | In 254 women (269 pregnancies), relapse rates fell from 0.7 per year before pregnancy to 0.2 in the third trimester, rose to 1.2 in the first 3 months after birth, then returned to the prepregnancy rate. |
 | [2020-postpartum-relapse-breastfeeding-langer-gould](../evidence/2020-postpartum-relapse-breastfeeding-langer-gould.md) | 3 | In 466 pregnancies (2008-2016), relapse rates fell from 0.37 before to 0.14-0.07 during pregnancy and were 0.27 in the first 3 months after birth, with no rise above the prepregnancy rate. |
-| [2024-pregnancy-dmt-relapse-yeh](../evidence/2024-pregnancy-dmt-relapse-yeh.md) | 3 | In 2,009 live births in the MSBase registry, the share of women relapsing after birth varied by treatment group, from 4.1% (ocrelizumab, 69 women) to 30.5% (natalizumab stopped early, 82 women). |
+| [2024-pregnancy-dmt-relapse-yeh](../evidence/2024-pregnancy-dmt-relapse-yeh.md) | 3 | In 2,009 live births in the MSBase registry, the share of pregnancies (resulting in live births) followed by a relapse within 6 months after birth varied by treatment group, from 4.1% (ocrelizumab, 3 of 73 pregnancies) to 30.5% (natalizumab stopped early, 25 of 82, a selected subset of 419 natalizumab pregnancies, not an exhaustive split). |
 
 ### Sex hormone studies and trials
 
@@ -74,7 +76,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2016-estriol-trial-voskuhl](../evidence/2016-estriol-trial-voskuhl.md) | 2 | In a phase 2 trial of 164 women on glatiramer acetate, relapse rate was 0.25 per year with added estriol vs 0.37 with placebo (rate ratio 0.63, 95% CI 0.37-1.05; p=0.077, against a pre-set p<0.10 threshold). |
 | [2007-testosterone-pilot-sicotte](../evidence/2007-testosterone-pilot-sicotte.md) | 4 | In 10 men, a year of testosterone gel was associated with better cognitive scores and slower brain atrophy than the untreated period before it, with no change in enhancing lesions; no placebo group. |
-| [2014-low-testosterone-men-bove](../evidence/2014-low-testosterone-men-bove.md) | 4 | In 96 men with early MS, 39% had low testosterone; lower testosterone was associated with higher disability (p=0.044) and, over time, with more cognitive decline (p=0.012). |
+| [2014-low-testosterone-men-bove](../evidence/2014-low-testosterone-men-bove.md) | 4 | In 96 men with early MS, 39% had low testosterone; lower testosterone was associated with higher disability after age adjustment (p=0.044), weakening to p=0.092 after also adjusting for leptin, and, in a 40-man cognitive subgroup, with more cognitive decline over time (p=0.012). |
 
 ### X chromosome and genetic findings
 
@@ -96,12 +98,16 @@ Stated no more strongly than the evidence allows:
 
 - **Size and trend.** Women live with MS about twice as often as men worldwide (level 4, country
   reports). In Canada and Denmark the ratio rose over decades, and in Denmark this came mostly from
-  rising incidence in women (level 4). A rise that fast points to environmental or lifestyle
-  change, as both sets of authors argue, but no study here measured what changed.
+  rising incidence in women (level 4). Both sets of authors argue that a rise that fast points to
+  environmental or lifestyle change. A changing sex ratio does not by itself show that: changes in
+  ascertainment (how cases are found and diagnosed, which may not have changed equally for women
+  and men) and in the population must also be considered, and no study here measured what
+  changed.
 - **Pregnancy.** Cohort studies (level 3) agree that relapses become less common late in pregnancy
   and more common in the months after birth. The rise after birth was large in the 1990s PRIMS
   cohort and smaller in a 2008-2016 US cohort. In a registry cohort, the size of the rise differed
-  by treatment group, but treatment was not randomized.
+  by treatment group (counted per pregnancy resulting in a live birth), but treatment was not
+  randomized.
 - **Hormones.** One phase 2 trial (level 2) of estriol added to glatiramer acetate in women showed
   fewer relapses that met its own relaxed threshold but not the usual 0.05 standard. Testosterone
   evidence is from one 10-man uncontrolled pilot and one cross-sectional study (level 4). None of
@@ -205,3 +211,13 @@ Searches not yet done:
   severity work.
 - Studies of MS in people with Klinefelter syndrome (XXY) or Turner syndrome (X0).
 - Sex ratio trends in non-European populations (for example Iran, Japan, Latin America).
+
+## Changes after review (11/03/2026)
+
+A review of #21 by **Dotliver Tree** (bot) raised the points below. Each point of fact was checked
+against the source before anything was changed.
+
+- **Koch-Henriksen 2018, rise in men.** The abstract's "24%" sits next to rates of 4.52 and 6.08, which compute to about 34.5%; confirmed in the PubMed abstract, where the 24% refers to the same rates for men. The figures are kept and the mismatch is flagged here and in the evidence file; not resolved, as the full text is not open.
+- **Yeh 2024, unit of count and NAT subsets.** Counts are pregnancies resulting in live births, not women (ocrelizumab 4.1% = 3 of 73), and NAT-A and NAT-C are selected subsets of 419 natalizumab pregnancies, not an exhaustive split; confirmed in the full text (PMC11502106) and corrected in the evidence file and summary row.
+- **Bove 2014, cognition sample and leptin adjustment.** The SDMT analyses used 40 men, not 96, and the age-adjusted EDSS association weakened from p=0.044 to p=0.092 after leptin adjustment; confirmed in the full text (PMC4188801, Table 3a) and corrected in the evidence file and summary row.
+- **Sex ratio and causes.** A changing sex ratio does not by itself prove environmental causes; ascertainment (how cases are found and diagnosed) and population changes must be considered. Reworded in "Why it matters", the evidence summary and the Orton file.

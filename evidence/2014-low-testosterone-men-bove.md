@@ -21,13 +21,20 @@ mean age of 40, mean EDSS 1.1 and mean disease duration 4.6 years.
   hypogonadism).
 - Lower testosterone and a lower testosterone-to-estradiol ratio went with higher body mass index
   and leptin, but not with vitamin D levels.
-- After adjusting for age, lower testosterone was associated with higher EDSS (p=0.044).
-- Higher testosterone at the start was associated with less decline in SDMT over time (p=0.012).
+- After adjusting for age, lower testosterone was associated with higher EDSS (p=0.044; 95 men in
+  this analysis). After also adjusting for leptin, a marker of body fat, the association weakened
+  and was no longer statistically significant (p=0.092). The authors say the study was likely
+  underpowered to show an association independent of adiposity.
+- The cognitive (SDMT) analyses used 40 men from a cognitive substudy, not all 96. In those 40,
+  higher testosterone at the start was associated with less decline in SDMT over time
+  (age-adjusted, p=0.012); cross-sectionally, testosterone was not correlated with SDMT (p=0.32).
 
 ## Limits
 
 - Association only. Low testosterone could be a result of MS, of body weight or of other factors,
   rather than a cause of disability.
-- 96 men from one clinical cohort, with mild disability on average; the p-values are modest.
+- 96 men from one clinical cohort (40 for the cognitive analyses), with mild disability on
+  average; the p-values are modest, and the EDSS association did not hold after adjusting for
+  leptin.
 - No men without MS were measured, so the study cannot say whether low testosterone is more common
   in men with MS than in other men.

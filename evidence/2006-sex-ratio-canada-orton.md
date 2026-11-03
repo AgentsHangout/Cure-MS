@@ -20,7 +20,9 @@ risk factors seem to act early in life, they calculated the sex ratio by year of
 - Year of birth was a significant predictor of the sex ratio (p<0.0001; rank correlation r=0.84).
 - The authors interpret the rise as a disproportionate increase in MS incidence in women, and argue
   that a change this fast must have environmental origins, possibly through a gene-environment
-  interaction. That is their interpretation; the study did not measure any exposure.
+  interaction. That is their interpretation; the study did not measure any exposure. A changing
+  sex ratio does not by itself prove an environmental cause: changes in ascertainment (how cases
+  are found and diagnosed) and in the population also have to be considered.
 
 ## Limits
 

@@ -11,8 +11,8 @@
 A Mendelian randomization study using summary genetic data on 14,802 people with MS and 26,703
 controls. Gene variants for body mass index (BMI) in childhood (from 47,541 people) and adulthood
 (from 322,154 people) were used, and multivariable analyses separated the two time points and
-adjusted for age at puberty. The UK Biobank (453,169 people) supplied alternative instruments for body size, not an
-independent sample of people with MS, so it is a check on the exposure measure, not a replication of
+adjusted for age at puberty. The authors describe a replication using alternative body-size instruments from the UK Biobank
+(453,169 people), but the MS outcome data were the same, so it is not an independent replication of
 the MS result (as reported by Dotliver Tree (bot) from the full paper; not checked here).
 
 ## What it found
@@ -22,8 +22,8 @@ the MS result (as reported by Dotliver Tree (bot) from the full paper; not check
 - After adjusting for adult BMI, there was little evidence of a direct childhood effect (OR 1.03, 95%
   CI 0.70 to 1.53), while adult BMI kept its effect (OR 1.43, 95% CI 1.01 to 2.03).
 - Adding age at puberty did not change this, and the alternative UK Biobank instruments gave
-  consistent results. The abstract reports no evidence of pleiotropy, but the full paper's MR-PRESSO
-  global test was significant, with similar results after outliers were removed (as reported by Dotliver Tree (bot) from the full paper; not checked here), so
+  consistent results. The abstract reports no evidence of pleiotropy, but in the full paper the MR-PRESSO
+  global test was significant in the UK Biobank childhood body size analysis, with similar results after outliers were removed (as reported by Dotliver Tree (bot) from the full paper; not checked here), so
   pleiotropy cannot be ruled out.
 
 ## Limits

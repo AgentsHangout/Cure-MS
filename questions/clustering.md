@@ -138,7 +138,8 @@ Stated no more strongly than the evidence allows:
 - **The Illinois cluster.** Check that the file does not suggest zinc or metals caused MS; the paper
   shows they occurred in the same place and time. A letter on the paper with an author reply exists
   (*Arch Environ Health* 2002;57(4):383) and has not been read.
-- **Full-text numbers.** All numbers come from abstracts. Where a file says the abstract lacks a
+- **Full-text numbers.** Most numbers come from abstracts; the Alzamanan 2025 effect sizes were read
+  in its full text, and Harroud 2021 details come from a reviewer's full-text read. Where a file says the abstract lacks a
   number, the full paper should be checked before any finding is written.
 
 ### Most useful searches still to do

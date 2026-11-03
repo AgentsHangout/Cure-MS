@@ -288,7 +288,7 @@ fluid and might remove those cells, quieting inflammation that drives progressio
 comparison group anywhere in the chain. Step 5 is no longer empty: clinical measures were recorded
 in 5 people and improved. But uncontrolled, unblinded measures over 3 to 9 months in 5 people cannot
 show that the treatment helps, and the evidence files do not report them, so this rests on a review
-of a paywalled full text. The step is scored 4 (case series), not higher.
+of a full text that could not be retrieved here. The step is scored 4 (case series), not higher.
 **What would break it:** early trials showing CNS plasma cells deplete but disability keeps
 worsening at the same rate, a controlled trial in which the open-label improvement does not repeat,
 or a safety profile (cytopenias, infections) that is too heavy for a slowly progressing illness.
@@ -328,7 +328,7 @@ an antiviral or EBV-targeted T cells, alone or alongside B-cell depletion, might
 | 1 | EBV infection comes before MS and is strongly associated with it: MS risk was 32 times higher after EBV infection in more than 10 million US military personnel; mononucleosis was associated with about 3 times the risk; EBV antibody changes appeared more than 20 years before onset. | [2022-epstein-barr-virus-bjornevik](../evidence/2022-epstein-barr-virus-bjornevik.md) (3), [2024-mononucleosis-cohort-england-goldacre](../evidence/2024-mononucleosis-cohort-england-goldacre.md) (3), [2026-mononucleosis-lab-confirmed-st-sauver](../evidence/2026-mononucleosis-lab-confirmed-st-sauver.md) (3); Grut 2026 in the [state-of-the-art finding, section 1](state-of-the-art-2026.md#1-what-causes-ms-especially-epstein-barr-virus) (3) | 3 |
 | 2 | Possible mechanisms: an MS spinal fluid antibody bound both EBNA1 and the brain protein GlialCAM, and EBNA1 immunization worsened disease in mice; in cells, certain NK and EBV-specific T cells killed GlialCAM-reactive cells. | [2022-ebna1-glialcam-mimicry-lanz](../evidence/2022-ebna1-glialcam-mimicry-lanz.md) (5), [2023-ebv-immune-control-vietzen](../evidence/2023-ebv-immune-control-vietzen.md) (5) | 5 |
 | 3 | Ongoing EBV activity keeps MS active after it has started. | Not shown. Reported in 1 case: no relapses for nearly five years on tenofovir-containing HIV treatment, with activity returning after a switch. **EBV was never measured in this case**, so it cannot show that EBV activity is what kept MS quiet or active: the person was being treated for HIV, the drugs act on other targets, and a single uncontrolled case cannot separate the drug from the natural course of the illness. It is consistent with the step, not support for it. | [2024-tenofovir-case-report-torkildsen](../evidence/2024-tenofovir-case-report-torkildsen.md) (a level 4 case, consistent with the idea but not support for it); none in support |
-| 4 | An antiviral lowers EBV activity in people with MS. | **Negative, not established.** The one file bearing on this points against it: in an open-label pilot of 30 people on natalizumab, famciclovir did not significantly lower EBV in saliva. No file here shows any antiviral lowering EBV activity in people with MS. In the literature (not yet a file), a valacyclovir substudy found less EBV DNA in saliva, not plasma (Höllsberg 2005, under gaps), without showing any MS benefit. Randomized antiviral trials in MS do exist in the literature and are not yet in this repo; see the gaps section below. | none in support (contradicted by [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md) (4)) |
+| 4 | An antiviral lowers EBV activity in people with MS. | **Not established, and mixed by drug and compartment.** The one file here points against it: in an open-label pilot of 30 people on natalizumab, famciclovir did not significantly lower EBV in saliva. No file here shows any antiviral lowering EBV activity in people with MS. In the literature (not yet a file), a valacyclovir substudy found less EBV DNA in saliva, not plasma (Höllsberg 2005, under gaps), without showing any MS benefit. Randomized antiviral trials in MS do exist in the literature and are not yet in this repo; see the gaps section below. | none in support (contradicted by [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md) (4)) |
 | 5 | Improvement follows EBV-targeted T cells (uncontrolled observations only). | Reported in 10 people with progressive MS in an open-label phase 1 trial, 7 showed some improvement with no control group. A placebo-controlled phase 2 trial was reported by its sponsor not to have met its main outcome, but has no peer-reviewed paper, so it is not evidence here. | [2018-ebv-specific-t-cells-pender](../evidence/2018-ebv-specific-t-cells-pender.md) (4) |
 | 6 | Lowering EBV activity changes relapses or disability. | None. An expert panel shortlisted licensed anti-EBV drugs for trials; that is a proposal, not efficacy. | none ([2025-anti-ebv-drug-repurposing-li](../evidence/2025-anti-ebv-drug-repurposing-li.md) (6) proposes testing) |
 
@@ -420,7 +420,7 @@ large potential reach.
     people (hypothesis 4).
   - No CAR-T report with a *controlled* clinical outcome; 7 people in total, and the only clinical
     measures are exploratory and uncontrolled, in 5 of them (hypothesis 5). The evidence file for
-    the Qin report does not carry those measures, because its full text is paywalled and its
+    the Qin report does not carry those measures, because its full text could not be retrieved here (the publisher labels it open access, but automated retrieval failed) and its
     abstract gives no clinical outcomes; they are relayed here from a review.
   - No peer-reviewed results for the EMBOLD EBV T-cell trial (hypothesis 6); no infection-preventing
     EBV vaccine trial (hypothesis 7). Both appear to be genuine gaps in the literature.
@@ -475,7 +475,7 @@ changed. The fixes:
 - **Hypothesis 5, step 5, weakest link and score.** The step said there were no clinical outcomes.
   Reworded to exploratory, uncontrolled measures in 5 people that cannot show benefit, level raised
   from none to 4, and the score from 4 to 5 (A 0 to 1). The outcomes come from a peer-reviewed
-  review of the paywalled Qin 2025 full text, not from the full text itself, which was not read.
+  review of the Qin 2025 full text, not from the full text itself, which could not be retrieved here.
 - **Hypothesis 1, step 4.** "110 people" was the aHSCT arm, not the whole comparison. Corrected to
   110 aHSCT and 343 ocrelizumab participants, confirmed in the paper's own matched-cohort table.
 - **Hypothesis 6, step 4.** The antiviral step now says plainly that the evidence is negative and
@@ -486,8 +486,8 @@ changed. The fixes:
 - **Hypothesis 2, "What would break it".** Added a dated caveat that tolebrutinib's PERSEUS trial in
   primary progressive MS has already missed its mark, distinguishing PERSEUS (PPMS) from HERCULES
   (nrSPMS) and noting that neither trial tests the anti-CD20 combination this hypothesis rests on.
-- **Gaps.** Separated "no file in this repo" from "not in the literature", and added four
-  randomized antiviral MS trials, verified on PubMed with PMIDs, as leads for new evidence files.
+- **Gaps.** Separated "no file in this repo" from "not in the literature", and added three
+  randomized antiviral MS trials plus one virology substudy, verified on PubMed with PMIDs, as leads for new evidence files.
 - **Hypothesis 2, GFAP sample size.** The 20% figure is now labeled a modeling estimate (level 5),
   kept apart from the level 3 observational association it is built on.
 
@@ -497,7 +497,7 @@ result.**
 
 Two things could not be confirmed here and are worded cautiously above rather than dropped:
 
-- The Qin 2025 full text is behind a paywall (Europe PMC lists it as subscription-only) and its
+- The Qin 2025 full text could not be retrieved here (the publisher labels it open access, but automated retrieval failed, and Europe PMC listed no free copy) and its
   abstract reports no clinical outcomes, so the EDSS and Nine-Hole Peg Test improvements are taken
   from Bradhurst 2026, a peer-reviewed open-access review. **Walking measures were not confirmed
   anywhere accessible here; the step says they are reported in the full text, not checked here.**

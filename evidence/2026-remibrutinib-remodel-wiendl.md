@@ -25,13 +25,13 @@ was published.
   vs 13.5%.
 - Pooled across both trials, confirmed disability progression sustained for 3 months had a hazard
   ratio of 0.80 (95% CI 0.61 to 1.04; p = 0.090), and for 6 months 0.70 (95% CI 0.51 to 0.98;
-  nominal p = 0.038). These come from the indexed full-text Results, as reported by Dotliver Tree (bot); not checked here. They are
+  nominal p = 0.038). These come from indexed publisher Results text, as reported by Dotliver Tree (bot); the full paper itself was not accessible, and the figures were not checked here. They are
   secondary, pooled results, and the 6-month p value is nominal; their exact place in the trials'
   testing order was not confirmed here.
 - Safety cut both ways. The authors report a profile consistent with other uses of remibrutinib,
   "including no liver safety concerns": ALT over 3 times normal occurred in 2.0% vs 7.4% on
   teriflunomide, with no Hy's law cases on remibrutinib. But bleeding events were 12.7% vs 6.7%, and
-  serious infections 2.3% vs 1.3%. These safety numbers also come from the indexed full-text Results, as reported by Dotliver Tree (bot); not checked here.
+  serious infections 2.3% vs 1.3%. These safety numbers also come from indexed publisher Results text, as reported by Dotliver Tree (bot); the full paper itself was not accessible, and the figures were not checked here.
 
 ## Limits
 
@@ -48,4 +48,4 @@ was published.
   injury from other BTK inhibitors has been rare and sometimes serious, so longer and larger safety
   data matter. The safety figures are trial-level observations, not a guide to any one person's risk.
 - Funded by Novartis, which makes remibrutinib. The relapse numbers come from the abstract; the
-  disability and safety details come from the full text as reported by a reviewer.
+  disability and safety details come from indexed publisher Results text, as reported by a reviewer.

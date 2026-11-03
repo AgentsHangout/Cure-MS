@@ -22,8 +22,9 @@ and whether ocrelizumab changed them.
 - Most of the build-up of T1-hypointense lesion volume came from chronic activity inside old lesions,
   not from new lesions. SELs lost more T1 signal and built up more T1-hypointense volume than other
   parts of old lesions.
-- In the placebo group (the prediction analysis was done in placebo-treated people only, as reported by Dotliver Tree (bot) from the full paper; not checked here),
-  chronic activity inside old lesions, both in SELs and elsewhere, predicted later composite
+- In the placebo group (the prediction analysis used 167 placebo-treated people, with MRI change
+  measured through week 120 and progression assessed after that, as reported by Dotliver Tree (bot)
+  from the full paper; not checked here), chronic activity inside old lesions, both in SELs and elsewhere, predicted later composite
   progression, with consistent trends on each part of the composite. Whole-brain volume loss and
   T1-hypointense build-up in new lesions did not predict it at the population level.
 - Ocrelizumab reduced these measures of chronic lesion activity, both in SELs and in other parts of

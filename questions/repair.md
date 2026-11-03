@@ -103,9 +103,10 @@ Stated no more strongly than the evidence allows:
   magnetization transfer ratio) to later changes people feel in the same people, and none shows
   that a treatment's effect on such a measure predicts its effect on function across randomized
   trials, which is what validating a surrogate would need. The nearest files do not close it:
-  RENEWED found a numerical VEP difference and no reported functional benefit 2 years later (52
-  people); evoked potential latency at one time point predicts later disability (Schlaeger 2014, 28
-  people), which is about damage, not repair; and in one cohort, VEP latency getting worse tracked
+  RENEWED found a numerical VEP difference and inconclusive functional comparisons 2 years later
+  (52 people); evoked potential latency at entry was associated with disability 20 years later in a
+  model that also used later treatment (Schlaeger 2014, 28 people), which is about damage, not
+  repair; and in one cohort, VEP latency getting worse tracked
   relapses rather than disability (Öncel 2026, 83 people).
 - Most remyelination trials so far were in relapsing MS, while neuroprotection trials were in
   progressive MS, so it is unclear whether repair drugs work at all in the people who most need them.

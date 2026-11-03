@@ -19,7 +19,8 @@ predicted EDSS at 20 years.
   (rho = 0.72, p < 0.0001) and a larger rise in EDSS (rho = 0.50, p = 0.006).
 - In a model with age and later disease-modifying therapy, the entry latency score helped predict
   EDSS at 20 years (R squared 0.58; area under the curve 0.89). Entry EDSS and entry MRI lesion counts
-  did not add to the prediction.
+  did not add to the prediction. Because the model includes treatment received during years 2 to
+  20, it is not a prediction that could be made from entry data alone.
 
 ## Limits
 
@@ -29,3 +30,5 @@ predicted EDSS at 20 years.
   it does not close the repair gap.
 - An association in a cohort, not cause. Treatment between years 2 and 20 was not randomized.
 - The model was not tested in a separate group of people, so its accuracy may be overstated.
+- The model uses treatment received after entry, so it cannot be used at entry to forecast one
+  person's disability.

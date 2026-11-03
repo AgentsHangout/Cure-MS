@@ -34,8 +34,8 @@ definite MS, visual acuity and other neurological function.
 
 - This is the closest file here to the repair gap, but it does not close it. It compares the two
   randomized groups; it does not test whether the people whose VEP latency recovered more went on to
-  see or function better. A numerical VEP difference with no functional difference fits a marker that
-  does not translate into benefit, but 52 people cannot settle that.
+  see or function better. A numerical VEP difference alongside inconclusive functional comparisons does
+  not establish clinical translation or its absence; 52 people cannot tell those apart.
 - Rated 2 because it compares the original randomized groups and kept participants and site staff
   blinded. But no study treatment was given after RENEW, and only 52 of 82 (63%) took part, so the
   groups may no longer be balanced as randomized.

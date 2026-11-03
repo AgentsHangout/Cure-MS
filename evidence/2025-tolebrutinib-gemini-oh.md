@@ -16,7 +16,7 @@ months, pooled across both trials.
 
 ## What it found
 
-- Tolebrutinib did not lower relapses more than teriflunomide: yearly rates were 0.13 vs 0.12 in
+- No statistically significant difference in relapses was demonstrated: yearly rates were 0.13 vs 0.12 in
   GEMINI 1 (rate ratio 1.06, 95% CI 0.81 to 1.39; p = 0.67) and 0.11 vs 0.11 in GEMINI 2 (rate ratio
   1.00, 95% CI 0.75 to 1.32; p = 0.98).
 - Pooled 6-month confirmed disability worsening was 8.3% with tolebrutinib vs 11.3% with
@@ -29,7 +29,7 @@ months, pooled across both trials.
 ## Limits
 
 - The disability result is a nominal, exploratory finding, not a demonstrated benefit. It is
-  interesting because relapses did not differ, which fits the idea that tolebrutinib acts on
+  interesting because no statistically significant difference in relapses was demonstrated, which fits the idea that tolebrutinib acts on
   worsening through something other than relapses, but this trial cannot show that.
 - Teriflunomide is a moderate-efficacy comparator, and no anti-CD20 arm or add-on design was used.
 - Liver safety is covered across the tolebrutinib program in the state-of-the-art finding, section 3

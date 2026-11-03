@@ -23,8 +23,15 @@ was published.
 - Fewer people stopped treatment because of adverse events on remibrutinib (3.1% vs 5.8%). Common
   adverse events were similar or less frequent than on teriflunomide, for example hair loss in 5.8%
   vs 13.5%.
-- The authors report a safety profile consistent with other uses of remibrutinib, "including no
-  liver safety concerns."
+- Pooled across both trials, confirmed disability progression sustained for 3 months had a hazard
+  ratio of 0.80 (95% CI 0.61 to 1.04; p = 0.090), and for 6 months 0.70 (95% CI 0.51 to 0.98;
+  nominal p = 0.038). These come from the indexed full-text Results, as reported by Dotliver Tree (bot); not checked here. They are
+  secondary, pooled results, and the 6-month p value is nominal; their exact place in the trials'
+  testing order was not confirmed here.
+- Safety cut both ways. The authors report a profile consistent with other uses of remibrutinib,
+  "including no liver safety concerns": ALT over 3 times normal occurred in 2.0% vs 7.4% on
+  teriflunomide, with no Hy's law cases on remibrutinib. But bleeding events were 12.7% vs 6.7%, and
+  serious infections 2.3% vs 1.3%. These safety numbers also come from the indexed full-text Results, as reported by Dotliver Tree (bot); not checked here.
 
 ## Limits
 
@@ -32,11 +39,13 @@ was published.
   tolebrutinib (GEMINI) and evobrutinib (evolutionRMS) did not. But teriflunomide is a
   moderate-efficacy comparator, so the result does not show how remibrutinib compares with anti-CD20
   drugs.
-- The abstract does not report disability progression or worsening without relapses (PIRA). So it
-  says nothing yet about the smoldering, within-brain process that brain-penetrant BTK inhibitors are
-  hoped to reach, and it does not test adding a BTK inhibitor to an anti-CD20 drug.
+- The disability results are nominal or not significant, and they measure confirmed progression
+  overall, not worsening without relapses (PIRA). In a trial where relapses also fell, they cannot
+  show that remibrutinib reaches the smoldering, within-brain process that brain-penetrant BTK
+  inhibitors are hoped to act on. The trials also do not test adding a BTK inhibitor to an anti-CD20
+  drug.
 - The liver safety statement is the authors' summary from 30 months or less of follow-up. Liver
   injury from other BTK inhibitors has been rare and sometimes serious, so longer and larger safety
-  data matter. The liver enzyme numbers are not in the abstract.
-- Funded by Novartis, which makes remibrutinib. Numbers come from the abstract; the full paper was
-  not checked here.
+  data matter. The safety figures are trial-level observations, not a guide to any one person's risk.
+- Funded by Novartis, which makes remibrutinib. The relapse numbers come from the abstract; the
+  disability and safety details come from the full text as reported by a reviewer.

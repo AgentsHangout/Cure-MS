@@ -79,14 +79,15 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 ### Anti-CD20 treatment and the immune response to EBV
 
-These measure immune responses to EBV, not how active the virus is. None measured EBV DNA in blood or
-saliva.
+Most of these measure immune responses to EBV, not how active the virus is. Only Bjornevik 2026
+measured EBV DNA, in saliva and B cells, and its saliva result rests on five treated people.
 
 | File | Level | In short |
 | --- | --- | --- |
 | [2025-ocrelizumab-anti-ebv-igg-esposito](../evidence/2025-ocrelizumab-anti-ebv-igg-esposito.md) | 3 | In 58 people followed for about 4.8 years on ocrelizumab, anti-EBV IgG fell 8.2%, about as much as total IgG and anti-CMV IgG; the change was not associated with relapses, MRI activity or EDSS worsening. |
 | [2026-anti-cd20-ebv-t-cells-stoegbauer](../evidence/2026-anti-cd20-ebv-t-cells-stoegbauer.md) | 4 | In a cross-sectional study of 183 people, those on anti-CD20 drugs had fewer EBV-specific CD8+ and CD4+ T cells than controls and untreated MS, while general T-cell responses were preserved; EBV antibodies stayed higher. |
 | [2024-ocrelizumab-ebv-cd8-abbadessa](../evidence/2024-ocrelizumab-ebv-cd8-abbadessa.md) | 4 | In 41 people measured before and 6 and 12 months after starting ocrelizumab, CD8+ T cells multiplied less in response to EBV peptides; no comparison group. |
+| [2026-ebv-lytic-cd4-anti-cd20-bjornevik](../evidence/2026-ebv-lytic-cd4-anti-cd20-bjornevik.md) | 4 (3 for MS vs controls) | EBV-specific CD4+ T cells, mostly against late lytic antigens, were about twice as high in untreated MS as in controls; starting anti-CD20 therapy lowered them, and no EBV DNA was detected in saliva in five treated people. |
 | [2026-anti-cd20-antiviral-signatures-dorso](../evidence/2026-anti-cd20-antiviral-signatures-dorso.md) | 4 | In a small cross-sectional study, people on ocrelizumab had lower EBV-specific CD4+ T-cell responses, while CMV and SARS-CoV-2 responses were similar. |
 
 ### Infectious mononucleosis and timing
@@ -137,10 +138,12 @@ Stated no more strongly than the evidence allows:
   primary endpoint was not achieved, but it has no posted results and there is still no
   peer-reviewed results paper. Detailed results are known only from company announcements, which
   are not sources under this repo's rules.
-- No file shows whether anti-CD20 drugs change EBV activity itself (EBV DNA in blood or saliva).
-  The four anti-CD20 files show lower EBV-specific T-cell responses (level 4) and an antibody fall
-  that matched the fall in all antibodies (level 3), and none links these changes to MS outcomes. In
-  the one file that tested a link, the antibody change was not associated with outcomes in 58 people.
+- Whether anti-CD20 drugs lower EBV activity itself is barely tested. One file measured EBV DNA:
+  no salivary shedding was detected in five treated people (Bjornevik 2026, level 4), which is not
+  proof the virus was cleared. The other anti-CD20 files show lower EBV-specific T-cell responses
+  (level 4) and an antibody fall that matched the fall in all antibodies (level 3). None shows that
+  these changes predict or explain MS outcomes; in the one file that tested a link, the antibody
+  change was not associated with outcomes in 58 people.
 - Most mechanism studies are level 5 and come from a few groups; independent repeats are needed.
 - Infectious mononucleosis studies use hospital or clinic diagnoses. Age at first infection without
   symptoms is almost never measured.
@@ -191,8 +194,6 @@ Stated no more strongly than the evidence allows:
   file rather than given its own.
 - **Teriflunomide and EBV shedding.** Gold J et al., letter, *Mult Scler Relat Disord* 2022, PMID
   36544305 (seen in PubMed, not verified on Crossref or read).
-- **EBV lytic-antigen T cells in MS.** Bjornevik K et al., *Sci Transl Med* 2026, PMID 42455903
-  (seen, not verified or read).
 - **Antibody reactivity to EBNA1 and GlialCAM in people.** Sattarnezhad N et al., *PNAS* 2025, PMID
   40063790 (seen, not verified or read); would help say how common cross-reactive antibodies are.
 - **Pediatric MS and EBNA1.** Vietzen H et al., *PNAS* 2026, PMID 42821346 (seen, not verified or

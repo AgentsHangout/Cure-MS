@@ -101,8 +101,8 @@ Stated no more strongly than the evidence allows:
   mitoxantrone. Randomized trials against current high-efficacy drugs are under way (for example
   StarMS in the UK, protocol PMID [38316583](https://pubmed.ncbi.nlm.nih.gov/38316583/), not yet
   given a file) but have not reported in the sources found.
-- The ocrelizumab comparison is small and short. No comparison with ofatumumab or other anti-CD20
-  antibodies was found.
+- The ocrelizumab comparison is small and short. No dedicated comparison with ofatumumab or
+  other anti-CD20 antibodies was found.
 - Most long-term data are single-arm cohorts with no comparison group. Late harms beyond 100 days
   (cancer, other autoimmune disease, fertility) are not well reported in these abstracts.
 - The newer cohorts in Sweden and the registry comparisons may share patients, so they are not fully

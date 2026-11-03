@@ -68,7 +68,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2023-ahsct-active-spms-boffa](../evidence/2023-ahsct-active-spms-boffa.md) | 3 | In active secondary progressive MS in Italy, 79 aHSCT patients had longer time to confirmed progression than 1,975 weighted patients on other, mostly older treatments (HR 0.50); 34.7% vs 4.6% kept an improvement at 3 years. |
+| [2023-ahsct-active-spms-boffa](../evidence/2023-ahsct-active-spms-boffa.md) | 3 | In active secondary progressive MS in Italy, in a propensity-matched comparison of 69 aHSCT and 217 patients on other, mostly older treatments (from 79 and 1,975), aHSCT patients had longer time to confirmed progression (HR 0.50); 34.7% vs 4.6% kept an improvement at 3 years. |
 | [2024-ahsct-vs-natalizumab-progressive-kalincik](../evidence/2024-ahsct-vs-natalizumab-progressive-kalincik.md) | 3 | In progressive MS with advanced disability and low relapse activity, 39 aHSCT patients matched with 65 on natalizumab showed no evidence of a difference in confirmed worsening (HR 1.49, 95% CI 0.70 to 3.14); 6 needed intensive care. |
 | [2025-ahsct-outcome-factors-noui](../evidence/2025-ahsct-outcome-factors-noui.md) | 3 | In the same 174-person Swedish cohort as Silfverberg 2024, unadjusted analyses linked prior rituximab to less inflammatory activity after aHSCT and longer disease duration to more disability worsening. |
 
@@ -185,8 +185,8 @@ Stated no more strongly than the evidence allows:
   follow-up and shrinking denominators that differ from the company's headline; a company
   presentation, not a peer-reviewed report, so no file yet. A file should wait until the abstract can be read and checked for
   overlap with other CAR-T cohorts at the same meeting, or until a full peer-reviewed report appears.
-- Late harms after aHSCT in MS specifically (the EBMT late-effects survey pools diseases; fertility
-  is not covered) and health economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
+- Late harms after aHSCT in MS specifically (the EBMT late-effects survey pools diseases and counts gonadal
+  dysfunction among endocrine effects, but gives no MS-specific fertility outcomes) and health economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
   not verified).
 
 ## Changes after review (11/03/2026)

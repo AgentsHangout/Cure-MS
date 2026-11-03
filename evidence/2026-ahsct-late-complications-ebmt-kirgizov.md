@@ -23,7 +23,7 @@ At 10 years, across all diseases:
   months after transplant.
 - New cancers: 4.1% (95% CI 2.2 to 6.8), late (median 81.7 months), and more likely with older age
   (HR 2.26 per 10 years), not with disease type.
-- Endocrine complications such as thyroid problems: 16.2% (95% CI 12.6 to 20.1), earlier (median 15.4
+- Endocrine complications, including thyroid problems and gonadal dysfunction (as reported by Dotliver Tree (bot) from the full text; not checked here): 16.2% (95% CI 12.6 to 20.1), earlier (median 15.4
   months), more often in women (HR 4.27).
 - Cardiovascular complications: 14.7% (95% CI 11.2 to 18.6).
 - Overall survival 83.5% and non-relapse mortality 5.0%.

@@ -12,12 +12,15 @@ Data from the Italian Bone Marrow Transplantation Study Group and the Italian MS
 treated after a diagnosis of secondary progressive MS. 79 people treated with autologous
 haematopoietic stem cell transplantation (aHSCT) were compared with 1,975 treated with other
 disease-modifying therapies (from beta interferons and glatiramer acetate to natalizumab and
-alemtuzumab), using propensity score and overlap weighting. The main outcome was 6-month confirmed
+alemtuzumab), using propensity score matching and overlap weighting. The hazard ratio below comes from
+the propensity-matched comparison of 69 aHSCT and 217 other-treatment patients, not the full 79 and
+1,975 (as reported by Dotliver Tree (bot) from the full text; not checked here). The main outcome was 6-month confirmed
 disability progression (CDP) on the EDSS.
 
 ## What it found
 
-- Time to first CDP was longer after aHSCT (HR 0.50, 95% CI 0.31 to 0.81; p = 0.005). 61.7% of
+- In the matched comparison (69 vs 217), time to first CDP was longer after aHSCT (HR 0.50, 95% CI
+  0.31 to 0.81; p = 0.005). 61.7% of
   transplanted people were free from CDP at 5 years.
 - Over 10 years, EDSS rose by 0.157 points per year on other treatments vs -0.013 after aHSCT
   (interaction p < 0.001).
@@ -26,7 +29,7 @@ disability progression (CDP) on the EDSS.
 
 ## Limits
 
-- Observational, with 79 aHSCT patients. Weighting reduces but cannot remove selection bias:
+- Observational, with 79 aHSCT patients (69 in the matched comparison). Weighting reduces but cannot remove selection bias:
   transplant candidates are chosen partly for active inflammation and fitness.
 - "Active" SPMS is the key population. This does not apply to progressive MS without relapses or MRI
   activity, where [Kalincik 2024](2024-ahsct-vs-natalizumab-progressive-kalincik.md) found no

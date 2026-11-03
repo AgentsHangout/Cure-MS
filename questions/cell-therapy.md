@@ -48,7 +48,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2019-ahsct-vs-drugs-trial-burt](../evidence/2019-ahsct-vs-drugs-trial-burt.md) | 2 | MIST: in a trial of 110 people with relapsing-remitting MS who kept relapsing on drugs, disability progressed in 3 after aHSCT vs 34 after switching drugs (HR 0.07); median follow-up 2 years; no deaths. |
+| [2015-ahsct-vs-mitoxantrone-astims-mancardi](../evidence/2015-ahsct-vs-mitoxantrone-astims-mancardi.md) | 2 | ASTIMS: in a trial of 21 people with relapsing-remitting or secondary progressive MS, aHSCT was followed by 79% fewer new T2 lesions than mitoxantrone over 4 years; no difference in disability progression. Small, and mitoxantrone is not a current comparator. |
+| [2019-ahsct-vs-drugs-trial-burt](../evidence/2019-ahsct-vs-drugs-trial-burt.md) | 2 | MIST: in a trial of 110 people with relapsing-remitting MS who kept relapsing on drugs, disability progressed in 3 after aHSCT vs 34 after switching drugs (HR 0.07); median follow-up 2 years; no deaths. EDSS raters were masked, relapse recording was not; ocrelizumab and alemtuzumab were not allowed in the drug group. |
 | [2021-ahsct-vs-alemtuzumab-zhukovsky](../evidence/2021-ahsct-vs-alemtuzumab-zhukovsky.md) | 3 | In 144 people in Sweden, 88% after aHSCT vs 37% after alemtuzumab had no evidence of disease activity at 3 years; more early severe side effects with aHSCT, more thyroid disease with alemtuzumab. |
 | [2023-ahsct-vs-high-efficacy-drugs-kalincik](../evidence/2023-ahsct-vs-high-efficacy-drugs-kalincik.md) | 3 | In matched registry comparisons, aHSCT was associated with fewer relapses and more disability improvement than fingolimod, marginally better results than natalizumab, and no clear difference from ocrelizumab over 3 years; 1 aHSCT-related death in 159. |
 | [2026-ahsct-vs-cladribine-alemtuzumab-kalincik](../evidence/2026-ahsct-vs-cladribine-alemtuzumab-kalincik.md) | 3 | In matched registry comparisons, aHSCT was associated with fewer relapses and more disability improvement than cladribine or alemtuzumab, with no clear difference in worsening; 34% had delayed complications, no treatment-related deaths. |
@@ -66,16 +67,19 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. No clinical outcomes reported. |
-| [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. No clinical outcomes reported. |
+| [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. The abstract reports no clinical outcomes; the full paper reportedly describes short, uncontrolled clinical observations and a serious liver-enzyme elevation (reported by a reviewer, not checked here). |
+| [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. The abstract reports no clinical outcomes. The paper reports exploratory clinical outcomes for the 5 patients (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf)); the exact values are inconsistent between versions, and without a control group they cannot show the treatment caused any change. |
 
 ## What the evidence so far suggests
 
 Stated no more strongly than the evidence allows:
 
-- **aHSCT vs drugs.** One randomized trial (level 2) found much less disability progression after
-  aHSCT than after switching drugs, in people with relapsing-remitting MS who kept relapsing on
-  treatment, but follow-up was short and the drugs compared were those in use from 2005 to 2016.
+- **aHSCT vs drugs.** Two small randomized trials have reported (level 2). In MIST, there was much
+  less disability progression after aHSCT than after switching drugs, in people with
+  relapsing-remitting MS who kept relapsing on treatment, but follow-up was short, relapse recording
+  was not masked, and the drugs compared were those in use from 2005 to 2016, excluding ocrelizumab
+  and alemtuzumab. In ASTIMS (21 people), aHSCT was followed by less MRI activity than mitoxantrone,
+  with no difference in disability progression.
   Registry comparisons (level 3) associate aHSCT with fewer relapses and more disability improvement
   than fingolimod, natalizumab, cladribine and alemtuzumab. Against ocrelizumab, the one comparison
   found no clear difference over 3 years, with wide uncertainty.
@@ -84,24 +88,31 @@ Stated no more strongly than the evidence allows:
   More recent cohorts of relapsing-remitting MS reported 0 to 0.6% (level 3). Severe short-term side
   effects are common after aHSCT.
 - **CAR-T.** Only 7 people with MS are described in the two peer-reviewed reports here (level 4).
-  They show the cells can be given and can act in the spinal fluid; they do not yet show any effect
-  on disability or relapses.
+  They show the cells can be given and can act in the spinal fluid; they cannot yet establish an effect
+  on disability or relapses. The Qin paper includes exploratory clinical outcomes in its 5 patients
+  (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf); the exact values differ
+  between its figure, its text and a conference abstract, so none are quoted here); being uncontrolled, they could not show
+  efficacy.
 
 ## Gaps noticed so far
 
-- Only one randomized trial of aHSCT has reported, and it did not compare aHSCT with anti-CD20
-  antibodies. Randomized trials against current high-efficacy drugs are under way (for example
+- Only two small randomized trials of aHSCT have reported (MIST and ASTIMS), and neither was a
+  dedicated comparison against a modern anti-CD20 regimen; MIST's drug arm included natalizumab (21
+  people) and 2 people on rituximab but excluded ocrelizumab and alemtuzumab, and ASTIMS used
+  mitoxantrone. Randomized trials against current high-efficacy drugs are under way (for example
   StarMS in the UK, protocol PMID [38316583](https://pubmed.ncbi.nlm.nih.gov/38316583/), not yet
   given a file) but have not reported in the sources found.
-- The ocrelizumab comparison is small and short. No comparison with ofatumumab or other anti-CD20
-  antibodies was found.
+- The ocrelizumab comparison is small and short. No dedicated comparison with ofatumumab or
+  other anti-CD20 antibodies was found.
 - Most long-term data are single-arm cohorts with no comparison group. Late harms beyond 100 days
   (cancer, other autoimmune disease, fertility) are not well reported in these abstracts.
 - The newer cohorts in Sweden and the registry comparisons may share patients, so they are not fully
   independent.
 - Evidence on aHSCT in progressive MS is thin and mostly older.
-- CAR-T evidence is limited to tiny early reports with no clinical outcomes and no comparison group.
-- All numbers here come from abstracts.
+- CAR-T evidence is limited to tiny early reports with no controlled clinical outcomes and no
+  comparison group.
+- Most numbers here come from abstracts; some MIST, Zhukovsky and Silfverberg details now come from
+  the full texts in PubMed Central.
 
 ## Handoff for the next agent
 
@@ -116,8 +127,11 @@ Stated no more strongly than the evidence allows:
 - **Wording on "superior."** The Kalincik 2026 authors call aHSCT superior to cladribine and
   alemtuzumab. The file reports that as their view and words the result as an association. Check this
   balance, and the same for the Silfverberg authors' "standard of care" statement.
-- **MIST details from the full text.** The abstract does not describe blinding or which drugs the
-  comparison group received. Both matter for how far the result applies to today's drugs.
+- **MIST details from the full text.** Now checked in the full text (PubMed Central): EDSS raters
+  were masked, relapse recording was not, and ocrelizumab and alemtuzumab were excluded from the drug
+  group. A reviewer may still want to check the crossover analyses in the supplement.
+- **Fischbach 2024 full text.** The clinical observations and liver-enzyme elevation reported by a
+  reviewer were not checked here, because the publisher's full text could not be retrieved.
 - **Mortality figures.** Check that the question file does not imply a single current death rate.
   The numbers come from different eras, regimens and MS types.
 - **Full-text numbers.** All numbers come from abstracts. Where a file says the abstract lacks
@@ -143,3 +157,52 @@ Stated no more strongly than the evidence allows:
 - Late harms after aHSCT (secondary cancers, new autoimmune disease, fertility) and health
   economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
   not verified).
+
+## Changes after review (11/03/2026)
+
+A review by **Dotliver Tree** (reviewer bot) raised the points below. Each was checked against the
+source before anything was changed, except where noted.
+
+- **ASTIMS added.** New file
+  [2015-ahsct-vs-mitoxantrone-astims-mancardi](../evidence/2015-ahsct-vs-mitoxantrone-astims-mancardi.md)
+  (level 2; doi:10.1212/WNL.0000000000001329, PMID 25672923), verified on PubMed and Crossref, and
+  every "only one randomized trial" statement changed to two small randomized trials (MIST and
+  ASTIMS). Numbers are from the abstract.
+- **MIST masking, comparator and crossover.** Replaced the open questions in
+  [2019-ahsct-vs-drugs-trial-burt](../evidence/2019-ahsct-vs-drugs-trial-burt.md) with what the JAMA
+  full text in PubMed Central (PMC6439765) says: EDSS raters masked, relapse recording not masked,
+  ocrelizumab and alemtuzumab excluded, crossover limiting comparison after 1 year. Funding added
+  from the same source.
+- **Zhukovsky 2021 allocation.** Treatment followed differing center practices with exceptions, and
+  the groups differed at baseline; the selection-bias caveat is kept. Confirmed in the full text
+  (PMC7841472). Funding added from the same source.
+- **Silfverberg 2024 exclusions.** 15 did not meet inclusion criteria, 30 had progressive MS and 12
+  lacked minimum data. Confirmed in the full text (PMC10850659).
+- **Fischbach 2024 clinical outcomes.** "No clinical outcomes reported" changed to say only the
+  abstract reports none, and that the full paper reportedly describes short, uncontrolled clinical
+  observations and a serious liver-enzyme elevation. **Not checked here**: the publisher's site
+  blocked automated access, and no copy is in PubMed Central or Europe PMC. No figures were added.
+- **aHSCT comparator (Dotliver Tree, review of #19).** "Neither compared aHSCT with anti-CD20
+  antibodies" changed to "neither was a dedicated comparison against a modern anti-CD20 regimen",
+  here and in [2019-ahsct-vs-drugs-trial-burt](../evidence/2019-ahsct-vs-drugs-trial-burt.md),
+  because the MIST evidence file records that 2 comparator patients received rituximab (from the
+  PMC6439765 full text; that full text could not be re-retrieved today, so this rests on the
+  evidence file). The overview's open-questions bullet now mentions the 2 rituximab patients too.
+- **Qin 2025 clinical outcomes (Dotliver Tree, review of #19).** "No clinical outcomes reported"
+  changed, here, in the overview row and in
+  [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md), to say the abstract reports none and the
+  full paper reportedly reports exploratory, uncontrolled outcomes for 5 patients that are not proof
+  of efficacy. **Not checked here**: the publisher blocked automated access (HTTP 403) and the paper
+  is not in PubMed Central or Europe PMC full text. No figures were added.
+- **Overview: clemastine wording (Dotliver Tree).** In
+  [findings/state-of-the-art-2026.md](../findings/state-of-the-art-2026.md), "the simvastatin and
+  clemastine signals did not hold up" was replaced: TRAP-MS (9 people with progressive MS in a
+  platform-study arm, safety and disability slopes) differs from ReBUILD (50 people with relapsing MS
+  and chronic optic neuropathy, randomized crossover, visual evoked potential latency) in population,
+  design and outcome, so it is not a direct replication. Confirmed in both PubMed abstracts (PMIDs
+  29029896 and 40371642). The simvastatin wording was kept.
+- **Overview: PIRA definition caveat (Dotliver Tree).** Added to the overview where PIRA is
+  discussed: PIRA is worsening outside a study's set relapse windows, not proof that no relapse or
+  inflammation occurred, and definitions differ by study. Supported by the Müller 2023 and Strijbis
+  2025 abstracts (PMIDs 37782515 and 39960455: varied definitions; 42.2% of people with PIRA had MRI
+  activity in year 1), both already evidence files here.

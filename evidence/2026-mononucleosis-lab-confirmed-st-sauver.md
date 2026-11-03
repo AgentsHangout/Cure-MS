@@ -18,6 +18,8 @@ person). New MS cases were confirmed by experts reviewing charts without knowing
 
 - People with EBV-positive IM were more likely to develop MS during follow-up: 8 of 4,721 (0.17%)
   vs 10 of 14,163 (0.07%) in the comparison group.
+- After excluding people who already had MS before the start date, the groups at risk for new MS
+  were 4,720 and 14,156 people (full text, Table, PMC13099077).
 - Adjusted hazard ratio 3.14 (95% CI 1.18 to 8.34).
 - Median follow-up was 6 years for the IM group and 8 years for the comparison group.
 
@@ -28,5 +30,7 @@ person). New MS cases were confirmed by experts reviewing charts without knowing
   not people without EBV; many of them will have had EBV infection without IM.
 - Follow-up is fairly short for an illness that often starts years after IM.
 - One region of the US.
-- The abstract lists some author affiliations that it does not name; check the full paper for
-  funding and any industry links.
+- Possible conflict of interest: PubMed lists ModernaTX, Inc. as the affiliation of four of the
+  eight authors. The full text (PMC13099077) states that the study was funded by ModernaTX, that
+  Moderna gave Mayo Clinic a grant for its design and conduct, and that three authors are Moderna
+  employees with equity and one was an employee during the study.

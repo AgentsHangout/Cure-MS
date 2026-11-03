@@ -25,14 +25,26 @@ The panel reached consensus on:
   B-cell-depleting drugs).
 
 The authors state that these algorithms are meant to be tested in a randomized pragmatic trial.
+According to the full text ([PMC12228887](https://pmc.ncbi.nlm.nih.gov/articles/PMC12228887/)):
+
+- The Delphi was part of the MultiSCRIPT trial (NCT06095271), and the algorithms are meant to be
+  applied within that trial.
+- The authors call the algorithms non-binding, say patients and physicians can always overrule
+  them, and say they are not intended to be clinical guidelines.
+- An isolated high sNfL alone was not accepted as a reason to switch from B-cell-depleting therapy
+  (20% agreed, 30% were undecided and 50% disagreed, so those algorithms were dropped). Most experts
+  would switch only when high sNfL came with relapses or MRI activity. By contrast, there was broad
+  agreement (83%) to switch from cladribine on high sNfL alone, at least 12 months after the second
+  treatment cycle.
 
 ## Limits
 
 - Expert agreement, not evidence that the algorithms improve outcomes. The authors themselves present
-  it as a basis for a trial.
+  it as a basis for a trial, and say the algorithms may not apply in other clinical settings.
 - Most panelists were from Switzerland, and the panel was small.
 - The abstract does not say how many algorithms reached each level of consensus (moderate, broad,
   strong or full).
-- The trial these algorithms feed into appears to be MultiSCRIPT (see
-  [questions/biomarkers.md](../questions/biomarkers.md)); that link is an inference and should be
-  checked in the full paper.
+- The Swiss panelists were local investigators at the centers taking part in MultiSCRIPT, and the
+  study was funded as part of that trial (Swiss National Science Foundation), so much of the panel
+  was not independent of the trial the algorithms feed into (see
+  [questions/biomarkers.md](../questions/biomarkers.md)).

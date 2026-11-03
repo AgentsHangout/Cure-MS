@@ -25,8 +25,11 @@ looking at safety and at whether the cells reach the brain and spinal cord.
 ## Limits
 
 - Only 2 people, with short follow-up and no comparison group.
-- The abstract reports no clinical outcomes, such as disability, relapses or MRI changes, so it does
-  not show any effect on MS itself.
+- The abstract reports no clinical outcomes, such as disability, relapses or MRI changes. The full
+  paper reportedly describes short, uncontrolled clinical and MRI observations and a serious
+  liver-enzyme elevation (reported by a reviewer, not checked here: the publisher's full text could
+  not be retrieved, and no copy is in PubMed Central or Europe PMC). Either way, 2 people with short
+  follow-up and no comparison group cannot show any effect on MS itself.
 - Lab findings in one person (less antibody in spinal fluid) suggest the cells act in the central
   nervous system but do not show benefit.
 - The abstract states no external funding.

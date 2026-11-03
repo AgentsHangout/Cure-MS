@@ -34,8 +34,10 @@ were feasibility and safety.
 - No placebo or control group, and participants and doctors knew who was treated, so improvements
   could reflect placebo effects or the natural ups and downs of MS.
 - Very small. A later, larger placebo-controlled phase 2 trial (EMBOLD) of an off-the-shelf donor
-  version of this approach (ATA188) was reported by the company in 2023 not to have met its main
-  outcome. No peer-reviewed paper of those results was found in this search, so it has no evidence
-  file (see the handoff in [questions/ebv.md](../questions/ebv.md)).
+  version of this approach (ATA188) did not meet its main outcome. The trial registry
+  ([NCT03283826](https://clinicaltrials.gov/study/NCT03283826)) records it as terminated because the
+  primary endpoint was not achieved, and the company announced this in 2023. No peer-reviewed paper
+  of those results was found in this search, so it has no evidence file (see the handoff in
+  [questions/ebv.md](../questions/ebv.md)).
 - Several authors received fees or funding from Atara Biotherapeutics, which developed ATA188, and
   one is an Atara employee.

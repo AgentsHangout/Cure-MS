@@ -29,9 +29,12 @@ case-control study on age at migration.
 - The abstract does not give case numbers; a reviewer should check the full paper.
 - Migrants are a selected group (healthier people may be more likely to migrate), and prevalence
   depends on diagnosis and survival.
-- Older migrant studies are often read as pointing to a childhood window of risk; this study does
-  not support a sharp cutoff at age 15. A later reassessment of the same migrant population by
-  McLeod and colleagues (*J Neurol* 2011,
+- **This study's main conclusion was later revised by its own authors.** A reassessment of the same
+  migrant population (McLeod JG, Hammond SR, Kurtzke JF, *J Neurol* 2011,
   [doi:10.1007/s00415-010-5898-4](https://doi.org/10.1007/s00415-010-5898-4), PMID
-  [21264474](https://pubmed.ncbi.nlm.nih.gov/21264474/)) was found in PubMed but not reviewed for
-  this file.
+  [21264474](https://pubmed.ncbi.nlm.nih.gov/21264474/)) reports that the earlier analysis combined
+  migration-period groups that should have been kept apart and inadvertently counted 21 New South
+  Wales cases twice, most of them people who arrived young. Reanalyzed, people who arrived before
+  age 15 had an MS risk of 22.3 per 100,000, significantly lower than every older group, against
+  53.9 for those who arrived at 15 to 39 (level 4). So the 2000 finding of no difference by age at
+  migration should not be relied on on its own. (Abstract and full text, PMC3101360.)

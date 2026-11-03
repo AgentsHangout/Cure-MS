@@ -52,7 +52,10 @@ a trial of 732 people with primary progressive MS ocrelizumab modestly reduced d
 compared with placebo (level 2). In a trial of 1,651 people with secondary progressive MS, siponimod
 modestly reduced disability progression (level 2). An analysis of trial data found that most
 disability worsening in relapsing MS happened without relapses ("PIRA"), which current drugs only
-partly prevent (level 3).
+partly prevent (level 3). PIRA is an operational label: it means worsening that happened outside
+the relapse windows a study set, not proof that no relapse or inflammation occurred, and
+definitions differ from study to study (level 3). In a reanalysis of two natalizumab trials, for
+example, some events counted as PIRA coincided with new MRI activity (level 3; the paper's abstract and tables give different percentages, so no figure is quoted here).
 
 | Source | Level | What it found |
 | --- | --- | --- |
@@ -99,7 +102,7 @@ high-dose simvastatin did not slow disability progression, overturning a hopeful
 | Source | Level | What it found |
 | --- | --- | --- |
 | Green AJ et al. *Lancet* 2017 (ReBUILD). [doi:10.1016/S0140-6736(17)32346-2](https://doi.org/10.1016/S0140-6736(17)32346-2), PMID [29029896](https://pubmed.ncbi.nlm.nih.gov/29029896/) | 2 | In 50 people with relapsing MS and chronic optic neuropathy, clemastine shortened visual evoked potential delay by 1.7 ms per eye; fatigue was more common. |
-| Kocot J et al. *J Clin Invest* 2025. [doi:10.1172/JCI183941](https://doi.org/10.1172/JCI183941), PMID [40371642](https://pubmed.ncbi.nlm.nih.gov/40371642/) | 4 | In a clemastine arm of the TRAP-MS platform study, 3 of 9 people with progressive MS triggered safety stopping rules and disability worsened faster than in other participants; cell studies linked clemastine plus ATP to pyroptosis (level 5 for the lab part). |
+| Kocot J et al. *J Clin Invest* 2025. [doi:10.1172/JCI183941](https://doi.org/10.1172/JCI183941), PMID [40371642](https://pubmed.ncbi.nlm.nih.gov/40371642/) | 4 | In a clemastine arm of the TRAP-MS platform study, 16 people with progressive MS started clemastine, and 3 of the 9 who had reached six months triggered safety stopping rules and disability worsened faster than in other participants; cell studies linked clemastine plus ATP to pyroptosis (level 5 for the lab part). |
 | Brown JWL et al. *Lancet Neurol* 2021 (CCMR One). [doi:10.1016/S1474-4422(21)00179-4](https://doi.org/10.1016/S1474-4422(21)00179-4), PMID [34418398](https://pubmed.ncbi.nlm.nih.gov/34418398/) | 2 | In 52 people with relapsing-remitting MS, bexarotene did not change the primary MRI myelin measure vs placebo and caused frequent side effects. |
 | Chataway J et al. *Lancet* 2025 (MS-STAT2). [doi:10.1016/S0140-6736(25)01039-6](https://doi.org/10.1016/S0140-6736(25)01039-6), PMID [41045938](https://pubmed.ncbi.nlm.nih.gov/41045938/) | 2 | In 964 people with secondary progressive MS, 6-month confirmed disability progression was 40% with simvastatin 80 mg vs 36% with placebo (HR 1.13, not significant). |
 
@@ -107,10 +110,13 @@ high-dose simvastatin did not slow disability progression, overturning a hopeful
 
 In a trial of 110 people with relapsing-remitting MS who kept relapsing on treatment, autologous
 hematopoietic stem cell transplant (aHSCT) led to far fewer cases of disability progression than
-switching drugs, though follow-up was short and the trial was not blinded (level 2). In a Swedish
-cohort of 174 people treated with aHSCT, about two thirds were free of disease activity at 10 years,
-with no treatment-related deaths (level 3); a 2026 meta-analysis of observational studies found aHSCT
-was associated with better relapse control than alemtuzumab, at very low certainty (level 3). CAR-T
+switching drugs, though follow-up was short, relapse recording was not masked (EDSS raters were),
+and the comparison drugs did not include ocrelizumab or alemtuzumab (level 2). A second, smaller
+randomized trial (ASTIMS, 21 people) found less MRI activity after aHSCT than after mitoxantrone, an
+older drug, with no difference in disability progression (level 2). In a Swedish cohort of 174
+people treated with aHSCT, about two thirds were free of disease activity at 10 years, with no
+treatment-related deaths (level 3); a 2026 meta-analysis of observational studies found aHSCT was
+associated with better relapse control than alemtuzumab, at very low certainty (level 3). CAR-T
 therapy, which reprograms a person's own T cells to remove B cells or plasma cells, has so far been
 reported in very small numbers of people with progressive MS, mainly showing that it can be given and
 can reach the spinal fluid (level 4). No randomized trial result for CAR-T in MS was found.
@@ -118,10 +124,11 @@ can reach the spinal fluid (level 4). No randomized trial result for CAR-T in MS
 | Source | Level | What it found |
 | --- | --- | --- |
 | Burt RK et al. *JAMA* 2019 (MIST). [doi:10.1001/jama.2018.18743](https://doi.org/10.1001/jama.2018.18743), PMID [30644983](https://pubmed.ncbi.nlm.nih.gov/30644983/) | 2 | In 110 people with relapsing-remitting MS, disability progressed in 3 after aHSCT vs 34 after switching drug therapy (HR 0.07); median follow-up 2 years. |
+| Mancardi GL et al. *Neurology* 2015 (ASTIMS). [doi:10.1212/WNL.0000000000001329](https://doi.org/10.1212/WNL.0000000000001329), PMID [25672923](https://pubmed.ncbi.nlm.nih.gov/25672923/) | 2 | In 21 people with relapsing-remitting or secondary progressive MS, aHSCT was followed by 79% fewer new T2 lesions than mitoxantrone over 4 years; no difference in disability progression. |
 | Silfverberg T et al. *J Neurol Neurosurg Psychiatry* 2024. [doi:10.1136/jnnp-2023-331864](https://doi.org/10.1136/jnnp-2023-331864), PMID [37748927](https://pubmed.ncbi.nlm.nih.gov/37748927/) | 3 | In 174 people in Sweden, 73% had no evidence of disease activity at 5 years and 65% at 10 years after aHSCT; febrile neutropenia in 68%; no treatment-related deaths. |
 | Kebir N et al. *Mult Scler Relat Disord* 2026. [doi:10.1016/j.msard.2026.107904](https://doi.org/10.1016/j.msard.2026.107904), PMID [42735599](https://pubmed.ncbi.nlm.nih.gov/42735599/) | 3 | Meta-analysis of 10 observational studies (1,887 people): aHSCT was associated with better relapse-free survival than alemtuzumab (HR 0.33), with no difference in disability progression; very low certainty. |
 | Fischbach F et al. *Med* 2024. [doi:10.1016/j.medj.2024.03.002](https://doi.org/10.1016/j.medj.2024.03.002), PMID [38554710](https://pubmed.ncbi.nlm.nih.gov/38554710/) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. |
-| Qin C et al. *Cell* 2025. [doi:10.1016/j.cell.2025.09.020](https://doi.org/10.1016/j.cell.2025.09.020), PMID [41101309](https://pubmed.ncbi.nlm.nih.gov/41101309/) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: anti-BCMA CAR-T caused only grade 1 cytokine release syndrome, depleted plasma cells in the CNS compartment and reduced microglial activation markers. |
+| Qin C et al. *Cell* 2025. [doi:10.1016/j.cell.2025.09.020](https://doi.org/10.1016/j.cell.2025.09.020), PMID [41101309](https://pubmed.ncbi.nlm.nih.gov/41101309/) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: anti-BCMA CAR-T caused only grade 1 cytokine release syndrome, depleted plasma cells in the CNS compartment and reduced microglial activation markers. The abstract reports no clinical outcomes. The paper reports exploratory clinical outcomes for the 5 patients (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf)); the exact values are inconsistent between versions, and without a control group they cannot show the treatment caused any change. |
 
 ## 6. Biomarkers: serum neurofilament light and beyond
 
@@ -149,22 +156,31 @@ used to guide care.
   on lab and mouse work (level 5), and it is unknown whether preventing or controlling EBV would
   prevent MS. No trial result answering that was found.
 - **What drives worsening without relapses.** Most disability accumulates independent of relapses
-  (level 3), and the drugs that work best on relapses do less here. HERCULES showed slower disability
+  (level 3), as PIRA is defined in each study (outside set relapse windows; definitions vary),
+  and the drugs that work best on relapses do less here. HERCULES showed slower disability
   progression in non-relapsing secondary progressive MS (level 2), but it has not been repeated,
   and liver safety limits the drug class (level 4).
 - **Whether myelin can be repaired in a way that matters to people.** Remyelination trials so far are
   small, short or negative (level 2), and clemastine raised a safety signal in progressive MS
   (level 4).
-- **Where cell therapies fit.** aHSCT has one randomized trial (level 2) and mostly observational
-  support (level 3); CAR-T has only case reports and tiny early-phase studies (level 4). Larger
-  randomized comparisons with the best current drugs are still needed.
+- **Where cell therapies fit.** aHSCT has two small randomized trials (MIST and ASTIMS, level 2),
+  neither a dedicated comparison with today's most-used high-efficacy drugs or a modern anti-CD20
+  regimen (MIST's drug arm included natalizumab and 2 people on rituximab but excluded ocrelizumab
+  and alemtuzumab), and mostly observational support (level 3); CAR-T
+  has only case reports and tiny early-phase studies (level 4). Larger randomized comparisons with
+  the best current drugs are still needed.
 - **Whether biomarkers can guide care.** sNfL and GFAP predict risk in cohorts (level 3), but no
   trial yet shows that using them to make decisions improves outcomes.
 
 ## Where it disagrees, and what's missing
 
-The phase 2 simvastatin and clemastine signals did not hold up in larger or later studies, which is a
-reminder that small positive trials often fail to replicate. BTK inhibitors split by drug and by
+The phase 2 simvastatin signal did not hold up in a larger phase 3 trial, a reminder that small
+positive trials often fail to replicate. The clemastine picture is different: the later TRAP-MS
+safety signal came from a different population (progressive MS rather than relapsing MS with old
+optic nerve damage), design (an arm of a platform study that 16 people started, rather than a randomized crossover
+trial) and outcome (safety stopping rules and disability slopes rather than visual nerve signal
+delay), so it is not a direct replication of ReBUILD and does not test the same question. BTK
+inhibitors split by drug and by
 setting: tolebrutinib helped in non-relapsing secondary progressive MS but not on relapses, and
 evobrutinib failed in relapsing MS. Peer-reviewed phase 3 results for fenebrutinib, and long-term
 randomized data for aHSCT and CAR-T, are the largest gaps.

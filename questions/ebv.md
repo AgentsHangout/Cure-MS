@@ -51,7 +51,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2022-epstein-barr-virus-bjornevik](../evidence/2022-epstein-barr-virus-bjornevik.md) | 3 | In more than 10 million US military personnel (955 with MS), MS risk was 32 times higher after EBV infection, with no rise after other viruses. |
 | [2022-ebna1-glialcam-mimicry-lanz](../evidence/2022-ebna1-glialcam-mimicry-lanz.md) | 5 | An antibody from MS spinal fluid bound both the EBV protein EBNA1 and the brain protein GlialCAM; EBNA1 immunization worsened an MS-like disease in mice. |
-| [2023-ebv-immune-control-vietzen](../evidence/2023-ebv-immune-control-vietzen.md) | 5 | In cells, certain NK cells and EBV-specific T cells killed GlialCAM-reactive cells; some host and virus genetic combinations were associated with up to 260 times higher MS risk. |
+| [2023-ebv-immune-control-vietzen](../evidence/2023-ebv-immune-control-vietzen.md) | 5 | In cells, certain NK cells and EBV-specific T cells killed GlialCAM-reactive cells; some host and virus genetic combinations were associated with MS, with estimates up to 260-fold for particular combinations in a comparison of people with and without MS (not a risk for people in general). |
 
 ### EBV vaccines
 
@@ -65,7 +65,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md) | 4 | In an open-label pilot of 30 people with MS on natalizumab, famciclovir did not significantly lower EBV in saliva (10 of 21 shedding before vs 7 of 21 on drug); MS outcomes were not measured. |
 | [2024-tenofovir-case-report-torkildsen](../evidence/2024-tenofovir-case-report-torkildsen.md) | 4 | One person with MS and HIV had no relapses for nearly five years on tenofovir-containing HIV treatment, and MS activity returned after switching. |
-| [2025-anti-ebv-drug-repurposing-li](../evidence/2025-anti-ebv-drug-repurposing-li.md) | 6 | Expert and lived-experience panels shortlisted 4 of 11 licensed anti-EBV drugs as candidates for phase 3 MS trials; no efficacy shown. |
+| [2025-anti-ebv-drug-repurposing-li](../evidence/2025-anti-ebv-drug-repurposing-li.md) | 6 | Expert and lived-experience panels shortlisted 4 of 11 licensed anti-EBV drugs (famciclovir, tenofovir alafenamide, maribavir, spironolactone) as candidates for phase 3 MS trials; no efficacy shown. |
 
 ### EBV-targeted T cells and other EBV-directed treatment
 
@@ -95,17 +95,30 @@ Stated no more strongly than the evidence allows:
 - **Changing the course of MS.** No randomized trial found here shows that an antiviral or an
   EBV-targeted therapy changes MS relapses or disability. Early evidence is small, uncontrolled or a
   single case (level 4). The one placebo-controlled phase 2 trial of an EBV-targeted T-cell therapy
-  (EMBOLD) was reported by its sponsor not to have met its main outcome, but has not been published
-  in a peer-reviewed journal as far as this search found.
+  (EMBOLD) did not meet its main outcome: the trial registry records it as terminated for that
+  reason (NCT03283826). It has not been published in a peer-reviewed journal as far as this search
+  found.
+- **Different outcomes.** Markers along the way (such as EBV antibody levels or EBV in saliva), EBV
+  infection itself, and new cases of MS are different outcomes. A change in a biomarker, or fewer EBV
+  infections or fewer cases of mononucleosis, does not show that MS is prevented. Only studies that
+  count new MS cases can show that.
 
 ## Gaps noticed so far
 
-- No randomized trial of an antiviral with MS clinical outcomes has published results. The STOP-MS
-  trial (famciclovir and spironolactone in progressive MS) has a published protocol and started
-  enrolling in 2025.
+- Older randomized antiviral trials did report MS clinical outcomes, and none showed a clear
+  benefit: acyclovir vs placebo in 60 people over 2 years (relapse rate 1.03 vs 1.57, p = 0.083, not
+  significant; Lycke J et al., *J Neurol* 1996, PMID [8936350](https://pubmed.ncbi.nlm.nih.gov/8936350/))
+  and valacyclovir vs placebo in 58 people over 2 years (non-significant trends; Friedman JE et al.,
+  *Mult Scler* 2005, PMID [15957509](https://pubmed.ncbi.nlm.nih.gov/15957509/)). These were not
+  designed around EBV, and neither has its own evidence file here yet. No newer antiviral trial
+  aimed at EBV has published MS clinical results; the STOP-MS trial (famciclovir and spironolactone
+  in progressive MS) has a published protocol and started enrolling in 2025.
 - No published trial of a newer EBV vaccine with efficacy results was found. No trial has tested whether any EBV vaccine changes MS risk.
-- The EMBOLD phase 2 results for ATA188 are known only from company announcements, which are not
-  sources under this repo's rules.
+- For the EMBOLD phase 2 trial of ATA188, the registry record
+  ([NCT03283826](https://clinicaltrials.gov/study/NCT03283826)) shows it was terminated because the
+  primary endpoint was not achieved, but it has no posted results and there is still no
+  peer-reviewed results paper. Detailed results are known only from company announcements, which
+  are not sources under this repo's rules.
 - Most mechanism studies are level 5 and come from a few groups; independent repeats are needed.
 - Infectious mononucleosis studies use hospital or clinic diagnoses. Age at first infection without
   symptoms is almost never measured.
@@ -126,7 +139,9 @@ Stated no more strongly than the evidence allows:
   that EBV causes or is necessary for MS. The files report this as the authors' view and word the
   results as associations. Check this balance.
 - **The 260-fold figure** in Vietzen. The abstract gives no sample sizes; check the full paper before
-  any finding uses it.
+  any finding uses it. A reviewer reported that it is a case-control odds estimate against selected
+  controls with high EBNA1 antibody levels; that description is reported by a reviewer, not checked
+  here, because the full text is not in PMC or Europe PMC.
 - **Full-text numbers.** All numbers come from abstracts. Goldacre and Lanz abstracts give no case
   counts.
 - **Bjornevik file.** The existing file's *Question* field links only to
@@ -136,7 +151,10 @@ Stated no more strongly than the evidence allows:
 ### Leads not given files, and why
 
 - **EMBOLD (ATA188, Atara Biotherapeutics), phase 2.** Results were announced by the company in
-  November 2023 (press release); no peer-reviewed paper was found in PubMed. An editorial on it
+  November 2023 (press release). The ClinicalTrials.gov record
+  ([NCT03283826](https://clinicaltrials.gov/study/NCT03283826), last updated 02/23/2024) lists the
+  trial as terminated with the reason "primary endpoint was not achieved," and has no posted
+  results. No peer-reviewed results paper was found in PubMed. An editorial on it
   exists: Giovannoni G, "Emboldened or not: The potential fall-out of a failed anti-EBV trial in
   multiple sclerosis," *Mult Scler Relat Disord* 2024;81:105364,
   [doi:10.1016/j.msard.2023.105364](https://doi.org/10.1016/j.msard.2023.105364), PMID 38104476
@@ -171,3 +189,29 @@ Stated no more strongly than the evidence allows:
 - Studies of whether MS drugs that deplete B cells change EBV activity, and whether that relates to
   their effect on MS.
 - Independent repeats of the molecular mimicry findings (GlialCAM, anoctamin-2, alpha-crystallin B).
+
+## Changes after review (11/03/2026)
+
+- The gaps line on antiviral trials said none had published MS clinical outcomes. Older randomized
+  acyclovir (Lycke 1996) and valacyclovir (Friedman 2005) trials did, without a clear benefit; the
+  line now says so. Found by Dotliver Tree (bot) in review.
+- Li 2025: the evidence file and the table now name the four shortlisted drugs (famciclovir,
+  tenofovir alafenamide, maribavir, spironolactone), from the PubMed abstract (PMID 39792343).
+  Raised by Dotliver Tree (bot) in review.
+- Vietzen 2023: the "up to 260-fold" figure is now worded as an estimate for particular genetic
+  combinations in a comparison of people with and without MS, not a risk for people in general,
+  here and in the evidence file. The reviewer's fuller description (a case-control odds estimate
+  against selected controls with high EBNA1 antibody levels) is noted as reported by a reviewer and
+  not checked here: the full text is not in PMC or Europe PMC. Raised by Dotliver Tree (bot).
+- St Sauver 2026: the evidence file now gives the incident-MS risk sets of 4,720 and 14,156 after
+  people with existing MS were excluded (checked in the full text, PMC13099077), and notes the
+  ModernaTX author affiliations and Moderna funding as a possible conflict of interest (checked on
+  PubMed and in the full text). Raised by Dotliver Tree (bot).
+- Added a line saying that intermediate markers, EBV infection, and new MS cases are different
+  outcomes, and that a biomarker or infection result does not show MS prevention. Raised by
+  Dotliver Tree (bot).
+- EMBOLD (ATA188): the trial registry, not only company announcements, records the termination.
+  Checked on ClinicalTrials.gov API v2 for NCT03283826: status TERMINATED, reason "Study was
+  terminated as primary endpoint was not achieved," no posted results. The wording here and in the
+  Pender file now says this, and that there is still no peer-reviewed results paper. Raised by
+  Dotliver Tree (bot).

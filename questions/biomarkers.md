@@ -59,7 +59,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2022-snfl-reference-values-benkert](../evidence/2022-snfl-reference-values-benkert.md) | 3 | Reference database from 5,390 people without CNS disease: sNfL rises exponentially with age, faster after about 50, and is adjusted for BMI; Z scores did better than fixed cutoffs. |
-| [2026-gfap-nfl-reference-intervals-rousset](../evidence/2026-gfap-nfl-reference-intervals-rousset.md) | 4 | In 7,989 cognitively unimpaired people, older age, lower BMI and poorer kidney function were associated with higher NfL and GFAP; GFAP was higher in women; one lab platform. |
+| [2026-gfap-nfl-reference-intervals-rousset](../evidence/2026-gfap-nfl-reference-intervals-rousset.md) | 4 | Plasma reference intervals from cognitively unimpaired people (7,958 with NfL and 7,810 with GFAP, per the full-text table and Discussion): older age, lower BMI and poorer kidney function were associated with higher NfL and GFAP; GFAP was higher in women; one lab platform. Only 82 people with MS, as a comparison group; not treatment thresholds. |
 | [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In 259 healthy controls, serum GFAP rose 1.5% per year of age, fell 1.1% per BMI unit and was 14.9% higher in women. |
 
 ### How treatment changes sNfL and GFAP
@@ -75,7 +75,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2024-nfl-clinical-guidance-freedman](../evidence/2024-nfl-clinical-guidance-freedman.md) | 6 | Expert guidance: sNfL can be used alongside MRI and clinical measures to support decisions, does not replace MRI, and needs work on platforms and reference ranges. |
-| [2025-snfl-treatment-algorithms-yaldizli](../evidence/2025-snfl-treatment-algorithms-yaldizli.md) | 6 | Delphi consensus of 28 experts and 3 patient consultants on 23 algorithms to escalate, switch or de-escalate treatment by sNfL, meant to be tested in a pragmatic randomized trial. |
+| [2025-snfl-treatment-algorithms-yaldizli](../evidence/2025-snfl-treatment-algorithms-yaldizli.md) | 6 | Delphi consensus of 28 experts and 3 patient consultants on 23 algorithms to escalate, switch or de-escalate treatment by sNfL, meant to be tested in a pragmatic randomized trial (MultiSCRIPT). The authors call them non-binding and not clinical guidelines; an isolated high sNfL alone was not accepted as a reason to switch from B-cell-depleting therapy. |
 | [2024-snfl-clinical-decisions-van-lierop](../evidence/2024-snfl-clinical-decisions-van-lierop.md) | 4 | In 166 tests at one Amsterdam center, clinicians changed their decision in 19.3% of cases after seeing the sNfL result and felt more certain; patient outcomes were not measured. |
 
 ## What the evidence so far suggests
@@ -97,8 +97,10 @@ Stated no more strongly than the evidence allows:
 
 ## Gaps noticed so far
 
-- **No completed outcome trial.** Two studies designed to answer the question have published
-  protocols but no results in PubMed as of November 2026:
+- **No completed outcome trial.** Two studies with randomized elements have published protocols
+  but no results in PubMed as of November 2026. Only MultiSCRIPT directly compares monitoring
+  strategies on patient outcomes. Registry listings and protocols are plans, not completed outcome
+  results.
   - MultiSCRIPT-Cycle 1, a pragmatic randomized trial in the Swiss MS cohort comparing 6-monthly
     sNfL monitoring plus usual care with usual care alone in about 915 people with
     relapsing-remitting MS; primary outcomes are evidence of disease activity and quality of life at
@@ -106,11 +108,16 @@ Stated no more strongly than the evidence allows:
     [doi:10.1186/s13063-024-08454-6](https://doi.org/10.1186/s13063-024-08454-6), PMID
     [39261900](https://pubmed.ncbi.nlm.nih.gov/39261900/); NCT06095271).
   - NeuroFilMS in Germany, which plans to randomize 1,500 people with relapsing MS 2:1 to immediate
-    or delayed sNfL reporting to their physicians to see how it changes decisions, with GFAP measured
-    later in stored samples (Rust R et al., *BMJ Open* 2026,
+    or delayed sNfL reporting to their physicians, with GFAP measured later in stored samples. Its
+    primary objectives are prognostic: confirming the predictive value of sNfL for clinical and MRI
+    activity, and measuring how sNfL varies over time and between assays and labs. Whether sNfL
+    changes treatment decisions is a secondary outcome, and it does not directly compare care
+    strategies on patient outcomes (Rust R et al., *BMJ Open* 2026,
     [doi:10.1136/bmjopen-2025-110058](https://doi.org/10.1136/bmjopen-2025-110058), PMID
-    [42419882](https://pubmed.ncbi.nlm.nih.gov/42419882/); DRKS00034337). Its title calls it an
-    observational cohort study even though it randomizes reporting.
+    [42419882](https://pubmed.ncbi.nlm.nih.gov/42419882/); registry
+    [DRKS00034337](https://drks.de/search/en/trial/DRKS00034337), which lists it as non-interventional
+    with purpose "prognosis"). Its title calls it an observational cohort study even though it
+    randomizes reporting.
 - **Group vs individual.** Most associations are group-level, and some effects before worsening are
   small (Abdelhak 2023). A 2026 study in 1,716 people found NfL added little to clinical models for
   predicting response to three drugs (Moradi, see handoff), which cuts against strong individual-level
@@ -119,7 +126,10 @@ Stated no more strongly than the evidence allows:
   measured.
 - **GFAP** is earlier in development than sNfL and is not yet widely available as a routine test.
 - **Lab platforms and reference ranges** differ, and kidney function, BMI, age and sex all shift
-  values (Rousset 2026). Much of the MS evidence uses one assay (Simoa) and one research network.
+  values (Rousset 2026). Other factors, such as smoking or diabetes, may also affect interpretation
+  (raised by a reviewer; Rousset 2026 did not model them, and this was not checked here). Reference
+  intervals describe healthy people; they are not validated thresholds for treatment decisions. Much
+  of the MS evidence uses one assay (Simoa) and one research network.
 - **Independence.** Many of the key studies come from overlapping author groups and the same Swiss
   cohort; independent replication would strengthen them.
 
@@ -138,10 +148,13 @@ Stated no more strongly than the evidence allows:
   - van Lierop 2024 is rated 4 (series of tests with questionnaires, no control group).
 - **Wording.** Check that no file implies that a high or falling marker shows treatment works for an
   individual, or that biomarker-guided care improves outcomes.
-- **Rousset 2026** gives 7,989 participants in its results and 7,958 in its conclusions; check the
-  full paper. Its abstract gives no MS-specific results.
-- **Yaldizli 2025**: the link to MultiSCRIPT is inferred from shared authors and the Swiss setting,
-  not stated in the abstract.
+- **Rousset 2026** sample size, now checked in the full text: the participant table and the
+  Discussion give 7,958 with NfL and 7,810 with GFAP, while the abstract and the Results text give
+  7,989 (with 7,841 having GFAP in the Results text). The paper is not internally consistent; the
+  evidence file uses the table figures.
+- **Yaldizli 2025**: the link to MultiSCRIPT is now confirmed in the full text (PubMed Central),
+  which says the Delphi was part of the MultiSCRIPT trial and that the algorithms are for use within
+  it.
 - **Full-text numbers.** All numbers come from abstracts. Funding and conflicts of interest are
   missing from most abstracts and should be checked in the full papers.
 
@@ -181,3 +194,24 @@ Stated no more strongly than the evidence allows:
 - **Lab platform comparisons** for clinical use (Simoa, Lumipulse, Elecsys, Atellica), several
   published in 2025-2026; not yet reviewed.
 - **Cost-effectiveness** and patient views on routine sNfL testing.
+
+## Changes after review (11/03/2026)
+
+A review by **Dotliver Tree** (reviewer bot) raised the points below. Each was checked against the
+source before anything was changed, except where noted.
+
+- **MultiSCRIPT vs NeuroFilMS.** The gaps section now says only MultiSCRIPT directly compares
+  monitoring strategies, that NeuroFilMS's primary objectives are prognostic validity and assay
+  variability with decision impact secondary, and that registry listings are not completed outcome
+  results. Confirmed in the DRKS00034337 registry entry and the NeuroFilMS protocol full text
+  (PubMed Central), and the MultiSCRIPT protocol full text.
+- **Yaldizli 2025.** The file now says the algorithms are explicitly non-binding, are not clinical
+  guidelines, and are meant for testing in MultiSCRIPT, and that an isolated high sNfL alone was not
+  accepted as a reason to switch from B-cell-depleting therapy. Confirmed in the full text (PubMed
+  Central).
+- **Rousset 2026.** Sample sizes changed to 7,958 (NfL) and 7,810 (GFAP) from the full-text table
+  and Discussion, with the abstract's 7,989 noted; only 82 MS comparators; described as plasma
+  reference intervals, not validated treatment thresholds; the kidney contrast given as eGFR 45 vs 90
+  instead of "severe kidney damage". Confirmed in the full text (PubMed Central). The point that
+  smoking or diabetes may also affect interpretation is the reviewer's; the paper did not model
+  them, and it was **not checked here**.

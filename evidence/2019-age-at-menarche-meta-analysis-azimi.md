@@ -29,4 +29,5 @@ reporting crude odds ratios (as reported by Dotliver Tree (bot) from the full te
 - The [Danish cohort](2017-age-at-menarche-danish-cohort-nielsen.md), which measured age at first
   period before MS, is not among the three. Because the review took case-control studies with crude
   odds ratios, the cohort likely fell outside its eligibility rather than being missed.
-- Numbers come from the abstract.
+- The study-design detail comes from a reviewer's full-text read; other numbers come from the
+  abstract.

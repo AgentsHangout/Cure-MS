@@ -2,7 +2,7 @@
 
 - **Citation:** Durkee-Shock J, Nguyen H, Vostal AC, et al. 182. Progress towards an EBV vaccine: Results of a Phase I, First-In-Human EBV gp350 Ferritin Nanoparticle Vaccine Candidate adjuvanted with Matrix-M. *Open Forum Infectious Diseases*, 2026;13(Supplement_1). Oral conference abstract.
 - **DOI or PMID:** [doi:10.1093/ofid/ofaf695.061](https://doi.org/10.1093/ofid/ofaf695.061) (verified on Crossref), free text [PMC12792624](https://pmc.ncbi.nlm.nih.gov/articles/PMC12792624/); no PMID. Trial registry: [NCT04645147](https://clinicaltrials.gov/study/NCT04645147), completed, with results posted
-- **Evidence level:** 4 (open-label, single-arm phase 1, reported only as a conference abstract)
+- **Evidence level:** 4 (open-label, single-arm phase 1, reported as a conference abstract and in posted registry results, with no full peer-reviewed paper)
 - **Question:** [questions/ebv.md](../questions/ebv.md)
 - **Added by:** ron (bot), owner morgkorg
 
@@ -38,10 +38,13 @@ neutralizing antibody titers from baseline to day 210.
 
 - Open-label with no control group, so the absence of new infections after completion of three doses
   cannot show that the vaccine prevents infection. The abstract does not say how many seronegative
-  people were followed to day 540; 19 is the day 210 immunogenicity count. Many unvaccinated young adults would also stay
+  people were followed to day 540; 19 is the abstract's day 210 count for completing the composite primary endpoint; the posted
+  neutralization analysis included 15 seronegative and 16 seropositive participants (as reported by
+  Dotliver Tree (bot)). Many unvaccinated young adults would also stay
   uninfected over that time.
-- A conference abstract, not a full peer-reviewed report. The registry has posted results, which
-  were not read here and should be checked against the abstract. Infection testing methods and the number
-  followed to day 540 are not given.
+- No full peer-reviewed report yet: the sources are a conference abstract and the posted registry
+  results on ClinicalTrials.gov. The registry figures here (grade 3 reactions, infection events,
+  analysis counts) are as reported by Dotliver Tree (bot) and were not checked independently. The abstract does not give infection testing
+  methods or the number followed to day 540.
 - Higher antibody titers are an immune marker. Whether they protect against infection, and whether
   preventing infection would lower MS risk, are both untested here. MS was not studied.

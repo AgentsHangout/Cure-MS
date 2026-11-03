@@ -1,7 +1,7 @@
 {
   "_about": "Hand-reviewed filing for tools/fetch_trials.py. Keys are NCT IDs. q = A-F, APPROVED or OTHER. note = one plain line on what the trial tests and which question it could help answer (from the registry record, not from outside knowledge). rank orders the Other section (lower = more relevant; only the first 25 are shown). exclude = true removes a study that passed the automatic filters, with a reason. A trial not listed here goes to Other as 'not yet reviewed'. Reviewed 11/03/2026.",
   "_section_notes": {
-    "A": "Trials whose intervention targets Epstein-Barr virus (EBV), such as antivirals or EBV-targeted cells. mRNA-1195 (NCT06735248) is listed here provisionally: its registry entry enrolls only EBV-positive people but does not name the vaccine's target, so its place in this section needs a primary source.",
+    "A": "Trials whose intervention targets Epstein-Barr virus (EBV), such as antivirals or EBV-targeted cells. mRNA-1195 (NCT06735248) is listed here because Moderna's trial page describes it as an investigational EBV vaccine in adults with MS; its registry entry enrolls only EBV-positive people.",
     "B": "Trials in progressive MS or on smoldering (chronic active) lesions such as paramagnetic rim lesions and slowly expanding lesions. Their main outcomes vary: disability worsening, MRI or PET measures, and in some cases safety or fatigue, so check each record. None of them uses PIRA itself as the main outcome.",
     "C": "Trials whose stated aim or main outcome is myelin repair or nerve protection: nerve-signal speed (evoked potentials), vision after optic neuritis, brain shrinkage, or walking in progressive MS with a drug aimed at nerve protection.",
     "D": "Autologous (and one allogeneic) stem cell transplant trials, and CAR-T and other gene-engineered T-cell trials. Phase 1 trials are included here because they are cell therapies. Most CAR-T trials are small, single-arm and measure safety first.",
@@ -15,7 +15,7 @@
 
   "NCT05957913": {"q": "A", "note": "Tests whether an antiviral (tenofovir/emtricitabine) lowers EBV levels in saliva and blood in people with MS."},
   "NCT02912897": {"q": "A", "note": "Tests the safety of a person's own EBV-targeted T cells after a first episode suggestive of MS."},
-  "NCT06735248": {"q": "A", "note": "Tests the safety of mRNA-1195 in EBV-positive people with early MS; the registry entry does not name the vaccine's target, so this placement is provisional."},
+  "NCT06735248": {"q": "A", "note": "Tests the safety of mRNA-1195 in EBV-positive people with early MS; the registry entry does not name the target, but Moderna's trial page describes it as an investigational EBV vaccine."},
 
   "NCT07225504": {"q": "B", "note": "Tests remibrutinib against placebo on 6-month confirmed disability worsening in secondary progressive MS."},
   "NCT07299019": {"q": "B", "note": "Tests orelabrutinib against placebo on confirmed disability worsening in secondary progressive MS."},
@@ -78,8 +78,8 @@
   "NCT06485232": {"q": "D", "note": "Tests the safety of donor BCMA and CD19 CAR-T cells in nerve autoimmune diseases including MS."},
   "NCT07526493": {"q": "D", "note": "Tests the safety of QH103, a donor CD19 CAR gamma-delta T-cell product, in nerve autoimmune diseases including MS."},
   "NCT04561557": {"q": "D", "note": "Tests the safety of CT103A, a BCMA CAR-T, in antibody-related nerve inflammatory diseases including MS."},
-  "NCT07139743": {"q": "D", "note": "Tests the safety of obecabtagene autoleucel (obe-cel) in progressive MS that has not responded to 2 or more drugs; the record calls it a cell therapy and does not spell out CAR-T."},
-  "NCT06680037": {"q": "D", "note": "Finds the dose of azercabtagene zapreleucel (azer-cel) in B-cell autoimmune disorders including MS; the record does not spell out CAR-T."},
+  "NCT07139743": {"q": "D", "note": "Tests the safety of obecabtagene autoleucel (obe-cel) in progressive MS that has not responded to 2 or more drugs; the record's detailed description refers to CD19 chimeric antigen receptor (CAR) T cells."},
+  "NCT06680037": {"q": "D", "note": "Finds the dose of azercabtagene zapreleucel (azer-cel) in B-cell autoimmune disorders including MS; the record lists CAR T-cell toxicities as an outcome."},
 
   "NCT04075266": {"q": "APPROVED", "note": "Ocrelizumab dosing and blood levels in children and teens with relapsing-remitting MS."},
   "NCT05123703": {"q": "APPROVED", "note": "Compares ocrelizumab with fingolimod on relapses in children and teens."},

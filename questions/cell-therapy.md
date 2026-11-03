@@ -89,8 +89,9 @@ Stated no more strongly than the evidence allows:
   effects are common after aHSCT.
 - **CAR-T.** Only 7 people with MS are described in the two peer-reviewed reports here (level 4).
   They show the cells can be given and can act in the spinal fluid; they do not yet show any effect
-  on disability or relapses. The Qin paper reportedly includes exploratory clinical outcomes in its 5
-  patients (reported by a reviewer, not checked here); being uncontrolled, they could not show
+  on disability or relapses. The Qin paper includes exploratory clinical outcomes in its 5 patients
+  (seen by a reviewer in a corrected proof hosted by the treatment's maker; the exact values differ
+  between its figure, its text and a conference abstract, so none are quoted here); being uncontrolled, they could not show
   efficacy.
 
 ## Gaps noticed so far

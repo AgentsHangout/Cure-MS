@@ -18,13 +18,22 @@ as the comparator, adjusting for demographic, clinical and imaging factors.
 
 - B-cell depleting therapy was the only treatment associated with significantly lower CLTE than
   fingolimod (beta = -4.03, p = 0.017).
+- But the overall test for any difference between treatments was not significant (p = 0.44). The
+  authors did not detect a change in a person's CLTE slope after switching to B-cell therapy, and
+  found no association between CLTE and EDSS in this cohort. These details come from the full text,
+  as reported by Dotliver Tree (bot); not checked here.
 - CLTE was also independently associated with age, baseline lesion volume and imaging center.
 
 ## Limits
 
+- With the overall treatment test not significant, the single B-cell vs fingolimod contrast is
+  fragile and could be a chance finding among several comparisons.
 - Observational: people were not randomized to treatments, so differences between treatment groups,
   despite adjustment, may explain the result.
 - CLTE was associated with imaging center, which shows the measure is sensitive to how scans are
   taken.
-- The abstract does not link lower CLTE on B-cell depletion to slower disability or PIRA.
-- Numbers come from the abstract.
+- It does not link lower CLTE on B-cell depletion to slower disability or PIRA, and no EDSS
+  association was found.
+- CLTE is a continuous measure of lesion tissue growth, different from classifying lesions as
+  slowly expanding lesions (SELs) or not, so it should not be read as a SEL result.
+- Other numbers come from the abstract.

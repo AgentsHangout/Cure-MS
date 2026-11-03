@@ -17,8 +17,8 @@ An X-chromosome-wide analysis of MS susceptibility in UK Biobank genotyping data
   group the genes into immune pathways (for example LAMP2, F8, ELF4) and remyelination pathways (for
   example NSDHL, RBM10, AR, the androgen receptor gene).
 - The abstract reports a 20-fold higher MS incidence in women carrying variants linked to both
-  myelination and immunity. The full text's Table 2 shows cross-sectional frequencies of selected
-  variant combinations, not incidence or risk over time (as reported by Dotliver Tree (bot) from the full text; not checked here), so this is better read as
+  myelination and immunity. Table 2 in indexed publisher text (direct access to the article was blocked) shows cross-sectional frequencies of selected
+  variant combinations, not incidence or risk over time (as reported by Dotliver Tree (bot) from indexed publisher text; not checked here), so this is better read as
   exploratory enrichment in women with MS, in rare subgroups.
 
 ## Limits
@@ -33,5 +33,5 @@ An X-chromosome-wide analysis of MS susceptibility in UK Biobank genotyping data
   read here.
 - This is a susceptibility study. It does not show that particular X variants explain why MS is more
   common in women.
-- The Table 2 detail comes from the full text as reported by a reviewer; other numbers come from the
+- The Table 2 detail comes from indexed publisher text as reported by a reviewer; other numbers come from the
   abstract.

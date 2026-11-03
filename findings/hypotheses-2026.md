@@ -340,12 +340,12 @@ an antiviral or EBV-targeted T cells, alone or alongside B-cell depletion, might
 | 1 | EBV infection comes before MS and is strongly associated with it: MS risk was 32 times higher after EBV infection in more than 10 million US military personnel; mononucleosis was associated with about 3 times the risk; EBV antibody changes appeared more than 20 years before onset. | [2022-epstein-barr-virus-bjornevik](../evidence/2022-epstein-barr-virus-bjornevik.md) (3), [2024-mononucleosis-cohort-england-goldacre](../evidence/2024-mononucleosis-cohort-england-goldacre.md) (3), [2026-mononucleosis-lab-confirmed-st-sauver](../evidence/2026-mononucleosis-lab-confirmed-st-sauver.md) (3); Grut 2026 in the [state-of-the-art finding, section 1](state-of-the-art-2026.md#1-what-causes-ms-especially-epstein-barr-virus) (3) | 3 |
 | 2 | Possible mechanisms: an MS spinal fluid antibody bound both EBNA1 and the brain protein GlialCAM, and EBNA1 immunization worsened disease in mice; in cells, certain NK and EBV-specific T cells killed GlialCAM-reactive cells. | [2022-ebna1-glialcam-mimicry-lanz](../evidence/2022-ebna1-glialcam-mimicry-lanz.md) (5), [2023-ebv-immune-control-vietzen](../evidence/2023-ebv-immune-control-vietzen.md) (5) | 5 |
 | 3 | Ongoing EBV activity keeps MS active after it has started. | Not shown. Reported in 1 case: no relapses for nearly five years on tenofovir-containing HIV treatment, with activity returning after a switch. **EBV was never measured in this case**, so it cannot show that EBV activity is what kept MS quiet or active: the person was being treated for HIV, the drugs act on other targets, and a single uncontrolled case cannot separate the drug from the natural course of the illness. It is consistent with the step, not support for it. | [2024-tenofovir-case-report-torkildsen](../evidence/2024-tenofovir-case-report-torkildsen.md) (a level 4 case, consistent with the idea but not support for it); none in support |
-| 4 | An antiviral lowers EBV activity in people with MS. | **Not established, and mixed by drug and compartment.** The one file here points against it: in an open-label pilot of 30 people on natalizumab, famciclovir did not significantly lower EBV in saliva. No file here shows any antiviral lowering EBV activity in people with MS. In the literature (not yet a file), a valacyclovir substudy found less EBV DNA in saliva, not plasma (Höllsberg 2005, under gaps), without showing any MS benefit. Randomized antiviral trials in MS do exist in the literature and are not yet in this repo; see the gaps section below. | no supporting evidence file here (the famciclovir file, [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md) (4), points against it; Höllsberg 2005 is a lead, not yet a file) |
+| 4 | An antiviral lowers EBV activity in people with MS. | **Not established, and mixed by drug and compartment.** Two files point in different directions. In samples from a valacyclovir trial, the share of saliva samples with EBV DNA was lower on valacyclovir (9%; the abstract also gives an overall 41%, whose comparison group and denominator are unclear; percentages of samples, not people), with no significant change in plasma and no clinical benefit shown. Its link to the parent trial is unconfirmed. In an open-label pilot of 30 people on natalizumab, famciclovir did not significantly lower EBV in saliva. Neither shows a lower EBV level changing MS. The older randomized antiviral trials in MS (acyclovir, valacyclovir) were not designed specifically around EBV and did not establish an EBV-mediated benefit; see [questions/ebv.md](../questions/ebv.md). | [2005-ebv-hhv6-dna-valacyclovir-hollsberg](../evidence/2005-ebv-hhv6-dna-valacyclovir-hollsberg.md) (4) for saliva only; [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md) (4) against |
 | 5 | Improvement follows EBV-targeted T cells (uncontrolled observations only). | Reported in 10 people with progressive MS in an open-label phase 1 trial, 7 showed some improvement with no control group. A placebo-controlled phase 2 trial was reported by its sponsor not to have met its main outcome, but has no peer-reviewed paper, so it is not evidence here. | [2018-ebv-specific-t-cells-pender](../evidence/2018-ebv-specific-t-cells-pender.md) (4) |
 | 6 | Lowering EBV activity changes relapses or disability. | None. An expert panel shortlisted licensed anti-EBV drugs for trials; that is a proposal, not efficacy. | none ([2025-anti-ebv-drug-repurposing-li](../evidence/2025-anti-ebv-drug-repurposing-li.md) (6) proposes testing) |
 
-**Weakest link.** Steps 4 and 6 (no supporting evidence file in this repo; for step 4 the famciclovir pilot
-points against it, and a valacyclovir substudy in the literature found less EBV DNA in saliva only, not yet a file), and step 3 has no support either (one level 4 case that never measured EBV); steps 2 and 5 rest on level 5 and level 4. The strong level 3 association is about getting
+**Weakest link.** Steps 4 and 6 (for step 4, a valacyclovir substudy found less EBV DNA in saliva only and the
+famciclovir pilot found no significant drop, both level 4; step 6 has no evidence), and step 3 has no support either (one level 4 case that never measured EBV); steps 2 and 5 rest on level 5 and level 4. The strong level 3 association is about getting
 MS, not about what keeps it going. Only two files bear, weakly, on whether
 B-cell depletion already changes EBV activity itself, which matters for any "on top of anti-CD20"
 version.
@@ -450,31 +450,14 @@ large potential reach.
     inconsistent between versions, so the evidence file quotes none; its abstract gives no clinical outcomes.
   - No peer-reviewed results for the EMBOLD EBV T-cell trial (hypothesis 6); no infection-preventing
     EBV vaccine trial (hypothesis 7). Both appear to be genuine gaps in the literature.
-  - **Antiviral MS trials are a repo gap, not a literature gap** (hypothesis 6). Randomized
-    antiviral trials in MS have been published; none shows that suppressing EBV changes the course
-    of MS, and two tested herpesviruses broadly rather than EBV specifically. Leads to turn into
-    evidence files (found on PubMed on 11/03/2026; numbers from abstracts, full texts not read):
-    - Lycke J et al., *J Neurol* 1996. Acyclovir vs placebo, 60 people with relapsing-remitting MS,
-      2 years. The primary outcome, annual relapse rate, was 1.03 vs 1.57, not significant
-      (P = 0.083); the authors describe the supporting analyses as subsequent, and report no
-      convincing effect on neurological deterioration.
-      [doi:10.1007/BF00868517](https://doi.org/10.1007/BF00868517), PMID
-      [8936350](https://pubmed.ncbi.nlm.nih.gov/8936350/). Level 2.
-    - Bech E et al., *Neurology* 2002. Valacyclovir vs placebo, 70 people, 24 weeks. It did not
-      reduce new active MRI lesions, the primary outcome; a high-activity subgroup result is
-      described by the authors as exploratory.
-      [doi:10.1212/wnl.58.1.31](https://doi.org/10.1212/wnl.58.1.31), PMID
-      [11781402](https://pubmed.ncbi.nlm.nih.gov/11781402/). Level 2.
-    - Friedman JE et al., *Mult Scler* 2005. Valacyclovir vs placebo, 58 people, 2 years. Trends
-      only, none statistically significant, and no MRI effect.
-      [doi:10.1191/1352458505ms1185oa](https://doi.org/10.1191/1352458505ms1185oa), PMID
-      [15957509](https://pubmed.ncbi.nlm.nih.gov/15957509/). Level 2.
-    - Höllsberg P et al., *Acta Neurol Scand* 2005, a virology substudy inside a randomized
-      valacyclovir trial: EBV DNA was found in 9% of saliva samples on valacyclovir vs 41% overall (percentages of saliva samples, not of people; no significant difference in plasma; no MS benefit shown),
-      while HHV-6B was unchanged. This bears directly on step 4 and points the other way from the
-      famciclovir pilot, so it should be read before that step is rewritten again.
-      [doi:10.1111/j.1600-0404.2005.00516.x](https://doi.org/10.1111/j.1600-0404.2005.00516.x),
-      PMID [16281923](https://pubmed.ncbi.nlm.nih.gov/16281923/). Level 3.
+  - **Antiviral MS trials** (hypothesis 6) now have files: acyclovir (Lycke 1996), valacyclovir
+    (Bech 2002, Friedman 2005) and the Höllsberg 2005 EBV and HHV-6B DNA substudy, listed in
+    [questions/ebv.md](../questions/ebv.md). None establishes an EBV-mediated benefit, and the trials were not designed specifically
+    around EBV. In the sources checked, no newer
+    peer-reviewed EBV-directed antiviral trial with MS clinical efficacy results was identified. The
+    randomized TAF-MS study of tenofovir with natalizumab (safety primary outcome, saliva EBV
+    outcomes) is listed as completed by its sponsor, and results may have been submitted to a
+    registry; they were not verified here.
   - Late harms after aHSCT beyond 100 days are thinly reported, and the aHSCT registry studies may
     share patients (hypothesis 1).
   - Almost all numbers in the evidence files come from abstracts.

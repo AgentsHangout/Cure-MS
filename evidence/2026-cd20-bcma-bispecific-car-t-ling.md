@@ -11,7 +11,7 @@
 Two people with refractory secondary progressive MS, still worsening despite several
 disease-modifying treatments, were given C-CAR168. It is a CAR-T product aimed at two targets at
 once: CD20 on B cells and BCMA on plasma cells. The report describes their clinical course, spinal
-fluid findings and safety.
+fluid and blood findings and safety.
 
 ## What it found
 
@@ -20,8 +20,9 @@ fluid findings and safety.
   and cognition.
 - Patient 002's EDSS went from 6.5 to 6.0, with reported halting of leg worsening and relief of bowel
   and bladder problems.
-- The CAR-T cells entered the spinal fluid and persistently depleted B-lineage cells and CD20-dim T
-  cells there. Inflammatory markers normalized. The authors describe the safety profile as overall
+- The CAR-T cells were detected in the spinal fluid. Separately, B-lineage cells and CD20-dim T
+  cells were persistently depleted in peripheral blood (Figure 3, as reported by Dotliver Tree (bot)
+  from the full text; not checked here), so the depletion was not measured in spinal fluid. Inflammatory markers normalized. The authors describe the safety profile as overall
   favorable.
 
 ## Limits

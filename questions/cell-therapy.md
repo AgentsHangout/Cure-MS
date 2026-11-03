@@ -69,7 +69,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. The abstract reports no clinical outcomes; the full paper reportedly describes short, uncontrolled clinical observations and a serious liver-enzyme elevation (reported by a reviewer, not checked here). |
 | [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. The abstract reports no clinical outcomes. The paper reports exploratory clinical outcomes for the 5 patients (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf)); the exact values are inconsistent between versions, and without a control group they cannot show the treatment caused any change. |
-| [2026-cd20-bcma-bispecific-car-t-ling](../evidence/2026-cd20-bcma-bispecific-car-t-ling.md) | 4 | Reported in 2 people with secondary progressive MS given a CD20/BCMA bispecific CAR-T product: EDSS 4.0 to 3.0 and 6.5 to 6.0 over 12 and 6 months, with spinal fluid B-cell depletion; uncontrolled, company-funded and company-authored. |
+| [2026-cd20-bcma-bispecific-car-t-ling](../evidence/2026-cd20-bcma-bispecific-car-t-ling.md) | 4 | Reported in 2 people with secondary progressive MS given a CD20/BCMA bispecific CAR-T product: EDSS 4.0 to 3.0 and 6.5 to 6.0 over 12 and 6 months, with CAR-T cells detected in spinal fluid and B-lineage cells depleted in blood; uncontrolled, company-funded and company-authored. |
 
 ## What the evidence so far suggests
 
@@ -88,7 +88,8 @@ Stated no more strongly than the evidence allows:
   mixed cohorts (level 3), with higher rates in progressive MS, higher disability and earlier years.
   More recent cohorts of relapsing-remitting MS reported 0 to 0.6% (level 3). Severe short-term side
   effects are common after aHSCT.
-- **CAR-T.** Only 9 people with MS are described in the three peer-reviewed reports here (level 4).
+- **CAR-T.** The three peer-reviewed reports with files here describe 9 people with MS (level 4);
+  other published single cases exist (see the handoff leads).
   They show the cells can be given and can act in the spinal fluid; they cannot yet establish an effect
   on disability or relapses. The Qin paper includes exploratory clinical outcomes in its 5 patients
   (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf); the exact values differ
@@ -152,9 +153,11 @@ Stated no more strongly than the evidence allows:
   named in Inglese M et al., *Handb Clin Neurol* 2024, PMID 39111916, a review not used as evidence).
 - More CAR-T reports. Ling Z et al. 2026 now has a file. Ismail FS et al. (*Signal Transduct Target
   Ther* 2025, PMID 41419461) is a three-author commentary on the Qin trial with no abstract, so it adds
-  no new patients. Pecher AC et al. (*Ann Rheum Dis* 2025, PMID 40312206) is a letter about a person
-  with rheumatoid arthritis and MS who relapsed after CD19 CAR-T and was then treated with aHSCT; it
-  has no abstract and was not read, so it has no file yet. A CD19 CAR-T immune profiling study by Gupta S et al. is a
+  no new patients. Two more peer-reviewed single cases include MS but have no file yet: Pecher AC et al.
+  (*Ann Rheum Dis* 2025, PMID 40312206), a letter about a person with rheumatoid arthritis and MS who
+  relapsed after CD19 CAR-T and was then treated with aHSCT (no abstract, not read); and Murphy DJ et
+  al. (*Leuk Lymphoma* 2026, PMID 42251699), CAR-T for chronic lymphocytic leukemia with CNS
+  involvement in a person who also had MS (not verified or read). A CD19 CAR-T immune profiling study by Gupta S et al. is a
   medRxiv preprint (2026) and was left out until it is peer reviewed.
 - **Zolacabtagene autoleucel (BMS-986353), Breakfree-2.** Its sponsor reported phase 1 results in 66
   people with relapsing and progressive MS in an October 2026 press release, an uncontrolled study

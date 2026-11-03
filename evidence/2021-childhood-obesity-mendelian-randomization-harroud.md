@@ -11,7 +11,9 @@
 A Mendelian randomization study using summary genetic data on 14,802 people with MS and 26,703
 controls. Gene variants for body mass index (BMI) in childhood (from 47,541 people) and adulthood
 (from 322,154 people) were used, and multivariable analyses separated the two time points and
-adjusted for age at puberty. Findings were checked in the UK Biobank (453,169 people).
+adjusted for age at puberty. The UK Biobank (453,169 people) supplied alternative instruments for body size, not an
+independent sample of people with MS, so it is a check on the exposure measure, not a replication of
+the MS result (as reported by Dotliver Tree (bot) from the full paper; not checked here).
 
 ## What it found
 
@@ -19,8 +21,10 @@ adjusted for age at puberty. Findings were checked in the UK Biobank (453,169 pe
   standard deviation, 95% CI 1.07 to 1.50).
 - After adjusting for adult BMI, there was little evidence of a direct childhood effect (OR 1.03, 95%
   CI 0.70 to 1.53), while adult BMI kept its effect (OR 1.43, 95% CI 1.01 to 2.03).
-- Adding age at puberty did not change this, UK Biobank results were consistent, and sensitivity
-  analyses showed no evidence of pleiotropy.
+- Adding age at puberty did not change this, and the alternative UK Biobank instruments gave
+  consistent results. The abstract reports no evidence of pleiotropy, but the full paper's MR-PRESSO
+  global test was significant, with similar results after outliers were removed (as reported by Dotliver Tree (bot) from the full paper; not checked here), so
+  pleiotropy cannot be ruled out.
 
 ## Limits
 
@@ -28,4 +32,5 @@ adjusted for age at puberty. Findings were checked in the UK Biobank (453,169 pe
   adjusted estimates have wide confidence intervals.
 - It does not test whether losing weight lowers MS risk.
 - Mostly people of European ancestry.
-- Numbers come from the abstract.
+- The UK Biobank role and MR-PRESSO result come from the full paper as reported by a reviewer;
+  other numbers come from the abstract.

@@ -69,7 +69,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. The abstract reports no clinical outcomes; the full paper reportedly describes short, uncontrolled clinical observations and a serious liver-enzyme elevation (reported by a reviewer, not checked here). |
 | [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. The abstract reports no clinical outcomes. The paper reports exploratory clinical outcomes for the 5 patients (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf)); the exact values are inconsistent between versions, and without a control group they cannot show the treatment caused any change. |
-| [2026-cd20-bcma-bispecific-car-t-ling](../evidence/2026-cd20-bcma-bispecific-car-t-ling.md) | 4 | Reported in 2 people with secondary progressive MS given a CD20/BCMA bispecific CAR-T product: EDSS 4.0 to 3.0 and 6.5 to 6.0 over 12 and 6 months, with CAR-T cells detected in spinal fluid and B-lineage cells depleted in blood; uncontrolled, company-funded and company-authored. |
+| [2026-cd20-bcma-bispecific-car-t-ling](../evidence/2026-cd20-bcma-bispecific-car-t-ling.md) | 4 | Reported in 2 people with secondary progressive MS given a CD20/BCMA bispecific CAR-T product: EDSS 4.0 to 3.0 and 6.5 to 6.0 over 12 and 6 months, with CAR-T cells measured in spinal fluid in one of them and B-lineage cells depleted in blood before naive B cells returned; uncontrolled, company-funded and company-authored. |
 
 ## What the evidence so far suggests
 
@@ -169,7 +169,13 @@ Stated no more strongly than the evidence allows:
   abstract's earlier cutoff gives 57 recipients, with only 10 at dose level 2 evaluable at week 26.
   A later sponsor press release gives 66 recipients and serious safety events, including a death
   after the data cutoff; the press release is not a source under this repo's rules, and the two
-  cutoffs should be kept apart. A file should wait until the abstract can be read and checked for
+  cutoffs should be kept apart; the later update also reports grade 4 neurotoxicity (ICANS).
+- **Azercabtagene zapreleucel (azer-cel), TG Therapeutics.** A company-hosted MSToronto 2026
+  late-breaking presentation reports 26 people with progressive MS: EDSS stable or improved in 16 of
+  18 at day 90 and 7 of 8 at day 180, grade 3 or higher adverse events in 11 of 26 and serious
+  adverse events in 4 of 26 (as reported by Dotliver Tree (bot) from the slides; not checked here). Uncontrolled, with early
+  follow-up and shrinking denominators that differ from the company's headline; a company
+  presentation, not a peer-reviewed report, so no file yet. A file should wait until the abstract can be read and checked for
   overlap with other CAR-T cohorts at the same meeting, or until a full peer-reviewed report appears.
 - Late harms after aHSCT (secondary cancers, new autoimmune disease, fertility) and health
   economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,

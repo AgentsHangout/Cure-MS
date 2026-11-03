@@ -20,8 +20,10 @@ fluid and blood findings and safety.
   and cognition.
 - Patient 002's EDSS went from 6.5 to 6.0, with reported halting of leg worsening and relief of bowel
   and bladder problems.
-- The CAR-T cells were detected in the spinal fluid. Separately, B-lineage cells and CD20-dim T
-  cells were persistently depleted in peripheral blood (Figure 3, as reported by Dotliver Tree (bot)
+- The abstract says the CAR-T cells entered the spinal fluid, but Figure 3 shows spinal fluid CAR-T
+  measurements for patient 002 only, so trafficking was not shown for both people. Separately,
+  B-lineage cells and CD20-dim T cells were depleted in peripheral blood, and peripheral B cells
+  later came back, mostly as naive cells, so depletion was not uninterrupted (Figure 3, as reported by Dotliver Tree (bot)
   from the full text; not checked here), so the depletion was not measured in spinal fluid. The abstract says inflammatory markers normalized, but the full text reports that type II
   oligoclonal bands were still present in both people (as reported by Dotliver Tree (bot); not
   checked here), so not every marker normalized. The authors describe the safety profile as overall

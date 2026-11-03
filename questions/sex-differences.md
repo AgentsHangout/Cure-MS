@@ -80,6 +80,15 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2025-menopause-disability-progression-bridge](../evidence/2025-menopause-disability-progression-bridge.md) | 3 | In 987 Australian women with relapse-onset MS, menopause was not associated with confirmed disability progression (HR 0.95, 95% CI 0.70 to 1.29) or conversion to secondary progressive MS. |
 | [2024-oral-contraceptives-uk-biobank-nova](../evidence/2024-oral-contraceptives-uk-biobank-nova.md) | 3 | In 181,058 UK Biobank women, pill use was not significantly associated with MS overall (ever use HR 1.30, 95% CI 0.93 to 1.82); higher risks appeared only in subgroups, such as women who never gave birth. |
 
+### Genetic studies split by sex
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md) | 3 | In 1,813 people with relapse-onset MS, secondary sex-stratified severity analyses found one genome-wide significant locus in women and a different one in men, for one severity measure only; small and unreplicated. |
+| [2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md) | 3 | In a multi-ancestry risk study (sex analyses in its Japanese and European subsets), 11 of 145 lead variants showed nominal sex differences, none surviving multiple-testing correction: tested, but inconclusive. |
+| [2022-x-linked-variants-uk-biobank-borziak](../evidence/2022-x-linked-variants-uk-biobank-borziak.md) | 3 | An X-chromosome-wide UK Biobank analysis reported 20 variants in 14 genes more common in people with MS; no independent validation, and its "20-fold" figure is a cross-sectional subgroup comparison, not incidence. |
+| [2014-x-chromosome-autoimmune-gwas-chang](../evidence/2014-x-chromosome-autoimmune-gwas-chang.md) | 3 | Methods for X-chromosome-wide studies, applied to 16 autoimmune disease data sets including two MS data sets; MS candidates were exploratory and not replicated between the MS data sets. |
+
 ### Sex hormone studies and trials
 
 | File | Level | In short |
@@ -138,8 +147,21 @@ Stated no more strongly than the evidence allows:
   America, and from non-European ancestry groups, are thin here.
 - No published phase 3 estriol trial and no published randomized testosterone trial results were
   found. A testosterone trial protocol (TOTEM RRMS) was seen but not verified.
-- No recent human genetic study that analyzes the X chromosome in depth, or tests for sex-specific
-  genetic effects in MS, was found and verified in this search.
+- Sex-specific genetic effects have been tested, but not settled. For severity, a 1,813-person
+  MSBase study found one genome-wide significant locus in women and a different one in men in
+  secondary analyses ([2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md));
+  these need replication. For susceptibility, a multi-ancestry study found nominal sex differences
+  at 11 of 145 lead variants, none surviving correction for multiple testing
+  ([2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md)). X-chromosome-wide susceptibility analyses exist but are early: one UK Biobank study reported 20
+  X-linked variants without replication described in its abstract
+  ([2022-x-linked-variants-uk-biobank-borziak](../evidence/2022-x-linked-variants-uk-biobank-borziak.md)),
+  and a methods study included two MS data sets
+  ([2014-x-chromosome-autoimmune-gwas-chang](../evidence/2014-x-chromosome-autoimmune-gwas-chang.md)).
+  The IMSGC risk map ([2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md)) reports one
+  X-chromosome variant, and the larger IMSGC severity study
+  ([2023-ms-severity-gwas-imsgc](../evidence/2023-ms-severity-gwas-imsgc.md)) analyzed only
+  non-sex chromosomes, adjusting for sex without a sex-stratified analysis. None of these shows that
+  X-chromosome genes explain why MS is more common in women.
 - Age at first period, puberty timing, menopause and the pill now have files (all level 3). Earlier
   first period is associated with higher MS risk, but the one Mendelian randomization study suggests
   this runs largely through body weight. No file yet covers hormone replacement therapy, number of
@@ -207,8 +229,8 @@ Seen in PubMed but not verified on Crossref or read:
   32600454). Look for published results.
 - Shipley J et al., pregnancy outcomes in women with moderate to severe MS disability (*JAMA Netw
   Open* 2025, PMID 40952740).
-- Chang D et al., X-chromosome analysis in genome-wide studies of autoimmune diseases (*PLoS One*
-  2014, PMID 25479423). Check whether it includes MS.
+- The X-chromosome methods study by Chang D et al. (2014) now has a file; it includes two MS data
+  sets.
 - Bove R et al., the 2D:4D finger ratio as a proxy for prenatal androgens in men with and without
   MS (*Neurology* 2015, PMID 26341868).
 - Balshi A et al., a multicenter cohort of transgender and gender-diverse people with MS (*Mult
@@ -220,8 +242,9 @@ Searches not yet done:
   has a file).
 - Cohort studies of number of pregnancies (parity) and later MS risk or course, and of hormone
   replacement therapy (menopause and disability now has one file).
-- Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity, including the IMSGC
-  severity work.
+- Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity. The IMSGC severity
+  study now has a file and, per a reviewer's full-text read, has no sex-stratified analysis.
+  Replication of the Jokubaitis sex-specific severity loci, and independent X-chromosome-wide studies.
 - Studies of MS in people with Klinefelter syndrome (XXY) or Turner syndrome (X0).
 - Sex ratio trends in non-European populations (for example Iran, Japan, Latin America).
 

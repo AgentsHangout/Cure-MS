@@ -17,13 +17,15 @@ MS until the end of 2011 (average 11.7 years).
 - 226 women developed MS. Their age at first period was generally lower than in women without MS
   (p = 0.002).
 - Each year later at first period was associated with a 13% lower MS risk (HR 0.87, 95% CI 0.79 to
-  0.96).
+  0.96), adjusted for age and birth year. After further adjustment, including body mass index before
+  pregnancy, the hazard ratio was 0.89 (as reported by Dotliver Tree (bot) from the full text; not checked here).
 
 ## Limits
 
 - Age at first period was recalled in adulthood, during pregnancy, so it may be imprecise.
 - All the women were pregnant at entry, so they may differ from women who never had children.
-- Earlier puberty is linked to childhood obesity, which is itself linked to MS. The abstract does
-  not say how far this was adjusted for; see
+- Earlier puberty is linked to childhood obesity, which is itself linked to MS. Childhood body mass
+  index was not available, so the adjustment used body mass index before pregnancy only; see
   [2019-age-at-puberty-mendelian-randomization-harroud](2019-age-at-puberty-mendelian-randomization-harroud.md).
-- Numbers come from the abstract.
+- The adjusted HR 0.89 and covariates come from the full text as reported by a reviewer; other
+  numbers come from the abstract.

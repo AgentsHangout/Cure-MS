@@ -74,7 +74,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2017-age-at-menarche-danish-cohort-nielsen](../evidence/2017-age-at-menarche-danish-cohort-nielsen.md) | 3 | In 77,330 Danish women followed about 12 years (226 developed MS), each year later at first period was associated with 13% lower MS risk (HR 0.87). |
+| [2017-age-at-menarche-danish-cohort-nielsen](../evidence/2017-age-at-menarche-danish-cohort-nielsen.md) | 3 | In 77,330 Danish women followed about 12 years (226 developed MS), each year later at first period was associated with 13% lower MS risk (HR 0.87; 0.89 after further adjustment including pre-pregnancy BMI). |
 | [2019-age-at-menarche-meta-analysis-azimi](../evidence/2019-age-at-menarche-meta-analysis-azimi.md) | 3 | Pooling three observational studies (two from Iran, one from Canada), each year later at first period was associated with lower odds of MS (crude, unadjusted OR 0.88). |
 | [2019-age-at-puberty-mendelian-randomization-harroud](../evidence/2019-age-at-puberty-mendelian-randomization-harroud.md) | 3 | Genetically later puberty was associated with lower MS odds (OR 0.92 per year), but the association weakened and was no longer significant after accounting for body mass index (OR 0.96). |
 | [2025-menopause-disability-progression-bridge](../evidence/2025-menopause-disability-progression-bridge.md) | 3 | In 987 Australian women with relapse-onset MS, menopause was not associated with confirmed disability progression (HR 0.95, 95% CI 0.70 to 1.29) or conversion to secondary progressive MS. |

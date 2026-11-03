@@ -11,14 +11,15 @@
 A Mendelian randomization study using 372 gene variants for age at first period from 329,245 women.
 Because pubertal timing is genetically similar in both sexes (genetic correlation 0.75), the variants
 were used as a marker of puberty timing in men too. They were tested in 14,802 people with MS and
-26,703 controls, and multivariable analyses adjusted for adult and childhood body mass index (BMI).
+26,703 controls, and multivariable analyses adjusted for adult body mass index (BMI); childhood BMI was accounted for in a
+separate analysis, not added jointly with adult BMI.
 
 ## What it found
 
 - Each year later in genetically predicted puberty was associated with 8% lower odds of MS (OR 0.92,
   95% CI 0.86 to 0.99, p = 0.03).
 - After accounting for adult BMI, the association weakened and was no longer significant (OR 0.96,
-  95% CI 0.88 to 1.04, p = 0.36). Adding childhood BMI gave similar results.
+  95% CI 0.88 to 1.04, p = 0.36). A separate analysis accounting for childhood BMI gave similar results.
 - Sensitivity analyses showed no evidence of major bias from pleiotropy.
 
 ## Limits

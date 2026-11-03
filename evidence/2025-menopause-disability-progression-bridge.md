@@ -26,8 +26,9 @@ analysis followed 209 women with EDSS scores before and after menopause.
 ## Limits
 
 - Observational, and menopause timing and status came from retrospective surveys.
-- The confidence intervals allow modest effects in either direction, so "not associated" is not
-  proof of no effect.
+- The confidence intervals are wide. For secondary progressive MS the upper limit is a 67% higher
+  hazard, so clinically important effects remain possible, and "not associated" is not proof of no
+  effect.
 - Women who completed the surveys may differ from those who did not.
 - EDSS is a coarse measure. Effects on cognition, fatigue or other symptoms are not addressed in the
   abstract.

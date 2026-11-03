@@ -29,7 +29,8 @@ education, number of births, smoking, fertility problems, obesity and mononucleo
   wide confidence intervals; subgroup findings are more likely to be chance.
 - Women who never gave birth may differ in other ways, and having MS can itself affect decisions
   about pregnancy and contraception (reverse causation).
-- White women born 1937 to 1970 only, using older pill formulations; the authors call for cautious
-  causal interpretation and checks in other populations and pill types.
+- White women born 1937 to 1970 only. Given their birth years, many may have used pill
+  formulations different from today's, but the abstract does not report formulations. The authors
+  call for cautious causal interpretation and checks in other populations and pill types.
 - This is not advice about contraception, which is a decision for each person and their clinician.
 - Numbers come from the abstract.

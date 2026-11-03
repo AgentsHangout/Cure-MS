@@ -388,16 +388,23 @@ stop MS before it starts rather than in people who have it.
 | 4 | A vaccine can reduce mononucleosis: in a trial of 181 EBV-negative young adults, a gp350 vaccine had an estimated 78% efficacy against mononucleosis (95% CI 1% to 96%) but did not prevent infection. | [2007-ebv-gp350-vaccine-sokal](../evidence/2007-ebv-gp350-vaccine-sokal.md) (2; MS not measured) | 2 |
 | 5 | Preventing EBV infection, or mononucleosis, lowers MS risk. | None. It has been proposed (Rostgaard and colleagues suggest an early vaccine might nearly eliminate MS) but never tested. | none |
 
-**Weakest link.** Step 5 (no evidence), and no vaccine in these files prevents infection at all.
+**Weakest link.** Step 5 (no evidence), and no vaccine in these files has been shown to prevent
+infection. A newer gp350 nanoparticle vaccine raised antibodies in an open-label phase 1 trial, and the
+abstract reports no infection after three doses, but its registry results list EBV infection in 2
+of 20 and mononucleosis in 2 of 20 seronegative participants (overlap and timing not reported), and with no control group it
+cannot show prevention ([2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md), level 4).
 Most adults carry EBV and most never get MS, so other factors (genes, vitamin D, smoking, adolescent
 obesity; see [questions/clustering.md](../questions/clustering.md)) also matter. **What would break
 it:** a vaccine that prevents infection in a large trial, followed over many years, with no fall in
 MS; or evidence that preventing only mononucleosis, not infection, leaves MS risk unchanged.
 
-**Already being tested.** Nothing in the tracker tests EBV vaccination for prevention. One trial
-gives mRNA-1195 to EBV-positive people with early MS
-([NCT06735248](https://clinicaltrials.gov/study/NCT06735248)); the tracker notes that the registry
-entry does not name the vaccine's target, so it is not counted as a prevention trial here.
+**Already being tested.** The MS trial tracker covers MS trials only, so prevention trials in
+healthy people are listed in [questions/ebv.md](../questions/ebv.md): a completed, small,
+placebo-controlled gp350-ferritin trial with infection endpoints
+([NCT05683834](https://clinicaltrials.gov/study/NCT05683834), no results posted) and phase 1 or 1/2
+mRNA and nanoparticle trials. In MS itself, one trial gives mRNA-1195, an investigational EBV
+vaccine, to EBV-positive people with MS ([NCT06735248](https://clinicaltrials.gov/study/NCT06735248));
+that tests treatment, not prevention.
 
 **Next trial.** EBV-negative adolescents; a vaccine designed to prevent infection vs placebo; main
 outcome EBV infection (seroconversion) and mononucleosis over a few years, with consent to long-term
@@ -424,8 +431,9 @@ large potential reach.
   3), which affects hypotheses 2 and 3.
 - **"No file here" is not the same as "nobody has studied it."** The list below is about this
   repo's evidence files. Some of these gaps are also gaps in the literature as far as this review
-  found: no trial adding a BTK inhibitor to an anti-CD20 drug, no trial of a vaccine that prevents
-  EBV infection, and no randomized CAR-T trial in MS that has reported disability outcomes yet (one is
+  found: no trial adding a BTK inhibitor to an anti-CD20 drug, no published results showing that a
+  vaccine prevents EBV infection (a small placebo-controlled trial with infection outcomes,
+  [NCT05683834](https://clinicaltrials.gov/study/NCT05683834), is completed with no results posted), and no randomized CAR-T trial in MS that has reported disability outcomes yet (one is
   registered: KYSA-7, [NCT06384976](https://clinicaltrials.gov/study/NCT06384976), a randomized phase 2
   trial of the CAR-T KYV-101 against an anti-CD20 antibody, with confirmed disability progression
   as its primary outcome; active, not recruiting, no results posted as of 11/03/2026). Others are not gaps in
@@ -449,8 +457,10 @@ large potential reach.
     company-funded cases with small EDSS changes over 6 to 12 months. The Qin paper reports
     those measures (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf)), but its exact values are
     inconsistent between versions, so the evidence file quotes none; its abstract gives no clinical outcomes.
-  - No peer-reviewed results for the EMBOLD EBV T-cell trial (hypothesis 6); no infection-preventing
-    EBV vaccine trial (hypothesis 7). Both appear to be genuine gaps in the literature.
+  - No peer-reviewed results for the EMBOLD EBV T-cell trial (hypothesis 6); no published efficacy results
+    for a vaccine that prevents EBV infection (hypothesis 7). A small placebo-controlled trial with
+    infection endpoints (NCT05683834) is completed with no results posted, and larger mRNA trials are
+    under way (see [questions/ebv.md](../questions/ebv.md)).
   - **Antiviral MS trials** (hypothesis 6) now have files: acyclovir (Lycke 1996), valacyclovir
     (Bech 2002, Friedman 2005) and the Höllsberg 2005 EBV and HHV-6B DNA substudy, listed in
     [questions/ebv.md](../questions/ebv.md). None establishes an EBV-mediated benefit, and the trials were not designed specifically

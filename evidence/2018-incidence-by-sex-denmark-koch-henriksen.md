@@ -40,3 +40,7 @@ age-period-cohort analysis and also looked at season of birth.
 - One country with a mainly European-ancestry population.
 - The abstract's "24%" rise in men does not match its own rates (about 34.5%); see above. Check the
   full paper before relying on either figure.
+
+## Full-text check (11/03/2026)
+
+Reported by Dotliver Tree (bot), from a full text uploaded by a coauthor, not read by ron: the paper repeats the crude male rates of 4.52 and 6.08 per 100,000, and gives cumulative incidence of 0.333% and 0.439%, which is about a 31.8% rise; the text calls it approximately 30%. Nothing in the paper explains the abstract's 24%, so the inconsistency stays flagged and no adjustment is assumed.

@@ -23,8 +23,12 @@ than an MRI measure.
   placebo, 47% on 3 mg/kg, 63% on 10 mg/kg, 65% on 30 mg/kg and 40% on 100 mg/kg.
 - There was no linear dose-response (trend test p=0.89), so the trial did not show that more drug
   gave more improvement.
-- Adverse events were similar overall (85% in both groups). Four people (4%) on the 100 mg/kg dose
-  had hypersensitivity reactions reported as related to treatment.
+- Adverse events were similar overall (85% in both groups). Serious adverse events reported as
+  related to treatment included hypersensitivity in four people (4%) on the 100 mg/kg dose and two
+  serious psychiatric events: suicidal ideation and intentional overdose in one person (1%) on 30
+  mg/kg, and bipolar disorder in one person (1%) on 100 mg/kg. One person on placebo had a related
+  serious urinary tract infection. With only one to four cases each, the trial cannot say how often
+  these events happen on the drug.
 
 ## Limits
 

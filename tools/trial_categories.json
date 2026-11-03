@@ -78,7 +78,7 @@
   "NCT06485232": {"q": "D", "note": "Tests the safety of donor BCMA and CD19 CAR-T cells in nerve autoimmune diseases including MS."},
   "NCT07526493": {"q": "D", "note": "Tests the safety of QH103, a donor CD19 CAR gamma-delta T-cell product, in nerve autoimmune diseases including MS."},
   "NCT04561557": {"q": "D", "note": "Tests the safety of CT103A, a BCMA CAR-T, in antibody-related nerve inflammatory diseases including MS."},
-  "NCT07139743": {"q": "D", "note": "Tests the safety of obecabtagene autoleucel (obe-cel) in progressive MS that has not responded to 2 or more drugs; the record calls it a cell therapy and does not spell out CAR-T."},
+  "NCT07139743": {"q": "D", "note": "Tests the safety of obecabtagene autoleucel (obe-cel) in progressive MS that has not responded to 2 or more drugs; the record's detailed description refers to CD19 chimeric antigen receptor (CAR) T cells."},
   "NCT06680037": {"q": "D", "note": "Finds the dose of azercabtagene zapreleucel (azer-cel) in B-cell autoimmune disorders including MS; the record lists CAR T-cell toxicities as an outcome."},
 
   "NCT04075266": {"q": "APPROVED", "note": "Ocrelizumab dosing and blood levels in children and teens with relapsing-remitting MS."},

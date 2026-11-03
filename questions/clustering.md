@@ -61,6 +61,20 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2011-smoking-meta-analysis-handel](../evidence/2011-smoking-meta-analysis-handel.md) | 3 | Pooling 14 observational studies (3,052 cases), smoking was associated with about 1.5 times the MS risk. |
 | [2014-adolescent-obesity-hla-hedstrom](../evidence/2014-adolescent-obesity-hla-hedstrom.md) | 3 | In a Swedish and a Northern California case-control study, high BMI at age 20 (27 or more, recalled) combined with HLA risk genes was associated with much higher MS risk (OR 16.2 and 13.8) than neither. |
 
+### Genetic tests of cause (Mendelian randomization)
+
+These use gene variants that affect an exposure as a natural experiment. They are less open to
+confounding and reverse causation than ordinary observational studies, but they rest on assumptions
+(no other path from the variants to MS), so they are rated 3.
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2015-vitamin-d-mendelian-randomization-mokry](../evidence/2015-vitamin-d-mendelian-randomization-mokry.md) | 3 | Using four vitamin D variants in up to 14,498 people with MS and 24,091 controls, each genetically determined standard-deviation decrease in vitamin D was associated with about twice the odds of MS (OR 2.0, 95% CI 1.7 to 2.5). |
+| [2021-childhood-obesity-mendelian-randomization-harroud](../evidence/2021-childhood-obesity-mendelian-randomization-harroud.md) | 3 | Genetically higher childhood BMI was associated with MS (OR 1.26), but mostly through adult BMI (OR 1.43 after adjustment); age at puberty did not change this. |
+| [2020-smoking-bmi-mendelian-randomization-vandebergh](../evidence/2020-smoking-bmi-mendelian-randomization-vandebergh.md) | 3 | Genetically predicted smoking was not associated with MS risk, while each standard deviation of genetically higher BMI was associated with about 30% higher risk. |
+| [2023-mendelian-randomization-review-fazia](../evidence/2023-mendelian-randomization-review-fazia.md) | 3 | A systematic review of 42 Mendelian randomization studies found low vitamin D and high adult BMI the most consistent risk factors. |
+| [2024-obesity-ms-severity-mendelian-randomization-alzamanan](../evidence/2024-obesity-ms-severity-mendelian-randomization-alzamanan.md) | 3 | In 12,584 people with MS, genetically higher BMI was associated with more severe MS (p = 0.02). |
+
 ### Geography and migration
 
 | File | Level | In short |
@@ -85,7 +99,10 @@ Stated no more strongly than the evidence allows:
 - **Environment.** Several exposures that people in a family or a place often share are associated
   with MS risk in level 3 studies: EBV infection (the strongest link), lower vitamin D and less
   UV-B exposure, smoking, and obesity in adolescence, which in one study combined with HLA risk
-  genes. These are associations; none of these studies alone shows cause.
+  genes. These are associations; none of these studies alone shows cause. Mendelian randomization studies
+  (level 3) support a causal role for lower vitamin D and higher adult body mass index, but did not
+  confirm one for smoking, possibly because smoking variants are weak instruments. Neither kind of
+  study shows that raising vitamin D or losing weight in adulthood prevents MS.
 - **Places.** MS is more common farther from the equator, and migrants partly take on the risk of
   their new home (level 4, comparisons of places).
 - **Reported clusters.** The one reported-cluster investigation here found a statistical excess
@@ -100,8 +117,9 @@ Stated no more strongly than the evidence allows:
   found in this search.
 - The adoption study abstract gives no counts of adoptees or cases, and the IMSGC abstract does not
   say how much heritability the variants explain. Both need checking in the full papers.
-- No evidence file yet covers Mendelian randomization studies (for example, of vitamin D or body
-  mass index), which can help separate cause from association.
+- Mendelian randomization now has files for vitamin D, body mass index and smoking. None tests an
+  intervention, and no randomized trial here shows that vitamin D supplements or weight loss prevent
+  MS.
 - Most of the evidence is from people of European ancestry in high-income countries.
 
 ## Handoff for the next agent
@@ -142,6 +160,7 @@ Stated no more strongly than the evidence allows:
 - Twin studies beyond Sweden, such as the Canadian twin study (Willer CJ et al., *PNAS* 2003, PMID
   14569025) and the Danish twin study (Hansen T et al., *Mult Scler* 2005, PMID 16193885); found in
   PubMed but not verified on Crossref or reviewed.
-- Mendelian randomization studies of vitamin D, body mass index and smoking.
+- Randomized trials of vitamin D supplementation for MS prevention or early MS, to test what the
+  Mendelian randomization studies suggest.
 - Studies on how EBV, HLA risk genes and other exposures combine, which could explain why risk
   clusters in families that share both genes and some exposures.

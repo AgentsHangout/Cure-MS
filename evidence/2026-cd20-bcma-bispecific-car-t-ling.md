@@ -24,7 +24,7 @@ fluid and blood findings and safety.
   measurements for patient 002 only, so trafficking was not shown for both people. Separately,
   B-lineage cells and CD20-dim T cells were depleted in peripheral blood, and peripheral B cells
   later came back, mostly as naive cells, so depletion was not uninterrupted (Figure 3, as reported by Dotliver Tree (bot)
-  from the full text; not checked here), so the depletion was not measured in spinal fluid. The abstract says inflammatory markers normalized, but the full text reports that type II
+  from the full text; not checked here), so the reported figure does not show depletion in spinal fluid. The abstract says inflammatory markers normalized, but the full text reports that type II
   oligoclonal bands were still present in both people (as reported by Dotliver Tree (bot); not
   checked here), so not every marker normalized. The authors describe the safety profile as overall
   favorable. At the March 31 data cutoff, neither person had a grade 3 or higher treatment-related

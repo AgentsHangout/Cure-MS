@@ -73,8 +73,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2025-ahsct-outcome-factors-noui](../evidence/2025-ahsct-outcome-factors-noui.md) | 3 | In the same 174-person Swedish cohort as Silfverberg 2024, unadjusted analyses linked prior rituximab to less inflammatory activity after aHSCT and longer disease duration to more disability worsening. |
 
 Taken together, these fit the idea that aHSCT helps most when there is still inflammatory activity:
-the active SPMS cohort did better than comparators, while the low-activity progressive cohort showed
-no evidence of benefit. Both are observational and small, so this is a pattern, not a test.
+the active SPMS cohort did better than comparators, while the progressive cohort with advanced
+disability and lower (not absent) relapse activity showed no evidence of benefit. Both are observational and small, so this is a pattern, not a test.
 
 ### CAR-T in MS
 

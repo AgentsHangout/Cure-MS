@@ -31,12 +31,16 @@ disability progression (CDP) on the EDSS.
 
 - Observational, with 79 aHSCT patients (69 in the matched comparison). Weighting reduces but cannot remove selection bias:
   transplant candidates are chosen partly for active inflammation and fitness.
-- "Active" SPMS is the key population. This does not apply to progressive MS without relapses or MRI
-  activity, where [Kalincik 2024](2024-ahsct-vs-natalizumab-progressive-kalincik.md) found no
-  evidence of benefit over natalizumab.
+- "Active" SPMS is the key population. It may not apply to progressive MS with advanced disability
+  and lower inflammatory activity, where [Kalincik 2024](2024-ahsct-vs-natalizumab-progressive-kalincik.md)
+  found no evidence of benefit over natalizumab. That population was not free of relapses (a
+  prior-year relapse rate of 0.54), so the two studies differ in degree of activity, not in its
+  presence or absence.
 - The comparison group was mostly older, lower-efficacy treatments, which may make aHSCT look
   better than it would against current high-efficacy drugs.
-- Safety outcomes are not reported in the abstract.
-- Many of these patients may overlap with the Italian cohort in
-  [2021-ahsct-long-term-outcomes-boffa](2021-ahsct-long-term-outcomes-boffa.md).
-- Numbers come from the abstract.
+- Safety is not reported in the abstract. The full text reports one death 56 days after transplant
+  and cites the group's earlier safety cohort (as reported by Dotliver Tree (bot); not checked here).
+- So the overlap with the Italian cohort in
+  [2021-ahsct-long-term-outcomes-boffa](2021-ahsct-long-term-outcomes-boffa.md) is documented,
+  though how many patients are shared is not established.
+- Other numbers come from the abstract.

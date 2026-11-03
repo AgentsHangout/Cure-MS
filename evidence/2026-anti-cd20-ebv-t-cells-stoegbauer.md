@@ -26,8 +26,8 @@ They also measured antibodies to two EBV proteins, EBNA1 and VCA.
 - The abstract reports antibodies to EBNA1 and VCA as higher in treated MS than in untreated MS or
   controls. In post-hoc tests, the treated vs untreated difference was significant for VCA but not
   for EBNA1, and VCA-IgG differed between the two drugs.
-- Across people with MS, fewer EBV-specific CD8+ T cells went with higher EDSS at the same time point
-  (r = -0.296, p = 0.033).
+- Among people on B-cell depletion, fewer EBV-specific CD8+ T cells went with higher EDSS at the same
+  time point (r = -0.296, p = 0.033).
 - The CD4, adjustment, antibody and EDSS details come from the full-text Results, as reported by
   Dotliver Tree (bot); not checked here.
 
@@ -38,7 +38,7 @@ They also measured antibodies to two EBV proteins, EBNA1 and VCA.
 - Fewer EBV-specific T cells is a change in the immune response to EBV, not a measure of how active
   the virus is. The study did not measure EBV DNA.
 - The authors suggest fewer EBV-reactive T cells may help explain how well anti-CD20 drugs work. That
-  is a proposal. The EDSS link is a one-time association across mixed groups, so it cannot show that
+  is a proposal. The EDSS link is a one-time association among treated people, so it cannot show that
   treatment-induced drops improve outcomes. If anything, its direction (fewer cells with more
   disability) does not fit that idea, though it cannot test it either way.
 - Other numbers come from the abstract.

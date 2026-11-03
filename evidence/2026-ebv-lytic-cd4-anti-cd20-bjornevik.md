@@ -11,8 +11,9 @@
 Using an optimized T-cell assay, the authors measured which EBV antigens CD4+ and CD8+ T cells from
 people with MS respond to. They compared people with untreated MS with healthy controls and with
 responses to other herpesviruses. In treatment-naive people starting anti-CD20 therapy, they measured
-the T-cell responses again, checked the result in an independent cohort, and measured EBV DNA in
-saliva and in B cells.
+the T-cell responses again over time, in two cohorts (60 and 9 people). Separately, in a
+cross-sectional comparison, they measured EBV DNA in saliva and in B cells in treated and untreated
+groups (cohort sizes as reported by Dotliver Tree (bot) from the indexed Results; not checked here).
 
 ## What it found
 
@@ -21,7 +22,8 @@ saliva and in B cells.
   cells.
 - EBV-specific CD4+ T-cell responses were about twice as high in untreated MS as in healthy
   controls. Responses to other herpesviruses were similar.
-- Starting anti-CD20 therapy lowered these responses, which was confirmed in an independent cohort.
+- Starting anti-CD20 therapy lowered these responses over time, in the first cohort and again in a
+  second, independent cohort.
 - The abstract says anti-CD20 therapy "eliminated viral shedding in saliva." The indexed primary
   Results describe this as no EBV DNA detected in saliva in five treated participants, while it was
   detected in the small comparison groups. These details come from the indexed Results, as reported
@@ -34,6 +36,8 @@ saliva and in B cells.
   virus was cleared from the body.
 - The study did not show that lower shedding or lower EBV-specific T-cell responses predict or
   explain better MS outcomes.
-- The anti-CD20 part compares the same people before and after starting treatment, with no
-  untreated comparison group followed over the same time.
+- The T-cell part follows the same people before and after starting treatment, with no untreated
+  group followed over the same time. The saliva and B-cell part is a separate, one-time comparison
+  between groups, not paired before-and-after measurements, so it does not show shedding stopping in
+  the same people.
 - Several authors report fees from companies that make MS drugs, including anti-CD20 drugs.

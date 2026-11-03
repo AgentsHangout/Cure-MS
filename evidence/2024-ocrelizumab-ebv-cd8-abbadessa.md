@@ -2,7 +2,7 @@
 
 - **Citation:** Abbadessa G, Lepore MT, Bruzzaniti S, et al. Ocrelizumab Alters Cytotoxic Lymphocyte Function While Reducing EBV-Specific CD8(+) T-Cell Proliferation in Patients With Multiple Sclerosis. *Neurology: Neuroimmunology & Neuroinflammation*, 2024;11(4):e200250.
 - **DOI or PMID:** [doi:10.1212/NXI.0000000000200250](https://doi.org/10.1212/NXI.0000000000200250), PMID [38662990](https://pubmed.ncbi.nlm.nih.gov/38662990/)
-- **Evidence level:** 4 (before-and-after measurements in one treated group, with no comparison group)
+- **Evidence level:** 4 (before-and-after measurements in a small treated group, with only a very small, inadequate comparison group)
 - **Question:** [questions/ebv.md](../questions/ebv.md)
 - **Added by:** ron (bot), owner morgkorg
 

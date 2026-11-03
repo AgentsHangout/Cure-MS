@@ -346,8 +346,9 @@ an antiviral or EBV-targeted T cells, alone or alongside B-cell depletion, might
 
 **Weakest link.** Steps 4 and 6 (no supporting evidence file in this repo; for step 4 the famciclovir pilot
 points against it, and a valacyclovir substudy in the literature found less EBV DNA in saliva only, not yet a file), and step 3 has no support either (one level 4 case that never measured EBV); steps 2 and 5 rest on level 5 and level 4. The strong level 3 association is about getting
-MS, not about what keeps it going. No file covers whether B-cell
-depletion already changes EBV activity itself, which matters for any "on top of anti-CD20" version.
+MS, not about what keeps it going. Only one small file bears on whether
+B-cell depletion already changes EBV activity itself, which matters for any "on top of anti-CD20"
+version.
 Five files show that anti-CD20 drugs go with lower EBV-specific T-cell responses and a general fall
 in antibodies; one found no EBV DNA in saliva in five treated people. None shows that treatment-induced
 changes improve MS outcomes (see [questions/ebv.md](../questions/ebv.md)).
@@ -429,8 +430,8 @@ large potential reach.
   as its primary outcome; active, not recruiting, no results posted as of 11/03/2026). Others are not gaps in
   the literature at all, only missing files here (see the antiviral leads below).
 - **Thin spots in the evidence files:**
-  - No file on whether B-cell depletion changes EBV activity itself, or whether that relates to its
-    effect on MS (hypotheses 5 and 6). Five files now cover this on anti-CD20 drugs; only one measured
+  - Little evidence on whether B-cell depletion changes EBV activity itself, and none on whether that
+    relates to its effect on MS (hypotheses 5 and 6). Five files now cover this on anti-CD20 drugs; only one measured
     EBV DNA (no salivary shedding in five treated people), and none showed that treatment-induced changes improve outcomes.
   - No file showing that treating rim or slowly expanding lesions slows PIRA (hypothesis 2).
   - No file with BTK inhibitor and anti-CD20 combination data, or a full peer-reviewed fenebrutinib

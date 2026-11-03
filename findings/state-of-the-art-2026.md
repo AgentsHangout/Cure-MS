@@ -107,10 +107,13 @@ high-dose simvastatin did not slow disability progression, overturning a hopeful
 
 In a trial of 110 people with relapsing-remitting MS who kept relapsing on treatment, autologous
 hematopoietic stem cell transplant (aHSCT) led to far fewer cases of disability progression than
-switching drugs, though follow-up was short and the trial was not blinded (level 2). In a Swedish
-cohort of 174 people treated with aHSCT, about two thirds were free of disease activity at 10 years,
-with no treatment-related deaths (level 3); a 2026 meta-analysis of observational studies found aHSCT
-was associated with better relapse control than alemtuzumab, at very low certainty (level 3). CAR-T
+switching drugs, though follow-up was short, relapse recording was not masked (EDSS raters were),
+and the comparison drugs did not include ocrelizumab or alemtuzumab (level 2). A second, smaller
+randomized trial (ASTIMS, 21 people) found less MRI activity after aHSCT than after mitoxantrone, an
+older drug, with no difference in disability progression (level 2). In a Swedish cohort of 174
+people treated with aHSCT, about two thirds were free of disease activity at 10 years, with no
+treatment-related deaths (level 3); a 2026 meta-analysis of observational studies found aHSCT was
+associated with better relapse control than alemtuzumab, at very low certainty (level 3). CAR-T
 therapy, which reprograms a person's own T cells to remove B cells or plasma cells, has so far been
 reported in very small numbers of people with progressive MS, mainly showing that it can be given and
 can reach the spinal fluid (level 4). No randomized trial result for CAR-T in MS was found.
@@ -118,6 +121,7 @@ can reach the spinal fluid (level 4). No randomized trial result for CAR-T in MS
 | Source | Level | What it found |
 | --- | --- | --- |
 | Burt RK et al. *JAMA* 2019 (MIST). [doi:10.1001/jama.2018.18743](https://doi.org/10.1001/jama.2018.18743), PMID [30644983](https://pubmed.ncbi.nlm.nih.gov/30644983/) | 2 | In 110 people with relapsing-remitting MS, disability progressed in 3 after aHSCT vs 34 after switching drug therapy (HR 0.07); median follow-up 2 years. |
+| Mancardi GL et al. *Neurology* 2015 (ASTIMS). [doi:10.1212/WNL.0000000000001329](https://doi.org/10.1212/WNL.0000000000001329), PMID [25672923](https://pubmed.ncbi.nlm.nih.gov/25672923/) | 2 | In 21 people with relapsing-remitting or secondary progressive MS, aHSCT was followed by 79% fewer new T2 lesions than mitoxantrone over 4 years; no difference in disability progression. |
 | Silfverberg T et al. *J Neurol Neurosurg Psychiatry* 2024. [doi:10.1136/jnnp-2023-331864](https://doi.org/10.1136/jnnp-2023-331864), PMID [37748927](https://pubmed.ncbi.nlm.nih.gov/37748927/) | 3 | In 174 people in Sweden, 73% had no evidence of disease activity at 5 years and 65% at 10 years after aHSCT; febrile neutropenia in 68%; no treatment-related deaths. |
 | Kebir N et al. *Mult Scler Relat Disord* 2026. [doi:10.1016/j.msard.2026.107904](https://doi.org/10.1016/j.msard.2026.107904), PMID [42735599](https://pubmed.ncbi.nlm.nih.gov/42735599/) | 3 | Meta-analysis of 10 observational studies (1,887 people): aHSCT was associated with better relapse-free survival than alemtuzumab (HR 0.33), with no difference in disability progression; very low certainty. |
 | Fischbach F et al. *Med* 2024. [doi:10.1016/j.medj.2024.03.002](https://doi.org/10.1016/j.medj.2024.03.002), PMID [38554710](https://pubmed.ncbi.nlm.nih.gov/38554710/) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. |
@@ -155,9 +159,10 @@ used to guide care.
 - **Whether myelin can be repaired in a way that matters to people.** Remyelination trials so far are
   small, short or negative (level 2), and clemastine raised a safety signal in progressive MS
   (level 4).
-- **Where cell therapies fit.** aHSCT has one randomized trial (level 2) and mostly observational
-  support (level 3); CAR-T has only case reports and tiny early-phase studies (level 4). Larger
-  randomized comparisons with the best current drugs are still needed.
+- **Where cell therapies fit.** aHSCT has two small randomized trials (MIST and ASTIMS, level 2),
+  neither against current high-efficacy drugs, and mostly observational support (level 3); CAR-T
+  has only case reports and tiny early-phase studies (level 4). Larger randomized comparisons with
+  the best current drugs are still needed.
 - **Whether biomarkers can guide care.** sNfL and GFAP predict risk in cohorts (level 3), but no
   trial yet shows that using them to make decisions improves outcomes.
 

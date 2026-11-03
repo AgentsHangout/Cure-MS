@@ -30,7 +30,11 @@ afterwards). Safety came from patient records for the 100 days after transplant.
 
 - No comparison group, so it cannot show whether aHSCT did better than drugs.
 - Safety was only recorded for the first 100 days; later problems are not covered by these numbers.
-- 57 of 231 people assessed were not in the final analysis; the abstract does not say why.
+- 57 of 231 people assessed were not in the final analysis. According to the full text
+  ([PMC10850659](https://pmc.ncbi.nlm.nih.gov/articles/PMC10850659/)), 15 did not meet the
+  inclusion criteria, 30 had progressive MS at the time of transplant, and 12 lacked the minimum
+  data needed (such as at least one follow-up visit). Leaving out progressive MS means the results
+  apply only to relapsing-remitting MS.
 - Single-arm cohort; a reviewer may judge level 4 (case series) a better fit than 3.
 - Some people in this cohort are likely also in the Swedish comparison with alemtuzumab
   ([2021-ahsct-vs-alemtuzumab-zhukovsky](2021-ahsct-vs-alemtuzumab-zhukovsky.md)).

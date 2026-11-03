@@ -84,8 +84,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md) | 3 | In 1,813 people with relapse-onset MS, secondary sex-stratified severity analyses found one genome-wide significant locus in women and a different one in men; small and unreplicated. |
-| [2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md) | 3 | In a multi-ancestry risk study (29,374 cases), 11 of 145 lead variants showed nominal sex differences, none surviving multiple-testing correction: tested, but inconclusive. |
+| [2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md) | 3 | In 1,813 people with relapse-onset MS, secondary sex-stratified severity analyses found one genome-wide significant locus in women and a different one in men, for one severity measure only; small and unreplicated. |
+| [2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md) | 3 | In a multi-ancestry risk study (sex analyses in its Japanese and European subsets), 11 of 145 lead variants showed nominal sex differences, none surviving multiple-testing correction: tested, but inconclusive. |
 | [2022-x-linked-variants-uk-biobank-borziak](../evidence/2022-x-linked-variants-uk-biobank-borziak.md) | 3 | An X-chromosome-wide UK Biobank analysis reported 20 variants in 14 genes more common in people with MS; replication and adjustment details are not given in the abstract. |
 | [2014-x-chromosome-autoimmune-gwas-chang](../evidence/2014-x-chromosome-autoimmune-gwas-chang.md) | 3 | Methods for X-chromosome-wide studies, applied to 16 autoimmune disease data sets including two MS data sets; no MS-specific X finding in the abstract. |
 
@@ -229,8 +229,8 @@ Seen in PubMed but not verified on Crossref or read:
   32600454). Look for published results.
 - Shipley J et al., pregnancy outcomes in women with moderate to severe MS disability (*JAMA Netw
   Open* 2025, PMID 40952740).
-- Chang D et al., X-chromosome analysis in genome-wide studies of autoimmune diseases (*PLoS One*
-  2014, PMID 25479423). Check whether it includes MS.
+- The X-chromosome methods study by Chang D et al. (2014) now has a file; it includes two MS data
+  sets.
 - Bove R et al., the 2D:4D finger ratio as a proxy for prenatal androgens in men with and without
   MS (*Neurology* 2015, PMID 26341868).
 - Balshi A et al., a multicenter cohort of transgender and gender-diverse people with MS (*Mult

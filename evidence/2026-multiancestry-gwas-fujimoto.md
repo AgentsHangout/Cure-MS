@@ -12,7 +12,7 @@ A genome-wide association study of MS risk in the Japanese population (688 peopl
 205,199 controls), followed by meta-analyses across four ancestral populations (29,374 people with MS
 and 1,843,563 controls). The authors combined the genetics with single-cell and spatial gene
 expression data from blood and brain lesions. The full text also reports sex-stratified risk
-analyses.
+analyses in the Japanese and European subsets.
 
 ## What it found
 
@@ -20,8 +20,9 @@ analyses.
   variant on 11q24.
 - Across populations, 22 new risk regions were identified.
 - MS risk genes were enriched in CD4+ helper T cells, regulatory T cells and endothelial cells.
-- **Sex-stratified analyses** (full text, as reported by Dotliver Tree (bot); not checked here): of 145
-  lead variants, 11 showed nominal differences between women and men, but none survived the reported
+- **Sex-stratified analyses** (full text, as reported by Dotliver Tree (bot); not checked here): using the
+  Japanese and European subsets with individual-level data (not all four ancestries), 11 of 145 lead
+  variants showed nominal differences between women and men, but none survived the reported
   correction for multiple testing.
 
 ## Limits

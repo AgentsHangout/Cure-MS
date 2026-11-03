@@ -44,4 +44,6 @@ fluid and blood findings and safety.
   up in a sample this small.
 - Most authors are employees of AbelZeta, which makes C-CAR168, and the company funded the work and
   took part in its design, data collection and analysis.
-- Numbers come from the abstract.
+- The EDSS and remission figures come from the abstract. The blood versus spinal fluid, safety,
+  oligoclonal band and conditioning details come from the full text, as reported by a reviewer, and
+  were not checked here. Results are at the authors' data cutoff (March 31 for safety).

@@ -55,7 +55,7 @@ disability worsening in relapsing MS happened without relapses ("PIRA"), which c
 partly prevent (level 3). PIRA is an operational label: it means worsening that happened outside
 the relapse windows a study set, not proof that no relapse or inflammation occurred, and
 definitions differ from study to study (level 3). In a reanalysis of two natalizumab trials, for
-example, 42.2% of people with PIRA had new MRI activity in the first year (level 3).
+example, some events counted as PIRA coincided with new MRI activity (level 3; the paper's abstract and tables give different percentages, so no figure is quoted here).
 
 | Source | Level | What it found |
 | --- | --- | --- |
@@ -102,7 +102,7 @@ high-dose simvastatin did not slow disability progression, overturning a hopeful
 | Source | Level | What it found |
 | --- | --- | --- |
 | Green AJ et al. *Lancet* 2017 (ReBUILD). [doi:10.1016/S0140-6736(17)32346-2](https://doi.org/10.1016/S0140-6736(17)32346-2), PMID [29029896](https://pubmed.ncbi.nlm.nih.gov/29029896/) | 2 | In 50 people with relapsing MS and chronic optic neuropathy, clemastine shortened visual evoked potential delay by 1.7 ms per eye; fatigue was more common. |
-| Kocot J et al. *J Clin Invest* 2025. [doi:10.1172/JCI183941](https://doi.org/10.1172/JCI183941), PMID [40371642](https://pubmed.ncbi.nlm.nih.gov/40371642/) | 4 | In a clemastine arm of the TRAP-MS platform study, 3 of 9 people with progressive MS triggered safety stopping rules and disability worsened faster than in other participants; cell studies linked clemastine plus ATP to pyroptosis (level 5 for the lab part). |
+| Kocot J et al. *J Clin Invest* 2025. [doi:10.1172/JCI183941](https://doi.org/10.1172/JCI183941), PMID [40371642](https://pubmed.ncbi.nlm.nih.gov/40371642/) | 4 | In a clemastine arm of the TRAP-MS platform study, 16 people with progressive MS started clemastine, and 3 of the 9 who had reached six months triggered safety stopping rules and disability worsened faster than in other participants; cell studies linked clemastine plus ATP to pyroptosis (level 5 for the lab part). |
 | Brown JWL et al. *Lancet Neurol* 2021 (CCMR One). [doi:10.1016/S1474-4422(21)00179-4](https://doi.org/10.1016/S1474-4422(21)00179-4), PMID [34418398](https://pubmed.ncbi.nlm.nih.gov/34418398/) | 2 | In 52 people with relapsing-remitting MS, bexarotene did not change the primary MRI myelin measure vs placebo and caused frequent side effects. |
 | Chataway J et al. *Lancet* 2025 (MS-STAT2). [doi:10.1016/S0140-6736(25)01039-6](https://doi.org/10.1016/S0140-6736(25)01039-6), PMID [41045938](https://pubmed.ncbi.nlm.nih.gov/41045938/) | 2 | In 964 people with secondary progressive MS, 6-month confirmed disability progression was 40% with simvastatin 80 mg vs 36% with placebo (HR 1.13, not significant). |
 
@@ -177,7 +177,7 @@ used to guide care.
 The phase 2 simvastatin signal did not hold up in a larger phase 3 trial, a reminder that small
 positive trials often fail to replicate. The clemastine picture is different: the later TRAP-MS
 safety signal came from a different population (progressive MS rather than relapsing MS with old
-optic nerve damage), design (a 9-person arm of a platform study rather than a randomized crossover
+optic nerve damage), design (an arm of a platform study that 16 people started, rather than a randomized crossover
 trial) and outcome (safety stopping rules and disability slopes rather than visual nerve signal
 delay), so it is not a direct replication of ReBUILD and does not test the same question. BTK
 inhibitors split by drug and by

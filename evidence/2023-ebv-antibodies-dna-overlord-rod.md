@@ -13,7 +13,8 @@ months (median 6; 14 people reached month 18, as reported by Dotliver Tree (bot)
 text; not checked here) after starting B-cell depletion therapy in the OVERLORD-MS phase 3 trial (NCT04578639). Serum
 taken before treatment and at 3, 6, 12 and 18 months was tested for IgG against two EBV proteins,
 EBNA1 and the viral capsid antigen (VCA). Cytomegalovirus (CMV) IgG and total IgG were measured as
-comparisons. EBV DNA in blood was measured by PCR in the first 156 samples. In all, 290 samples from
+comparisons. EBV DNA in plasma was measured by PCR in the first 156 samples. Results were pooled across the
+anti-CD20 drugs used in the trial (rituximab and ocrelizumab). In all, 290 samples from
 99 people were analyzed.
 
 ## What it found
@@ -25,7 +26,7 @@ comparisons. EBV DNA in blood was measured by PCR in the first 156 samples. In a
   indexed Results that was not true at every visit; the changes varied by visit (as reported by
   Dotliver Tree (bot); not checked here).
 - People carrying the HLA-DRB1*15:01 risk allele had higher EBNA1 IgG at baseline (p = 0.02).
-- EBV DNA was found in the blood in only 3 of 156 samples from 64 people.
+- EBV DNA was found in plasma in only 3 of 156 samples from 64 people.
 
 ## Limits
 

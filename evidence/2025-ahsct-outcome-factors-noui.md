@@ -23,14 +23,16 @@ after transplant, using univariable Cox models.
 - EBV detection was associated with more inflammatory activity (HR 2.3, 95% CI 1.05 to 5.07). EBV was
   measured after transplant by qPCR in blood, serum or plasma, generally weekly for 5 to 7 weeks, and
   the virology analysis covers only transplants after 2012 (as reported by Dotliver Tree (bot) from the full text; not checked here).
-- CDW was associated with longer disease duration (HR 1.09 per unit, 95% CI 1.00 to 1.19) and was
+- CDW was associated with longer disease duration (HR 1.09 per year, 95% CI 1.00 to 1.19) and was
   less likely in people with gadolinium-enhancing lesions before transplant (HR 0.08, 95% CI 0.01 to
   0.64).
 - No CDW events occurred in the 18 people who had never had a disease-modifying treatment (as reported by Dotliver Tree (bot) from the full text).
 
 ## Limits
 
-- Univariable models only, so each factor was tested alone, without adjusting for the others. Many
+- The main reported associations come from univariable models, so each factor was tested alone,
+  without adjusting for the others (a post hoc interaction with the conditioning regimen was also
+  examined). Many
   factors were tested, so some associations could be chance findings.
 - Retrospective and observational, with few events for some factors (wide confidence intervals).
 - The EBV finding is an association. EBV testing differed between centers and covered only part of

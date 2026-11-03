@@ -131,7 +131,7 @@ calm that second compartment and slow worsening that anti-CD20 drugs alone do no
 | 2 | Peripheral B-cell depletion leaves a residual: in a trial of 1,013 people with primary progressive MS, ocrelizumab slowed but did not stop progression (33% vs 40%); in two trials (860 and 753 people), a higher dose did not slow progression more; in 10,499 people in the French registry, starting a high-efficacy drug was not associated with less worsening independent of relapses and MRI activity. | [2026-ocrelizumab-ppms-giovannoni](../evidence/2026-ocrelizumab-ppms-giovannoni.md) (2), [2026-ocrelizumab-high-dose-hauser](../evidence/2026-ocrelizumab-high-dose-hauser.md) (2), [2026-high-efficacy-therapy-pirma-rollot](../evidence/2026-high-efficacy-therapy-pirma-rollot.md) (3) | 2 |
 | 3 | People with paramagnetic rim lesions were more likely to have PIRA (HR 1.8) and, in exploratory analyses, more spinal fluid signs of inflammation inside the CNS; more slowly expanding lesion volume and more rim lesions were associated with tissue loss and worsening. | [2026-paramagnetic-rim-lesions-lauerer](../evidence/2026-paramagnetic-rim-lesions-lauerer.md) (3), [2022-slowly-expanding-lesions-calvi](../evidence/2022-slowly-expanding-lesions-calvi.md) (3), [2024-spinal-cord-atrophy-cagol](../evidence/2024-spinal-cord-atrophy-cagol.md) (3) | 3 |
 | 4 | MS risk genes are enriched in microglia; it has been proposed that microglia help direct the disease within the CNS. | [2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md) (3 for the association; the microglia role is a proposal) | 3 |
-| 5 | In a trial of 1,131 people with non-relapsing secondary progressive MS, the brain-penetrant BTK inhibitor tolebrutinib lowered 6-month confirmed progression (22.6% vs 30.7%, HR 0.69). It did not lower relapses more than teriflunomide in relapsing MS, and the trial did not show which mechanism was responsible. | [2025-tolebrutinib-hercules-fox](../evidence/2025-tolebrutinib-hercules-fox.md) (2); GEMINI 1 and 2 in the [state-of-the-art finding, section 3](state-of-the-art-2026.md#3-btk-inhibitors-and-other-late-stage-therapies-2024-2026) (2) | 2 |
+| 5 | In a trial of 1,131 people with non-relapsing secondary progressive MS, the brain-penetrant BTK inhibitor tolebrutinib lowered 6-month confirmed progression (22.6% vs 30.7%, HR 0.69). It did not lower relapses more than teriflunomide in relapsing MS, and the trial did not show which mechanism was responsible. | [2025-tolebrutinib-hercules-fox](../evidence/2025-tolebrutinib-hercules-fox.md) (2), [2025-tolebrutinib-gemini-oh](../evidence/2025-tolebrutinib-gemini-oh.md) (2) | 2 |
 | 6 | Reducing rim or slowly expanding lesions slows PIRA. | None. No file shows that treating these lesions changes worsening ([questions/pira.md](../questions/pira.md) lists this as a gap). | none |
 | 7 | A BTK inhibitor added to an anti-CD20 drug slows progression more than the anti-CD20 drug alone. | None. No file reports this combination. | none |
 | 8 | Safety: in HERCULES, serious adverse events were 15.0% vs 10.4% and ALT over 3 times normal 4.0% vs 1.6%; in pooled trial safety data on 2,958 people, 6 met Hy's law criteria, with one liver transplant followed by death. Evobrutinib also raised liver enzymes more than teriflunomide. | [2025-tolebrutinib-hercules-fox](../evidence/2025-tolebrutinib-hercules-fox.md) (2); Maxwell 2026 (4) and evolutionRMS (2) in the [state-of-the-art finding, section 3](state-of-the-art-2026.md#3-btk-inhibitors-and-other-late-stage-therapies-2024-2026) | 2 |
@@ -173,7 +173,11 @@ fumarate ([NCT07776743](https://clinicaltrials.gov/study/NCT07776743)) and remib
 remibrutinib ([NCT06846281](https://clinicaltrials.gov/study/NCT06846281)) and long-term tolebrutinib
 safety ([NCT06372145](https://clinicaltrials.gov/study/NCT06372145)). No trial in the tracker adds a
 BTK inhibitor to an anti-CD20 drug. Peer-reviewed fenebrutinib phase 3 results were not available
-when the state-of-the-art finding was written.
+when the state-of-the-art finding was written, and a PubMed search on 11/03/2026 still found none.
+Remibrutinib beat teriflunomide on relapses in relapsing MS (REMODEL-1 and 2,
+[2026-remibrutinib-remodel-wiendl](../evidence/2026-remibrutinib-remodel-wiendl.md), level 2), so not
+every BTK inhibitor fails on relapses. But it was not an add-on to an anti-CD20 drug, and its
+abstract reports no disability or PIRA results, so it does not test steps 6 or 7.
 
 **Next trial.** Adults with non-relapsing progressive MS who have been on an anti-CD20 drug for at
 least a year and have at least one paramagnetic rim lesion; a brain-penetrant BTK inhibitor vs
@@ -423,7 +427,8 @@ large potential reach.
     on MS (hypotheses 5 and 6).
   - No file showing that treating rim or slowly expanding lesions slows PIRA (hypothesis 2).
   - No file with BTK inhibitor and anti-CD20 combination data, or peer-reviewed fenebrutinib phase
-    3 results (hypothesis 2).
+    3 results (hypothesis 2). A PubMed search on 11/03/2026 found neither; REMODEL (remibrutinib vs
+    teriflunomide) is now a file but does not fill this gap.
   - No file linking a treatment-induced change in a repair measure (VEP, myelin water fraction) to
     later function in the same people (hypothesis 4). RENEWED, Schlaeger 2014 and Öncel 2026 are now files, and none
     closes it (see [questions/repair.md](../questions/repair.md)).

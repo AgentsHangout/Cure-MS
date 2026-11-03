@@ -76,13 +76,17 @@ criteria for serious drug-induced liver injury, including one who needed a trans
 4). Evobrutinib did not beat teriflunomide in two phase 3 trials and raised liver enzymes more often,
 while fenebrutinib and the anti-CD40L antibody frexalimab reduced new brain lesions in phase 2 trials
 (level 2). Phase 3 results for fenebrutinib have been announced by its maker but had not appeared in
-a peer-reviewed journal when this was written, so they are not summarized here.
+a peer-reviewed journal when this was written, so they are not summarized here (a PubMed search on
+11/03/2026 still found none). Remibrutinib is the first BTK inhibitor here to beat teriflunomide on
+relapses in phase 3: in two trials of 2,007 people with relapsing MS (REMODEL-1 and 2), the yearly
+relapse rate was about a third lower, and the authors report no liver safety concerns (level 2).
 
 | Source | Level | What it found |
 | --- | --- | --- |
 | Fox RJ et al. *N Engl J Med* 2025 (HERCULES). [doi:10.1056/NEJMoa2415988](https://doi.org/10.1056/NEJMoa2415988), PMID [40202696](https://pubmed.ncbi.nlm.nih.gov/40202696/) | 2 | In 1,131 people with non-relapsing secondary progressive MS, 6-month confirmed disability progression was 22.6% with tolebrutinib vs 30.7% with placebo (HR 0.69); serious adverse events 15.0% vs 10.4%; ALT more than 3 times normal in 4.0% vs 1.6%. |
 | Oh J et al. *N Engl J Med* 2025 (GEMINI 1 and 2). [doi:10.1056/NEJMoa2415985](https://doi.org/10.1056/NEJMoa2415985), PMID [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2 | In 1,873 people with relapsing MS, tolebrutinib was not superior to teriflunomide on yearly relapse rate; a pooled disability result favored tolebrutinib but was not formally tested. |
 | Maxwell CR et al. *Mult Scler Relat Disord* 2026. [doi:10.1016/j.msard.2026.107404](https://doi.org/10.1016/j.msard.2026.107404), PMID [42546561](https://pubmed.ncbi.nlm.nih.gov/42546561/) | 4 | Pooled safety overview of 2,958 people given tolebrutinib in trials: 4.7% had ALT more than 3 times normal; 6 met Hy's law criteria, all within 90 days; one liver transplant followed by death. |
+| Wiendl H et al. *Lancet* 2026 (REMODEL-1 and 2). [doi:10.1016/S0140-6736(26)02058-1](https://doi.org/10.1016/S0140-6736(26)02058-1), PMID [42915009](https://pubmed.ncbi.nlm.nih.gov/42915009/) | 2 | In 2,007 people with relapsing MS, remibrutinib lowered the yearly relapse rate vs teriflunomide (0.073 vs 0.112 and 0.080 vs 0.116; rate ratios 0.648 and 0.688); fewer stopped for adverse events (3.1% vs 5.8%). No disability results in the abstract. See [2026-remibrutinib-remodel-wiendl](../evidence/2026-remibrutinib-remodel-wiendl.md). |
 | Montalban X et al. *Lancet Neurol* 2024 (evolutionRMS1 and 2). [doi:10.1016/S1474-4422(24)00328-4](https://doi.org/10.1016/S1474-4422(24)00328-4), PMID [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2 | In 2,290 people with relapsing MS, evobrutinib was not superior to teriflunomide on relapse rate; liver enzymes over 5 times normal in 5.0% vs under 1%. |
 | Bar-Or A et al. *Lancet Neurol* 2025 (FENopta). [doi:10.1016/S1474-4422(25)00174-7](https://doi.org/10.1016/S1474-4422(25)00174-7), PMID [40683275](https://pubmed.ncbi.nlm.nih.gov/40683275/) | 2 | In a 12-week phase 2 trial of 109 people with relapsing MS, fenebrutinib reduced new gadolinium-enhancing lesions by 69% vs placebo. |
 | Vermersch P et al. *N Engl J Med* 2024. [doi:10.1056/NEJMoa2309439](https://doi.org/10.1056/NEJMoa2309439), PMID [38354138](https://pubmed.ncbi.nlm.nih.gov/38354138/) | 2 | In a 12-week phase 2 trial of 129 people with relapsing MS, the anti-CD40L antibody frexalimab reduced new gadolinium-enhancing lesions vs placebo (rate ratios 0.11 and 0.21 for the two doses). |

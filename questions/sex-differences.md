@@ -70,6 +70,16 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2020-postpartum-relapse-breastfeeding-langer-gould](../evidence/2020-postpartum-relapse-breastfeeding-langer-gould.md) | 3 | In 466 pregnancies (2008-2016), relapse rates fell from 0.37 before to 0.14-0.07 during pregnancy and were 0.27 in the first 3 months after birth, with no rise above the prepregnancy rate. |
 | [2024-pregnancy-dmt-relapse-yeh](../evidence/2024-pregnancy-dmt-relapse-yeh.md) | 3 | In 2,009 live births in the MSBase registry, the share of pregnancies (resulting in live births) followed by a relapse within 6 months after birth varied by treatment group, from 4.1% (ocrelizumab, 3 of 73 pregnancies) to 30.5% (natalizumab stopped early, 25 of 82, a selected subset of 419 natalizumab pregnancies, not an exhaustive split). |
 
+### Puberty, menopause and the pill
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2017-age-at-menarche-danish-cohort-nielsen](../evidence/2017-age-at-menarche-danish-cohort-nielsen.md) | 3 | In 77,330 Danish women followed about 12 years (226 developed MS), each year later at first period was associated with 13% lower MS risk (HR 0.87; 0.89 after further adjustment including pre-pregnancy BMI). |
+| [2019-age-at-menarche-meta-analysis-azimi](../evidence/2019-age-at-menarche-meta-analysis-azimi.md) | 3 | Pooling three observational studies (two from Iran, one from Canada), each year later at first period was associated with lower odds of MS (crude, unadjusted OR 0.88). |
+| [2019-age-at-puberty-mendelian-randomization-harroud](../evidence/2019-age-at-puberty-mendelian-randomization-harroud.md) | 3 | Genetically later puberty was associated with lower MS odds (OR 0.92 per year), but the association weakened and was no longer significant after accounting for body mass index (OR 0.96). |
+| [2025-menopause-disability-progression-bridge](../evidence/2025-menopause-disability-progression-bridge.md) | 3 | In 987 Australian women with relapse-onset MS, menopause was not associated with confirmed disability progression (HR 0.95, 95% CI 0.70 to 1.29) or conversion to secondary progressive MS. |
+| [2024-oral-contraceptives-uk-biobank-nova](../evidence/2024-oral-contraceptives-uk-biobank-nova.md) | 3 | In 181,058 UK Biobank women, pill use was not significantly associated with MS overall (ever use HR 1.30, 95% CI 0.93 to 1.82); higher risks appeared only in subgroups, such as women who never gave birth. |
+
 ### Sex hormone studies and trials
 
 | File | Level | In short |
@@ -130,7 +140,10 @@ Stated no more strongly than the evidence allows:
   found. A testosterone trial protocol (TOTEM RRMS) was seen but not verified.
 - No recent human genetic study that analyzes the X chromosome in depth, or tests for sex-specific
   genetic effects in MS, was found and verified in this search.
-- Menopause, age at first period and hormone use have no evidence files yet.
+- Age at first period, puberty timing, menopause and the pill now have files (all level 3). Earlier
+  first period is associated with higher MS risk, but the one Mendelian randomization study suggests
+  this runs largely through body weight. No file yet covers hormone replacement therapy, number of
+  pregnancies and later MS course, or sex hormone levels measured before onset.
 - Nearly all numbers here come from abstracts. Several abstracts leave out details (the Canadian
   ratio in early birth years, regional ratios in the Atlas, the populations in the linkage study).
 - Transgender and gender-diverse people with MS, and people with sex chromosome differences (such
@@ -203,10 +216,10 @@ Seen in PubMed but not verified on Crossref or read:
 
 Searches not yet done:
 
-- Mendelian randomization of age at first period, age at menopause and sex hormone levels on MS
-  risk.
-- Cohort studies of menopause and disability worsening, and of number of pregnancies (parity) and
-  later MS risk or course.
+- Mendelian randomization of age at menopause and sex hormone levels on MS risk (age at puberty now
+  has a file).
+- Cohort studies of number of pregnancies (parity) and later MS risk or course, and of hormone
+  replacement therapy (menopause and disability now has one file).
 - Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity, including the IMSGC
   severity work.
 - Studies of MS in people with Klinefelter syndrome (XXY) or Turner syndrome (X0).

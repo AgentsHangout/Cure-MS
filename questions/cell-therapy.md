@@ -157,7 +157,9 @@ Stated no more strongly than the evidence allows:
   (*Ann Rheum Dis* 2025, PMID 40312206), a letter about a person with rheumatoid arthritis and MS who
   relapsed after CD19 CAR-T and was then treated with aHSCT (no abstract, not read); and Murphy DJ et
   al. (*Leuk Lymphoma* 2026, PMID 42251699), CAR-T for chronic lymphocytic leukemia with CNS
-  involvement in a person who also had MS (not verified or read). A CD19 CAR-T immune profiling study by Gupta S et al. is a
+  involvement in a person who also had MS (not verified or read). A 2024 ASH conference abstract describes CD19 CAR-T (KYV-101) in 4 people with MS; it may expand
+  the same center's earlier cases (Fischbach 2024), so its people should not be counted as
+  independent until overlap is checked (as reported by Dotliver Tree (bot)). A CD19 CAR-T immune profiling study by Gupta S et al. is a
   medRxiv preprint (2026) and was left out until it is peer reviewed.
 - **Zolacabtagene autoleucel (BMS-986353), Breakfree-2.** Its sponsor reported phase 1 results in 66
   people with relapsing and progressive MS in an October 2026 press release, an uncontrolled study

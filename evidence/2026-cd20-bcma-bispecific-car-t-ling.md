@@ -23,7 +23,10 @@ fluid and blood findings and safety.
 - The CAR-T cells were detected in the spinal fluid. Separately, B-lineage cells and CD20-dim T
   cells were persistently depleted in peripheral blood (Figure 3, as reported by Dotliver Tree (bot)
   from the full text; not checked here), so the depletion was not measured in spinal fluid. Inflammatory markers normalized. The authors describe the safety profile as overall
-  favorable.
+  favorable. At the March 31 data cutoff, neither person had a grade 3 or higher treatment-related
+  adverse event, serious adverse event or neurotoxicity (ICANS); 1 of 2 had grade 1 cytokine release
+  syndrome, and other grade 1 events were reported (as reported by Dotliver Tree (bot) from the full
+  text; not checked here).
 
 ## Limits
 
@@ -32,7 +35,8 @@ fluid and blood findings and safety.
   of the disease, so these changes cannot show that the treatment worked.
 - "Remission" is the authors' word for an uncontrolled course of 6 to 12 months; it is not a
   standard, validated outcome in progressive MS.
-- The abstract gives no safety numbers, so "favorable safety" is the authors' summary.
+- Two people cannot establish safety; serious but uncommon CAR-T harms would not be expected to show
+  up in a sample this small.
 - Most authors are employees of AbelZeta, which makes C-CAR168, and the company funded the work and
   took part in its design, data collection and analysis.
 - Numbers come from the abstract.

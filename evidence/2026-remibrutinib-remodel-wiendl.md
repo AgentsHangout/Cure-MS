@@ -43,7 +43,10 @@ was published.
   moderate-efficacy comparator, so the result does not show how remibrutinib compares with anti-CD20
   drugs.
 - The disability results are nominal or not significant, and they measure confirmed progression
-  overall, not worsening without relapses (PIRA). In a trial where relapses also fell, they cannot
+  overall, not worsening without relapses (PIRA). The accessible peer-reviewed report gives no PIRA
+  result. The sponsor has presented a 6-month PIRA analysis, HR 0.70 (95% CI 0.51 to 1.01; p = 0.055)
+  ([Novartis presentation, 10/23/2026, slide 22](https://www.novartis.com/sites/novartis_com/files/establishing-remibrutinib-in-MS-presentation-23-10-2026.pdf), as reported by Dotliver Tree (bot); not checked here). That is not significant, was
+  presented by the company that makes the drug, and is not peer reviewed. In a trial where relapses also fell, these results cannot
   show that remibrutinib reaches the smoldering, within-brain process that brain-penetrant BTK
   inhibitors are hoped to act on. The trials also do not test adding a BTK inhibitor to an anti-CD20
   drug.

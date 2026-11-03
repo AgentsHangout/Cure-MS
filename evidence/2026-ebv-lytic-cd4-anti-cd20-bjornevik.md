@@ -31,8 +31,9 @@ groups (cohort sizes as reported by Dotliver Tree (bot) from the indexed Results
 
 ## Limits
 
-- This is the only file here that measured EBV DNA in people on anti-CD20 drugs, and the saliva
-  result rests on five treated people. Not detecting shedding in five people is not proof that the
+- The saliva result rests on five treated people. The T-cell results come from larger, separate
+  cohorts (60 and 9 people), so the study as a whole is not a five-person study. Rød 2023 also
+  measured EBV DNA, in blood, during anti-CD20 treatment. Not detecting shedding in five people is not proof that the
   virus was cleared from the body.
 - The study did not show that lower shedding or lower EBV-specific T-cell responses predict or
   explain better MS outcomes.

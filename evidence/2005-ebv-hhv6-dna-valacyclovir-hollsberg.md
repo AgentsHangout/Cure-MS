@@ -28,7 +28,10 @@ All percentages are of **samples**, not of people.
 - **Disease activity.** People with high disease activity had a higher share of samples with EBV
   (p = 0.018) and HHV-6B (p = 0.023) than people with low activity. EBV and HHV-6B were strongly
   linked to each other in plasma but not in saliva.
-- No MS benefit is shown. This paper reports viral DNA, not relapses, disability or MRI outcomes.
+- The abstract does not demonstrate clinical benefit from valacyclovir. It reports viral DNA results
+  and an association between viral DNA and disease activity, but no relapse, disability or MRI
+  comparison between treatment groups. Whether the full paper reports any clinical outcomes was not
+  checked, because the full text is not open.
 
 ## Limits
 
@@ -39,7 +42,8 @@ All percentages are of **samples**, not of people.
   could drive them. The disease-activity links are observational. The level for the antiviral
   effect on saliva EBV could be higher if the full text shows a clear between-group comparison.
 - Lower EBV in saliva is a marker of less virus copying in the mouth. Plasma EBV was not
-  significantly lower, and the paper does not show that lowering EBV changed MS.
+  significantly lower, and the abstract does not show that lowering EBV changed MS.
 - The parent trial itself found no effect on its main MRI outcome (see the Bech file).
 - All numbers are from the PubMed abstract. The full text is not open in PMC or Europe PMC, so the
-  number of people, number of samples per person and funding were not checked.
+  number of people, number of samples per person, how disease activity was defined, the other
+  methods and funding were not checked.

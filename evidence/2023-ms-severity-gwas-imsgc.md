@@ -33,8 +33,10 @@ tissues, and Mendelian randomization of possible protective factors (as reported
   so this does not show that the variant drives PIRA specifically.
 - The severity score is a single-time ranking of disability for age, not a measured rate of change
   in each person.
-- The abstract does not report analyses by sex or of the X chromosome, so it does not answer
-  whether severity genes differ between women and men. The full text was not available to check.
+- The discovery analysis covered variants on the non-sex chromosomes and adjusted for sex; no
+  sex-stratified or X-chromosome analysis was found in the paper (as reported by Dotliver Tree (bot)
+  from the full text). So it does not answer whether severity genes differ between women and men;
+  see [2023-ms-severity-genetics-msbase-jokubaitis](2023-ms-severity-genetics-msbase-jokubaitis.md).
 - Mostly people of European ancestry.
 - The longitudinal cohort and outcome details come from the full paper as reported by a reviewer;
   other numbers come from the abstract.

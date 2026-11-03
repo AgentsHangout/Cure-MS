@@ -86,6 +86,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md) | 3 | In 1,813 people with relapse-onset MS, secondary sex-stratified severity analyses found one genome-wide significant locus in women and a different one in men; small and unreplicated. |
 | [2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md) | 3 | In a multi-ancestry risk study (29,374 cases), 11 of 145 lead variants showed nominal sex differences, none surviving multiple-testing correction: tested, but inconclusive. |
+| [2022-x-linked-variants-uk-biobank-borziak](../evidence/2022-x-linked-variants-uk-biobank-borziak.md) | 3 | An X-chromosome-wide UK Biobank analysis reported 20 variants in 14 genes more common in people with MS; replication and adjustment details are not given in the abstract. |
+| [2014-x-chromosome-autoimmune-gwas-chang](../evidence/2014-x-chromosome-autoimmune-gwas-chang.md) | 3 | Methods for X-chromosome-wide studies, applied to 16 autoimmune disease data sets including two MS data sets; no MS-specific X finding in the abstract. |
 
 ### Sex hormone studies and trials
 
@@ -150,12 +152,16 @@ Stated no more strongly than the evidence allows:
   secondary analyses ([2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md));
   these need replication. For susceptibility, a multi-ancestry study found nominal sex differences
   at 11 of 145 lead variants, none surviving correction for multiple testing
-  ([2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md)). No study
-  here analyzes the X chromosome in depth; the IMSGC risk map
-  ([2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md)) reports one X-chromosome
-  variant, and the larger IMSGC severity study
-  ([2023-ms-severity-gwas-imsgc](../evidence/2023-ms-severity-gwas-imsgc.md)) reports no sex or
-  X-chromosome analysis in its abstract; its full text was not checked.
+  ([2026-multiancestry-gwas-fujimoto](../evidence/2026-multiancestry-gwas-fujimoto.md)). X-chromosome-wide susceptibility analyses exist but are early: one UK Biobank study reported 20
+  X-linked variants without replication described in its abstract
+  ([2022-x-linked-variants-uk-biobank-borziak](../evidence/2022-x-linked-variants-uk-biobank-borziak.md)),
+  and a methods study included two MS data sets
+  ([2014-x-chromosome-autoimmune-gwas-chang](../evidence/2014-x-chromosome-autoimmune-gwas-chang.md)).
+  The IMSGC risk map ([2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md)) reports one
+  X-chromosome variant, and the larger IMSGC severity study
+  ([2023-ms-severity-gwas-imsgc](../evidence/2023-ms-severity-gwas-imsgc.md)) analyzed only
+  non-sex chromosomes, adjusting for sex without a sex-stratified analysis. None of these shows that
+  X-chromosome genes explain why MS is more common in women.
 - Age at first period, puberty timing, menopause and the pill now have files (all level 3). Earlier
   first period is associated with higher MS risk, but the one Mendelian randomization study suggests
   this runs largely through body weight. No file yet covers hormone replacement therapy, number of
@@ -237,7 +243,8 @@ Searches not yet done:
 - Cohort studies of number of pregnancies (parity) and later MS risk or course, and of hormone
   replacement therapy (menopause and disability now has one file).
 - Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity. The IMSGC severity
-  study now has a file; check its full text for any analysis by sex.
+  study now has a file and, per a reviewer's full-text read, has no sex-stratified analysis.
+  Replication of the Jokubaitis sex-specific severity loci, and independent X-chromosome-wide studies.
 - Studies of MS in people with Klinefelter syndrome (XXY) or Turner syndrome (X0).
 - Sex ratio trends in non-European populations (for example Iran, Japan, Latin America).
 

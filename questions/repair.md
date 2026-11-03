@@ -175,8 +175,8 @@ Stated no more strongly than the evidence allows:
   38296293, not verified) is designed to test how to measure remyelination.
 - **Earlier positive trials** that later trials did not confirm: MS-STAT (simvastatin phase 2b), the
   lipoic acid pilot, and MS-SPI (biotin), for context.
-- **Ibudilast follow-up papers** on SPRINT-MS (for example, slowly enlarging lesions, Nakamura K et
-  al., *Mult Scler* 2024, PMID 38286755, not verified).
+- **Ibudilast follow-up papers** on SPRINT-MS. The slowly enlarging lesion analysis (Nakamura 2024)
+  now has a file under [questions/pira.md](pira.md); others have not been checked.
 - **Rehabilitation and exercise** combined with remyelination drugs, which some authors have
   proposed as a reason past trials failed.
 

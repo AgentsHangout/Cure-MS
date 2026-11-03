@@ -472,7 +472,10 @@ large potential reach.
     Tree (bot): 50 people were randomized and 46 completed six months; the reported EBV-activity
     measures were not significantly reduced; safety was the primary outcome, and no relapse or
     disability efficacy was reported.
-  - Late harms after aHSCT beyond 100 days are thinly reported, and the aHSCT registry studies may
+  - Late harms after aHSCT beyond 100 days are thinly reported for MS specifically: one EBMT survey
+    of autoimmune diseases (47% MS) gives 10-year rates of new autoimmune disease (10.3%) and new
+    cancer (4.1%), pooled across diseases
+    ([2026-ahsct-late-complications-ebmt-kirgizov](../evidence/2026-ahsct-late-complications-ebmt-kirgizov.md)), and the aHSCT registry studies may
     share patients (hypothesis 1).
   - Almost all numbers in the evidence files come from abstracts.
 

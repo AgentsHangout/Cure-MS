@@ -62,6 +62,19 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2017-ahsct-meta-analysis-sormani](../evidence/2017-ahsct-meta-analysis-sormani.md) | 3 | Pooling 15 observational studies (764 people): transplant-related mortality 2.1%, higher in older studies, in progressive MS and with higher disability; NEDA 83% at 2 years and 67% at 5 years. |
 | [2021-ahsct-long-term-outcomes-boffa](../evidence/2021-ahsct-long-term-outcomes-boffa.md) | 3 | 210 people in Italy: in relapsing-remitting MS, 71.3% free of disability worsening at 10 years; 1.4% died within 100 days, none of those transplanted after 2007. |
 | [2024-ahsct-sweden-cohort-silfverberg](../evidence/2024-ahsct-sweden-cohort-silfverberg.md) | 3 | 174 people with relapsing-remitting MS in routine Swedish care: 73% free of disease activity at 5 years and 65% at 10 years; febrile neutropenia in 68%; no treatment-related deaths. |
+| [2026-ahsct-late-complications-ebmt-kirgizov](../evidence/2026-ahsct-late-complications-ebmt-kirgizov.md) | 3 | In an EBMT survey of 579 people transplanted for autoimmune diseases (47% MS), 10-year cumulative incidences were 10.3% new autoimmune disease, 4.1% new cancer, 16.2% endocrine and 14.7% cardiovascular complications, pooled across diseases. |
+
+### aHSCT in progressive MS, and what predicts outcomes
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2023-ahsct-active-spms-boffa](../evidence/2023-ahsct-active-spms-boffa.md) | 3 | In active secondary progressive MS in Italy, 79 aHSCT patients had longer time to confirmed progression than 1,975 weighted patients on other, mostly older treatments (HR 0.50); 34.7% vs 4.6% kept an improvement at 3 years. |
+| [2024-ahsct-vs-natalizumab-progressive-kalincik](../evidence/2024-ahsct-vs-natalizumab-progressive-kalincik.md) | 3 | In progressive MS with advanced disability and low relapse activity, 39 aHSCT patients matched with 65 on natalizumab showed no evidence of a difference in confirmed worsening (HR 1.49, 95% CI 0.70 to 3.14); 6 needed intensive care. |
+| [2025-ahsct-outcome-factors-noui](../evidence/2025-ahsct-outcome-factors-noui.md) | 3 | In the same 174-person Swedish cohort as Silfverberg 2024, unadjusted analyses linked prior rituximab to less inflammatory activity after aHSCT and longer disease duration to more disability worsening. |
+
+Taken together, these fit the idea that aHSCT helps most when there is still inflammatory activity:
+the active SPMS cohort did better than comparators, while the low-activity progressive cohort showed
+no evidence of benefit. Both are observational and small, so this is a pattern, not a test.
 
 ### CAR-T in MS
 
@@ -143,12 +156,6 @@ Stated no more strongly than the evidence allows:
 
 - Kebir N et al., a 2026 meta-analysis of aHSCT vs alemtuzumab (*Mult Scler Relat Disord* 2026,
   PMID 42735599), cited in the state-of-the-art overview but not verified or given a file here.
-- Kalincik T et al., aHSCT vs natalizumab in progressive MS (*J Neurol Neurosurg Psychiatry* 2024,
-  PMID 38538060); found in PubMed, not verified on Crossref.
-- Boffa G et al., aHSCT in active secondary progressive MS (*Neurology* 2023, PMID 36543569); found
-  in PubMed, not verified on Crossref.
-- Noui Y et al., factors associated with outcomes after aHSCT (*J Neurol Neurosurg Psychiatry* 2025,
-  PMID 40050008); found in PubMed, not verified on Crossref.
 - Results of ongoing randomized trials of aHSCT vs high-efficacy drugs (StarMS in the UK, and others
   named in Inglese M et al., *Handb Clin Neurol* 2024, PMID 39111916, a review not used as evidence).
 - More CAR-T reports. Ling Z et al. 2026 now has a file. Ismail FS et al. (*Signal Transduct Target
@@ -178,8 +185,8 @@ Stated no more strongly than the evidence allows:
   follow-up and shrinking denominators that differ from the company's headline; a company
   presentation, not a peer-reviewed report, so no file yet. A file should wait until the abstract can be read and checked for
   overlap with other CAR-T cohorts at the same meeting, or until a full peer-reviewed report appears.
-- Late harms after aHSCT (secondary cancers, new autoimmune disease, fertility) and health
-  economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
+- Late harms after aHSCT in MS specifically (the EBMT late-effects survey pools diseases; fertility
+  is not covered) and health economics, for example Burt RK et al. on costs (*Mult Scler Relat Disord* 2020, PMID 32731201,
   not verified).
 
 ## Changes after review (11/03/2026)

@@ -82,7 +82,7 @@ links may run in either direction.
 | [2009-parity-secondary-progression-koch](../evidence/2009-parity-secondary-progression-koch.md) | 3 | In 277 women, number of births was not independently associated with secondary progression. |
 | [2020-reproductive-history-progressive-ms-zeydan](../evidence/2020-reproductive-history-progressive-ms-zeydan.md) | 3 and 4 | Women with MS had fewer full-term pregnancies than controls; fewer pregnancies and earlier menopause went with earlier progressive onset in a small clinic series. |
 | [2022-bazedoxifene-estrogen-menopause-trial-bove](../evidence/2022-bazedoxifene-estrogen-menopause-trial-bove.md) | 2 | A 2-month randomized pilot in 24 menopausal women with MS found hormone therapy feasible and well tolerated; hot-flash interference was lower but not significantly, and MS outcomes were not tested. |
-| [2025-menopausal-hormone-therapy-adipokines-juutinen](../evidence/2025-menopausal-hormone-therapy-adipokines-juutinen.md) | 4 | In 16 menopausal women with MS, one inflammation-related adipokine fell during a year of hormone therapy, with no comparison group and no clinical outcomes. |
+| [2025-menopausal-hormone-therapy-adipokines-juutinen](../evidence/2025-menopausal-hormone-therapy-adipokines-juutinen.md) | 4 | In 16 menopausal women with MS and 15 healthy controls, all on hormone therapy, one inflammation-related adipokine fell over a year; no untreated or randomized MS comparison, and no effect on relapses or disability was tested. |
 
 ### Puberty, menopause and the pill
 

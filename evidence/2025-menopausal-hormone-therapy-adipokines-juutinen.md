@@ -8,9 +8,12 @@
 
 ## What was studied
 
-16 menopausal women with MS and 15 age-matched healthy women had adipokines (hormones made by fat
-tissue), inflammation markers and MS severity markers measured. In the women with MS, adipokines were
-followed over 1 year of oral menopausal hormone therapy, compared with their own baseline.
+A small case-control study. 16 menopausal women with relapsing or secondary progressive MS (EDSS
+under 6) and 15 age-matched healthy women all started oral menopausal hormone therapy (estradiol 1
+or 2 mg with cyclic dydrogesterone). Adipokines (hormones made by fat tissue) and inflammation
+markers were measured at baseline, 3 and 12 months. In the women with MS, MS severity was assessed
+with EDSS and MSSS, brain MRI was done at baseline and 12 months, and 9 had spinal fluid sampled.
+Design details were read in the full text (PMC12684142).
 
 ## What it found
 
@@ -22,9 +25,10 @@ followed over 1 year of oral menopausal hormone therapy, compared with their own
 
 ## Limits
 
-- 16 women with MS, no randomized or untreated comparison over the year, so changes during hormone
-  therapy cannot be attributed to it.
-- Correlations between markers, not effects on relapses, disability or symptoms.
+- 16 women with MS. Everyone, including the healthy controls, took hormone therapy, so there was no
+  untreated or randomized MS comparison, and changes during therapy cannot be attributed to it.
+- EDSS, MSSS and MRI were measured, but the reported findings are correlations between markers and
+  one marker's change during therapy, not an effect of therapy on relapses or disability.
 - The authors' description of adipsin as a promising biomarker is a proposal.
 - This is not advice about hormone therapy, which is a decision for each person and their clinician.
-- Numbers come from the abstract.
+- Numbers come from the abstract; design details come from the full text.

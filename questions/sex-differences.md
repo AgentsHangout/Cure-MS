@@ -70,6 +70,22 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2020-postpartum-relapse-breastfeeding-langer-gould](../evidence/2020-postpartum-relapse-breastfeeding-langer-gould.md) | 3 | In 466 pregnancies (2008-2016), relapse rates fell from 0.37 before to 0.14-0.07 during pregnancy and were 0.27 in the first 3 months after birth, with no rise above the prepregnancy rate. |
 | [2024-pregnancy-dmt-relapse-yeh](../evidence/2024-pregnancy-dmt-relapse-yeh.md) | 3 | In 2,009 live births in the MSBase registry, the share of pregnancies (resulting in live births) followed by a relapse within 6 months after birth varied by treatment group, from 4.1% (ocrelizumab, 3 of 73 pregnancies) to 30.5% (natalizumab stopped early, 25 of 82, a selected subset of 419 natalizumab pregnancies, not an exhaustive split). |
 
+### Births, onset timing and later MS course
+
+The pregnancy and births studies are all observational, and having MS can itself shape whether and
+when people have children, so those links may run in either direction. The hormone therapy rows
+include one small randomized pilot (Bove 2022), one registry cohort and one marker study.
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2020-pregnancy-cis-onset-nguyen](../evidence/2020-pregnancy-cis-onset-nguyen.md) | 3 | In 2,557 women with CIS, earlier pregnancy went with a first event a median 3.3 years later (HR 0.68); more pregnancies did not delay it further. |
+| [2020-parity-disability-israel-achiron](../evidence/2020-parity-disability-israel-achiron.md) | 3 | In 2,281 women with relapsing-remitting MS, giving birth after onset went with lower risk of moderate disability (HR 0.68) but not severe disability; no dose-response. |
+| [2009-parity-secondary-progression-koch](../evidence/2009-parity-secondary-progression-koch.md) | 3 | In 277 women, number of births was not independently associated with secondary progression. |
+| [2020-reproductive-history-progressive-ms-zeydan](../evidence/2020-reproductive-history-progressive-ms-zeydan.md) | 3 and 4 | Women with MS had fewer full-term pregnancies than controls; fewer pregnancies and earlier menopause went with earlier progressive onset in a small clinic series. |
+| [2022-hormone-therapy-danish-registry-kopp](../evidence/2022-hormone-therapy-danish-registry-kopp.md) | 3 | In 3,325 Danish women with MS (333 used hormone therapy), no association with disability accrual was found, with wide confidence intervals and a trend toward more risk with longer use; observational. |
+| [2022-bazedoxifene-estrogen-menopause-trial-bove](../evidence/2022-bazedoxifene-estrogen-menopause-trial-bove.md) | 2 | A 2-month randomized pilot in 24 menopausal women with MS found hormone therapy feasible and well tolerated; hot-flash interference was lower but not significantly; it measured MS symptoms, quality of life, function and MRI but was not powered to establish effects on MS activity or disability. |
+| [2025-menopausal-hormone-therapy-adipokines-juutinen](../evidence/2025-menopausal-hormone-therapy-adipokines-juutinen.md) | 4 | In 16 menopausal women with MS and 15 healthy controls, all on hormone therapy, one inflammation-related adipokine fell over a year; no untreated or randomized MS comparison, and no effect on relapses or disability was tested. |
+
 ### Puberty, menopause and the pill
 
 | File | Level | In short |
@@ -164,8 +180,12 @@ Stated no more strongly than the evidence allows:
   X-chromosome genes explain why MS is more common in women.
 - Age at first period, puberty timing, menopause and the pill now have files (all level 3). Earlier
   first period is associated with higher MS risk, but the one Mendelian randomization study suggests
-  this runs largely through body weight. No file yet covers hormone replacement therapy, number of
-  pregnancies and later MS course, or sex hormone levels measured before onset.
+  this runs largely through body weight. Number of births and later course now has files, with mixed results that
+  may reflect who chooses pregnancy. Menopausal hormone therapy has one small randomized pilot (24
+  women, 2 months, focused on feasibility and hot flashes), one Danish registry cohort (observational,
+  no association with disability found) and one 16-person marker study; no trial here is powered to
+  establish effects on MS activity or disability. Sex hormone levels measured before onset
+  still have no file.
 - Nearly all numbers here come from abstracts. Several abstracts leave out details (the Canadian
   ratio in early birth years, regional ratios in the Atlas, the populations in the linkage study).
 - Transgender and gender-diverse people with MS, and people with sex chromosome differences (such
@@ -240,8 +260,10 @@ Searches not yet done:
 
 - Mendelian randomization of age at menopause and sex hormone levels on MS risk (age at puberty now
   has a file).
-- Cohort studies of number of pregnancies (parity) and later MS risk or course, and of hormone
-  replacement therapy (menopause and disability now has one file).
+- Powered randomized trials of menopausal hormone therapy on MS outcomes (beyond the Bove 2022
+  pilot), and
+  population-based studies of parity and later course that account for disease severity before
+  pregnancy.
 - Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity. The IMSGC severity
   study now has a file and, per a reviewer's full-text read, has no sex-stratified analysis.
   Replication of the Jokubaitis sex-specific severity loci, and independent X-chromosome-wide studies.

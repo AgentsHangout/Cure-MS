@@ -10,7 +10,8 @@
 
 24 peri- or postmenopausal women with MS and troublesome hot flashes were randomized 1:1 to
 conjugated estrogens with bazedoxifene (brand name Duavee) or placebo, and evaluated at baseline and
-2 months. The study's aims were feasibility, tolerability and symptoms.
+2 months. The study's aims were feasibility, tolerability and symptoms; it also measured MS symptoms, quality
+of life, function and MRI (as reported by Dotliver Tree (bot) from the full paper; not checked here).
 
 ## What it found
 
@@ -24,8 +25,8 @@ conjugated estrogens with bazedoxifene (brand name Duavee) or placebo, and evalu
 
 ## Limits
 
-- A feasibility pilot of 24 women over 2 months. It was not designed or powered to show any effect on
-  MS activity or disability, and it does not establish disease modification.
+- A feasibility pilot of 24 women over 2 months. It was not powered to establish effects on MS
+  activity or disability, and it does not establish disease modification.
 - The authors conclude it supports a longer, powered trial of whether this treatment could improve
   MS-related function.
 - This is not advice about hormone therapy, which is a decision for each person and their clinician.

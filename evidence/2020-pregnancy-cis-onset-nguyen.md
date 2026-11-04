@@ -25,7 +25,8 @@ and without pregnancies or births before CIS.
 - Everyone in the study already had MS, so this is about timing of onset, not whether pregnancy
   lowers the chance of ever getting MS.
 - Reproductive history was recalled after diagnosis.
-- Age is tangled up with both pregnancy and onset: women who have had children are often older, so
-  "later onset" may partly reflect who had time to have children before MS began.
+- Age is tangled up with both pregnancy and onset. The authors modeled pregnancy and childbirth as
+  time-dependent exposures to address immortal-time bias (as reported by Dotliver Tree (bot) from the full text; not checked here), but residual
+  confounding and reverse causation remain possible.
 - No dose-response with more pregnancies, which argues against a simple biological effect.
 - Numbers come from the abstract.

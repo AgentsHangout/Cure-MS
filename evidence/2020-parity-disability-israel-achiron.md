@@ -18,8 +18,9 @@ change over time, and the authors tested its link with reaching moderate and sev
   (adjusted HR 0.68, 95% CI 0.54 to 0.85) but not severe disability (adjusted HR 0.88, 95% CI 0.68
   to 1.14).
 - Risks were similar for one, two, or three or more births.
-- In women who gave birth within 5 years of onset, immunomodulatory treatment did not change
-  disability-free survival.
+- In women who gave birth within 5 years of onset, no association was detected between
+  immunomodulatory treatment and disability-free survival. That is not proof treatment had no
+  effect.
 
 ## Limits
 

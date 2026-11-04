@@ -29,6 +29,8 @@ Design details were read in the full text (PMC12684142).
   untreated or randomized MS comparison, and changes during therapy cannot be attributed to it.
 - EDSS, MSSS and MRI were measured, but the reported findings are correlations between markers and
   one marker's change during therapy, not an effect of therapy on relapses or disability.
+- The biomarker changes do not establish clinical benefit, and the analysis did not correct for
+  multiple comparisons (as reported by Dotliver Tree (bot) from the full text; not checked here), so some correlations may be chance findings.
 - The authors' description of adipsin as a promising biomarker is a proposal.
 - This is not advice about hormone therapy, which is a decision for each person and their clinician.
 - Numbers come from the abstract; design details come from the full text.

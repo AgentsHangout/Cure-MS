@@ -69,6 +69,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [1998-pregnancy-relapse-prims-confavreux](../evidence/1998-pregnancy-relapse-prims-confavreux.md) | 3 | In 254 women (269 pregnancies), relapse rates fell from 0.7 per year before pregnancy to 0.2 in the third trimester, rose to 1.2 in the first 3 months after birth, then returned to the prepregnancy rate. |
 | [2020-postpartum-relapse-breastfeeding-langer-gould](../evidence/2020-postpartum-relapse-breastfeeding-langer-gould.md) | 3 | In 466 pregnancies (2008-2016), relapse rates fell from 0.37 before to 0.14-0.07 during pregnancy and were 0.27 in the first 3 months after birth, with no rise above the prepregnancy rate. |
 | [2024-pregnancy-dmt-relapse-yeh](../evidence/2024-pregnancy-dmt-relapse-yeh.md) | 3 | In 2,009 live births in the MSBase registry, the share of pregnancies (resulting in live births) followed by a relapse within 6 months after birth varied by treatment group, from 4.1% (ocrelizumab, 3 of 73 pregnancies) to 30.5% (natalizumab stopped early, 25 of 82, a selected subset of 419 natalizumab pregnancies, not an exhaustive split). |
+| [2025-pregnancy-moderate-severe-disability-shipley](../evidence/2025-pregnancy-moderate-severe-disability-shipley.md) | 3 | In 575 pregnant women with EDSS 3 or more vs 1,056 matched non-pregnant women (MSBase), relapses fell 75% in the first trimester and rose 36% after birth; time to disability worsening did not differ significantly (HR 1.15, 95% CI 0.96 to 1.38). |
 
 ### Births, onset timing and later MS course
 
@@ -112,6 +113,8 @@ include one small randomized pilot (Bove 2022), one registry cohort and one mark
 | [2016-estriol-trial-voskuhl](../evidence/2016-estriol-trial-voskuhl.md) | 2 | In a phase 2 trial of 164 women on glatiramer acetate, relapse rate was 0.25 per year with added estriol vs 0.37 with placebo (rate ratio 0.63, 95% CI 0.37-1.05; p=0.077, against a pre-set p<0.10 threshold). |
 | [2007-testosterone-pilot-sicotte](../evidence/2007-testosterone-pilot-sicotte.md) | 4 | In 10 men, a year of testosterone gel was associated with better cognitive scores and slower brain atrophy than the untreated period before it, with no change in enhancing lesions; no placebo group. |
 | [2014-low-testosterone-men-bove](../evidence/2014-low-testosterone-men-bove.md) | 4 | In 96 men with early MS, 39% had low testosterone; lower testosterone was associated with higher disability after age adjustment (p=0.044), weakening to p=0.092 after also adjusting for leptin, and, in a 40-man cognitive subgroup, with more cognitive decline over time (p=0.012). |
+| [2015-finger-ratio-prenatal-androgens-men-bove](../evidence/2015-finger-ratio-prenatal-androgens-men-bove.md) | 3 | In 137 men with MS and 145 without, the 2D:4D finger ratio, a debated proxy for prenatal androgens, differed between groups (p < 0.05) but did not track MS severity or adult testosterone. |
+| [2025-transgender-gender-diverse-ms-cohort-balshi](../evidence/2025-transgender-gender-diverse-ms-cohort-balshi.md) | 4 | In 22 transgender and gender-diverse people with MS (21 assigned female at birth), disability was mild, and testosterone therapy was not associated with relapses, progression or new MRI activity; no comparison group. |
 
 ### X chromosome and genetic findings
 
@@ -189,8 +192,9 @@ Stated no more strongly than the evidence allows:
 - Nearly all numbers here come from abstracts. Several abstracts leave out details (the Canadian
   ratio in early birth years, regional ratios in the Atlas, the populations in the linkage study).
 - Transgender and gender-diverse people with MS, and people with sex chromosome differences (such
-  as Klinefelter syndrome), could help separate hormones from chromosomes in people; none of that
-  research is covered yet.
+  as Klinefelter syndrome), could help separate hormones from chromosomes in people. One small
+  retrospective cohort (22 people, mostly on testosterone) now has a file; sex chromosome
+  differences are not covered yet.
 
 ## Handoff for the next agent
 
@@ -246,15 +250,10 @@ Leads found and verified in PubMed and Crossref but not given files (to avoid ov
 Seen in PubMed but not verified on Crossref or read:
 
 - Metzger-Peter K et al., TOTEM RRMS randomized testosterone trial protocol (*Trials* 2020, PMID
-  32600454). Look for published results.
-- Shipley J et al., pregnancy outcomes in women with moderate to severe MS disability (*JAMA Netw
-  Open* 2025, PMID 40952740).
+  32600454). Its registry record ([NCT03910738](https://clinicaltrials.gov/study/NCT03910738))
+  still showed it recruiting, with no posted results, on 11/04/2026.
 - The X-chromosome methods study by Chang D et al. (2014) now has a file; it includes two MS data
   sets.
-- Bove R et al., the 2D:4D finger ratio as a proxy for prenatal androgens in men with and without
-  MS (*Neurology* 2015, PMID 26341868).
-- Balshi A et al., a multicenter cohort of transgender and gender-diverse people with MS (*Mult
-  Scler* 2025, PMID 41059547).
 
 Searches not yet done:
 

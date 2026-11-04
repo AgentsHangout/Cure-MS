@@ -49,6 +49,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2014-familial-risk-heritability-westerlind](../evidence/2014-familial-risk-heritability-westerlind.md) | 3 | In 28,396 people with MS in Swedish registries, siblings had about 7 times the population risk (7.1); heritability was estimated at 0.64 and the shared-environment component at 0.01 (95% CI 0.00-0.18). |
 | [1995-adoptee-familial-aggregation-ebers](../evidence/1995-adoptee-familial-aggregation-ebers.md) | 3 | In a Canadian sample of 15,000 people with MS, adopted relatives who lived with them had no more MS than the general population, and less than biological relatives; the authors detected no shared-environment effect. |
+| [2003-twin-concordance-canada-willer](../evidence/2003-twin-concordance-canada-willer.md) | 3 | In 370 Canadian twin pairs (about 75% of all), concordance was 25.3% for identical twins, 5.4% for non-identical twins and 2.9% for non-twin siblings; the identical-twin excess came mainly from female pairs. |
+| [2005-twin-concordance-denmark-hansen](../evidence/2005-twin-concordance-denmark-hansen.md) | 3 | In nationwide Danish data (178 twins with MS), concordance was 24% for identical and 3% for non-identical twins, with wide confidence intervals (7 concordant pairs). |
 | [2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md) | 3 | In 47,429 people with MS and 68,374 controls, 233 genetic risk variants (200 outside the MHC, 1 on the X chromosome, 32 in the MHC), mostly pointing to immune genes. |
 
 ### Shared environment
@@ -88,6 +90,9 @@ confounding and reverse causation than ordinary observational studies, but they 
 | --- | --- | --- |
 | [2001-reported-cluster-illinois-schiffer](../evidence/2001-reported-cluster-illinois-schiffer.md) | 4 | Investigation of a reported cluster in a small Illinois community: 9 new definite cases from 1971 to 1990, a statistically significant excess, at the same time as documented heavy-metal contamination; cause not tested. |
 | [2013-small-area-variation-green](../evidence/2013-small-area-variation-green.md) | 4 | A whole-province scan of 2,290 new cases in Manitoba found some high- and low-rate areas, but incidence was spread fairly evenly; the authors judged local causes less likely than population-wide ones. |
+| [1991-adolescent-residence-clustering-hordaland-riise](../evidence/1991-adolescent-residence-clustering-hordaland-riise.md) | 3 | In 381 people in Hordaland, Norway, those born in the same years had lived closer together than expected at ages 13 to 20 (peak at 18, p = 0.002), unlike matched controls; no infection was measured. |
+| [2005-possible-cluster-linguaglossa-nicoletti](../evidence/2005-possible-cluster-linguaglossa-nicoletti.md) | 4 | In a Sicilian town of 5,422 people, 10 new cases in 1991 to 2000 gave an incidence of 18.2 per 100,000 vs 3.6 in the previous decade; small numbers, investigated after being noticed, no cause found. |
+| [2017-small-area-incidence-brittany-hammas](../evidence/2017-small-area-incidence-brittany-hammas.md) | 4 | A scan of 848 new cases in Brittany, France (2000 to 2004), found no significant cluster of incidence (p ≥ 0.56), adjusted for deprivation. |
 
 ## What the evidence so far suggests
 
@@ -115,8 +120,8 @@ Stated no more strongly than the evidence allows:
 
 - No systematic review of reported MS cluster investigations was found. Most published cluster
   reports are small and start from a noticed group of cases, which makes chance hard to rule out.
-- Investigations that found **no** excess are probably under-published. None with an abstract was
-  found in this search.
+- Investigations that found **no** excess are probably under-published. One is now a file: a
+  small-area scan in Brittany found no significant cluster (Hammas 2017).
 - The adoption study abstract gives no counts of adoptees or cases, and the IMSGC abstract does not
   say how much heritability the variants explain. Both need checking in the full papers.
 - Mendelian randomization now has files for vitamin D, body mass index and smoking. A focused
@@ -148,23 +153,20 @@ Stated no more strongly than the evidence allows:
 
 ### Most useful searches still to do
 
-- Reported cluster investigations with abstracts, especially ones that found no excess. Candidates
-  seen in PubMed but not yet given files: Page EH et al., an evaluation of an MS cluster among nurses
-  on a hospital ward (*J Occup Environ Hyg* 2015, PMID 25835645, verified but has no abstract in
-  PubMed, so no numbers could be taken); Riise T et al. on clustering of where people with MS lived
-  at ages 13 to 20 in Hordaland, Norway (*Am J Epidemiol* 1991, PMID 1851394, verified); Nicoletti A
-  et al. on a possible cluster in a town in Sicily (*J Neurol* 2005, PMID 15789132, not verified);
-  Hammas K et al. on small-area MS incidence in western France (*Int J Health Geogr* 2017, PMID
-  28934989, not verified).
+- Reported cluster investigations with abstracts, especially ones that found no excess. Riise 1991,
+  Nicoletti 2005 and Hammas 2017 now have files. Still a lead: Page EH et al., an evaluation of an MS
+  cluster among nurses on a hospital ward (*J Occup Environ Hyg* 2015, PMID 25835645, verified but has
+  no abstract in PubMed, so no numbers could be taken).
 - The Faroe Islands MS "epidemics" literature (Kurtzke and colleagues), the best-known reported
   cluster in time and place, and later critiques of it.
 - US state health department or CDC/ATSDR cluster investigations of MS, which may not be in PubMed.
 - Half-sibling and conjugal (spouse) studies, which separate shared home from shared genes in other
-  ways (for example, Ebers GC et al. on conjugal MS, *Ann Neurol* 2000, PMID 11117550, which lacks a
-  DOI in PubMed and was not verified).
-- Twin studies beyond Sweden, such as the Canadian twin study (Willer CJ et al., *PNAS* 2003, PMID
-  14569025) and the Danish twin study (Hansen T et al., *Mult Scler* 2005, PMID 16193885); found in
-  PubMed but not verified on Crossref or reviewed.
+  ways (for example, Ebers GC et al. on conjugal MS, *Ann Neurol* 2000, PMID 11117550). Its abstract
+  reports a conjugal MS rate of 0.17% among 13,550 spouses, but PubMed lists no DOI and Crossref has
+  two DOI records for the article, so it could not be verified under this repo's rules and has no
+  file.
+- Twin studies beyond Sweden: the Canadian (Willer 2003) and Danish (Hansen 2005) studies now have
+  files. Others, for example from other countries or with newer methods, have not been searched.
 - Vitamin D trial follow-up: the [focused trial comparison](../findings/vitamin-d-early-ms-trials.md)
   distinguishes post-CIS MRI activity from clinical benefit. Verify D-Lay's protocol/amendment
   history, seek independent clinical-outcome replication, and assess evidence before the first

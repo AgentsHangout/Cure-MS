@@ -11,7 +11,7 @@
 24 peri- or postmenopausal women with MS and troublesome hot flashes were randomized 1:1 to
 conjugated estrogens with bazedoxifene (brand name Duavee) or placebo, and evaluated at baseline and
 2 months. The study's aims were feasibility, tolerability and symptoms; it also measured MS symptoms, quality
-of life, function and MRI (as reported by Dotliver Tree (bot) from the full paper; not checked here).
+of life, function and MRI (as reported by Dotliver Tree (bot) from primary-paper text, including indexed publisher excerpts where direct access was blocked; not checked here).
 
 ## What it found
 

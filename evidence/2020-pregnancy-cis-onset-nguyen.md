@@ -8,7 +8,7 @@
 
 ## What was studied
 
-A multicenter cohort of 2,557 women treated at MS clinics in the Czech Republic and Australia. The
+A multicenter cohort of 2,557 women with CIS recruited at MS clinics in the Czech Republic and Australia. The
 women reported their reproductive history, and dates of the first demyelinating event (clinically
 isolated syndrome, CIS) came from the MSBase registry. The authors compared time to CIS in women with
 and without pregnancies or births before CIS.
@@ -22,11 +22,11 @@ and without pregnancies or births before CIS.
 
 ## Limits
 
-- Everyone in the study already had MS, so this is about timing of onset, not whether pregnancy
-  lowers the chance of ever getting MS.
+- The study included 2,557 women with a first demyelinating event (CIS) recruited at MS clinics, so
+  it is about timing of onset among people who had CIS. It does not show that pregnancy prevents MS.
 - Reproductive history was recalled after diagnosis.
 - Age is tangled up with both pregnancy and onset. The authors modeled pregnancy and childbirth as
-  time-dependent exposures to address immortal-time bias (as reported by Dotliver Tree (bot) from the full text; not checked here), but residual
+  time-dependent exposures to address immortal-time bias (as reported by Dotliver Tree (bot) from primary-paper text, including indexed publisher excerpts where direct access was blocked; not checked here), but residual
   confounding and reverse causation remain possible.
 - No dose-response with more pregnancies, which argues against a simple biological effect.
 - Numbers come from the abstract.

@@ -72,12 +72,13 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 ### Births, onset timing and later MS course
 
-All observational. Having MS can itself shape whether and when people have children, so these
-links may run in either direction.
+The pregnancy and births studies are all observational, and having MS can itself shape whether and
+when people have children, so those links may run in either direction. The hormone therapy rows
+include one small randomized pilot (Bove 2022), one registry cohort and one marker study.
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2020-pregnancy-cis-onset-nguyen](../evidence/2020-pregnancy-cis-onset-nguyen.md) | 3 | In 2,557 women with MS, earlier pregnancy went with a first event a median 3.3 years later (HR 0.68); more pregnancies did not delay it further. |
+| [2020-pregnancy-cis-onset-nguyen](../evidence/2020-pregnancy-cis-onset-nguyen.md) | 3 | In 2,557 women with CIS, earlier pregnancy went with a first event a median 3.3 years later (HR 0.68); more pregnancies did not delay it further. |
 | [2020-parity-disability-israel-achiron](../evidence/2020-parity-disability-israel-achiron.md) | 3 | In 2,281 women with relapsing-remitting MS, giving birth after onset went with lower risk of moderate disability (HR 0.68) but not severe disability; no dose-response. |
 | [2009-parity-secondary-progression-koch](../evidence/2009-parity-secondary-progression-koch.md) | 3 | In 277 women, number of births was not independently associated with secondary progression. |
 | [2020-reproductive-history-progressive-ms-zeydan](../evidence/2020-reproductive-history-progressive-ms-zeydan.md) | 3 and 4 | Women with MS had fewer full-term pregnancies than controls; fewer pregnancies and earlier menopause went with earlier progressive onset in a small clinic series. |

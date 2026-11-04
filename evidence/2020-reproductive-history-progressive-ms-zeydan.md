@@ -22,7 +22,7 @@ EDSS 6) were studied in 233 people.
 - Women with no full-term pregnancies had a numerically earlier progressive onset (mean 41.9 vs 47.1
   years, p = 0.069, not significant), with a trend across 0, 1 to 3 and 4 or more pregnancies (p = 0.005).
 - Later menopause went with later progressive onset (R² = 0.359, p < 0.001), in the subgroup whose
-  menopause came before progression, not all 233 (as reported by Dotliver Tree (bot) from the full text; not checked here). Time from relapsing
+  menopause came before progression, not all 233 (as reported by Dotliver Tree (bot) from primary-paper text, including indexed publisher excerpts where direct access was blocked; not checked here). Time from relapsing
   onset to progression was shorter with premature or early menopause (12.9 vs 17.8 years) than with
   normal menopause age, though still longer than in men (10.0 years).
 
@@ -33,7 +33,7 @@ EDSS 6) were studied in 233 people.
 - Age at menopause and age at progression both rise with age, so their correlation may partly
   reflect age itself.
 - Having MS can lead to fewer pregnancies, so the pregnancy findings may run in either direction.
-  The timing of pregnancies relative to MS onset was not available (as reported by Dotliver Tree (bot) from the full text; not checked here).
+  The timing of pregnancies relative to MS onset was not available (as reported by Dotliver Tree (bot) from primary-paper text, including indexed publisher excerpts where direct access was blocked; not checked here).
 - Associations only; this does not show that pregnancies or later menopause protect against
   progression.
 - Numbers come from the abstract.

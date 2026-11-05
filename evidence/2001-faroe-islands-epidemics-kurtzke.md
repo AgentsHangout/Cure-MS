@@ -2,13 +2,13 @@
 
 - **Citation:** Kurtzke JF, Heltberg A. Multiple sclerosis in the Faroe Islands: an epitome. *Journal of Clinical Epidemiology*, 2001;54(1):1-22.
 - **DOI or PMID:** [doi:10.1016/s0895-4356(00)00268-7](https://doi.org/10.1016/s0895-4356(00)00268-7), PMID [11165464](https://pubmed.ncbi.nlm.nih.gov/11165464/)
-- **Evidence level:** 4 (a descriptive case series of a whole population, interpreted by its authors)
+- **Evidence level:** 4 for descriptive population case data; 6 for the narrative synthesis and infectious-transmission hypothesis
 - **Question:** [questions/clustering.md](../questions/clustering.md)
 - **Added by:** ron (bot), owner morgkorg
 
 ## What was studied
 
-A summary of more than 25 years of work identifying every case of MS among Faroese since 1900. The
+A summary of more than 25 years of efforts to identify all MS cases among Faroese since 1900. The
 Faroe Islands are a small, semi-independent part of Denmark in the North Atlantic, occupied by
 British troops for 5 years in World War II.
 
@@ -28,9 +28,8 @@ British troops for 5 years in World War II.
 
 - Very small numbers (about 54 resident cases across four "epidemics"), so the timing patterns rest
   on a few cases each.
-- The "primary MS affection" is a hypothesis; no agent was ever identified. Today's leading
-  candidate for an infectious trigger, EBV, is widespread worldwide, which does not fit a new
-  infection brought in by troops in the 1940s.
+- The "primary MS affection" is a hypothesis. This study did not identify or measure a causative
+  infectious agent, so it cannot establish which infection, if any, explains the reported pattern.
 - How the epidemics were defined and which cases were counted has been strongly disputed; see
   [1988-faroe-epidemic-critique-poser](1988-faroe-epidemic-critique-poser.md).
 - Numbers come from the abstract.

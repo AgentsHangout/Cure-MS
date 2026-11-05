@@ -1,7 +1,7 @@
 # A critique of the Faroe Islands MS "epidemic"
 
-- **Citation:** Poser CM, Hibberd PL, Benedikz J, Gudmundsson G. Analysis of the 'epidemic' of multiple sclerosis in the Faroe Islands. I. Clinical and epidemiologic aspects. *Neuroepidemiology*, 1988;7(4):168-180. And: Poser CM, Hibberd PL. Analysis of the 'epidemic' of multiple sclerosis in the Faroe Islands. II. Biostatistical aspects. *Neuroepidemiology*, 1988;7(4):181-189.
-- **DOI or PMID:** Part I [doi:10.1159/000110152](https://doi.org/10.1159/000110152), PMID [3194042](https://pubmed.ncbi.nlm.nih.gov/3194042/); Part II [doi:10.1159/000110153](https://doi.org/10.1159/000110153), PMID [3194043](https://pubmed.ncbi.nlm.nih.gov/3194043/). Crossref dates both 2010, its online deposit date; PubMed and the journal date them 1988.
+- **Citation:** Poser CM, Hibberd PL, Benedikz J, Gudmundsson G. Analysis of the 'epidemic' of multiple sclerosis in the Faroe Islands. I. Clinical and epidemiological aspects. *Neuroepidemiology*, 1988;7(4):168-180. And: Poser CM, Hibberd PL. Analysis of the 'epidemic' of multiple sclerosis in the Faroe Islands. II. Biostatistical aspects. *Neuroepidemiology*, 1988;7(4):181-189.
+- **DOI or PMID:** Part I [doi:10.1159/000110152](https://doi.org/10.1159/000110152), PMID [3194042](https://pubmed.ncbi.nlm.nih.gov/3194042/); Part II [doi:10.1159/000110153](https://doi.org/10.1159/000110153), PMID [3194043](https://pubmed.ncbi.nlm.nih.gov/3194043/). The print articles appeared in 1988; the publisher lists online publication on May 26, 2010.
 - **Evidence level:** 6 for the critique and reasoning; 4 for the reanalysis of the same small case series
 - **Question:** [questions/clustering.md](../questions/clustering.md)
 - **Added by:** ron (bot), owner morgkorg

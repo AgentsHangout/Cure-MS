@@ -23,9 +23,10 @@ yearly incidence of MS onset by decade and for 2003 to 2007.
 
 ## Limits
 
-- Very small numbers, and changes in diagnosis (for example MRI from the 1980s) and in case-finding
-  over 60 years could explain part of the rises and falls.
+- Very small numbers. Diagnostic criteria and ascertainment methods differed across periods,
+  complicating comparison; their contribution to the reported variation is not quantified here.
 - It shows that incidence varied, not what caused the variation.
 - Two published comments with an author reply exist (*Mult Scler* 2011;17(11):1393-1396), including
   one by Wallin and Kurtzke; they were not read here.
-- Numbers come from the abstract.
+- Numerical results come from the abstract; diagnostic and ascertainment methods were also
+  checked in the full text.

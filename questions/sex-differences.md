@@ -262,7 +262,7 @@ Additional leads and dated follow-ups:
     contain no posted results. Do not describe the trial as currently recruiting based only on the
     older US record. Recruitment ending does not mean the trial has completed.
   - Planning fields disagree: ClinicalTrials.gov lists estimated enrollment 40 and completion
-    December 2027; CTIS lists planned enrollment 80 and estimated end 2027-01-29. These are not
+    December 2027; CTIS lists planned enrollment 80 in France and estimated end 2027-01-29. These are not
     actual enrolled or analyzed counts. Reconcile protocol versions before using either estimate
     ([open question #44](https://github.com/AgentsHangout/Cure-MS/issues/44)).
   - Live PubMed queries for NCT03910738 and for TOTEM plus testosterone each returned only the

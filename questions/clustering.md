@@ -49,7 +49,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2014-familial-risk-heritability-westerlind](../evidence/2014-familial-risk-heritability-westerlind.md) | 3 | In 28,396 people with MS in Swedish registries, siblings had about 7 times the population risk (7.1); heritability was estimated at 0.64 and the shared-environment component at 0.01 (95% CI 0.00-0.18). |
 | [1995-adoptee-familial-aggregation-ebers](../evidence/1995-adoptee-familial-aggregation-ebers.md) | 3 | In a Canadian sample of 15,000 people with MS, adopted relatives who lived with them had no more MS than the general population, and less than biological relatives; the authors detected no shared-environment effect. |
-| [2003-twin-concordance-canada-willer](../evidence/2003-twin-concordance-canada-willer.md) | 3 | In 370 Canadian twin pairs (about 75% of all), concordance was 25.3% for identical twins, 5.4% for non-identical twins and 2.9% for non-twin siblings; the identical-twin excess came mainly from female pairs. |
+| [2003-twin-concordance-canada-willer](../evidence/2003-twin-concordance-canada-willer.md) | 3 | In 370 Canadian twin index cases from 354 pairs (about 75% of all Canadian MS twin pairs), probandwise concordance was 25.3% for identical twins, 5.4% for non-identical twins and 2.9% for non-twin siblings; the identical-twin excess came mainly from female pairs. |
 | [2005-twin-concordance-denmark-hansen](../evidence/2005-twin-concordance-denmark-hansen.md) | 3 | In nationwide Danish data (178 twins with MS), concordance was 24% for identical and 3% for non-identical twins, with wide confidence intervals (7 concordant pairs). |
 | [2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md) | 3 | In 47,429 people with MS and 68,374 controls, 233 genetic risk variants (200 outside the MHC, 1 on the X chromosome, 32 in the MHC), mostly pointing to immune genes. |
 
@@ -112,8 +112,9 @@ Stated no more strongly than the evidence allows:
   after the first demyelinating event, separating MRI activity from clinical benefit.
 - **Places.** MS is more common farther from the equator, and migrants partly take on the risk of
   their new home (level 4, comparisons of places).
-- **Reported clusters.** The one reported-cluster investigation here found a statistical excess
-  but could not show a cause (level 4). A systematic small-area study found that MS is spread
+- **Reported clusters.** Reported-cluster investigations in Illinois and Sicily found statistical excesses
+  but could not show a cause (level 4). A Brittany scan found no significant cluster. A separate
+  systematic small-area study found that MS is spread
   fairly evenly, which the authors read as pointing away from local causes (level 4).
 
 ## Gaps noticed so far

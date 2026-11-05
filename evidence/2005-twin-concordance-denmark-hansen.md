@@ -16,14 +16,14 @@ born before 1983, with onset after 1948 and diagnosis before 1997, were identifi
 
 - 164 twin pairs were discordant and 7 concordant.
 - Probandwise concordance was 24% (95% CI 5% to 39%) for identical twins and 3% (95% CI 0% to 8%) for
-  non-identical twins. So an identical twin whose co-twin has MS has about a 24% risk, and a
-  non-identical twin about 3%.
+  non-identical twins, as estimated in this historical Danish sample.
 
 ## Limits
 
 - Only 7 concordant pairs, so the estimates are imprecise (wide confidence intervals).
-- As in other twin studies, identical twins also share more environment, so the difference is not
-  purely genetic.
+- The higher concordance in identical twins supports a genetic contribution. These comparisons do
+  not by themselves separate genetic effects from all shared environmental effects, and they do not
+  quantify how much of the difference is environmental.
 - The results agree with the Canadian twin study
   ([2003-twin-concordance-canada-willer](2003-twin-concordance-canada-willer.md)).
 - Numbers come from the abstract.

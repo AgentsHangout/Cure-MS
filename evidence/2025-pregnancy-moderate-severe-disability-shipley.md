@@ -15,9 +15,9 @@ relapse rates around pregnancy and time to 6-month confirmed disability worsenin
 
 ## What it found
 
-- Relapses fell during pregnancy, by 75% in the first trimester (rate ratio 0.25, 95% CI 0.15 to
-  0.43), and rose to 36% above preconception levels in the first 3 months after birth (rate ratio
-  1.36, 95% CI 1.06 to 1.75), a pattern like that seen in women with less disability.
+- Among 469 women with live-birth pregnancies included in the relapse analysis, annualized relapse
+  rates were 75% lower in the first trimester (rate ratio 0.25, 95% CI 0.15 to 0.43) and 36% higher
+  in the first 3 months after birth (rate ratio 1.36, 95% CI 1.06 to 1.75) than before conception.
 - Relapse during pregnancy was more likely with more relapses before conception (OR 1.56) and with
   natalizumab (OR 4.42) or fingolimod (OR 14.07) before conception, and less likely with older age
   (OR 0.92) and with continuing treatment into pregnancy (OR 0.42, 95% CI 0.19 to 1.00).
@@ -36,4 +36,5 @@ relapse rates around pregnancy and time to 6-month confirmed disability worsenin
 - The very wide intervals for natalizumab and fingolimod reflect small subgroups.
 - This is not advice about pregnancy or treatment, which are decisions for each person and their
   clinician.
-- Numbers come from the abstract.
+- The overall cohort and effect estimates come from the abstract; the 469-woman live-birth
+  relapse-analysis denominator was checked in the full text (Peripregnancy Relapse Rates and Rate Ratios).

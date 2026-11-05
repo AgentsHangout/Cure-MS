@@ -14,8 +14,8 @@ course and gaps in care.
 
 ## What it found
 
-- 22 people were identified; 21 were assigned female at birth. They had a wide range of gender
-  identities and reproductive histories.
+- 22 people were identified; 21 were assigned female at birth and 13 received testosterone.
+  They had a wide range of gender identities and reproductive histories.
 - MS disability was mild overall (median EDSS 1.5), and no one needed help walking.
 - Testosterone as gender-affirming therapy was not associated with relapses, disability progression,
   slowing on the timed 25-foot walk, or new MRI activity.
@@ -23,11 +23,13 @@ course and gaps in care.
 ## Limits
 
 - 22 people, retrospective records, no comparison group. "Not associated" in so few people is not
-  evidence that testosterone has no effect on MS either way.
+  evidence that testosterone has no effect on MS either way. The paired before/after EDSS
+  analysis included only three people.
 - The authors describe the cohort as well educated, well insured and mostly on high-efficacy
   treatment, so it may not represent everyone.
 - Almost everyone was assigned female at birth, so it says little about estrogen therapy in people
   assigned male at birth.
 - This is not advice about gender-affirming care, which is a decision for each person and their
   clinicians.
-- Numbers come from the abstract.
+- Cohort characteristics were checked against the abstract and full text; the 13 testosterone
+  users and three-person paired EDSS subset come from the full text.

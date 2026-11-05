@@ -93,6 +93,9 @@ confounding and reverse causation than ordinary observational studies, but they 
 | [1991-adolescent-residence-clustering-hordaland-riise](../evidence/1991-adolescent-residence-clustering-hordaland-riise.md) | 3 | In 381 people in Hordaland, Norway, those born in the same years had lived closer together than expected at ages 13 to 20 (peak at 18, p = 0.002), unlike matched controls; no infection was measured. |
 | [2005-possible-cluster-linguaglossa-nicoletti](../evidence/2005-possible-cluster-linguaglossa-nicoletti.md) | 4 | In a Sicilian town of 5,422 people, 10 new cases in 1991 to 2000 gave an incidence of 18.2 per 100,000 vs 3.6 in the previous decade; small numbers, investigated after being noticed, no cause found. |
 | [2017-small-area-incidence-brittany-hammas](../evidence/2017-small-area-incidence-brittany-hammas.md) | 4 | A scan of 848 new cases in Brittany, France (2000 to 2004), found no significant cluster of incidence (p ≥ 0.56), adjusted for deprivation. |
+| [2001-faroe-islands-epidemics-kurtzke](../evidence/2001-faroe-islands-epidemics-kurtzke.md) | 4 and 6 | Kurtzke's summary of four MS "epidemics" among native Faroese from 1943 (21, 10, 10 and 13 cases), attributed to an unidentified infection brought by British troops in World War II; a hypothesis, with no agent identified in this study. |
+| [1988-faroe-epidemic-critique-poser](../evidence/1988-faroe-epidemic-critique-poser.md) | 6 and 4 | A two-part critique arguing the case counts were arbitrary (42 cases, not 32, some before 1940) and that the statistics do not hold up when single cases are moved; the authors concluded there was no epidemic. |
+| [2011-faroe-incidence-over-time-joensen](../evidence/2011-faroe-incidence-over-time-joensen.md) | 4 | Faroese incidence rose and fell over 60 years (about 0.2 per 100,000 before 1943, 4.4 in 1943 to 1962, 0.6, then 4.6, then 2.4); diagnostic and ascertainment methods differed across periods. |
 
 ## What the evidence so far suggests
 
@@ -112,9 +115,11 @@ Stated no more strongly than the evidence allows:
   after the first demyelinating event, separating MRI activity from clinical benefit.
 - **Places.** MS is more common farther from the equator, and migrants partly take on the risk of
   their new home (level 4, comparisons of places).
-- **Reported clusters.** Reported-cluster investigations in Illinois and Sicily found statistical excesses
-  but could not show a cause (level 4). A Brittany scan found no significant cluster. A separate
-  systematic small-area study found that MS is spread
+- **Reported clusters.** The reported-cluster investigations here found statistical excesses
+  (Illinois, a Sicilian town) but could not show a cause (level 4). The best-known case, the Faroe
+  Islands "epidemics," rests on a few dozen cases and was strongly disputed on case counting and
+  statistics; incidence there did rise and fall over time (level 4). A Brittany scan found no
+  significant cluster. A separate systematic small-area study found that MS is spread
   fairly evenly, which the authors read as pointing away from local causes (level 4).
 
 ## Gaps noticed so far
@@ -158,8 +163,8 @@ Stated no more strongly than the evidence allows:
   Nicoletti 2005 and Hammas 2017 now have files. Still a lead: Page EH et al., an evaluation of an MS
   cluster among nurses on a hospital ward (*J Occup Environ Hyg* 2015, PMID 25835645, verified but has
   no abstract in PubMed, so no numbers could be taken).
-- The Faroe Islands MS "epidemics" literature (Kurtzke and colleagues), the best-known reported
-  cluster in time and place, and later critiques of it.
+- The Faroe Islands literature now has three files (Kurtzke 2001, Poser 1988, Joensen 2011). Still
+  unread: Kurtzke's direct replies to Poser, and the 2011 comments on Joensen.
 - US state health department or CDC/ATSDR cluster investigations of MS, which may not be in PubMed.
 - Half-sibling and conjugal (spouse) studies, which separate shared home from shared genes in other
   ways (for example, Ebers GC et al. on conjugal MS, *Ann Neurol* 2000, PMID 11117550). Its abstract

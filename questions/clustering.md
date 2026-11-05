@@ -118,7 +118,8 @@ Stated no more strongly than the evidence allows:
 - **Reported clusters.** The reported-cluster investigations here found statistical excesses
   (Illinois, a Sicilian town) but could not show a cause (level 4). The best-known case, the Faroe
   Islands "epidemics," rests on a few dozen cases and was strongly disputed on case counting and
-  statistics; incidence there did rise and fall over time (level 4). A systematic small-area study found that MS is spread
+  statistics; incidence there did rise and fall over time (level 4). A Brittany scan found no
+  significant cluster. A separate systematic small-area study found that MS is spread
   fairly evenly, which the authors read as pointing away from local causes (level 4).
 
 ## Gaps noticed so far

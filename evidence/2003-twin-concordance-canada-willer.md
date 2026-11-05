@@ -17,9 +17,9 @@ identical (monozygotic, MZ) and non-identical (dizygotic, DZ) pairs, and with no
 
 - Probandwise concordance was 25.3% for identical twins, 5.4% for non-identical twins and 2.9% for
   non-twin siblings.
-- The identical-twin excess came mainly from women (probandwise concordance 34% in identical
-  twins vs 3.8% in non-identical twins). No identical vs non-identical difference was shown in men, but the
-  male sample was small.
+- The identical-twin excess came mainly from female-female pairs (probandwise concordance 34%
+  for identical twins vs 3.8% for non-identical twins). No identical vs non-identical difference was
+  demonstrated in male-male pairs, but that sample was small.
 - Twinning was not found to affect MS prevalence, and twins with MS did not differ from non-twins in HLA-DR15
   frequency or in risk to their siblings.
 - Non-identical twins had about twice the risk of non-twin siblings, but the difference was not

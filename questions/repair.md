@@ -60,8 +60,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2025-remyelination-trials-systematic-review-makhzoum](../evidence/2025-remyelination-trials-systematic-review-makhzoum.md) | 3 | 25 randomized and non-randomized trials of 17 interventions (3,341 people), searched to May 2024 with no pooled estimate in the abstract; several showed "remyelination potential" on imaging or VEP, but not function people feel. |
-| [2025-approved-dmt-remyelination-review-de-keersmaecker](../evidence/2025-approved-dmt-remyelination-review-de-keersmaecker.md) | 3 | Of approved MS treatments, six showed convincing remyelination in animal or cell studies, and six had promising surrogate results in people (3 randomized trials in all), but the authors found insufficient proof that those surrogates reflect remyelination alone. |
+| [2025-remyelination-trials-systematic-review-makhzoum](../evidence/2025-remyelination-trials-systematic-review-makhzoum.md) | 3 (provisional) | 25 randomized and non-randomized studies of 17 interventions (3,341 people), searched to May 2024, with no pooled estimate in the abstract; the authors report "remyelination potential" on imaging or VEP for several, without established patient-important functional benefit. |
+| [2025-approved-dmt-remyelination-review-de-keersmaecker](../evidence/2025-approved-dmt-remyelination-review-de-keersmaecker.md) | 3 (provisional; mixed) | Searched to July 2025: 57 preclinical studies, 3 randomized trials and 29 non-randomized clinical studies of approved treatments. In the authors' synthesis, six showed convincing remyelination in animal or cell studies (level 5) and six had promising surrogate results in people, but they found insufficient proof that those surrogates reflect remyelination alone. |
 
 ### Neuroprotection trials in progressive MS
 
@@ -120,8 +120,8 @@ Stated no more strongly than the evidence allows:
   progressive MS, so it is unclear whether repair drugs work at all in the people who most need them.
 - No peer-reviewed metformin trial results were found; only protocols, plus a conference-stage
   report of CCMR Two that is not yet peer reviewed (see the handoff).
-- Two systematic reviews now have files, but neither pools randomized trials only or gives a
-  pooled estimate in its abstract, so there is still no level 1 evidence on remyelination.
+- Two mixed-design systematic reviews now have files. Neither is treated here as a synthesis of
+  randomized trials only establishing patient-important benefit from remyelination.
 - Most numbers come from abstracts. The TRAP-MS and SPRINT-MS details added after review were
   checked in the full text; the ReBUILD visual acuity numbers were not.
 

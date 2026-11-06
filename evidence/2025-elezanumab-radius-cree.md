@@ -8,7 +8,7 @@
 
 ## What was studied
 
-Double-blind phase 2 trials randomized 208 participants with relapsing MS (RADIUS-R) and 123 with progressive MS (RADIUS-P) to intravenous elezanumab 400 mg, 1,800 mg, or placebo every four weeks through week 48, alongside usual care.
+Two double-blind, randomized phase 2 trials treated 208 participants with relapsing MS (RADIUS-R) and 123 with progressive MS (RADIUS-P) with intravenous elezanumab 400 mg, 1,800 mg, or placebo every four weeks through week 48, alongside usual care.
 
 The week-52 Overall Response Score (ORS) combined EDSS disability, walking, and each hand's dexterity.
 

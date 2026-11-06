@@ -49,6 +49,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
+| [2026-nfl-treatment-response-prediction-moradi](../evidence/2026-nfl-treatment-response-prediction-moradi.md) | 3 | In 1,716 people from pooled cohorts, a single NfL measure around a baseline assessment (people already treated or starting treatment) added minimal value to clinical models, in the authors' conclusion; no adjusted pooled association was detected. Separate models for interferon beta, fingolimod and natalizumab were mostly similar, but fingolimod improvement models did not converge and a natalizumab table/text discrepancy is unresolved. |
 | [2022-snfl-reference-values-benkert](../evidence/2022-snfl-reference-values-benkert.md) | 3 | In 1,313 people in the Swiss MS cohort, an sNfL Z score above 1.5 was associated with higher risk of later clinical or MRI activity (OR 3.15), also in people who looked stable (OR 2.66); confirmed in 4,341 people in Sweden. |
 | [2023-nfl-disability-worsening-abdelhak](../evidence/2023-nfl-disability-worsening-abdelhak.md) | 3 | In 609 people in San Francisco and 1,290 in Switzerland, NfL was modestly raised in the visits before confirmed disability worsening, including worsening without relapses (about 1 to 2 years ahead). |
 | [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In 355 people, higher serum GFAP was linked to worsening progressive MS and gray matter loss; raised GFAP plus raised NfL was associated with about 4 to 5 times the risk of PIRA (HR 4.71). |
@@ -66,6 +67,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
+| [2020-nfl-fall-differs-by-treatment-delcoigne](../evidence/2020-nfl-fall-differs-by-treatment-delcoigne.md) | 3 | In a Swedish cohort (1,261 people; weighted change analyses in 1,052 with paired samples on five drugs, rituximab analyzed separately), the fall in plasma NfL and the on-treatment level differed by drug (largest fall on alemtuzumab, smallest on teriflunomide), and both depended strongly on the starting level. Descriptive, not a causal ranking of treatments. |
 | [2019-nfl-fingolimod-treatment-response-kuhle](../evidence/2019-nfl-fingolimod-treatment-response-kuhle.md) | 2 | In 589 people from two phase 3 trials, fingolimod lowered blood NfL compared with placebo and with interferon, from 6 months on; high starting NfL went with more lesions, relapses and brain volume loss (post hoc, level 3). |
 | [2026-nfl-surrogate-meta-regression-pretzsch](../evidence/2026-nfl-surrogate-meta-regression-pretzsch.md) | 1 | Across 15 randomized trials (6,814 people), drugs' effects on NfL were moderately associated with their effects on new T2 lesions, relapse rate and disability worsening (R² 0.30 to 0.42), not with brain volume change. |
 | [2022-snfl-reference-values-benkert](../evidence/2022-snfl-reference-values-benkert.md) | 3 | At the group level, sNfL fell to control levels on monoclonal antibodies, less on oral drugs, and stayed raised on interferons and glatiramer acetate (not randomized). |
@@ -74,6 +76,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
+| [2026-nfl-z-score-change-treatment-monitoring-fernandez](../evidence/2026-nfl-z-score-change-treatment-monitoring-fernandez.md) | 3 | In a Catalan cohort (329 people; 182 treatment courses with complete year-2 data), no fall in NfL Z score over the first treatment year was associated with disease activity in year 2 (OR 3.07, 95% CI 1.47 to 6.39), with modest discrimination. |
 | [2024-nfl-clinical-guidance-freedman](../evidence/2024-nfl-clinical-guidance-freedman.md) | 6 | Expert guidance: sNfL can be used alongside MRI and clinical measures to support decisions, does not replace MRI, and needs work on platforms and reference ranges. |
 | [2025-snfl-treatment-algorithms-yaldizli](../evidence/2025-snfl-treatment-algorithms-yaldizli.md) | 6 | Delphi consensus of 28 experts and 3 patient consultants on 23 algorithms to escalate, switch or de-escalate treatment by sNfL, meant to be tested in a pragmatic randomized trial (MultiSCRIPT). The authors call them non-binding and not clinical guidelines; an isolated high sNfL alone was not accepted as a reason to switch from B-cell-depleting therapy. |
 | [2024-snfl-clinical-decisions-van-lierop](../evidence/2024-snfl-clinical-decisions-van-lierop.md) | 4 | In 166 tests at one Amsterdam center, clinicians changed their decision in 19.3% of cases after seeing the sNfL result and felt more certain; patient outcomes were not measured. |
@@ -119,8 +122,9 @@ Stated no more strongly than the evidence allows:
     with purpose "prognosis"). Its title calls it an observational cohort study even though it
     randomizes reporting.
 - **Group vs individual.** Most associations are group-level, and some effects before worsening are
-  small (Abdelhak 2023). A 2026 study in 1,716 people found NfL added little to clinical models for
-  predicting response to three drugs (Moradi, see handoff), which cuts against strong individual-level
+  small (Abdelhak 2023). A 2026 study in 1,716 people found, in the authors' conclusion, that a single NfL
+  measure added little to clinical models for predicting treatment response (Moradi 2026, with an
+  unresolved table/text discrepancy for natalizumab), which cuts against strong individual-level
   claims.
 - **Harms and costs** of biomarker-guided care (more switches, scans or side effects) have not been
   measured.
@@ -166,25 +170,11 @@ Stated no more strongly than the evidence allows:
   stopping-treatment trials that used sNfL as a decision rule. None was found in PubMed searches for
   2022-2026 combining neurofilament or GFAP with randomized, guided, strategy or treatment decision.
 - **Verified leads not yet given evidence files** (each checked on PubMed and Crossref):
-  - Fernández V et al. *Neurology* 2026;107(6):e218451,
-    [doi:10.1212/WNL.0000000000218451](https://doi.org/10.1212/WNL.0000000000218451), PMID
-    [42623577](https://pubmed.ncbi.nlm.nih.gov/42623577/). Cohort of 329 people in Catalonia: no fall
-    in sNfL Z score over the first year of a new drug was associated with later disease activity
-    (OR 3.07), with modest discrimination. Level 3.
-  - Moradi N et al. *Eur J Neurol* 2026;33(2):e70505,
-    [doi:10.1111/ene.70505](https://doi.org/10.1111/ene.70505), PMID
-    [41622995](https://pubmed.ncbi.nlm.nih.gov/41622995/). In 1,716 people on interferon beta,
-    fingolimod or natalizumab, NfL added minimal value to clinical models predicting treatment
-    response. Level 3.
   - Maleska Maceski A et al. *Brain* 2026;149(7):2295-2307,
     [doi:10.1093/brain/awaf433](https://doi.org/10.1093/brain/awaf433), PMID
     [41237262](https://pubmed.ncbi.nlm.nih.gov/41237262/). GFAP vs NfL in 420 fingolimod-treated
     people; uses a GFAP reference set from 4,297 controls. Crossref dates it 2025 (online) and PubMed
     2026 (issue); name the file by the issue year after checking. Level 3.
-  - Delcoigne B et al. *Neurology* 2020;94(11):e1201-e1212,
-    [doi:10.1212/WNL.0000000000009097](https://doi.org/10.1212/WNL.0000000000009097), PMID
-    [32047070](https://pubmed.ncbi.nlm.nih.gov/32047070/). Swedish cohort of 1,261 people: the fall in
-    plasma NfL differed by drug. Level 3.
   - Saposnik G et al. *Mult Scler Relat Disord* 2024;90:105838,
     [doi:10.1016/j.msard.2024.105838](https://doi.org/10.1016/j.msard.2024.105838), PMID
     [39216454](https://pubmed.ncbi.nlm.nih.gov/39216454/). Survey of 116 Spanish neurologists with

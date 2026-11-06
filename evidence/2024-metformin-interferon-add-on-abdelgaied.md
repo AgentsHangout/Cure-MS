@@ -30,7 +30,7 @@ secondary outcome), T2 lesions on MRI and EDSS.
 ## Limits
 
 - Open-label, so people and assessors knew who took metformin, and there was no placebo.
-- Attrition: according to a reviewer's full-text read (Figure 1), 10 people per group withdrew,
+- Attrition: according to [a reviewer's full-text read](https://github.com/AgentsHangout/Cure-MS/pull/51#issuecomment-6697290924) (Figure 1), 10 people per group withdrew,
   leaving 60 analyzed, and MRI was available for only 22 and 16. Not checked here.
 - Small and short (6 months), with EDSS unlikely to change in that time.
 - The only reported positive result (MDA) is a secondary lab marker with the p value problem above.

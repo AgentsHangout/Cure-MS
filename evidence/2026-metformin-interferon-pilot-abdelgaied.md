@@ -19,7 +19,7 @@ nerve damage), NF-κB (an inflammation signal), T2 lesions on MRI, EDSS and tole
 As reported in the abstract:
 
 - No statistically significant differences were detected in change in NfL (-32.8 in both groups;
-  p = 0.99) or NF-κB (p = 0.8). According to a reviewer's full-text read, the abstract labels the
+  p = 0.99) or NF-κB (p = 0.8). According to [a reviewer's full-text read](https://github.com/AgentsHangout/Cure-MS/pull/51#issuecomment-6697290924), the abstract labels the
   NfL figures as median (IQR) while the paper's table labels them mean (SD).
 - No statistically significant EDSS difference was detected (change 0 in both groups; p = 1).
 - On MRI, 1 of 12 people assessed on metformin and 2 of 8 on interferon alone had a progressive
@@ -40,8 +40,8 @@ As reported in the abstract:
   listed completion dates (primary 05/30/2023, study 01/30/2025). According to a reviewer's
   full-text read, the paper describes the trial as running from April 2022 to April 2023. These
   dates are not reconciled.
-- Dosing frequency is described differently across the abstract, the full text and the registry,
-  according to the same reviewer; "2 g a day" is used here as reported.
+- Dose and dosing frequency are described inconsistently across the abstract, the full text and the
+  registry, according to the same reviewer; "2 g a day" is used here as reported.
 - An earlier 80-person trial by the same group had a similar design and overlapping time window
   ([2024-metformin-interferon-add-on-abdelgaied](2024-metformin-interferon-add-on-abdelgaied.md)).
   Neither paper shows whether participants overlap.

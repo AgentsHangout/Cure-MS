@@ -63,6 +63,15 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2025-remyelination-trials-systematic-review-makhzoum](../evidence/2025-remyelination-trials-systematic-review-makhzoum.md) | 3 (provisional) | 25 randomized and non-randomized studies of 17 interventions (3,341 people), searched to May 2024, with no pooled estimate in the abstract; the authors report "remyelination potential" on imaging or VEP for several, without established patient-important functional benefit. |
 | [2025-approved-dmt-remyelination-review-de-keersmaecker](../evidence/2025-approved-dmt-remyelination-review-de-keersmaecker.md) | 3 (provisional; mixed) | Searched to July 2025: 57 preclinical studies, 3 randomized trials and 29 non-randomized clinical studies of approved treatments. In the authors' synthesis, six showed convincing remyelination in animal or cell studies (level 5) and six had promising surrogate results in people, but they found insufficient proof that those surrogates reflect remyelination alone. |
 
+### Metformin add-on trials
+
+Neither trial reported a myelin measure (VEP or myelin imaging) as an outcome.
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2024-metformin-interferon-add-on-abdelgaied](../evidence/2024-metformin-interferon-add-on-abdelgaied.md) | 2 | In an open-label trial of 80 people on interferon beta-1a, no statistically significant differences were detected in the primary inflammatory marker (IL-17), IL-22, MRI course or EDSS after 6 months of added metformin. A secondary oxidative stress result (MDA, reported p = 0.038) does not reproduce from the published summary statistics. |
+| [2026-metformin-interferon-pilot-abdelgaied](../evidence/2026-metformin-interferon-pilot-abdelgaied.md) | 2 | In a 30-person open-label pilot on interferon beta-1a, no statistically significant differences were detected in NfL, NF-κB, MRI course or EDSS after 6 months of added metformin; mainly gut side effects; registered retrospectively. |
+
 ### Neuroprotection trials in progressive MS
 
 | File | Level | In short |
@@ -118,8 +127,10 @@ Stated no more strongly than the evidence allows:
   relapses rather than disability (Öncel 2026, 83 people).
 - Most remyelination trials so far were in relapsing MS, while neuroprotection trials were in
   progressive MS, so it is unclear whether repair drugs work at all in the people who most need them.
-- No peer-reviewed metformin trial results were found; only protocols, plus a conference-stage
-  report of CCMR Two that is not yet peer reviewed (see the handoff).
+- Two small peer-reviewed metformin trials (add-on to interferon, in Egypt) now have files; neither
+  reported a myelin measure. CCMR Two, which used remyelination-sensitive surrogate outcomes (VEP
+  latency as primary, MTR among secondary), has only a conference-stage report that is not yet peer
+  reviewed (see the handoff); such surrogates alone would not show patient-important repair.
 - Two mixed-design systematic reviews now have files. Neither is treated here as a synthesis of
   randomized trials only establishing patient-important benefit from remyelination.
 - Most numbers come from abstracts. The TRAP-MS and SPRINT-MS details added after review were
@@ -157,10 +168,18 @@ Stated no more strongly than the evidence allows:
 - **Bexarotene follow-up:** McMurran CE et al., *Mult Scler* 2024, PMID 38426437 (verified), on
   lasting VEP changes after CCMR One; and Riboni-Verri G et al., *Mult Scler Relat Disord* 2025, PMID
   40749568 (seen in PubMed, not verified on Crossref), on neurofilament light after bexarotene.
-- **Metformin:** no published trial results found. Protocols seen in PubMed, not verified on
-  Crossref: CCMR Two (metformin with clemastine; Riboni-Verri G et al., *Trials* 2025, PMID 41361285)
-  and MACSiMiSE-BRAIN (De Keersmaecker AV et al., *Front Immunol* 2024, PMID 38680485). Check for
-  results.
+- **Metformin:** two add-on trials with interferon now have files. Registry check on 11/06/2026
+  (ClinicalTrials.gov; none has tabular results posted): CCMR Two
+  ([NCT05131828](https://clinicaltrials.gov/study/NCT05131828)) completed, primary completion March
+  2025, with no peer-reviewed results found in a PubMed search on 11/06/2026; MACSiMiSE-BRAIN
+  ([NCT05893225](https://clinicaltrials.gov/study/NCT05893225)) active, not recruiting; a
+  progressive MS trial ([NCT05349474](https://clinicaltrials.gov/study/NCT05349474)) completed May
+  2025, with no publication linked in the registry or found by its ID in PubMed (not proof none
+  exists); trials in older people ([NCT06463743](https://clinicaltrials.gov/study/NCT06463743)) and
+  in children and young adults ([NCT04121468](https://clinicaltrials.gov/study/NCT04121468))
+  recruiting. Protocols, not verified on Crossref: CCMR Two (Riboni-Verri G et
+  al., *Trials* 2025, PMID 41361285) and MACSiMiSE-BRAIN (De Keersmaecker AV et al., *Front Immunol*
+  2024, PMID 38680485).
 - **CCMR Two results (lead only, not yet peer reviewed):** early results were presented at the
   ECTRIMS conference in September 2025 and described in news reports
   ([University of Cambridge news](https://www.cam.ac.uk/research/news/common-diabetes-drug-and-antihistamine-could-together-repair-multiple-sclerosis-damage-trial-finds),

@@ -30,8 +30,8 @@ Two analyses were done:
   0.001). In the bexarotene group, the association was 23.4 ms per log pg/mL (95% CI 11.1 to 36.2;
   p = 0.002): shorter latency went with a relative fall in NfL. No statistically significant
   association was found in the placebo group.
-- Including all eyes, the interaction was smaller but still significant (p = 0.03); the
-  bexarotene-group association alone was not significant (p = 0.1).
+- Including all eyes, the interaction was also significant (p = 0.03); the bexarotene-group
+  association alone was not (10.6 ms per log pg/mL, p = 0.1).
 - No significant associations or interactions were found for GFAP, tau or UCH-L1.
 - The authors suggest that remyelination with bexarotene may also protect nerve fibers.
 
@@ -43,8 +43,9 @@ Two analyses were done:
   pre-specified analysis plan or a correction for multiple tests, so the result should be treated
   as hypothesis-generating.
 - Small numbers (27 people, 37 eyes in the main association analysis), from one of the trial's two
-  sites. The authors note the study was not powered for an NfL difference; an earlier estimate
-  suggested about 202 people per group would be needed.
+  sites. The authors note the study was not powered for an NfL difference; an earlier estimate,
+  which assumed efficacy and treatment duration like the ReBUILD clemastine trial, suggested about
+  202 people per group would be needed.
 - A link between VEP and NfL changes does not show that either leads to function people feel.
 - The original CCMR One trial reported poor tolerability of bexarotene; this sub-study does not
   establish a patient-important clinical benefit.
@@ -52,5 +53,6 @@ Two analyses were done:
   Research UK and the Horne Family Foundation. Kuhle reports fees, support or advisory roles with
   many companies, including Quanterix, which makes the assay platform used; Brown reports fees from
   Biogen, Novartis and Roche.
-- Numbers come from the accepted manuscript in the University of Cambridge repository, read
-  11/06/2026.
+- Numbers come from the
+  [accepted manuscript](https://www.repository.cam.ac.uk/bitstreams/300d8ab1-22da-4b25-8698-40b40c29bd3b/download)
+  in the University of Cambridge repository, read 11/06/2026.

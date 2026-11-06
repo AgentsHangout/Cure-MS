@@ -8,11 +8,18 @@
 
 ## What was studied
 
-A Swedish cohort of 1,261 people with relapsing-remitting MS starting one of six treatments
-(alemtuzumab, dimethyl fumarate, fingolimod, natalizumab, rituximab or teriflunomide), with blood
+A Swedish cohort of 1,261 people with relapsing-remitting MS starting a new treatment, with blood
 samples and long-term clinical follow-up. Linear regression modeled plasma NfL at the start, on
 treatment, and the change between them. Inverse propensity score weighting was used to balance
 differences between people starting different treatments.
+
+The analyses used different subsets:
+
+- 1,139 people started alemtuzumab, dimethyl fumarate, fingolimod, natalizumab or teriflunomide,
+  with a sample within a month before starting. Of these, 1,052 gave paired samples (at the start
+  and 4 to 24 months later). The weighted change comparisons use these five drugs.
+- 122 people on rituximab were included, but only 11 had a sample before starting, so rituximab
+  was left out of the propensity-weighted analyses and considered in separate on-treatment models.
 
 ## What it found
 
@@ -27,10 +34,14 @@ differences between people starting different treatments.
 
 ## Limits
 
-- Observational. People were not randomized to treatments, and weighting can only balance measured
-  differences.
-- A larger NfL fall partly reflects a higher starting level, so differences between drugs must be
-  read alongside where people started.
+- Observational. People were not randomized to treatments, so treatment choice may reflect
+  differences between people. Weighting can only balance measured factors, and sufficiently
+  detailed MRI information was not available to include.
+- The ranking of drugs by NfL fall is descriptive, not a causal ranking of how well treatments
+  work. A larger fall partly reflects a higher starting level.
 - A difference in NfL between drugs does not show which drug gives better outcomes for a person.
-- Numbers come from the abstract; the abstract gives no effect sizes, and the full text (PMC7387108)
-  was not read for them.
+- **Funding and disclosures:** the drug-specific IMSE cohorts received grant support from Biogen,
+  Genzyme and Novartis, alongside public and charitable funding. Some authors were employees of
+  Biogen or Sanofi Genzyme at the time.
+- Numbers come from the abstract; cohort subsets, funding and disclosures come from the open-access
+  full text (PMC7387108). The abstract gives no effect sizes.

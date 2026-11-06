@@ -49,7 +49,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2026-nfl-treatment-response-prediction-moradi](../evidence/2026-nfl-treatment-response-prediction-moradi.md) | 3 | In 1,716 people from pooled cohorts (separate models for interferon beta, fingolimod and natalizumab), NfL near treatment start added minimal value to clinical models predicting relapse, disability worsening or improvement. |
+| [2026-nfl-treatment-response-prediction-moradi](../evidence/2026-nfl-treatment-response-prediction-moradi.md) | 3 | In 1,716 people from pooled cohorts, a single NfL measure around a baseline assessment (people already treated or starting treatment) added minimal value to clinical models, in the authors' conclusion; no adjusted pooled association was detected. Separate models for interferon beta, fingolimod and natalizumab were mostly similar, but fingolimod improvement models did not converge and a natalizumab table/text discrepancy is unresolved. |
 | [2022-snfl-reference-values-benkert](../evidence/2022-snfl-reference-values-benkert.md) | 3 | In 1,313 people in the Swiss MS cohort, an sNfL Z score above 1.5 was associated with higher risk of later clinical or MRI activity (OR 3.15), also in people who looked stable (OR 2.66); confirmed in 4,341 people in Sweden. |
 | [2023-nfl-disability-worsening-abdelhak](../evidence/2023-nfl-disability-worsening-abdelhak.md) | 3 | In 609 people in San Francisco and 1,290 in Switzerland, NfL was modestly raised in the visits before confirmed disability worsening, including worsening without relapses (about 1 to 2 years ahead). |
 | [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In 355 people, higher serum GFAP was linked to worsening progressive MS and gray matter loss; raised GFAP plus raised NfL was associated with about 4 to 5 times the risk of PIRA (HR 4.71). |
@@ -67,7 +67,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2020-nfl-fall-differs-by-treatment-delcoigne](../evidence/2020-nfl-fall-differs-by-treatment-delcoigne.md) | 3 | In 1,261 Swedish people starting one of six treatments, the fall in plasma NfL and the on-treatment level differed by drug (largest fall on alemtuzumab, smallest on teriflunomide), and both depended strongly on the starting level. |
+| [2020-nfl-fall-differs-by-treatment-delcoigne](../evidence/2020-nfl-fall-differs-by-treatment-delcoigne.md) | 3 | In a Swedish cohort (1,261 people; weighted change analyses in 1,052 with paired samples on five drugs, rituximab analyzed separately), the fall in plasma NfL and the on-treatment level differed by drug (largest fall on alemtuzumab, smallest on teriflunomide), and both depended strongly on the starting level. Descriptive, not a causal ranking of treatments. |
 | [2019-nfl-fingolimod-treatment-response-kuhle](../evidence/2019-nfl-fingolimod-treatment-response-kuhle.md) | 2 | In 589 people from two phase 3 trials, fingolimod lowered blood NfL compared with placebo and with interferon, from 6 months on; high starting NfL went with more lesions, relapses and brain volume loss (post hoc, level 3). |
 | [2026-nfl-surrogate-meta-regression-pretzsch](../evidence/2026-nfl-surrogate-meta-regression-pretzsch.md) | 1 | Across 15 randomized trials (6,814 people), drugs' effects on NfL were moderately associated with their effects on new T2 lesions, relapse rate and disability worsening (R² 0.30 to 0.42), not with brain volume change. |
 | [2022-snfl-reference-values-benkert](../evidence/2022-snfl-reference-values-benkert.md) | 3 | At the group level, sNfL fell to control levels on monoclonal antibodies, less on oral drugs, and stayed raised on interferons and glatiramer acetate (not randomized). |
@@ -122,8 +122,9 @@ Stated no more strongly than the evidence allows:
     with purpose "prognosis"). Its title calls it an observational cohort study even though it
     randomizes reporting.
 - **Group vs individual.** Most associations are group-level, and some effects before worsening are
-  small (Abdelhak 2023). A 2026 study in 1,716 people found NfL added little to clinical models for
-  predicting response to three drugs (Moradi 2026), which cuts against strong individual-level
+  small (Abdelhak 2023). A 2026 study in 1,716 people found, in the authors' conclusion, that a single NfL
+  measure added little to clinical models for predicting treatment response (Moradi 2026, with an
+  unresolved table/text discrepancy for natalizumab), which cuts against strong individual-level
   claims.
 - **Harms and costs** of biomarker-guided care (more switches, scans or side effects) have not been
   measured.

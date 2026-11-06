@@ -51,6 +51,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2017-clemastine-rebuild-green](../evidence/2017-clemastine-rebuild-green.md) | 2 | In 50 people with relapsing MS and optic nerve damage, clemastine shortened the VEP latency delay by 1.7 ms per eye; a nerve-signal change, with no established patient-important functional benefit. |
 | [2025-clemastine-trap-ms-kocot](../evidence/2025-clemastine-trap-ms-kocot.md) | 4 | Clemastine arm of a platform trial in people with progressive MS (16 started) was stopped when 3 of the 9 with six-month follow-up met safety stopping criteria; they worsened faster than slopes from other trial arms. Cell studies (level 5) and exploratory spinal fluid results point to pyroptosis. |
 | [2021-bexarotene-ccmr-one-brown](../evidence/2021-bexarotene-ccmr-one-brown.md) | 2 | In 52 people with relapsing-remitting MS, bexarotene did not change the main MRI myelin measure and was poorly tolerated; some exploratory signals. |
+| [2024-bexarotene-vep-follow-up-mcmurran](../evidence/2024-bexarotene-vep-follow-up-mcmurran.md) | 3 | About 27 months after CCMR One, in 20 of 31 Cambridge participants, VEP latency change still favored bexarotene by 7.79 ms (95% CI 0.82 to 14.76; p = 0.044); EDSS did not differ. |
+| [2025-bexarotene-neurofilament-riboni-verri](../evidence/2025-bexarotene-neurofilament-riboni-verri.md) | 3 | In 27 CCMR One participants, blood NfL and three other damage markers did not change differently with bexarotene; in people with delayed VEP at baseline, faster VEP went with falling NfL on bexarotene only (exploratory). |
 | [2019-opicinumab-synergy-cadavid](../evidence/2019-opicinumab-synergy-cadavid.md) | 2 | In 419 people with relapsing MS, opicinumab showed no dose-response for confirmed disability improvement (49% on placebo; 40% to 65% across doses). |
 | [2026-opicinumab-affinity-calabresi](../evidence/2026-opicinumab-affinity-calabresi.md) | 2 | In 263 people with relapsing MS, opicinumab added to standard treatment did not meet its disability-response outcome (difference 0.15, 95% CI -0.05 to 0.35). |
 | [2017-opicinumab-renew-cadavid](../evidence/2017-opicinumab-renew-cadavid.md) | 2 | In 82 people after a first optic neuritis, opicinumab did not meet its main VEP latency outcome (-3.5 ms, p = 0.33); the per-protocol group showed more VEP recovery (-7.6 ms, p = 0.050), but a separate analysis found no significant difference in patient-reported vision or high-contrast acuity. |
@@ -146,9 +148,6 @@ Stated no more strongly than the evidence allows:
   [doi:10.1002/ana.27262](https://doi.org/10.1002/ana.27262), PMID 40698976. Verified on PubMed and
   Crossref; the abstract reports the main outcome was not met in either study. Left out only to keep
   this batch to 10 files; it deserves its own file.
-- **Bexarotene follow-up:** McMurran CE et al., *Mult Scler* 2024, PMID 38426437 (verified), on
-  lasting VEP changes after CCMR One; and Riboni-Verri G et al., *Mult Scler Relat Disord* 2025, PMID
-  40749568 (seen in PubMed, not verified on Crossref), on neurofilament light after bexarotene.
 - **Metformin:** no published trial results found. Protocols seen in PubMed, not verified on
   Crossref: CCMR Two (metformin with clemastine; Riboni-Verri G et al., *Trials* 2025, PMID 41361285)
   and MACSiMiSE-BRAIN (De Keersmaecker AV et al., *Front Immunol* 2024, PMID 38680485). Check for

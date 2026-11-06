@@ -35,6 +35,7 @@ and withdrawals.
 - The positive signals were exploratory, so they could be chance.
 - Only people aged 18 to 50 on one background drug (dimethyl fumarate) were included.
 - Funded by the Multiple Sclerosis Society of the United Kingdom.
-- A later follow-up of the same trial reported lasting VEP changes (McMurran CE et al., *Mult Scler*
-  2024, [doi:10.1177/13524585241233177](https://doi.org/10.1177/13524585241233177), PMID
-  [38426437](https://pubmed.ncbi.nlm.nih.gov/38426437/)); its numbers were not read for this file.
+- Two later papers on this trial have their own files: a follow-up of VEP latency about two years
+  later ([2024-bexarotene-vep-follow-up-mcmurran](2024-bexarotene-vep-follow-up-mcmurran.md)) and a
+  blood neurofilament light sub-study
+  ([2025-bexarotene-neurofilament-riboni-verri](2025-bexarotene-neurofilament-riboni-verri.md)).

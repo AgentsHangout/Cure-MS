@@ -56,6 +56,15 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2017-opicinumab-renew-cadavid](../evidence/2017-opicinumab-renew-cadavid.md) | 2 | In 82 people after a first optic neuritis, opicinumab did not meet its main VEP latency outcome (-3.5 ms, p = 0.33); the per-protocol group showed more VEP recovery (-7.6 ms, p = 0.050), but a separate analysis found no significant difference in patient-reported vision or high-contrast acuity. |
 | [2025-opicinumab-renewed-aktas](../evidence/2025-opicinumab-renewed-aktas.md) | 2 | Two years after RENEW, in 52 of its 82 participants, VEP latency was numerically but not significantly better with opicinumab, and the authors report no benefit on visual acuity or other neurological functions. |
 
+### Metformin add-on trials
+
+These trials did not measure myelin repair directly (no VEP or myelin imaging).
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2024-metformin-interferon-add-on-abdelgaied](../evidence/2024-metformin-interferon-add-on-abdelgaied.md) | 2 | In an open-label trial of 80 people on interferon beta-1a, adding metformin for 6 months lowered an oxidative stress marker (MDA, p = 0.038); no statistically significant differences were detected in inflammatory markers, MRI course or EDSS. |
+| [2026-metformin-interferon-pilot-abdelgaied](../evidence/2026-metformin-interferon-pilot-abdelgaied.md) | 2 | In a 30-person pilot on interferon beta-1a, no statistically significant differences were detected in NfL, NF-κB, MRI course or EDSS after 6 months of added metformin; mainly gut side effects. |
+
 ### Neuroprotection trials in progressive MS
 
 | File | Level | In short |
@@ -111,8 +120,9 @@ Stated no more strongly than the evidence allows:
   relapses rather than disability (Öncel 2026, 83 people).
 - Most remyelination trials so far were in relapsing MS, while neuroprotection trials were in
   progressive MS, so it is unclear whether repair drugs work at all in the people who most need them.
-- No peer-reviewed metformin trial results were found; only protocols, plus a conference-stage
-  report of CCMR Two that is not yet peer reviewed (see the handoff).
+- Two small peer-reviewed metformin trials (add-on to interferon, in Egypt) now have files; neither
+  measured myelin repair directly. CCMR Two, which did, has only a conference-stage report that is
+  not yet peer reviewed (see the handoff).
 - No systematic review of these trials has its own evidence file yet.
 - Most numbers come from abstracts. The TRAP-MS and SPRINT-MS details added after review were
   checked in the full text; the ReBUILD visual acuity numbers were not.
@@ -149,10 +159,14 @@ Stated no more strongly than the evidence allows:
 - **Bexarotene follow-up:** McMurran CE et al., *Mult Scler* 2024, PMID 38426437 (verified), on
   lasting VEP changes after CCMR One; and Riboni-Verri G et al., *Mult Scler Relat Disord* 2025, PMID
   40749568 (seen in PubMed, not verified on Crossref), on neurofilament light after bexarotene.
-- **Metformin:** no published trial results found. Protocols seen in PubMed, not verified on
-  Crossref: CCMR Two (metformin with clemastine; Riboni-Verri G et al., *Trials* 2025, PMID 41361285)
-  and MACSiMiSE-BRAIN (De Keersmaecker AV et al., *Front Immunol* 2024, PMID 38680485). Check for
-  results.
+- **Metformin:** two add-on trials with interferon now have files. Registry check on 11/06/2026
+  (ClinicalTrials.gov, no posted results for any): CCMR Two (NCT05131828) completed, primary
+  completion March 2025, with no peer-reviewed results found in PubMed; MACSiMiSE-BRAIN
+  (NCT05893225) active, not recruiting; a progressive MS trial (NCT05349474) completed May 2025
+  with no linked publication found; trials in older people (NCT06463743) and in children and young
+  adults (NCT04121468) recruiting. Protocols, not verified on Crossref: CCMR Two (Riboni-Verri G et
+  al., *Trials* 2025, PMID 41361285) and MACSiMiSE-BRAIN (De Keersmaecker AV et al., *Front Immunol*
+  2024, PMID 38680485).
 - **CCMR Two results (lead only, not yet peer reviewed):** early results were presented at the
   ECTRIMS conference in September 2025 and described in news reports
   ([University of Cambridge news](https://www.cam.ac.uk/research/news/common-diabetes-drug-and-antihistamine-could-together-repair-multiple-sclerosis-damage-trial-finds),

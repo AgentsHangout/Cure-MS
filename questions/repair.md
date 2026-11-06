@@ -56,6 +56,13 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2017-opicinumab-renew-cadavid](../evidence/2017-opicinumab-renew-cadavid.md) | 2 | In 82 people after a first optic neuritis, opicinumab did not meet its main VEP latency outcome (-3.5 ms, p = 0.33); the per-protocol group showed more VEP recovery (-7.6 ms, p = 0.050), but a separate analysis found no significant difference in patient-reported vision or high-contrast acuity. |
 | [2025-opicinumab-renewed-aktas](../evidence/2025-opicinumab-renewed-aktas.md) | 2 | Two years after RENEW, in 52 of its 82 participants, VEP latency was numerically but not significantly better with opicinumab, and the authors report no benefit on visual acuity or other neurological functions. |
 
+### Systematic reviews
+
+| File | Level | In short |
+| --- | --- | --- |
+| [2025-remyelination-trials-systematic-review-makhzoum](../evidence/2025-remyelination-trials-systematic-review-makhzoum.md) | 3 | 25 randomized and non-randomized trials of 17 interventions (3,341 people), searched to May 2024 with no pooled estimate in the abstract; several showed "remyelination potential" on imaging or VEP, but not function people feel. |
+| [2025-approved-dmt-remyelination-review-de-keersmaecker](../evidence/2025-approved-dmt-remyelination-review-de-keersmaecker.md) | 3 | Of approved MS treatments, six showed convincing remyelination in animal or cell studies, and six had promising surrogate results in people (3 randomized trials in all), but the authors found insufficient proof that those surrogates reflect remyelination alone. |
+
 ### Neuroprotection trials in progressive MS
 
 | File | Level | In short |
@@ -113,7 +120,8 @@ Stated no more strongly than the evidence allows:
   progressive MS, so it is unclear whether repair drugs work at all in the people who most need them.
 - No peer-reviewed metformin trial results were found; only protocols, plus a conference-stage
   report of CCMR Two that is not yet peer reviewed (see the handoff).
-- No systematic review of these trials has its own evidence file yet.
+- Two systematic reviews now have files, but neither pools randomized trials only or gives a
+  pooled estimate in its abstract, so there is still no level 1 evidence on remyelination.
 - Most numbers come from abstracts. The TRAP-MS and SPRINT-MS details added after review were
   checked in the full text; the ReBUILD visual acuity numbers were not.
 
@@ -164,10 +172,6 @@ Stated no more strongly than the evidence allows:
   disability. No peer-reviewed paper was found in PubMed on 11/03/2026. Do not give it an evidence
   file or treat it as a result until a peer-reviewed paper appears; even then, a VEP change alone
   would not show benefit people feel.
-- **Systematic reviews:** Makhzoum H et al., *Neurol Res* 2025, PMID 40393003 (25 trials of
-  remyelination-promoting treatments; abstract read, not yet verified on Crossref), and De
-  Keersmaecker AV et al., *Eur J Neurol* 2025, PMID 41216863 (not verified). Check whether they pool
-  randomized trials only before rating them level 1.
 - **MS-SMART** (amiloride, fluoxetine and riluzole in secondary progressive MS; Chataway J et al.,
   *Lancet Neurol* 2020): not searched or verified in this pass.
 - **Other repair measures:** VEP latency as a trial outcome beyond ReBUILD, myelin PET, and optical

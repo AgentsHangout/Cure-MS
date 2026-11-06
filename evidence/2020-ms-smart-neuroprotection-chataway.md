@@ -1,4 +1,4 @@
-# MS-SMART: three neuroprotective candidates did not slow brain-volume loss
+# MS-SMART: three candidates did not demonstrate slower brain-volume loss
 
 - **Citation:** Chataway J, De Angelis F, Connick P, et al.; MS-SMART Investigators. Efficacy of three neuroprotective drugs in secondary progressive multiple sclerosis (MS-SMART): a phase 2b, multiarm, double-blind, randomised placebo-controlled trial. *Lancet Neurology*. 2020;19(3):214-225.
 - **DOI or PMID:** [10.1016/S1474-4422(19)30485-5](https://doi.org/10.1016/S1474-4422(19)30485-5); [PMID 31981516](https://pubmed.ncbi.nlm.nih.gov/31981516/). [Open full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC7029307/).
@@ -11,6 +11,8 @@
 At 13 UK centers, 445 adults aged 25-65 years with secondary progressive MS were randomized to amiloride (111), fluoxetine (111), riluzole (111), or placebo (112) for 96 weeks. Participants had EDSS scores of 4.0-6.5, documented progression over the preceding two years, and no concurrent disease-modifying therapy. Patients, investigators, and MRI readers were masked to allocation. The drugs were tested separately against a shared placebo group, not together as a combination.
 
 The primary endpoint was percentage brain volume change (PBVC) from baseline to week 96, measured by MRI. The primary complete-case analysis included 393 participants: 99, 96, 99, and 99 in the respective groups. Clinical and patient-reported secondary measures included disability, walking, hand function, cognition, vision, fatigue, and quality of life. This was a human neuroprotection trial, not a direct test of remyelination. These details are from Methods and Results in the linked full text.
+
+The assigned oral study regimens were amiloride 5 mg, fluoxetine 20 mg, or riluzole 50 mg once daily for four weeks, then twice daily through week 96, with matching placebo. These are descriptions of the trial protocol, not treatment recommendations.
 
 ## What it found
 

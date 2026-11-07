@@ -156,8 +156,9 @@ Stated no more strongly than the evidence allows:
 - **Yaldizli 2025**: the link to MultiSCRIPT is now confirmed in the full text (PubMed Central),
   which says the Delphi was part of the MultiSCRIPT trial and that the algorithms are for use within
   it.
-- **Full-text numbers.** All numbers come from abstracts. Funding and conflicts of interest are
-  missing from most abstracts and should be checked in the full papers.
+- **Full-text numbers.** The original entries relied on abstracts. The Maleska Maceski 2026
+  evidence file was checked against the full text and supplement. Funding and conflicts of
+  interest for older entries should still be checked in the full papers.
 
 ### Most useful searches still to do
 

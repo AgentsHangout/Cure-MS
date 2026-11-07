@@ -77,6 +77,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2024-nfl-clinical-guidance-freedman](../evidence/2024-nfl-clinical-guidance-freedman.md) | 6 | Expert guidance: sNfL can be used alongside MRI and clinical measures to support decisions, does not replace MRI, and needs work on platforms and reference ranges. |
 | [2025-snfl-treatment-algorithms-yaldizli](../evidence/2025-snfl-treatment-algorithms-yaldizli.md) | 6 | Delphi consensus of 28 experts and 3 patient consultants on 23 algorithms to escalate, switch or de-escalate treatment by sNfL, meant to be tested in a pragmatic randomized trial (MultiSCRIPT). The authors call them non-binding and not clinical guidelines; an isolated high sNfL alone was not accepted as a reason to switch from B-cell-depleting therapy. |
 | [2024-snfl-clinical-decisions-van-lierop](../evidence/2024-snfl-clinical-decisions-van-lierop.md) | 4 | In 166 tests at one Amsterdam center, clinicians changed their decision in 19.3% of cases after seeing the sNfL result and felt more certain; patient outcomes were not measured. |
+| [2024-snfl-therapeutic-inertia-saposnik](../evidence/2024-snfl-therapeutic-inertia-saposnik.md) | 4 | Spanish vignette survey: most participating neurologists met the authors' therapeutic-inertia definition. This classifies hypothetical choices, not patient harm or benefit from biomarker-guided care. |
 
 ## What the evidence so far suggests
 
@@ -92,7 +93,8 @@ Stated no more strongly than the evidence allows:
 - **Using the markers to guide care.** No completed randomized trial was found that compares
   sNfL- or GFAP-guided care with usual care. What exists is expert guidance and consensus (level 6),
   one single-center report that results changed decisions about a fifth of the time without
-  measuring patient outcomes (level 4), and trial protocols that have not reported results. So
+  measuring patient outcomes (level 4), a vignette survey of intended choices (Saposnik 2024,
+  level 4), and trial protocols that have not reported results. So
   whether using these markers to guide treatment improves outcomes is **not yet known**.
 
 ## Gaps noticed so far
@@ -185,10 +187,6 @@ Stated no more strongly than the evidence allows:
     [doi:10.1212/WNL.0000000000009097](https://doi.org/10.1212/WNL.0000000000009097), PMID
     [32047070](https://pubmed.ncbi.nlm.nih.gov/32047070/). Swedish cohort of 1,261 people: the fall in
     plasma NfL differed by drug. Level 3.
-  - Saposnik G et al. *Mult Scler Relat Disord* 2024;90:105838,
-    [doi:10.1016/j.msard.2024.105838](https://doi.org/10.1016/j.msard.2024.105838), PMID
-    [39216454](https://pubmed.ncbi.nlm.nih.gov/39216454/). Survey of 116 Spanish neurologists with
-    simulated cases: many did not start or escalate treatment despite high sNfL. Level 4.
 - **Pediatric MS.** A pediatric sNfL reference database exists (Abdelhak A et al., *Lancet Neurol*
   2023, PMID 37524100, seen in PubMed but not verified on Crossref or reviewed).
 - **Lab platform comparisons** for clinical use (Simoa, Lumipulse, Elecsys, Atellica), several

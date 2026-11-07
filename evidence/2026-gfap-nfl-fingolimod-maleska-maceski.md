@@ -27,9 +27,11 @@ MRI activity. [Methods; Table 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC133372
 - GFAP Z>0.75 versus <=0.75 was associated with subsequent PIRA: unadjusted hazard ratio (HR)
   1.64 (95% CI 1.16-2.32); adjusted HR 1.74 (1.22-2.47). NfL Z>1 versus <=1 was not clearly
   associated with PIRA: adjusted HR 1.32 (0.91-1.91).
-- For relapse, the pattern differed: adjusted HR 1.61 (1.14-2.26) for NfL, versus 1.01
-  (0.70-1.45) for GFAP. These separate adjusted models included sex, age, EDSS and recent
-  relapse (<90 days). [Supplementary Tables 5 and 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC13337245/#sup1).
+- For relapse, NfL Z>1 versus <=1 was associated with an unadjusted HR of 1.58
+  (95% CI 1.13-2.23) and an adjusted HR of 1.61 (1.14-2.26). The adjusted HR for GFAP
+  was 1.01 (0.70-1.45). These separate adjusted models included sex, age, EDSS and recent
+  relapse (<90 days). [Figure 3](https://pmc.ncbi.nlm.nih.gov/articles/PMC13337245/);
+  [Supplementary Tables 5 and 7](https://pmc.ncbi.nlm.nih.gov/articles/PMC13337245/#sup1).
 - Longitudinal models used 366 participants with at least four years' follow-up and 2,743
   on-fingolimod samples. GFAP decreased by 0.19 Z units per ten years (95% CI -0.27 to -0.11),
   and NfL by 0.16 (-0.27 to -0.06). Participants with PIRA during follow-up averaged 0.29

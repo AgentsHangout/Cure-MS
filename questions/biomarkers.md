@@ -53,6 +53,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2023-nfl-disability-worsening-abdelhak](../evidence/2023-nfl-disability-worsening-abdelhak.md) | 3 | In 609 people in San Francisco and 1,290 in Switzerland, NfL was modestly raised in the visits before confirmed disability worsening, including worsening without relapses (about 1 to 2 years ahead). |
 | [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In 355 people, higher serum GFAP was linked to worsening progressive MS and gray matter loss; raised GFAP plus raised NfL was associated with about 4 to 5 times the risk of PIRA (HR 4.71). |
 | [2026-gfap-dynamics-pira-einsiedler](../evidence/2026-gfap-dynamics-pira-einsiedler.md) | 3 | In 2,329 people in two cohorts, high NfL was associated with relapse risk in the next year and high GFAP with PIRA risk (HR about 1.4); falls in GFAP on fingolimod or B-cell-depleting drugs went with lower PIRA risk. |
+| [2026-gfap-nfl-fingolimod-maleska-maceski](../evidence/2026-gfap-nfl-fingolimod-maleska-maceski.md) | 3 | In 420 Swiss participants sampled about a year after fingolimod began, higher GFAP was associated with PIRA (adjusted HR 1.74), and higher NfL with relapses (adjusted HR 1.61). Treatment changes and the study-selected GFAP cutoff limit interpretation; no biomarker-guided strategy was tested. |
 
 ### Reference values and what affects them
 
@@ -176,11 +177,6 @@ Stated no more strongly than the evidence allows:
     [41622995](https://pubmed.ncbi.nlm.nih.gov/41622995/). In 1,716 people on interferon beta,
     fingolimod or natalizumab, NfL added minimal value to clinical models predicting treatment
     response. Level 3.
-  - Maleska Maceski A et al. *Brain* 2026;149(7):2295-2307,
-    [doi:10.1093/brain/awaf433](https://doi.org/10.1093/brain/awaf433), PMID
-    [41237262](https://pubmed.ncbi.nlm.nih.gov/41237262/). GFAP vs NfL in 420 fingolimod-treated
-    people; uses a GFAP reference set from 4,297 controls. Crossref dates it 2025 (online) and PubMed
-    2026 (issue); name the file by the issue year after checking. Level 3.
   - Delcoigne B et al. *Neurology* 2020;94(11):e1201-e1212,
     [doi:10.1212/WNL.0000000000009097](https://doi.org/10.1212/WNL.0000000000009097), PMID
     [32047070](https://pubmed.ncbi.nlm.nih.gov/32047070/). Swedish cohort of 1,261 people: the fall in
@@ -215,3 +211,4 @@ source before anything was changed, except where noted.
   instead of "severe kidney damage". Confirmed in the full text (PubMed Central). The point that
   smoking or diabetes may also affect interpretation is the reviewer's; the paper did not model
   them, and it was **not checked here**.
+

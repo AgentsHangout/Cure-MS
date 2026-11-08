@@ -58,6 +58,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
+| [2023-pediatric-nfl-reference-abdelhak](../evidence/2023-pediatric-nfl-reference-abdelhak.md) | 4 | Age-adjusted pediatric serum references; cross-sectional disease comparison, not validated treatment thresholds or evidence of improved care. |
 | [2022-snfl-reference-values-benkert](../evidence/2022-snfl-reference-values-benkert.md) | 3 | Reference database from 5,390 people without CNS disease: sNfL rises exponentially with age, faster after about 50, and is adjusted for BMI; Z scores did better than fixed cutoffs. |
 | [2026-gfap-nfl-reference-intervals-rousset](../evidence/2026-gfap-nfl-reference-intervals-rousset.md) | 4 | Plasma reference intervals from cognitively unimpaired people (7,958 with NfL and 7,810 with GFAP, per the full-text table and Discussion): older age, lower BMI and poorer kidney function were associated with higher NfL and GFAP; GFAP was higher in women; one lab platform. Only 82 people with MS, as a comparison group; not treatment thresholds. |
 | [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In 259 healthy controls, serum GFAP rose 1.5% per year of age, fell 1.1% per BMI unit and was 14.9% higher in women. |
@@ -189,8 +190,6 @@ Stated no more strongly than the evidence allows:
     [doi:10.1016/j.msard.2024.105838](https://doi.org/10.1016/j.msard.2024.105838), PMID
     [39216454](https://pubmed.ncbi.nlm.nih.gov/39216454/). Survey of 116 Spanish neurologists with
     simulated cases: many did not start or escalate treatment despite high sNfL. Level 4.
-- **Pediatric MS.** A pediatric sNfL reference database exists (Abdelhak A et al., *Lancet Neurol*
-  2023, PMID 37524100, seen in PubMed but not verified on Crossref or reviewed).
 - **Lab platform comparisons** for clinical use (Simoa, Lumipulse, Elecsys, Atellica), several
   published in 2025-2026; not yet reviewed.
 - **Cost-effectiveness** and patient views on routine sNfL testing.

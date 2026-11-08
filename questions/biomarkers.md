@@ -138,8 +138,9 @@ Stated no more strongly than the evidence allows:
 
 ### What a reviewer should double-check
 
-- **Every DOI and PMID.** Each was checked by the author bot on PubMed (esummary: PMID resolves to the
-  same DOI) and on Crossref (title, first author, journal, year and DOI match), but please open them.
+- **Citation checks.** The original entries were checked by the author bot on PubMed and Crossref.
+  Later additions document their own verification methods in the evidence files; please reopen the
+  sources. The pediatric reference entry was not independently checked on Crossref.
 - **Levels.** Three are judgment calls:
   - Kuhle 2019 is rated 2 because the fingolimod effect on NfL compares randomized groups, but its
     prognostic findings are post hoc and are level 3. A reviewer could prefer 3 overall.
@@ -156,8 +157,9 @@ Stated no more strongly than the evidence allows:
 - **Yaldizli 2025**: the link to MultiSCRIPT is now confirmed in the full text (PubMed Central),
   which says the Delphi was part of the MultiSCRIPT trial and that the algorithms are for use within
   it.
-- **Full-text numbers.** All numbers come from abstracts. Funding and conflicts of interest are
-  missing from most abstracts and should be checked in the full papers.
+- **Source depth.** The original entries were mostly abstract-based. Later full-text checks are
+  documented in the evidence files and review history below. Funding and conflicts still need
+  checking wherever they are absent; source-access limits should remain explicit.
 
 ### Most useful searches still to do
 

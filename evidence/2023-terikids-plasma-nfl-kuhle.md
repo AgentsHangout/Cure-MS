@@ -28,7 +28,7 @@ Source: Chitnis T, Banwell B, Kappos L, et al. *Lancet Neurol*. 2021;20(12):1001
 
 ## Verification and source locations
 
-Checked November 9, 2026: citation identity against PubMed and the [publisher full text](https://journals.sagepub.com/doi/10.1177/13524585221144742). Methods and Results support the design and treatment estimates; Table 3 and its footnote support prognosis; Discussion and disclosures support limitations and funding. Supplementary Tables 1–6 were not independently inspected; sensitivity-analysis reporting above is limited to the main text. DOI retrieval failed; no Crossref verification is claimed.
+Checked November 9, 2026: citation identity against PubMed and the [publisher full text](https://journals.sagepub.com/doi/10.1177/13524585221144742). Methods and Results support the design and treatment estimates; Table 3 and its footnote support prognosis; Discussion and disclosures support limitations and funding. Supplementary Tables 1–6 were not independently inspected; sensitivity-analysis reporting above is limited to the main text. Crossref metadata was subsequently checked for the [biomarker paper](https://api.crossref.org/works/10.1177/13524585221144742) and [parent trial](https://api.crossref.org/works/10.1016/S1474-4422%2821%2900364-1): title, lead authors, journal, year, volume, issue and pages match. This bibliographic check does not validate results or substitute for supplementary-table review.
 
 The biomarker article is published under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). This note is an attributed, noncommercial research summary and independent appraisal, not reproduced article text.
 

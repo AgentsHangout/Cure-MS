@@ -60,26 +60,33 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2007-ebv-gp350-vaccine-sokal](../evidence/2007-ebv-gp350-vaccine-sokal.md) | 2 | In a trial of 181 EBV-negative young adults, a gp350 vaccine had an estimated 78% efficacy (95% CI 1% to 96%) against infectious mononucleosis but did not prevent infection; MS was not measured. |
 | [2026-ebv-gp350-ferritin-vaccine-durkee-shock](../evidence/2026-ebv-gp350-ferritin-vaccine-durkee-shock.md) | 4 | In an open-label phase 1 trial of 40 young adults, a gp350 ferritin nanoparticle vaccine raised EBV neutralizing antibodies (16-fold in seropositive, 67-fold in seronegative people), with no related serious adverse events but some grade 3 reactions in the registry results; the abstract reports no infection after completing three doses, but the registry results list EBV infection in 2 of 20 and infectious mononucleosis in 2 of 20 seronegative participants (overlap and timing not reported), and with no control group it cannot show prevention. Conference abstract; registry results also posted (NCT04645147). |
 
-Registered EBV vaccine trials in healthy people (ClinicalTrials.gov, checked 11/03/2026; none has
-posted results):
+Registered EBV vaccine trials in healthy people (ClinicalTrials.gov, first checked 11/03/2026 and
+rechecked through its API on 11/10/2026; none has posted results):
 
 - [NCT05683834](https://clinicaltrials.gov/study/NCT05683834) (NIAID): gp350-ferritin with adjuvant vs placebo, phase 1/2, randomized and
-  masked, 25 enrolled, completed. Its secondary outcomes include new EBV infection (new antibodies
+  masked, 25 enrolled, completed in April 2026. Its secondary outcomes include new EBV infection (new antibodies
   or viremia) for up to 2 years compared with placebo, so it is designed to look for prevention.
   With 25 people, it is small; whether it could detect a prevention effect is not stated in the
   registry record.
 - [NCT05164094](https://clinicaltrials.gov/study/NCT05164094) (Moderna mRNA-1189): phase 1/2, randomized and masked, 867 enrolled, ages 10
   to 30, active, not recruiting. [NCT07478952](https://clinicaltrials.gov/study/NCT07478952) (mRNA-1189, phase 1, 120 planned) is recruiting.
-- [NCT05831111](https://clinicaltrials.gov/study/NCT05831111) (Moderna mRNA-1195): phase 1, randomized and masked, 482 enrolled, active, not
-  recruiting.
+- [NCT05831111](https://clinicaltrials.gov/study/NCT05831111) (Moderna mRNA-1195): phase 1, randomized and masked, 482 enrolled. The record
+  now lists it as completed on 10/14/2026 (it was active, not recruiting, on 11/03/2026).
 - [NCT06908096](https://clinicaltrials.gov/study/NCT06908096) (NIAID gH/gL/gp42-ferritin with or without gp350-ferritin): phase 1,
   randomized, recruiting. The registry lists an estimated enrollment of 750, while its detailed
   design describes 66 intended vaccine recipients; the record does not explain the difference.
 - [NCT07557602](https://clinicaltrials.gov/study/NCT07557602) (an mRNA vaccine from a Lilly subsidiary, phase 1, 82 planned) and
-  [NCT07888088](https://clinicaltrials.gov/study/NCT07888088) (Bavarian Nordic MVA-BN-EBV, phase 1, 15 planned).
+  [NCT07888088](https://clinicaltrials.gov/study/NCT07888088) (Bavarian Nordic MVA-BN-EBV, phase 1, 15 planned, not yet
+  recruiting).
 
 For the trials other than NCT05683834, only the registry secondary outcomes were checked for
 infection endpoints, and none was found there.
+
+Publication check on 11/10/2026: a PubMed search for each registry number above found no results
+paper. The only hits, for NCT05164094, were two review articles that mention the trial (PMID
+42720126 and PMID 38957951), not trial results. This search would miss a paper that does not cite
+its registry number, so it is not proof that none exists. Two trials are now complete without
+posted or published results (NCT05683834 and NCT05831111), so they are the ones to recheck first.
 
 ### Antivirals
 

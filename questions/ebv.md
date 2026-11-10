@@ -49,6 +49,8 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
+| [2013-ebv-seronegative-meta-analysis-pakpoor](../evidence/2013-ebv-seronegative-meta-analysis-pakpoor.md) | 3 | Meta-analysis of 22 adult and 3 pediatric observational studies: people with no antibodies from past EBV infection had much lower odds of MS (OR 0.18, 95% CI 0.13 to 0.26, in adults), and the size of the association depended on the antibody test used. |
+| [2020-ebv-risk-factor-interaction-meta-analysis-jacobs](../evidence/2020-ebv-risk-factor-interaction-meta-analysis-jacobs.md) | 3 | Systematic review of observational studies: EBV antibody level and HLA genotype interacted on the additive scale (attributable proportion 0.48), and smoking was associated with MS in people with high but not low EBV antibodies; no interaction on the multiplicative scale. |
 | [2022-epstein-barr-virus-bjornevik](../evidence/2022-epstein-barr-virus-bjornevik.md) | 3 | In more than 10 million US military personnel (955 with MS), MS risk was 32 times higher after EBV infection, with no rise after other viruses. |
 | [2022-ebna1-glialcam-mimicry-lanz](../evidence/2022-ebna1-glialcam-mimicry-lanz.md) | 5 | An antibody from MS spinal fluid bound both the EBV protein EBNA1 and the brain protein GlialCAM; EBNA1 immunization worsened an MS-like disease in mice. |
 | [2023-ebv-immune-control-vietzen](../evidence/2023-ebv-immune-control-vietzen.md) | 5 | In cells, certain NK cells and EBV-specific T cells killed GlialCAM-reactive cells; some host and virus genetic combinations were associated with MS, with estimates up to 260-fold for particular combinations in a comparison of people with and without MS (not a risk for people in general). |
@@ -118,6 +120,7 @@ the saliva result rests on five treated people.
 
 | File | Level | In short |
 | --- | --- | --- |
+| [2010-mononucleosis-meta-analysis-handel](../evidence/2010-mononucleosis-meta-analysis-handel.md) | 3 | Meta-analysis of 18 observational articles (19,390 people with MS, 16,007 controls): a history of infectious mononucleosis was associated with about twice the risk of MS (RR 2.17, 95% CI 1.97 to 2.39). |
 | [2024-mononucleosis-cohort-england-goldacre](../evidence/2024-mononucleosis-cohort-england-goldacre.md) | 3 | In English hospital records, people with infectious mononucleosis were about 2.8 times as likely to be diagnosed with MS later, mostly more than 5 years after. |
 | [2026-mononucleosis-lab-confirmed-st-sauver](../evidence/2026-mononucleosis-lab-confirmed-st-sauver.md) | 3 | In Minnesota, laboratory-confirmed EBV mononucleosis was associated with about 3 times the MS risk (HR 3.14, 95% CI 1.18 to 8.34), based on 18 MS cases. |
 | [2023-siblings-delayed-ebv-rostgaard](../evidence/2023-siblings-delayed-ebv-rostgaard.md) | 3 | In 2.6 million Danes, having siblings close in age was associated with lower risk of both mononucleosis and MS, in matching patterns, which fits the idea that later first EBV infection matters. |
@@ -238,8 +241,12 @@ Stated no more strongly than the evidence allows:
   antiviral trials in MS (check trial registries for completed trials).
 - Published results of the registered EBV vaccine trials listed above, especially NCT05683834 and
   the Moderna mRNA-1189 phase 1/2. Skip preprints and press releases.
-- Systematic reviews or meta-analyses of infectious mononucleosis and MS risk, and of EBV serology
-  and MS, to place the single cohorts here in context.
+- More pooled evidence on EBV and MS. Three meta-analyses now have files (Handel 2010, Pakpoor 2013,
+  Jacobs 2020), all read from abstracts only; their full texts are open access or indexed and
+  should be read for study designs and heterogeneity. Not yet given files: Thacker EL et al. on
+  mononucleosis (*Ann Neurol* 2006, PMID 16502434), which Handel 2010 updates; Almohmeed YH et al.
+  on EBV serology (*PLoS One* 2013, PMID 23585874); and Xiao D et al. on EBV and HLA-DRB1*1501
+  (*Sci Rep* 2015, PMID 26656273). These three were seen in PubMed and not verified on Crossref.
 - Studies of whether MS drugs that deplete B cells change EBV activity, and whether that relates to
   their effect on MS.
 - Independent repeats of the molecular mimicry findings (GlialCAM, anoctamin-2, alpha-crystallin B).

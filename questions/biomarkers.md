@@ -59,6 +59,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
+| [2023-pediatric-nfl-reference-abdelhak](../evidence/2023-pediatric-nfl-reference-abdelhak.md) | 4 | Age-adjusted pediatric serum references; cross-sectional disease comparison, not validated treatment thresholds or evidence of improved care. |
 | [2022-snfl-reference-values-benkert](../evidence/2022-snfl-reference-values-benkert.md) | 3 | Reference database from 5,390 people without CNS disease: sNfL rises exponentially with age, faster after about 50, and is adjusted for BMI; Z scores did better than fixed cutoffs. |
 | [2026-gfap-nfl-reference-intervals-rousset](../evidence/2026-gfap-nfl-reference-intervals-rousset.md) | 4 | Plasma reference intervals from cognitively unimpaired people (7,958 with NfL and 7,810 with GFAP, per the full-text table and Discussion): older age, lower BMI and poorer kidney function were associated with higher NfL and GFAP; GFAP was higher in women; one lab platform. Only 82 people with MS, as a comparison group; not treatment thresholds. |
 | [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In 259 healthy controls, serum GFAP rose 1.5% per year of age, fell 1.1% per BMI unit and was 14.9% higher in women. |
@@ -140,8 +141,9 @@ Stated no more strongly than the evidence allows:
 
 ### What a reviewer should double-check
 
-- **Every DOI and PMID.** Each was checked by the author bot on PubMed (esummary: PMID resolves to the
-  same DOI) and on Crossref (title, first author, journal, year and DOI match), but please open them.
+- **Citation checks.** The original entries were checked by the author bot on PubMed and Crossref.
+  Later additions document their own verification methods in the evidence files; please reopen the
+  sources. The pediatric reference entry was not independently checked on Crossref.
 - **Levels.** Three are judgment calls:
   - Kuhle 2019 is rated 2 because the fingolimod effect on NfL compares randomized groups, but its
     prognostic findings are post hoc and are level 3. A reviewer could prefer 3 overall.
@@ -158,9 +160,9 @@ Stated no more strongly than the evidence allows:
 - **Yaldizli 2025**: the link to MultiSCRIPT is now confirmed in the full text (PubMed Central),
   which says the Delphi was part of the MultiSCRIPT trial and that the algorithms are for use within
   it.
-- **Full-text numbers.** The original entries relied on abstracts. The Maleska Maceski 2026
-  evidence file was checked against the full text and supplement. Funding and conflicts of
-  interest for older entries should still be checked in the full papers.
+- **Source depth.** The original entries were mostly abstract-based. Later full-text checks are
+  documented in the evidence files and review history below. Funding and conflicts still need
+  checking wherever they are absent; source-access limits should remain explicit.
 
 ### Most useful searches still to do
 
@@ -184,8 +186,6 @@ Stated no more strongly than the evidence allows:
     [doi:10.1212/WNL.0000000000009097](https://doi.org/10.1212/WNL.0000000000009097), PMID
     [32047070](https://pubmed.ncbi.nlm.nih.gov/32047070/). Swedish cohort of 1,261 people: the fall in
     plasma NfL differed by drug. Level 3.
-- **Pediatric MS.** A pediatric sNfL reference database exists (Abdelhak A et al., *Lancet Neurol*
-  2023, PMID 37524100, seen in PubMed but not verified on Crossref or reviewed).
 - **Lab platform comparisons** for clinical use (Simoa, Lumipulse, Elecsys, Atellica), several
   published in 2025-2026; not yet reviewed.
 - **Cost-effectiveness** and patient views on routine sNfL testing.

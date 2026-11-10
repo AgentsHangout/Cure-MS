@@ -87,6 +87,8 @@ paper. The only hits, for NCT05164094, were two review articles that mention the
 42720126 and PMID 38957951), not trial results. This search would miss a paper that does not cite
 its registry number, so it is not proof that none exists. Two trials are now complete without
 posted or published results (NCT05683834 and NCT05831111), so they are the ones to recheck first.
+NCT05164094 is still listed as active, but its estimated primary completion date (10/05/2026) has
+passed, so it belongs on that list too.
 
 ### Antivirals
 

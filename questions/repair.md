@@ -57,6 +57,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2026-opicinumab-affinity-calabresi](../evidence/2026-opicinumab-affinity-calabresi.md) | 2 | In 263 people with relapsing MS, opicinumab added to standard treatment did not meet its disability-response outcome (difference 0.15, 95% CI -0.05 to 0.35). |
 | [2017-opicinumab-renew-cadavid](../evidence/2017-opicinumab-renew-cadavid.md) | 2 | In 82 people after a first optic neuritis, opicinumab did not meet its main VEP latency outcome (-3.5 ms, p = 0.33); the per-protocol group showed more VEP recovery (-7.6 ms, p = 0.050), but a separate analysis found no significant difference in patient-reported vision or high-contrast acuity. |
 | [2025-opicinumab-renewed-aktas](../evidence/2025-opicinumab-renewed-aktas.md) | 2 | Two years after RENEW, in 52 of its 82 participants, VEP latency was numerically but not significantly better with opicinumab, and the authors report no benefit on visual acuity or other neurological functions. |
+| [2025-elezanumab-radius-cree](../evidence/2025-elezanumab-radius-cree.md) | 2 | RADIUS-R (208 people, relapsing MS) and RADIUS-P (123, progressive MS): elezanumab did not meet the functional-improvement outcome in either trial at either dose. |
 
 ### Systematic reviews
 
@@ -80,6 +81,8 @@ Neither trial reported a myelin measure (VEP or myelin imaging) as an outcome.
 | --- | --- | --- |
 | [2025-simvastatin-ms-stat2-chataway](../evidence/2025-simvastatin-ms-stat2-chataway.md) | 2 | In 964 people with secondary progressive MS, simvastatin did not slow confirmed progression (40% vs 36% on placebo; HR 1.13). |
 | [2026-lipoic-acid-progressive-spain](../evidence/2026-lipoic-acid-progressive-spain.md) | 2 | In 115 people with progressive MS, lipoic acid did not slow the decline in walking speed; secondary MRI volume signals, with more T2 lesion volume growth; more dropouts and proteinuria. |
+| [2017-lipoic-acid-pilot-spain](../evidence/2017-lipoic-acid-pilot-spain.md) | 2 | In a pilot trial of 51 people with secondary progressive MS, lipoic acid slowed whole-brain volume loss (-0.21% vs -0.65% a year, p = 0.002) with no significant walking benefit; one serious adverse event was judged related; the later 2026 trial did not confirm a walking benefit. |
+| [2020-ms-smart-neuroprotection-chataway](../evidence/2020-ms-smart-neuroprotection-chataway.md) | 2 | MS-SMART: in 445 people with secondary progressive MS, amiloride, fluoxetine and riluzole each failed to slow brain volume loss over 96 weeks compared with a shared placebo group. |
 | [2020-high-dose-biotin-spi2-cree](../evidence/2020-high-dose-biotin-spi2-cree.md) | 2 | In 642 people with progressive MS, high-dose biotin did not improve disability or walking (12% vs 9% improved; OR 1.35, 95% CI 0.81 to 2.26) and interfered with lab tests. |
 | [2018-ibudilast-sprint-ms-fox](../evidence/2018-ibudilast-sprint-ms-fox.md) | 2 | In 255 people with progressive MS, ibudilast slowed brain shrinkage on MRI (about 2.5 ml less tissue loss over 96 weeks); the disability result was inconclusive (HR 0.74, CI crossing 1; secondary, not adjusted for multiple comparisons). |
 
@@ -162,11 +165,6 @@ Stated no more strongly than the evidence allows:
 
 ### Most useful searches still to do
 
-- **Elezanumab** (anti-RGMa antibody), RADIUS-R and RADIUS-P phase 2 trials in relapsing and
-  progressive MS: Cree BAC et al., *Ann Neurol* 2025;98(3):590-602,
-  [doi:10.1002/ana.27262](https://doi.org/10.1002/ana.27262), PMID 40698976. Verified on PubMed and
-  Crossref; the abstract reports the main outcome was not met in either study. Left out only to keep
-  this batch to 10 files; it deserves its own file.
 - **Metformin:** two add-on trials with interferon now have files. Registry check on 11/06/2026
   (ClinicalTrials.gov; none has tabular results posted): CCMR Two
   ([NCT05131828](https://clinicaltrials.gov/study/NCT05131828)) completed, primary completion March
@@ -190,13 +188,11 @@ Stated no more strongly than the evidence allows:
   disability. No peer-reviewed paper was found in PubMed on 11/03/2026. Do not give it an evidence
   file or treat it as a result until a peer-reviewed paper appears; even then, a VEP change alone
   would not show benefit people feel.
-- **MS-SMART** (amiloride, fluoxetine and riluzole in secondary progressive MS; Chataway J et al.,
-  *Lancet Neurol* 2020): not searched or verified in this pass.
 - **Other repair measures:** VEP latency as a trial outcome beyond ReBUILD, myelin PET, and optical
   coherence tomography (OCT); the RESTORE trial protocol (Hof S et al., *BMJ Open* 2024, PMID
   38296293, not verified) is designed to test how to measure remyelination.
-- **Earlier positive trials** that later trials did not confirm: MS-STAT (simvastatin phase 2b), the
-  lipoic acid pilot, and MS-SPI (biotin), for context.
+- **Earlier positive trials** that later trials did not confirm: MS-STAT (simvastatin phase 2b) and
+  MS-SPI (biotin), for context. The lipoic acid pilot now has a file.
 - **Ibudilast follow-up papers** on SPRINT-MS. The slowly enlarging lesion analysis (Nakamura 2024)
   now has a file under [questions/pira.md](pira.md); others have not been checked.
 - **Rehabilitation and exercise** combined with remyelination drugs, which some authors have

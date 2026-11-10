@@ -129,6 +129,7 @@ include one small randomized pilot (Bove 2022), one registry cohort and one mark
 | File | Level | In short |
 | --- | --- | --- |
 | [2022-sex-disability-accumulation-magyari](../evidence/2022-sex-disability-accumulation-magyari.md) | 3 | In 9,647 treated Danes with relapsing MS, women had 16% more relapses (until about age 50), while men reached EDSS 4 (HR 1.34) and EDSS 6 (HR 1.43) sooner. |
+| [2015-sex-disability-msbase-ribbons](../evidence/2015-sex-disability-msbase-ribbons.md) | 3 | In the international MSBase registry, EDSS rose faster in men than women with relapse-onset MS (0.124 vs 0.107 points a year), and women had a lower hazard of secondary progressive MS (HR 0.77); no sex difference in primary progressive MS. The paper has internal number mismatches. |
 
 ## What the evidence so far suggests
 
@@ -233,10 +234,6 @@ Leads found and verified in PubMed and Crossref but not given files (to avoid ov
   [doi:10.1212/WNL.0000000000012084](https://doi.org/10.1212/WNL.0000000000012084), PMID 33879599).
   Same registry as Yeh 2024; it adds disability after pregnancy (5.6% of pregnancies followed by
   confirmed worsening).
-- Ribbons KA et al., male sex and faster disability in relapse-onset MS but not primary progressive
-  MS, MSBase (*PLoS One* 2015,
-  [doi:10.1371/journal.pone.0122686](https://doi.org/10.1371/journal.pone.0122686), PMID 26046348).
-  An international check on the Danish course finding.
 - Kurth F et al., gray matter in the same 10-man testosterone pilot (*NeuroImage: Clinical* 2014,
   [doi:10.1016/j.nicl.2014.03.001](https://doi.org/10.1016/j.nicl.2014.03.001), PMID 24634831).
   Not independent of Sicotte 2007.

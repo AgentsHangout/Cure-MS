@@ -33,6 +33,5 @@ to EDSS 4 and EDSS 6.
   not fully captured by the weights.
 - Only people who received disease-modifying therapy, so it may not describe everyone with MS.
 - The age-50 cutoff is a stand-in for menopause, which was not recorded.
-- An earlier international MSBase study found a similar pattern (Ribbons KA et al., *PLoS One*
-  2015, [doi:10.1371/journal.pone.0122686](https://doi.org/10.1371/journal.pone.0122686), PMID
-  26046348); it is listed as a lead and has not been given its own file.
+- An earlier international MSBase study found a similar pattern:
+  [2015-sex-disability-msbase-ribbons](2015-sex-disability-msbase-ribbons.md).

@@ -25,8 +25,9 @@ summarized as principal components. Discrimination (Uno's concordance index) was
 
 - 1,716 people were in the pooled analysis, followed for a mean of 9 years. Three treatments had
   enough people and events for separate models: interferon beta (554), fingolimod (307) and
-  natalizumab (369). The other 486 were on other treatments, which the main text does
-  not name, and appear only in the pooled models.
+  natalizumab (369). The other 486 were on other treatments and appear only in the
+  pooled models. Supplementary Table S1 lists them, including ocrelizumab (19), rituximab (68) and
+  alemtuzumab (34).
 - In the pooled cohort, no statistically significant association between NfL and the outcomes was
   detected after adding the clinical and demographic components. Models without those components
   did show associations.
@@ -48,12 +49,15 @@ summarized as principal components. Discrimination (Uno's concordance index) was
 
 - The natalizumab HR interval is present in the source (and the supplement also reports very narrow
   intervals), but its unusually high precision for 369 people is unexplained. The bootstrap repeats
-  apply to the concordance validation and do not by themselves explain it.
-- The table and text disagree about natalizumab improvement, as above.
+  apply to the concordance validation and do not by themselves explain it. Supplementary Table S1
+  shows that 345 of the 369 people on natalizumab came from one site and 24 from another.
+- The table and text disagree about natalizumab improvement, as above. The 50.6% value (95% CI
+  50.5 to 50.8) is identical to the neighboring Table 3 cell for interferon beta without the clinical
+  components, so it may be a table error; this is not confirmed.
 - The cohorts had different structures and protocols and come from different treatment eras; the
   authors mapped variables across them to reduce this.
-- No separate estimates for any treatment other than these three, so it does not address newer
-  high-efficacy treatments.
+- No separate estimates for anti-CD20 antibodies or other newer high-efficacy treatments, which
+  appear only in the pooled models.
 - Hazard ratios are for scaled age-normalized NfL, not a change of one pg/mL.
 - This tests a single NfL measure for prediction. It is not a trial showing that NfL-guided
   decisions improve outcomes, and it does not test repeated monitoring (see
@@ -61,4 +65,6 @@ summarized as principal components. Discrimination (Uno's concordance index) was
 - **Funding and disclosures:** funded by the National Health and Medical Research Council of
   Australia. Several authors report fees or research support from companies that make MS
   treatments.
-- Numbers come from the open-access full text, tables and supplement (PMC12862443).
+- Numbers come from the open-access full text and tables (PMC12862443). Supplementary Table S1 was
+  read from the Europe PMC supplementary file on 11/10/2026; the other supplementary tables were not
+  checked.

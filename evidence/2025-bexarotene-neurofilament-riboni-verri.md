@@ -43,9 +43,13 @@ Two analyses were done:
   pre-specified analysis plan or a correction for multiple tests, so the result should be treated
   as hypothesis-generating.
 - Small numbers (27 people, 37 eyes in the main association analysis), from one of the trial's two
-  sites. The authors note the study was not powered for an NfL difference; an earlier estimate,
-  which assumed efficacy and treatment duration like the ReBUILD clemastine trial, suggested about
-  202 people per group would be needed.
+  sites. The authors call the cohort small and cite an earlier estimate, which assumed efficacy
+  and treatment duration like the ReBUILD clemastine trial, that about 202 people per group might be
+  needed to detect an NfL difference.
+- Several confidence intervals printed in the accepted manuscript do not contain their own
+  estimates (for example, the all-eyes bexarotene slope of 10.6 with [-25, 3.8], and GFAP 11.4 with
+  [-34, 10.7]). None of those intervals is quoted here, and the published version was not checked for
+  corrections.
 - A link between VEP and NfL changes does not show that either leads to function people feel.
 - The original CCMR One trial reported poor tolerability of bexarotene; this sub-study does not
   establish a patient-important clinical benefit.

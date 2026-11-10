@@ -19,7 +19,8 @@ Each set of odds ratios below shares one reference group: people with neither fa
 ## What it found
 
 - 262 full-text papers were reviewed.
-- **EBV antibody level and HLA (ten papers).** Compared with people who had low EBNA antibodies and
+- **EBV antibody level and HLA (ten papers included, one then excluded for overlapping
+  participants).** Compared with people who had low EBNA antibodies and
   no HLA-DRB1*1501, the odds ratio for MS was 2.90 (95% CI 2.03 to 4.14) with HLA only, 3.04 (1.99
   to 4.63) with high antibodies only, and 7.90 (4.11 to 15.21) with both. This was an interaction on
   the additive scale (attributable proportion 0.48, p < 0.0001; relative excess risk 3.84, p =
@@ -27,7 +28,8 @@ Each set of odds ratios below shares one reference group: people with neither fa
 - **Mononucleosis and HLA (four papers, three with usable data).** The odds ratio was 2.75 (2.07 to
   3.64) with HLA only, 1.22 (0.33 to 4.48) with past mononucleosis only, and 5.11 (2.00 to 13.03)
   with both. No significant interaction was found on either scale.
-- **Smoking and EBV antibody level (four studies).** The odds ratio was 1.16 (0.95 to 1.42) for
+- **Smoking and EBV antibody level (five papers; the interaction test used the four eligible
+  ones).** The odds ratio was 1.16 (0.95 to 1.42) for
   smokers with low antibodies, 2.31 (1.61 to 3.32) for non-smokers with high antibodies, and 2.76
   (2.13 to 3.59) for smokers with high antibodies. No significant interaction was found on either
   scale.

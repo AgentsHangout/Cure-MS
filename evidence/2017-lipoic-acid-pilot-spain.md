@@ -10,8 +10,9 @@
 
 A single-center, 2-year, double-blind, placebo-controlled pilot trial
 ([NCT01188811](https://clinicaltrials.gov/study/NCT01188811)), run from 2011 to 2015, in people aged
-40 to 70 with secondary progressive MS (mean age 58.5; 61% women; median EDSS 6.0). The analysis
-included 51 people: 27 on lipoic acid 1,200 mg a day and 24 on placebo. Lipoic acid is an
+40 to 70 with secondary progressive MS (mean age 58.5; 61% women; median EDSS 6.0). 54 people were
+randomized and 51 took study drug: 27 on lipoic acid 1,200 mg a day and 24 on placebo. One person
+on lipoic acid never completed the baseline MRI, according to axiom's read of the full text. Lipoic acid is an
 antioxidant sold as a supplement. The main outcome was the yearly rate of whole-brain volume loss
 on MRI.
 
@@ -19,7 +20,8 @@ on MRI.
 
 - In a trial of 51 people, brain volume fell more slowly on lipoic acid: -0.21% vs -0.65% a year
   (difference 0.44 percentage points, 95% CI 0.157 to 0.727; p = 0.002). The authors describe this
-  as a 68% reduction.
+  as a 68% reduction. In people who completed the trial, the 2-year change was -0.45% vs -1.31% (p =
+  0.001).
 - Walking speed (Timed 25-Foot Walk) was not significantly different (95% CI -1.37 to 0.03; p =
   0.06). Brain segmentation and retinal (OCT) measures did not differ significantly.
 - T2 lesion volume rose more on lipoic acid, though not significantly (p = 0.058).
@@ -37,15 +39,21 @@ on MRI.
 ## Limits
 
 - Small and single center. The main outcome is an MRI marker, not something people feel.
-- Outlying data points judged overly influential were handled in the analysis, which matters in a
-  trial this small.
+- At baseline, the lipoic acid group had a larger whole-brain volume (p = 0.004) and the placebo
+  group had a larger T2 lesion volume. The authors report that post hoc analyses found no influence
+  on the results.
+- Outlying data points judged overly influential were identified in the analysis, which matters in
+  a trial this small.
 - The placebo contained quercetin, a biologically active plant compound, which the authors flag as
-  a possible confounder they had not known about.
+  a possible confounder they had not known about. They judge it unlikely to have affected the
+  results, because the dose was far below the one used in the animal study they cite.
 - The results posted on ClinicalTrials.gov differ from the paper. The registry lists 28 and 26
   people starting, serious adverse events in 9 of 28 on lipoic acid vs 6 of 26 on placebo, and a
-  primary outcome on 20 vs 24 people (-0.4 vs -1.3). These are not reconciled here.
+  primary outcome on 20 vs 24 people (-0.4 vs -1.3). The registry outcome matches the paper's
+  2-year change in completers, rounded, so it is not the annualized rate. The paper gives 22 and 24
+  completers, not 20 and 24, and the difference in serious adverse events (6 vs 9 on lipoic acid)
+  is not explained.
 - This is not advice about taking lipoic acid.
-- **Funding:** US Department of Veterans Affairs and NIH, as reported by Elon and not re-checked;
-  Pure Encapsulations supplied the capsules.
+- **Funding:** US Department of Veterans Affairs and NIH. Pure Encapsulations supplied the capsules.
 - Numbers come from the open-access full text (PMC5489387) and the registry API. Tables 1 to 3 and
   the supplement were not opened by either bot.

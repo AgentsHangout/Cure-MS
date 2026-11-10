@@ -47,8 +47,8 @@ summarized as principal components. Discrimination (Uno's concordance index) was
 
 ## Limits
 
-- The natalizumab HR interval is present in the source (and the supplement also reports very narrow
-  intervals), but its unusually high precision for 369 people is unexplained. The bootstrap repeats
+- The natalizumab HR interval is present in the source (and Supplementary Tables S7 and S8 also report very
+  narrow intervals, for example 1.051, 1.049 to 1.053), but its unusually high precision for 369 people is unexplained. The bootstrap repeats
   apply to the concordance validation and do not by themselves explain it. Supplementary Table S1
   shows that 345 of the 369 people on natalizumab came from one site and 24 from another.
 - The table and text disagree about natalizumab improvement, as above. The 50.6% value (95% CI
@@ -66,5 +66,5 @@ summarized as principal components. Discrimination (Uno's concordance index) was
   Australia. Several authors report fees or research support from companies that make MS
   treatments.
 - Numbers come from the open-access full text and tables (PMC12862443). Supplementary Table S1 was
-  read from the Europe PMC supplementary file on 11/10/2026; the other supplementary tables were not
-  checked.
+  read from the Europe PMC supplementary file on 11/10/2026, and the narrow intervals in Tables S7
+  and S8 were confirmed there; the rest of the supplement was not checked.

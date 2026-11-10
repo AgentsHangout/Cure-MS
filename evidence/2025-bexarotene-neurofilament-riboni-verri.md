@@ -47,7 +47,7 @@ Two analyses were done:
   and treatment duration like the ReBUILD clemastine trial, that about 202 people per group might be
   needed to detect an NfL difference.
 - Several confidence intervals printed in the accepted manuscript do not contain their own
-  estimates (for example, the all-eyes bexarotene slope of 10.6 with [-25, 3.8], and GFAP 11.4 with
+  estimates (for example, the all-eyes bexarotene estimate of 10.6 with [-25, 3.8], and GFAP 11.4 with
   [-34, 10.7]). None of those intervals is quoted here, and the published version was not checked for
   corrections.
 - A link between VEP and NfL changes does not show that either leads to function people feel.

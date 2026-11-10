@@ -53,6 +53,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2023-nfl-disability-worsening-abdelhak](../evidence/2023-nfl-disability-worsening-abdelhak.md) | 3 | In 609 people in San Francisco and 1,290 in Switzerland, NfL was modestly raised in the visits before confirmed disability worsening, including worsening without relapses (about 1 to 2 years ahead). |
 | [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In 355 people, higher serum GFAP was linked to worsening progressive MS and gray matter loss; raised GFAP plus raised NfL was associated with about 4 to 5 times the risk of PIRA (HR 4.71). |
 | [2026-gfap-dynamics-pira-einsiedler](../evidence/2026-gfap-dynamics-pira-einsiedler.md) | 3 | In 2,329 people in two cohorts, high NfL was associated with relapse risk in the next year and high GFAP with PIRA risk (HR about 1.4); falls in GFAP on fingolimod or B-cell-depleting drugs went with lower PIRA risk. |
+| [2026-gfap-nfl-fingolimod-maleska-maceski](../evidence/2026-gfap-nfl-fingolimod-maleska-maceski.md) | 3 | In 420 Swiss participants sampled about a year after fingolimod began, higher GFAP was associated with PIRA (adjusted HR 1.74), and higher NfL with relapses (adjusted HR 1.61). Treatment changes and the study-selected GFAP cutoff limit interpretation; no biomarker-guided strategy was tested. |
 
 ### Reference values and what affects them
 
@@ -78,6 +79,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2024-nfl-clinical-guidance-freedman](../evidence/2024-nfl-clinical-guidance-freedman.md) | 6 | Expert guidance: sNfL can be used alongside MRI and clinical measures to support decisions, does not replace MRI, and needs work on platforms and reference ranges. |
 | [2025-snfl-treatment-algorithms-yaldizli](../evidence/2025-snfl-treatment-algorithms-yaldizli.md) | 6 | Delphi consensus of 28 experts and 3 patient consultants on 23 algorithms to escalate, switch or de-escalate treatment by sNfL, meant to be tested in a pragmatic randomized trial (MultiSCRIPT). The authors call them non-binding and not clinical guidelines; an isolated high sNfL alone was not accepted as a reason to switch from B-cell-depleting therapy. |
 | [2024-snfl-clinical-decisions-van-lierop](../evidence/2024-snfl-clinical-decisions-van-lierop.md) | 4 | In 166 tests at one Amsterdam center, clinicians changed their decision in 19.3% of cases after seeing the sNfL result and felt more certain; patient outcomes were not measured. |
+| [2024-snfl-therapeutic-inertia-saposnik](../evidence/2024-snfl-therapeutic-inertia-saposnik.md) | 4 | Spanish vignette survey: most participating neurologists met the authors' therapeutic-inertia definition. This classifies hypothetical choices, not patient harm or benefit from biomarker-guided care. |
 
 ## What the evidence so far suggests
 
@@ -93,7 +95,8 @@ Stated no more strongly than the evidence allows:
 - **Using the markers to guide care.** No completed randomized trial was found that compares
   sNfL- or GFAP-guided care with usual care. What exists is expert guidance and consensus (level 6),
   one single-center report that results changed decisions about a fifth of the time without
-  measuring patient outcomes (level 4), and trial protocols that have not reported results. So
+  measuring patient outcomes (level 4), a vignette survey of intended choices (Saposnik 2024,
+  level 4), and trial protocols that have not reported results. So
   whether using these markers to guide treatment improves outcomes is **not yet known**.
 
 ## Gaps noticed so far
@@ -179,19 +182,10 @@ Stated no more strongly than the evidence allows:
     [41622995](https://pubmed.ncbi.nlm.nih.gov/41622995/). In 1,716 people on interferon beta,
     fingolimod or natalizumab, NfL added minimal value to clinical models predicting treatment
     response. Level 3.
-  - Maleska Maceski A et al. *Brain* 2026;149(7):2295-2307,
-    [doi:10.1093/brain/awaf433](https://doi.org/10.1093/brain/awaf433), PMID
-    [41237262](https://pubmed.ncbi.nlm.nih.gov/41237262/). GFAP vs NfL in 420 fingolimod-treated
-    people; uses a GFAP reference set from 4,297 controls. Crossref dates it 2025 (online) and PubMed
-    2026 (issue); name the file by the issue year after checking. Level 3.
   - Delcoigne B et al. *Neurology* 2020;94(11):e1201-e1212,
     [doi:10.1212/WNL.0000000000009097](https://doi.org/10.1212/WNL.0000000000009097), PMID
     [32047070](https://pubmed.ncbi.nlm.nih.gov/32047070/). Swedish cohort of 1,261 people: the fall in
     plasma NfL differed by drug. Level 3.
-  - Saposnik G et al. *Mult Scler Relat Disord* 2024;90:105838,
-    [doi:10.1016/j.msard.2024.105838](https://doi.org/10.1016/j.msard.2024.105838), PMID
-    [39216454](https://pubmed.ncbi.nlm.nih.gov/39216454/). Survey of 116 Spanish neurologists with
-    simulated cases: many did not start or escalate treatment despite high sNfL. Level 4.
 - **Lab platform comparisons** for clinical use (Simoa, Lumipulse, Elecsys, Atellica), several
   published in 2025-2026; not yet reviewed.
 - **Cost-effectiveness** and patient views on routine sNfL testing.
@@ -216,3 +210,4 @@ source before anything was changed, except where noted.
   instead of "severe kidney damage". Confirmed in the full text (PubMed Central). The point that
   smoking or diabetes may also affect interpretation is the reviewer's; the paper did not model
   them, and it was **not checked here**.
+

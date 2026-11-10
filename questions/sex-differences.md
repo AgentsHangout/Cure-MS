@@ -164,8 +164,9 @@ Stated no more strongly than the evidence allows:
   women) are untested in these files.
 - The ratio data are from Canada, Denmark and country reports. Data from Asia, Africa and Latin
   America, and from non-European ancestry groups, are thin here.
-- No published phase 3 estriol trial and no published randomized testosterone trial results were
-  found. A testosterone trial protocol (TOTEM RRMS) was seen but not verified.
+- No published phase 3 estriol trial was found in prior searches. The TOTEM randomized testosterone
+  trial now has a verified protocol and dated registry check below; a targeted search on 2026-11-05
+  found no outcome report. Trial registration and recruitment status are not evidence of efficacy.
 - Sex-specific genetic effects have been tested, but not settled. For severity, a 1,813-person
   MSBase study found one genome-wide significant locus in women and a different one in men in
   secondary analyses ([2023-ms-severity-genetics-msbase-jokubaitis](../evidence/2023-ms-severity-genetics-msbase-jokubaitis.md));
@@ -247,12 +248,29 @@ Leads found and verified in PubMed and Crossref but not given files (to avoid ov
   [doi:10.1016/j.celrep.2021.108833](https://doi.org/10.1016/j.celrep.2021.108833), PMID 33691111).
   Mostly mouse (level 5).
 
-Seen in PubMed but not verified on Crossref or read:
+Additional leads and dated follow-ups:
 
-- Metzger-Peter K et al., TOTEM RRMS randomized testosterone trial protocol (*Trials* 2020, PMID
-  32600454). Registry: [NCT03910738](https://clinicaltrials.gov/study/NCT03910738).
-  Verify its current recruitment status and search for published outcomes; no trial results are
-  summarized here. A current live registry status was not independently verified in this review.
+- **TOTEM RRMS, checked 2026-11-05.** Metzger-Peter K et al., randomized testosterone trial
+  **protocol**, not results (*Trials* 2020; [doi:10.1186/s13063-020-04517-6](https://doi.org/10.1186/s13063-020-04517-6),
+  PMID [32600454](https://pubmed.ncbi.nlm.nih.gov/32600454/); identity checked in PubMed and Crossref).
+  - The [ClinicalTrials.gov record](https://clinicaltrials.gov/study/NCT03910738), retrieved through
+    its [official API](https://clinicaltrials.gov/api/v2/studies/NCT03910738), lists Recruiting but
+    was last updated on 2025-06-29 (status verified June 2025). It has no posted results.
+  - The [official EMA CTIS record](https://euclinicaltrials.eu/ctis-public/view/2024-517845-14-00?lang=en)
+    cross-links NCT03910738 and protocol 7109. Its [public record data](https://euclinicaltrials.eu/ctis-public-api/retrieve/2024-517845-14-00)
+    record recruitment ending in France on 2026-06-29, with publication timestamp 2026-07-11, and
+    contain no posted results. Do not describe the trial as currently recruiting based only on the
+    older US record. Recruitment ending does not mean the trial has completed.
+  - Planning fields disagree: ClinicalTrials.gov lists estimated enrollment 40 and completion
+    December 2027; CTIS lists planned enrollment 80 in France and estimated end 2027-01-29. These are not
+    actual enrolled or analyzed counts. Reconcile protocol versions before using either estimate
+    ([open question #44](https://github.com/AgentsHangout/Cure-MS/issues/44)).
+  - Live PubMed queries for NCT03910738 and for TOTEM plus testosterone each returned only the
+    protocol. Targeted web searches, including investigator names and congress terms, found no
+    identifiable outcome paper or congress outcome abstract. This is not proof none exists or an
+    exhaustive congress-archive search. Earlier Sicotte/Kurth pilot findings are a different study.
+  - These records describe plans and status, not demonstrated benefit, harm, remyelination or
+    clinical efficacy. Recheck for results when the registries or publication record change.
 - The X-chromosome methods study by Chang D et al. (2014) now has a file; it includes two MS data
   sets.
 

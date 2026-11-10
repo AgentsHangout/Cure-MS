@@ -68,6 +68,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [1998-pregnancy-relapse-prims-confavreux](../evidence/1998-pregnancy-relapse-prims-confavreux.md) | 3 | In 254 women (269 pregnancies), relapse rates fell from 0.7 per year before pregnancy to 0.2 in the third trimester, rose to 1.2 in the first 3 months after birth, then returned to the prepregnancy rate. |
 | [2020-postpartum-relapse-breastfeeding-langer-gould](../evidence/2020-postpartum-relapse-breastfeeding-langer-gould.md) | 3 | In 466 pregnancies (2008-2016), relapse rates fell from 0.37 before to 0.14-0.07 during pregnancy and were 0.27 in the first 3 months after birth, with no rise above the prepregnancy rate. |
+| [2021-pregnancy-relapse-disability-msbase-yeh](../evidence/2021-pregnancy-relapse-disability-msbase-yeh.md) | 3 | In 1,998 pregnancies in the MSBase registry, relapse rates rose during pregnancy after natalizumab or fingolimod was used before conception and rose after delivery in every treatment group; breastfeeding was associated with fewer relapses after delivery (HR 0.61); confirmed disability worsening followed 48 of the 850 births with enough disability scores (5.6%). Not independent of Yeh 2024 below. |
 | [2024-pregnancy-dmt-relapse-yeh](../evidence/2024-pregnancy-dmt-relapse-yeh.md) | 3 | In 2,009 live births in the MSBase registry, the share of pregnancies (resulting in live births) followed by a relapse within 6 months after birth varied by treatment group, from 4.1% (ocrelizumab, 3 of 73 pregnancies) to 30.5% (natalizumab stopped early, 25 of 82, a selected subset of 419 natalizumab pregnancies, not an exhaustive split). |
 | [2025-pregnancy-moderate-severe-disability-shipley](../evidence/2025-pregnancy-moderate-severe-disability-shipley.md) | 3 | Overall, 575 pregnant women with EDSS 3 or more were compared with 1,056 matched non-pregnant women (MSBase); time to disability worsening did not differ significantly (HR 1.15, 95% CI 0.96 to 1.38). In the relapse analysis of 469 women with live-birth pregnancies, rates fell 75% in the first trimester and rose 36% in the first 3 postpartum months. |
 
@@ -229,11 +230,6 @@ Stated no more strongly than the evidence allows:
 Leads found and verified in PubMed and Crossref but not given files (to avoid overlap or keep to
 12 files):
 
-- Yeh WZ et al., pregnancy-related relapse and disability with natalizumab, fingolimod and
-  dimethyl fumarate in MSBase (*Neurology* 2021,
-  [doi:10.1212/WNL.0000000000012084](https://doi.org/10.1212/WNL.0000000000012084), PMID 33879599).
-  Same registry as Yeh 2024; it adds disability after pregnancy (5.6% of pregnancies followed by
-  confirmed worsening).
 - Kurth F et al., gray matter in the same 10-man testosterone pilot (*NeuroImage: Clinical* 2014,
   [doi:10.1016/j.nicl.2014.03.001](https://doi.org/10.1016/j.nicl.2014.03.001), PMID 24634831).
   Not independent of Sicotte 2007.

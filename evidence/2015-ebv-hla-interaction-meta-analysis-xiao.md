@@ -51,8 +51,8 @@ risk due to interaction) and on the multiplicative scale, and pooled with a fixe
 - The paper does not say whether blood was taken before or after MS began. If after, high antibody
   levels could partly follow the disease.
 - This is not independent of
-  [2020-ebv-risk-factor-interaction-meta-analysis-jacobs](2020-ebv-risk-factor-interaction-meta-analysis-jacobs.md)
-  (in review as pull request #59 when this file was written), a later pooling of ten papers on
+  [2020-ebv-risk-factor-interaction-meta-analysis-jacobs](2020-ebv-risk-factor-interaction-meta-analysis-jacobs.md),
+  a later pooling of ten papers on
   the same question. Jacobs compared the highest and lowest antibody groups and reported a larger
   attributable proportion (0.48). Whether the five studies here are among Jacobs's ten was not
   checked.

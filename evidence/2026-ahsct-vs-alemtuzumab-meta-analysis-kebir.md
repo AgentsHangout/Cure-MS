@@ -1,6 +1,6 @@
 # Meta-analysis: aHSCT compared with alemtuzumab
 
-- **Citation:** Kebir N, Waleed S, El Sayed YA, et al. Efficacy and safety of autologous hematopoietic stem cell transplantation (AHSCT) versus alemtuzumab in multiple sclerosis: Systematic review and individual patient data meta-analysis. *Multiple Sclerosis and Related Disorders*, 2026;115:107904.
+- **Citation:** Kebir N, Waleed S, Sayed YAE, et al. Efficacy and safety of autologous hematopoietic stem cell transplantation (AHSCT) versus alemtuzumab in multiple sclerosis: Systematic review and individual patient data meta-analysis. *Multiple Sclerosis and Related Disorders*, 2026;115:107904.
 - **DOI or PMID:** [doi:10.1016/j.msard.2026.107904](https://doi.org/10.1016/j.msard.2026.107904), PMID [42735599](https://pubmed.ncbi.nlm.nih.gov/42735599/)
 - **Evidence level:** 3 (a systematic review and meta-analysis of observational studies, not of randomized trials)
 - **Question:** [questions/cell-therapy.md](../questions/cell-therapy.md)
@@ -12,7 +12,7 @@ A systematic review and meta-analysis comparing autologous hematopoietic stem ce
 (aHSCT) with alemtuzumab in people with highly active MS. PubMed, Scopus, Web of Science and Embase
 were searched up to November 2025. Only observational studies comparing the two were included.
 Time-to-event data were rebuilt from published Kaplan-Meier curves, and results were pooled with
-random-effects models. Risk of bias was rated with ROBINS-I and certainty of evidence with GRADE.
+random-effects models using the Hartung-Knapp adjustment. Risk of bias was rated with ROBINS-I and certainty of evidence with GRADE.
 
 ## What it found
 

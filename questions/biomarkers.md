@@ -54,11 +54,13 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2023-nfl-disability-worsening-abdelhak](../evidence/2023-nfl-disability-worsening-abdelhak.md) | 3 | In 609 people in San Francisco and 1,290 in Switzerland, NfL was modestly raised in the visits before confirmed disability worsening, including worsening without relapses (about 1 to 2 years ahead). |
 | [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In 355 people, higher serum GFAP was linked to worsening progressive MS and gray matter loss; raised GFAP plus raised NfL was associated with about 4 to 5 times the risk of PIRA (HR 4.71). |
 | [2026-gfap-dynamics-pira-einsiedler](../evidence/2026-gfap-dynamics-pira-einsiedler.md) | 3 | In 2,329 people in two cohorts, high NfL was associated with relapse risk in the next year and high GFAP with PIRA risk (HR about 1.4); falls in GFAP on fingolimod or B-cell-depleting drugs went with lower PIRA risk. |
+| [2026-gfap-nfl-fingolimod-maleska-maceski](../evidence/2026-gfap-nfl-fingolimod-maleska-maceski.md) | 3 | In 420 Swiss participants sampled about a year after fingolimod began, higher GFAP was associated with PIRA (adjusted HR 1.74), and higher NfL with relapses (adjusted HR 1.61). Treatment changes and the study-selected GFAP cutoff limit interpretation; no biomarker-guided strategy was tested. |
 
 ### Reference values and what affects them
 
 | File | Level | In short |
 | --- | --- | --- |
+| [2023-pediatric-nfl-reference-abdelhak](../evidence/2023-pediatric-nfl-reference-abdelhak.md) | 4 | Age-adjusted pediatric serum references; cross-sectional disease comparison, not validated treatment thresholds or evidence of improved care. |
 | [2022-snfl-reference-values-benkert](../evidence/2022-snfl-reference-values-benkert.md) | 3 | Reference database from 5,390 people without CNS disease: sNfL rises exponentially with age, faster after about 50, and is adjusted for BMI; Z scores did better than fixed cutoffs. |
 | [2026-gfap-nfl-reference-intervals-rousset](../evidence/2026-gfap-nfl-reference-intervals-rousset.md) | 4 | Plasma reference intervals from cognitively unimpaired people (7,958 with NfL and 7,810 with GFAP, per the full-text table and Discussion): older age, lower BMI and poorer kidney function were associated with higher NfL and GFAP; GFAP was higher in women; one lab platform. Only 82 people with MS, as a comparison group; not treatment thresholds. |
 | [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In 259 healthy controls, serum GFAP rose 1.5% per year of age, fell 1.1% per BMI unit and was 14.9% higher in women. |
@@ -80,6 +82,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2024-nfl-clinical-guidance-freedman](../evidence/2024-nfl-clinical-guidance-freedman.md) | 6 | Expert guidance: sNfL can be used alongside MRI and clinical measures to support decisions, does not replace MRI, and needs work on platforms and reference ranges. |
 | [2025-snfl-treatment-algorithms-yaldizli](../evidence/2025-snfl-treatment-algorithms-yaldizli.md) | 6 | Delphi consensus of 28 experts and 3 patient consultants on 23 algorithms to escalate, switch or de-escalate treatment by sNfL, meant to be tested in a pragmatic randomized trial (MultiSCRIPT). The authors call them non-binding and not clinical guidelines; an isolated high sNfL alone was not accepted as a reason to switch from B-cell-depleting therapy. |
 | [2024-snfl-clinical-decisions-van-lierop](../evidence/2024-snfl-clinical-decisions-van-lierop.md) | 4 | In 166 tests at one Amsterdam center, clinicians changed their decision in 19.3% of cases after seeing the sNfL result and felt more certain; patient outcomes were not measured. |
+| [2024-snfl-therapeutic-inertia-saposnik](../evidence/2024-snfl-therapeutic-inertia-saposnik.md) | 4 | Spanish vignette survey: most participating neurologists met the authors' therapeutic-inertia definition. This classifies hypothetical choices, not patient harm or benefit from biomarker-guided care. |
 
 ## What the evidence so far suggests
 
@@ -95,7 +98,8 @@ Stated no more strongly than the evidence allows:
 - **Using the markers to guide care.** No completed randomized trial was found that compares
   sNfL- or GFAP-guided care with usual care. What exists is expert guidance and consensus (level 6),
   one single-center report that results changed decisions about a fifth of the time without
-  measuring patient outcomes (level 4), and trial protocols that have not reported results. So
+  measuring patient outcomes (level 4), a vignette survey of intended choices (Saposnik 2024,
+  level 4), and trial protocols that have not reported results. So
   whether using these markers to guide treatment improves outcomes is **not yet known**.
 
 ## Gaps noticed so far
@@ -141,8 +145,9 @@ Stated no more strongly than the evidence allows:
 
 ### What a reviewer should double-check
 
-- **Every DOI and PMID.** Each was checked by the author bot on PubMed (esummary: PMID resolves to the
-  same DOI) and on Crossref (title, first author, journal, year and DOI match), but please open them.
+- **Citation checks.** The original entries were checked by the author bot on PubMed and Crossref.
+  Later additions document their own verification methods in the evidence files; please reopen the
+  sources. The pediatric reference entry was not independently checked on Crossref.
 - **Levels.** Three are judgment calls:
   - Kuhle 2019 is rated 2 because the fingolimod effect on NfL compares randomized groups, but its
     prognostic findings are post hoc and are level 3. A reviewer could prefer 3 overall.
@@ -159,8 +164,9 @@ Stated no more strongly than the evidence allows:
 - **Yaldizli 2025**: the link to MultiSCRIPT is now confirmed in the full text (PubMed Central),
   which says the Delphi was part of the MultiSCRIPT trial and that the algorithms are for use within
   it.
-- **Full-text numbers.** All numbers come from abstracts. Funding and conflicts of interest are
-  missing from most abstracts and should be checked in the full papers.
+- **Source depth.** The original entries were mostly abstract-based. Later full-text checks are
+  documented in the evidence files and review history below. Funding and conflicts still need
+  checking wherever they are absent; source-access limits should remain explicit.
 
 ### Most useful searches still to do
 
@@ -169,18 +175,6 @@ Stated no more strongly than the evidence allows:
 - **Other randomized or pragmatic trials** of biomarker-guided MS care, including de-escalation or
   stopping-treatment trials that used sNfL as a decision rule. None was found in PubMed searches for
   2022-2026 combining neurofilament or GFAP with randomized, guided, strategy or treatment decision.
-- **Verified leads not yet given evidence files** (each checked on PubMed and Crossref):
-  - Maleska Maceski A et al. *Brain* 2026;149(7):2295-2307,
-    [doi:10.1093/brain/awaf433](https://doi.org/10.1093/brain/awaf433), PMID
-    [41237262](https://pubmed.ncbi.nlm.nih.gov/41237262/). GFAP vs NfL in 420 fingolimod-treated
-    people; uses a GFAP reference set from 4,297 controls. Crossref dates it 2025 (online) and PubMed
-    2026 (issue); name the file by the issue year after checking. Level 3.
-  - Saposnik G et al. *Mult Scler Relat Disord* 2024;90:105838,
-    [doi:10.1016/j.msard.2024.105838](https://doi.org/10.1016/j.msard.2024.105838), PMID
-    [39216454](https://pubmed.ncbi.nlm.nih.gov/39216454/). Survey of 116 Spanish neurologists with
-    simulated cases: many did not start or escalate treatment despite high sNfL. Level 4.
-- **Pediatric MS.** A pediatric sNfL reference database exists (Abdelhak A et al., *Lancet Neurol*
-  2023, PMID 37524100, seen in PubMed but not verified on Crossref or reviewed).
 - **Lab platform comparisons** for clinical use (Simoa, Lumipulse, Elecsys, Atellica), several
   published in 2025-2026; not yet reviewed.
 - **Cost-effectiveness** and patient views on routine sNfL testing.
@@ -205,3 +199,4 @@ source before anything was changed, except where noted.
   instead of "severe kidney damage". Confirmed in the full text (PubMed Central). The point that
   smoking or diabetes may also affect interpretation is the reviewer's; the paper did not model
   them, and it was **not checked here**.
+

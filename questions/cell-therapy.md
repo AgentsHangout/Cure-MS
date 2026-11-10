@@ -53,6 +53,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2021-ahsct-vs-alemtuzumab-zhukovsky](../evidence/2021-ahsct-vs-alemtuzumab-zhukovsky.md) | 3 | In 144 people in Sweden, 88% after aHSCT vs 37% after alemtuzumab had no evidence of disease activity at 3 years; more early severe side effects with aHSCT, more thyroid disease with alemtuzumab. |
 | [2023-ahsct-vs-high-efficacy-drugs-kalincik](../evidence/2023-ahsct-vs-high-efficacy-drugs-kalincik.md) | 3 | In matched registry comparisons, aHSCT was associated with fewer relapses and more disability improvement than fingolimod, marginally better results than natalizumab, and no clear difference from ocrelizumab over 3 years; 1 aHSCT-related death in 159. |
 | [2026-ahsct-vs-cladribine-alemtuzumab-kalincik](../evidence/2026-ahsct-vs-cladribine-alemtuzumab-kalincik.md) | 3 | In matched registry comparisons, aHSCT was associated with fewer relapses and more disability improvement than cladribine or alemtuzumab, with no clear difference in worsening; 34% had delayed complications, no treatment-related deaths. |
+| [2026-ahsct-vs-alemtuzumab-meta-analysis-kebir](../evidence/2026-ahsct-vs-alemtuzumab-meta-analysis-kebir.md) | 3 | Meta-analysis of 10 observational studies (1,887 people): aHSCT was associated with better relapse-free survival (HR 0.33) and more EDSS improvement (HR 2.12) than alemtuzumab, with no significant difference detected in disability progression; the authors rate certainty as very low. May overlap with the cohorts above, so not independent of them. |
 
 ### aHSCT long-term outcomes and safety, including treatment-related deaths
 
@@ -156,8 +157,9 @@ Stated no more strongly than the evidence allows:
 
 ### Most useful searches still to do
 
-- Kebir N et al., a 2026 meta-analysis of aHSCT vs alemtuzumab (*Mult Scler Relat Disord* 2026,
-  PMID 42735599), cited in the state-of-the-art overview but not verified or given a file here.
+- Kebir 2026 (aHSCT vs alemtuzumab meta-analysis) now has a file, from its abstract only. Its full
+  text is not open access. Still to check there: which ten studies were pooled, whether they
+  overlap with the cohorts that already have files, and the direction of its NEDA hazard ratio.
 - Results of ongoing randomized trials of aHSCT vs high-efficacy drugs (StarMS in the UK, and others
   named in Inglese M et al., *Handb Clin Neurol* 2024, PMID 39111916, a review not used as evidence).
 - More CAR-T reports. Ling Z et al. 2026 now has a file. Ismail FS et al. (*Signal Transduct Target

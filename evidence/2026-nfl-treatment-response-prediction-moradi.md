@@ -25,8 +25,8 @@ summarized as principal components. Discrimination (Uno's concordance index) was
 
 - 1,716 people were in the pooled analysis, followed for a mean of 9 years. Three treatments had
   enough people and events for separate models: interferon beta (554), fingolimod (307) and
-  natalizumab (369). The other 486 were on other treatments, including anti-CD20 antibodies, and
-  appear only in the pooled models.
+  natalizumab (369). The other 486 were on other treatments, which the main text does
+  not name, and appear only in the pooled models.
 - In the pooled cohort, no statistically significant association between NfL and the outcomes was
   detected after adding the clinical and demographic components. Models without those components
   did show associations.
@@ -52,7 +52,8 @@ summarized as principal components. Discrimination (Uno's concordance index) was
 - The table and text disagree about natalizumab improvement, as above.
 - The cohorts had different structures and protocols and come from different treatment eras; the
   authors mapped variables across them to reduce this.
-- No separate estimates for anti-CD20 antibodies or other newer high-efficacy treatments.
+- No separate estimates for any treatment other than these three, so it does not address newer
+  high-efficacy treatments.
 - Hazard ratios are for scaled age-normalized NfL, not a change of one pg/mL.
 - This tests a single NfL measure for prediction. It is not a trial showing that NfL-guided
   decisions improve outcomes, and it does not test repeated monitoring (see

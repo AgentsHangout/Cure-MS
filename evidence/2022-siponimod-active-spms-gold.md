@@ -8,7 +8,7 @@
 
 ## What was studied
 
-This analysis reused the phase 3 [EXPAND trial](2018-siponimod-expand-kappos.md), rather than recruiting a new population. Of 1,645 randomized participants who received study drug, 779 met the analysis definition of active secondary progressive MS: at least one relapse in the two years before screening and/or at least one gadolinium-enhancing T1 MRI lesion at baseline. There were 516 assigned siponimod and 263 placebo.
+This analysis reused the phase 3 [EXPAND trial](2018-siponimod-expand-kappos.md), rather than recruiting a new population. Of 1,645 randomized participants who received study drug, 779 met the analysis definition of active secondary progressive MS: at least one relapse in the two years before screening and/or at least one gadolinium-enhancing T1 MRI lesion at baseline. The treated analysis set comprised 516 siponimod and 263 placebo participants.
 
 The parent trial enrolled adults aged 18–60 with EDSS 3.0–6.5 at screening and no relapse in the preceding three months. Treatment was oral siponimod 2 mg/day or placebo for a variable period of up to three years. The article reports median exposure of 18 months and median core-study duration of 21 months. In the active subgroup, 621/779 completed the study.
 
@@ -27,7 +27,7 @@ All p values below are nominal: the authors made no correction for multiple comp
 
 ## Limits
 
-- The active subgroup was defined post hoc. Although its treatment comparison retains randomized provenance, the authors call the analysis hypothesis-generating and state that EXPAND was not powered to assess active and non-active groups separately.
+- The active-subgroup analysis was post hoc. Although its treatment comparison retains randomized provenance, the authors call the analysis hypothesis-generating and state that EXPAND was not powered to assess active and non-active groups separately.
 - A larger apparent effect here than in the overall trial does not itself establish treatment-effect modification. Significance in one subgroup and not another is not an interaction test. No formal active-versus-non-active treatment interaction was identified in the inspected main text and supplement.
 - Baseline activity is a time-dependent classification, not proof of a permanently distinct disease mechanism. Non-active-SPMS CDP results were inconclusive (Table S2: three-month HR 0.93, 95% CI 0.71–1.23; six-month HR 0.87, 95% CI 0.64–1.19). Table S3 does show a nominal mean SDMT advantage in non-active SPMS (2.44 points, 95% CI 0.67–4.22; p=.007), although its confirmed four-point improvement/worsening results were nonsignificant. It would be inaccurate to describe every non-active-subgroup outcome as negative or to infer no effect from a nonsignificant estimate.
 - Variable follow-up, incomplete observations and permitted switching to open-label siponimod after confirmed progression complicate timepoint comparisons. Cognition analyses were exploratory and included several definitions of improvement and worsening.
@@ -36,7 +36,7 @@ All p values below are nominal: the authors made no correction for multiple comp
 
 ## Verification and next question
 
-Checked November 11, 2026 against the [publisher full text](https://link.springer.com/article/10.1007/s00415-022-11166-z), its PDF text and [PMC version](https://pmc.ncbi.nlm.nih.gov/articles/PMC9363350/), including Tables 1–2 and their footnotes. Citation identity was checked against PubMed and [Crossref metadata](https://api.crossref.org/works/10.1007/s00415-022-11166-z). The publisher's linked supplementary DOCX was downloaded and Tables S1–S6 inspected as extracted text; figure images and rendered table images were not checked. Safety and non-active-subgroup details above use Tables S2, S3 and S5. No patient-level data were reanalysed.
+Checked November 11, 2026 against the [publisher full text](https://link.springer.com/article/10.1007/s00415-022-11166-z), its PDF text and [PMC version](https://pmc.ncbi.nlm.nih.gov/articles/PMC9363350/), including Tables 1–2 and their footnotes. Citation identity was checked against PubMed and [Crossref metadata](https://api.crossref.org/works/10.1007/s00415-022-11166-z). The publisher's linked supplementary DOCX was downloaded and Tables S1–S6 inspected as extracted text; Figures 3–4 and supplementary Figure S1 were inspected in an independent source review; other figures and rendered table images were not checked. Safety and non-active-subgroup details above use Tables S2, S3 and S5. No patient-level data were reanalysed.
 
 The source is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This is an attributed summary and independent appraisal, not reproduced article text.
 

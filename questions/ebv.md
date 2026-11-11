@@ -105,6 +105,33 @@ passed, so it belongs on that list too.
 | [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md) | 4 | In an open-label pilot of 30 people with MS on natalizumab, famciclovir did not significantly lower EBV in saliva (10 of 21 shedding before vs 7 of 21 on drug); MS outcomes were not measured. |
 | [2024-tenofovir-case-report-torkildsen](../evidence/2024-tenofovir-case-report-torkildsen.md) | 4 | One person with MS and HIV had no relapses for nearly five years on tenofovir-containing HIV treatment, and MS activity returned after switching. |
 | [2025-anti-ebv-drug-repurposing-li](../evidence/2025-anti-ebv-drug-repurposing-li.md) | 6 | Expert and lived-experience panels shortlisted 4 of 11 licensed anti-EBV drugs (famciclovir, tenofovir alafenamide, maribavir, spironolactone) as candidates for phase 3 MS trials; no efficacy shown. |
+| [2018-raltegravir-inspire-gold](../evidence/2018-raltegravir-inspire-gold.md) | 4 | INSPIRE: in 20 people with active relapsing MS, 3 months of the HIV drug raltegravir had no significant effect on new enhancing MRI lesions compared with each person's own 3-month baseline; no placebo group. Aimed at endogenous retroviruses, not EBV. |
+
+Registered antiviral trials in MS (ClinicalTrials.gov API, checked 11/10/2026). A PubMed search by
+registry number found the published famciclovir results (Dobson 2024) for NCT05283551 and nothing
+for the other three. That includes NCT01767701, whose results paper (Gold 2018) is not indexed
+under its number, so this kind of search can miss a paper that exists:
+
+- [NCT05957913](https://clinicaltrials.gov/study/NCT05957913) (Massachusetts General Hospital):
+  tenofovir/emtricitabine, phase 2, single group, 50 planned, enrolling by invitation. Its primary
+  outcome is the change in EBV viral load at 3 months, not an MS outcome. Estimated primary
+  completion June 2027.
+- [NCT04880577](https://clinicaltrials.gov/study/NCT04880577) (Massachusetts General Hospital):
+  tenofovir alafenamide vs placebo in relapsing-remitting MS, phase 2, randomized. Withdrawn before
+  enrolling anyone; the record gives funding as the reason. Its planned primary outcomes were
+  adverse events, fatigue and serum NfL, not relapses or disability.
+- [NCT05283551](https://clinicaltrials.gov/study/NCT05283551) (Queen Mary University of London):
+  the famciclovir pilot reported in
+  [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md). The
+  record was last updated in March 2022 and its status is now listed as unknown.
+- [NCT01767701](https://clinicaltrials.gov/study/NCT01767701): the raltegravir study above,
+  completed, with results posted.
+
+The registry search used the condition "multiple sclerosis" with the drug names tenofovir,
+famciclovir, valomaciclovir, valacyclovir, maribavir, raltegravir, Truvada and spironolactone, so a
+trial registered under other terms or in another registry would be missed. No registered antiviral
+trial in MS was found with a clinical MS outcome as its primary outcome and a placebo group still
+running.
 
 ### EBV-targeted T cells and other EBV-directed treatment
 
@@ -248,8 +275,10 @@ Stated no more strongly than the evidence allows:
 
 ### Most useful searches still to do
 
-- Any peer-reviewed EMBOLD paper, and any published results from tenofovir, famciclovir or other
-  antiviral trials in MS (check trial registries for completed trials).
+- Any peer-reviewed EMBOLD paper. For antivirals, the ClinicalTrials.gov check is now recorded
+  under Antivirals above; still to do: other registries (ISRCTN, EU CTIS) for the STOP-MS
+  famciclovir and spironolactone trial and any tenofovir trial, and results of NCT05957913 when it
+  completes.
 - Published results of the registered EBV vaccine trials listed above, especially NCT05683834 and
   the Moderna mRNA-1189 phase 1/2. Skip preprints and press releases.
 - More pooled evidence on EBV and MS. Five meta-analyses now have files (Handel 2010, Pakpoor 2013,

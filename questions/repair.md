@@ -196,7 +196,8 @@ Stated no more strongly than the evidence allows:
   (Hof S et al., *BMJ Open* 2024;14(1):e076651,
   [doi:10.1136/bmjopen-2023-076651](https://doi.org/10.1136/bmjopen-2023-076651), PMID
   [38296293](https://pubmed.ncbi.nlm.nih.gov/38296293/); verified on PubMed and Crossref, abstract
-  read) describes a single-center, double-blind trial in Amsterdam of clemastine 4 mg twice a day
+  read) describes a single-center, double-blind trial, approved by the ethics committee of Amsterdam
+  UMC, of clemastine 4 mg twice a day
   vs placebo for 6 months in 80 people with MS and internuclear ophthalmoplegia, an eye movement
   problem. Its main outcome was an eye-tracking measure, and it also tested whether a single dose
   of fampridine predicts who responds. The registry record
@@ -204,7 +205,7 @@ Stated no more strongly than the evidence allows:
   with 47 people enrolled. The reason given is that, because recruitment was slow, an independent
   statistician ran a futility analysis in early 2025 and its result was a "no-go". No results are
   posted, and PubMed searches by both registry numbers and by name find only the protocol. A
-  futility stop means the trial was judged unlikely to show its planned effect if it continued.
+  futility stop generally means a trial was judged unlikely to show its planned effect if it continued.
   It is not a published result, so it has no evidence file, and what the analysis found is not
   known here.
 - **Earlier positive trials** that later trials did not confirm: the lipoic acid pilot, MS-STAT

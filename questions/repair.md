@@ -85,6 +85,7 @@ Neither trial reported a myelin measure (VEP or myelin imaging) as an outcome.
 | [2017-lipoic-acid-pilot-spain](../evidence/2017-lipoic-acid-pilot-spain.md) | 2 | In a pilot trial of 51 people with secondary progressive MS, lipoic acid slowed whole-brain volume loss (-0.21% vs -0.65% a year, p = 0.002) with no significant walking benefit; one serious adverse event was judged related; the later 2026 trial did not confirm a walking benefit. |
 | [2020-ms-smart-neuroprotection-chataway](../evidence/2020-ms-smart-neuroprotection-chataway.md) | 2 | MS-SMART: in 445 people with secondary progressive MS, amiloride, fluoxetine and riluzole each failed to slow brain volume loss over 96 weeks compared with a shared placebo group. |
 | [2020-high-dose-biotin-spi2-cree](../evidence/2020-high-dose-biotin-spi2-cree.md) | 2 | In 642 people with progressive MS, high-dose biotin did not improve disability or walking (12% vs 9% improved; OR 1.35, 95% CI 0.81 to 2.26) and interfered with lab tests. |
+| [2016-high-dose-biotin-ms-spi-tourbah](../evidence/2016-high-dose-biotin-ms-spi-tourbah.md) | 2 | In an earlier trial of 154 people with progressive MS, 13 of 103 (12.6%) on high-dose biotin had confirmed disability improvement vs none of 51 on placebo (p = 0.005); small, with baseline imbalances, unchecked blinding and company funding; the phase 3 trial above did not confirm it. |
 | [2018-ibudilast-sprint-ms-fox](../evidence/2018-ibudilast-sprint-ms-fox.md) | 2 | In 255 people with progressive MS, ibudilast slowed brain shrinkage on MRI (about 2.5 ml less tissue loss over 96 weeks); the disability result was inconclusive (HR 0.74, CI crossing 1; secondary, not adjusted for multiple comparisons). |
 
 ### How repair is measured
@@ -192,9 +193,9 @@ Stated no more strongly than the evidence allows:
 - **Other repair measures:** VEP latency as a trial outcome beyond ReBUILD, myelin PET, and optical
   coherence tomography (OCT); the RESTORE trial protocol (Hof S et al., *BMJ Open* 2024, PMID
   38296293, not verified) is designed to test how to measure remyelination.
-- **Earlier positive trials** that later trials did not confirm: MS-SPI (biotin), for context. The
-  lipoic acid pilot and MS-STAT (simvastatin phase 2) now have files. The MS-STAT file was read
-  from the abstract only, so its disability and other secondary outcomes still need the full text.
+- **Earlier positive trials** that later trials did not confirm: the lipoic acid pilot, MS-STAT
+  (simvastatin phase 2) and MS-SPI (biotin) now have files. The MS-STAT file was read from the
+  abstract only, so its disability and other secondary outcomes still need the full text.
 - **Ibudilast follow-up papers** on SPRINT-MS. The slowly enlarging lesion analysis (Nakamura 2024)
   now has a file under [questions/pira.md](pira.md); others have not been checked.
 - **Rehabilitation and exercise** combined with remyelination drugs, which some authors have

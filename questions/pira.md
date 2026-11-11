@@ -91,6 +91,7 @@ did not. None shows that a lesion change is what slowed worsening.
 | [2025-tolebrutinib-hercules-fox](../evidence/2025-tolebrutinib-hercules-fox.md) | 2 | In 1,131 people with non-relapsing secondary progressive MS (no relapses for at least 24 months before entry), 6-month confirmed progression on the EDSS was 22.6% with tolebrutinib vs 30.7% with placebo; more liver enzyme rises. The endpoint is not the same as a harmonized PIRA definition. |
 | [2018-siponimod-expand-kappos](../evidence/2018-siponimod-expand-kappos.md) | 2 | EXPAND: in 1,651 people with secondary progressive MS, 3-month confirmed disability progression occurred in 26% on siponimod vs 32% on placebo (HR 0.79, 95% CI 0.65 to 0.95). Just over a third (36%) had relapsed in the 2 years before entry, per Cree 2021 below, and the outcome is not PIRA. A correction to the paper was published and not read. |
 | [2021-siponimod-disability-apart-from-relapses-cree](../evidence/2021-siponimod-disability-apart-from-relapses-cree.md) | 2 (post hoc, model-based) | Post hoc analysis of EXPAND: three statistical methods estimated that siponimod reduced 3-month confirmed progression by 14% to 20% and 6-month confirmed progression by 23% to 33% apart from its effect on relapses. Most estimates were not statistically significant, each method rests on an untestable assumption, and the outcome is not PIRA. Company funded. |
+| [2022-siponimod-active-spms-gold](../evidence/2022-siponimod-active-spms-gold.md) | 2 (post hoc subgroup) | In 779 EXPAND participants with recent relapse and/or enhancing MRI lesions, siponimod reduced EDSS-confirmed progression (3-month HR 0.69; 6-month HR 0.63), with no significant timed-walk effect. Cognitive results depended on the endpoint; all p values were unadjusted. This is not a PIRA endpoint or proof that effects differ between active and non-active SPMS. |
 | [2026-ocrelizumab-ppms-giovannoni](../evidence/2026-ocrelizumab-ppms-giovannoni.md) | 2 | In 1,013 people with primary progressive MS, including older and more disabled people, confirmed progression was 33% with ocrelizumab vs 40% with placebo. |
 | [2026-ocrelizumab-high-dose-hauser](../evidence/2026-ocrelizumab-high-dose-hauser.md) | 2 | In two trials (860 and 753 people), neither showed additional benefit of a higher ocrelizumab dose over the standard dose on confirmed progression. The trials compared doses (no placebo) and did not measure PIRA specifically. |
 | [2026-high-efficacy-therapy-pirma-rollot](../evidence/2026-high-efficacy-therapy-pirma-rollot.md) | 3 | In 10,499 people in the French registry, starting a high-efficacy drug was associated with less relapse- and MRI-related worsening, but not with less worsening independent of both. |
@@ -119,9 +120,10 @@ did not. None shows that a lesion change is what slowed worsening.
   small sample).
 - The siponimod trial in secondary progressive MS (EXPAND) now has a file, from its abstract only,
   and so does a post hoc analysis of its results apart from relapses (Cree 2021, full text read).
-  Still needed: EXPAND's walking and MRI outcomes from its full text, the hazard ratios and
-  intervals in Cree 2021's figures, and the post hoc analysis in active SPMS (Gold R et al.,
-  *J Neurol* 2022, PMID 35639197, open access, seen in PubMed and not verified on Crossref).
+  The active-SPMS post hoc analysis (Gold 2022) now has a file, including its full text and
+  supplementary tables. It does not establish a treatment-by-activity interaction or a PIRA effect.
+  Still needed: EXPAND's walking and MRI outcomes from its full text, and the hazard ratios and
+  intervals in Cree 2021's figures.
 
 ## Changes after review (11/03/2026)
 

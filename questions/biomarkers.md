@@ -127,6 +127,17 @@ Stated no more strongly than the evidence allows:
     [DRKS00034337](https://drks.de/search/en/trial/DRKS00034337), which lists it as non-interventional
     with purpose "prognosis"). Its title calls it an observational cohort study even though it
     randomizes reporting.
+  - **Registry check, 11/10/2026:** neither trial has results yet.
+    - MultiSCRIPT (ClinicalTrials.gov NCT06095271): active, not recruiting, with 920 people
+      enrolled (the bullet above gives about 915, from the protocol). Primary completion is
+      estimated for November 2026 and study completion for May 2027. No results are posted, and
+      the record was last updated 05/11/2025. A PubMed search by registry number finds only the protocol, and a
+      search by the trial's name finds no results paper.
+    - NeuroFilMS (German Clinical Trials Register DRKS00034337): recruiting, started 06/11/2025,
+      target 1,500, with no completion date and no results entered. The record was last updated
+      07/07/2025. PubMed searches by registry number and by name find only the protocol.
+    - A PubMed search by registry number can miss a results paper that isn't indexed under its
+      number, so check again by name once MultiSCRIPT's primary completion date has passed.
 - **Group vs individual.** Most associations are group-level, and some effects before worsening are
   small (Abdelhak 2023). A 2026 study in 1,716 people found, in the authors' conclusion, that a single NfL
   measure added little to clinical models for predicting treatment response (Moradi 2026, with an
@@ -172,8 +183,10 @@ Stated no more strongly than the evidence allows:
 
 ### Most useful searches still to do
 
-- **Results of MultiSCRIPT (NCT06095271) and NeuroFilMS (DRKS00034337).** Check trial registries and
-  conference abstracts (ECTRIMS, AAN) for any results; only use peer-reviewed results with a DOI.
+- **Results of MultiSCRIPT (NCT06095271) and NeuroFilMS (DRKS00034337).** Registries and PubMed
+  were checked on 11/10/2026 and had no results (see the gaps section). Check again after
+  MultiSCRIPT's estimated primary completion (November 2026), and check conference abstracts
+  (ECTRIMS, AAN), which were not searched; only use peer-reviewed results with a DOI.
 - **Other randomized or pragmatic trials** of biomarker-guided MS care, including de-escalation or
   stopping-treatment trials that used sNfL as a decision rule. None was found in PubMed searches for
   2022-2026 combining neurofilament or GFAP with randomized, guided, strategy or treatment decision.

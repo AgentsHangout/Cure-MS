@@ -48,6 +48,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2014-familial-risk-heritability-westerlind](../evidence/2014-familial-risk-heritability-westerlind.md) | 3 | In 28,396 people with MS in Swedish registries, siblings had about 7 times the population risk (7.1); heritability was estimated at 0.64 and the shared-environment component at 0.01 (95% CI 0.00-0.18). |
+| [2015-twin-studies-meta-estimate-fagnani](../evidence/2015-twin-studies-meta-estimate-fagnani.md) | 3 | Meta-analysis of eight twin studies: heritability was estimated at 0.50 (95% CI 0.39 to 0.61), shared environment at 0.21 (95% CI 0.11 to 0.30) and unique environment at 0.29. The shared-environment estimate is higher than Westerlind 2014's 0.01, though the intervals overlap. Read from the abstract only; not independent of the Canadian and Danish twin files. |
 | [1995-adoptee-familial-aggregation-ebers](../evidence/1995-adoptee-familial-aggregation-ebers.md) | 3 | In a Canadian sample of 15,000 people with MS, adopted relatives who lived with them had no more MS than the general population, and less than biological relatives; the authors detected no shared-environment effect. |
 | [2003-twin-concordance-canada-willer](../evidence/2003-twin-concordance-canada-willer.md) | 3 | In 370 Canadian twin index cases from 354 pairs (about 75% of all Canadian MS twin pairs), probandwise concordance was 25.3% for identical twins, 5.4% for non-identical twins and 2.9% for non-twin siblings; the identical-twin excess came mainly from female pairs. |
 | [2005-twin-concordance-denmark-hansen](../evidence/2005-twin-concordance-denmark-hansen.md) | 3 | In nationwide Danish data (178 twins with MS), concordance was 24% for identical and 3% for non-identical twins, with wide confidence intervals (7 concordant pairs). |
@@ -172,7 +173,14 @@ Stated no more strongly than the evidence allows:
   two DOI records for the article, so it could not be verified under this repo's rules and has no
   file.
 - Twin studies beyond Sweden: the Canadian (Willer 2003) and Danish (Hansen 2005) studies now have
-  files. Others, for example from other countries or with newer methods, have not been searched.
+  files, and so does a pooled estimate from eight twin studies (Fagnani 2015), read from the
+  abstract only. Still to do: read the Fagnani full text for which eight studies it pooled and
+  whether they overlap with the files here. National twin studies seen in PubMed and not given
+  files or verified on Crossref: Kuusisto H et al., Finland (*Eur J Neurol* 2008, PMID 18727671);
+  Ristori G et al., Italy and Sardinia (*Ann Neurol* 2006, PMID 16240370); Mumford CJ et al.,
+  British Isles (*Neurology* 1994, PMID 8290043); and Islam T et al., twin concordance by latitude
+  of birthplace (*Ann Neurol* 2006, PMID 16685699). PubMed lists no open full text for any of
+  the four.
 - Vitamin D trial follow-up: the [focused trial comparison](../findings/vitamin-d-early-ms-trials.md)
   distinguishes post-CIS MRI activity from clinical benefit. Verify D-Lay's protocol/amendment
   history, seek independent clinical-outcome replication, and assess evidence before the first

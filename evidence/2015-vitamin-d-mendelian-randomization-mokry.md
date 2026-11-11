@@ -32,3 +32,7 @@ controls).
   trials.
 - Mostly people of European ancestry.
 - Numbers come from the abstract.
+- A correction was published (*PLoS Medicine* 2016;13(3):e1001981,
+  [doi:10.1371/journal.pmed.1001981](https://doi.org/10.1371/journal.pmed.1001981), PMID 26963823).
+  It adds an author who was left off the byline and corrects a diagram of the vitamin D pathway.
+  It changes none of the numbers above. Read 11/10/2026.

@@ -36,3 +36,6 @@ which study features were linked to more deaths and progression.
 - Muraro, an author here, also led the international long-term cohort
   ([2017-ahsct-long-term-outcomes-muraro](2017-ahsct-long-term-outcomes-muraro.md)); the abstract does
   not list which 15 studies were pooled, so overlap between the two is not known.
+- A correction was published (*Neurology* 2017;89(2):215,
+  [doi:10.1212/WNL.0000000000004169](https://doi.org/10.1212/WNL.0000000000004169), PMID 28696936).
+  It is not open access and was not read, so it is not known whether it changes any figure above.

@@ -33,3 +33,6 @@ disability worsening. There was no comparison group.
   because fewer people were followed that long.
 - Regimens changed over time, so results mix older and newer practice.
 - Funding and conflicts are not described in the abstract.
+- A correction was published (*Neurology* 2021;97(4):203,
+  [doi:10.1212/WNL.0000000000011825](https://doi.org/10.1212/WNL.0000000000011825), PMID 33947786).
+  It is not open access and was not read, so it is not known whether it changes any figure above.

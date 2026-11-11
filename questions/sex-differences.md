@@ -123,6 +123,7 @@ include one small randomized pilot (Bove 2022), one registry cohort and one mark
 | File | Level | In short |
 | --- | --- | --- |
 | [2008-sex-chromosome-complement-mice-smith-bouvier](../evidence/2008-sex-chromosome-complement-mice-smith-bouvier.md) | 5 | In mice with the same type of gonads, XX mice were more susceptible than XY mice to an MS-like disease (EAE) and to lupus. |
+| [2021-xy-chromosomes-th17-mice-doss](../evidence/2021-xy-chromosomes-th17-mice-doss.md) | 5 | In mice with a chronic model of MS, Th17 immune cells from males caused more severe disease than cells from females, and XY chromosomes increased this; an X-linked gene, Jarid1c, restrained it. The abstract also reports lower Jarid1c in CD4 T cells from people with MS, with no numbers. Read from the abstract only. |
 | [2007-x-chromosome-linkage-herrera](../evidence/2007-x-chromosome-linkage-herrera.md) | 3 | In 726 affected sibling and other relative pairs plus 195 aunt-uncle/niece-nephew pairs, no linkage was found anywhere on the X chromosome; genes of fairly large effect there were excluded. |
 | [2019-genomic-map-imsgc](../evidence/2019-genomic-map-imsgc.md) | 3 | Already in the repo (question F). Of 233 MS risk variants found in 47,429 cases and 68,374 controls, one is on the X chromosome. |
 
@@ -234,10 +235,10 @@ Leads found and verified in PubMed and Crossref but not given files (to avoid ov
 - Knudsen GP et al., X-inactivation in 568 women with MS vs controls (*Eur J Neurol* 2007,
   [doi:10.1111/j.1468-1331.2007.01987.x](https://doi.org/10.1111/j.1468-1331.2007.01987.x), PMID
   17970735). Found no overall difference in skewing.
-- Doss PMIA et al., XY chromosomes and Th17 cell pathogenicity in chronic EAE, with a human CD4
-  T cell expression finding (*Cell Reports* 2021,
-  [doi:10.1016/j.celrep.2021.108833](https://doi.org/10.1016/j.celrep.2021.108833), PMID 33691111).
-  Mostly mouse (level 5).
+- Doss 2021 (XY chromosomes and Th17 cells in mice) now has a file, read from the abstract only.
+  Its full text is open access on the journal's site but refused an automated reader. Still
+  needed from it: the numbers, the mouse models used, and the size and comparison group of the
+  human Jarid1c finding.
 
 Additional leads and dated follow-ups:
 

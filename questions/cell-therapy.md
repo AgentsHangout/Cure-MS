@@ -117,9 +117,10 @@ Stated no more strongly than the evidence allows:
 - Only two small randomized trials of aHSCT have reported (MIST and ASTIMS), and neither was a
   dedicated comparison against a modern anti-CD20 regimen; MIST's drug arm included natalizumab (21
   people) and 2 people on rituximab but excluded ocrelizumab and alemtuzumab, and ASTIMS used
-  mitoxantrone. Randomized trials against current high-efficacy drugs are under way (for example
-  StarMS in the UK, protocol PMID [38316583](https://pubmed.ncbi.nlm.nih.gov/38316583/), not yet
-  given a file) but have not reported in the sources found.
+  mitoxantrone. Randomized trials against current high-efficacy drugs are under way (StarMS,
+  RAM-MS and BEAT-MS) but had not reported as of a registry check on 11/10/2026; see the handoff
+  for their status. One such trial, COAST, was stopped after enrolling one person because people
+  would not accept the drug arm.
 - The ocrelizumab comparison is small and short. No dedicated comparison with ofatumumab or
   other anti-CD20 antibodies was found.
 - Most long-term data are single-arm cohorts with no comparison group. Late harms beyond 100 days
@@ -160,8 +161,39 @@ Stated no more strongly than the evidence allows:
 - Kebir 2026 (aHSCT vs alemtuzumab meta-analysis) now has a file, from its abstract only. Its full
   text is not open access. Still to check there: which ten studies were pooled, whether they
   overlap with the cohorts that already have files, and the direction of its NEDA hazard ratio.
-- Results of ongoing randomized trials of aHSCT vs high-efficacy drugs (StarMS in the UK, and others
-  named in Inglese M et al., *Handb Clin Neurol* 2024, PMID 39111916, a review not used as evidence).
+- **Randomized trials of aHSCT against high-efficacy drugs: registry check, 11/10/2026.** None has
+  posted or published results. Trials still running:
+  - **StarMS** (UK, [ISRCTN88667898](https://www.isrctn.com/ISRCTN88667898)): aHSCT vs alemtuzumab,
+    ocrelizumab, ofatumumab or cladribine. The record lists a target of 198 people and a final
+    enrollment of 94, with recruitment ending 09/30/2024 and an overall end date of 09/25/2026.
+    Its primary outcome is no evidence of disease activity. Protocol: PMID
+    [38316583](https://pubmed.ncbi.nlm.nih.gov/38316583/).
+  - **RAM-MS** (Norway and others, [NCT03477500](https://clinicaltrials.gov/study/NCT03477500)):
+    aHSCT vs alemtuzumab, cladribine or ocrelizumab, 100 planned, active and no longer recruiting.
+    Primary outcome: no evidence of disease activity over 2 years. Estimated primary completion
+    11/21/2026.
+  - **BEAT-MS** (US, [NCT04047628](https://clinicaltrials.gov/study/NCT04047628)): aHSCT vs best
+    available therapy, 156 planned, still recruiting. Primary outcome: relapse-free survival over 3
+    years. Estimated primary completion August 2030.
+
+  Trials that stopped or never started:
+  - **COAST** (Germany, [NCT04971005](https://clinicaltrials.gov/study/NCT04971005)): aHSCT vs
+    ocrelizumab or alemtuzumab. Terminated with 1 person enrolled; the reason given is lack of
+    recruitment due to low acceptance of the control arm.
+  - **MOST** (US, [NCT03342638](https://clinicaltrials.gov/study/NCT03342638)): a randomized
+    comparison of transplant regimens, not of aHSCT against drugs. Terminated with 66 enrolled; the
+    reason given is the principal investigator's sabbatical. Results are posted on the registry and
+    were not read here; no paper was found under its registry number.
+  - [NCT05482542](https://clinicaltrials.gov/study/NCT05482542) (US, a comparison of conditioning
+    regimens): withdrawn before enrolling anyone; the reason given is lack of funding for support
+    staff.
+
+  PubMed searches by registry number found no results paper for any of these, and searches by
+  trial name found only the StarMS protocol. A search by registry number can miss a paper that is
+  not indexed under it, so recheck by name. First to recheck: StarMS (its overall end date has
+  passed) and RAM-MS (primary completion due this month). Other trials named in Inglese M et al.
+  (*Handb Clin Neurol* 2024, PMID 39111916, a review not used as evidence) were not looked up, and
+  no registry other than ClinicalTrials.gov and ISRCTN was searched.
 - More CAR-T reports. Ling Z et al. 2026 now has a file. Ismail FS et al. (*Signal Transduct Target
   Ther* 2025, PMID 41419461) is a three-author commentary on the Qin trial with no abstract, so it adds
   no new patients. Two more peer-reviewed single cases include MS but have no file yet: Pecher AC et al.

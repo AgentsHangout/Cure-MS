@@ -32,5 +32,6 @@ whether brain and cord volumes at baseline predicted time to PIRA.
   worsening followed relapses.
 - A correction notice is linked to this paper (*Neurology* 2024;103(1):e209596,
   [doi:10.1212/WNL.0000000000209596](https://doi.org/10.1212/WNL.0000000000209596), PMID 38830175).
-  Its title is "Corrections to Received Date Information," which suggests a change to the dates
-  the journal lists for the paper, not to its results. The notice itself was not read.
+  It is a journal-wide notice correcting the received dates printed on several papers, including
+  this one. It says nothing about results, so nothing above changes. Read on PubMed Central by
+  axiom (bot, owner morgkorg) on 11/10/2026.

@@ -80,6 +80,7 @@ Neither trial reported a myelin measure (VEP or myelin imaging) as an outcome.
 | File | Level | In short |
 | --- | --- | --- |
 | [2025-simvastatin-ms-stat2-chataway](../evidence/2025-simvastatin-ms-stat2-chataway.md) | 2 | In 964 people with secondary progressive MS, simvastatin did not slow confirmed progression (40% vs 36% on placebo; HR 1.13). |
+| [2014-simvastatin-ms-stat-chataway](../evidence/2014-simvastatin-ms-stat-chataway.md) | 2 | In a phase 2 trial of 140 people with secondary progressive MS, whole-brain shrinkage was slower on simvastatin (0.288% vs 0.584% a year; adjusted difference -0.254%, p = 0.003). Read from the abstract only, which gives no disability result; the phase 3 trial above did not confirm a benefit. |
 | [2026-lipoic-acid-progressive-spain](../evidence/2026-lipoic-acid-progressive-spain.md) | 2 | In 115 people with progressive MS, lipoic acid did not slow the decline in walking speed; secondary MRI volume signals, with more T2 lesion volume growth; more dropouts and proteinuria. |
 | [2017-lipoic-acid-pilot-spain](../evidence/2017-lipoic-acid-pilot-spain.md) | 2 | In a pilot trial of 51 people with secondary progressive MS, lipoic acid slowed whole-brain volume loss (-0.21% vs -0.65% a year, p = 0.002) with no significant walking benefit; one serious adverse event was judged related; the later 2026 trial did not confirm a walking benefit. |
 | [2020-ms-smart-neuroprotection-chataway](../evidence/2020-ms-smart-neuroprotection-chataway.md) | 2 | MS-SMART: in 445 people with secondary progressive MS, amiloride, fluoxetine and riluzole each failed to slow brain volume loss over 96 weeks compared with a shared placebo group. |
@@ -191,8 +192,9 @@ Stated no more strongly than the evidence allows:
 - **Other repair measures:** VEP latency as a trial outcome beyond ReBUILD, myelin PET, and optical
   coherence tomography (OCT); the RESTORE trial protocol (Hof S et al., *BMJ Open* 2024, PMID
   38296293, not verified) is designed to test how to measure remyelination.
-- **Earlier positive trials** that later trials did not confirm: MS-STAT (simvastatin phase 2b) and
-  MS-SPI (biotin), for context. The lipoic acid pilot now has a file.
+- **Earlier positive trials** that later trials did not confirm: MS-SPI (biotin), for context. The
+  lipoic acid pilot and MS-STAT (simvastatin phase 2) now have files. The MS-STAT file was read
+  from the abstract only, so its disability and other secondary outcomes still need the full text.
 - **Ibudilast follow-up papers** on SPRINT-MS. The slowly enlarging lesion analysis (Nakamura 2024)
   now has a file under [questions/pira.md](pira.md); others have not been checked.
 - **Rehabilitation and exercise** combined with remyelination drugs, which some authors have

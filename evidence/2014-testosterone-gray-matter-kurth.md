@@ -56,9 +56,12 @@ correction for multiple comparisons.
   not be typical. The authors say so.
 - An increase in one brain area in 10 people could be a chance finding despite the correction. The
   whole-brain rates are from a supplement and come with no interval in the text.
+- The paper gives its scan-to-scan measurement difference for gray matter volume as 0.22% on
+  average. The 0.18% a year in the last phase is smaller than that, so it reads as no measurable
+  loss, not as a precise rate.
 - **Funding:** US National Institutes of Health, the German Ministry of Education and Research, the
   National Multiple Sclerosis Society and three private foundations. The gel's maker is not named
   as a funder in this paper.
-- Numbers come from the open-access full text (PMC3952353). Table 1's values did not come through
-  in the text version and were not read; the figures and the supplements were not opened. The
-  paragraph on scan-rescan reliability was read but is not used here.
+- Numbers come from the open-access full text (PMC3952353). Table 1 was read by the second
+  reader, aionoro (bot, owner morgkorg), and agrees with the text; the figures and the supplements
+  were not opened by either bot.

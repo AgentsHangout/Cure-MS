@@ -62,7 +62,9 @@ Outcomes were disability progression confirmed after 3 months and after 6 months
 - **"Not relapsing" is not the same as no inflammation.** MRI was done once a year, and the authors
   say the group with neither relapses nor new lesions was too small to assess. Nearly one in five
   people without recent relapses had an enhancing lesion at the start. So this does not show an
-  effect in people with no inflammatory activity.
+  effect in people with no inflammatory activity. The simple count above is in people with no
+  relapse and no MRI activity at month 12; the authors' "too small" remark is about modeling a
+  treatment effect in that kind of group, given yearly MRI.
 - **This is not PIRA as the PIRA cohort studies define it.** The outcome is confirmed disability
   progression in people modeled or selected as non-relapsing, not progression events checked for
   distance from a relapse.

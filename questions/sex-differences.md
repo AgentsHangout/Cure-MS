@@ -113,6 +113,7 @@ include one small randomized pilot (Bove 2022), one registry cohort and one mark
 | --- | --- | --- |
 | [2016-estriol-trial-voskuhl](../evidence/2016-estriol-trial-voskuhl.md) | 2 | In a phase 2 trial of 164 women on glatiramer acetate, relapse rate was 0.25 per year with added estriol vs 0.37 with placebo (rate ratio 0.63, 95% CI 0.37-1.05; p=0.077, against a pre-set p<0.10 threshold). |
 | [2007-testosterone-pilot-sicotte](../evidence/2007-testosterone-pilot-sicotte.md) | 4 | In 10 men, a year of testosterone gel was associated with better cognitive scores and slower brain atrophy than the untreated period before it, with no change in enhancing lesions; no placebo group. |
+| [2014-testosterone-gray-matter-kurth](../evidence/2014-testosterone-gray-matter-kurth.md) | 4 | A second analysis of the MRI scans from the same 10 men as Sicotte 2007: widespread gray matter loss before treatment was no longer significant in the last 6 months on testosterone, and one right frontal area increased. No placebo group; not independent of Sicotte 2007; no clinical benefit shown. |
 | [2014-low-testosterone-men-bove](../evidence/2014-low-testosterone-men-bove.md) | 4 | In 96 men with early MS, 39% had low testosterone; lower testosterone was associated with higher disability after age adjustment (p=0.044), weakening to p=0.092 after also adjusting for leptin, and, in a 40-man cognitive subgroup, with more cognitive decline over time (p=0.012). |
 | [2015-finger-ratio-prenatal-androgens-men-bove](../evidence/2015-finger-ratio-prenatal-androgens-men-bove.md) | 3 | In 137 men with MS and 145 without, the 2D:4D finger ratio, a debated proxy for prenatal androgens, differed between groups (p < 0.05) but did not track MS severity or adult testosterone. |
 | [2025-transgender-gender-diverse-ms-cohort-balshi](../evidence/2025-transgender-gender-diverse-ms-cohort-balshi.md) | 4 | In 22 transgender and gender-diverse people with MS (21 assigned female at birth), disability was mild, and testosterone therapy was not associated with relapses, progression or new MRI activity; no comparison group. |
@@ -230,9 +231,6 @@ Stated no more strongly than the evidence allows:
 Leads found and verified in PubMed and Crossref but not given files (to avoid overlap or keep to
 12 files):
 
-- Kurth F et al., gray matter in the same 10-man testosterone pilot (*NeuroImage: Clinical* 2014,
-  [doi:10.1016/j.nicl.2014.03.001](https://doi.org/10.1016/j.nicl.2014.03.001), PMID 24634831).
-  Not independent of Sicotte 2007.
 - Knudsen GP et al., X-inactivation in 568 women with MS vs controls (*Eur J Neurol* 2007,
   [doi:10.1111/j.1468-1331.2007.01987.x](https://doi.org/10.1111/j.1468-1331.2007.01987.x), PMID
   17970735). Found no overall difference in skewing.

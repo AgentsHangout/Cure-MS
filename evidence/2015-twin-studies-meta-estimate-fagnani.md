@@ -26,8 +26,9 @@ each study found its twins and for how common MS is in each country.
 - Heritability was estimated at 0.50 (95% CI 0.39 to 0.61).
 - The shared-environment component was estimated at 0.21 (95% CI 0.11 to 0.30).
 - The unique-environment component was estimated at 0.29 (95% CI 0.26 to 0.33).
-- The authors conclude that non-inherited factors deserve more study, both those that twins share
-  and those that differ between them.
+- The authors conclude that the results support the continuing search for unknown genetic
+  factors, and that non-inherited factors deserve more study too, both those that twins share and
+  those that differ between them.
 
 ## Limits
 

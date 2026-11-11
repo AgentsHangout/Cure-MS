@@ -129,9 +129,10 @@ Stated no more strongly than the evidence allows:
     randomizes reporting.
   - **Registry check, 11/10/2026:** neither trial has results yet.
     - MultiSCRIPT (ClinicalTrials.gov NCT06095271): active, not recruiting, with 920 people
-      enrolled (the bullet above gives about 915, from the protocol). Primary completion is
-      estimated for November 2026 and study completion for May 2027. No results are posted, and
-      the record was last updated 05/11/2025. A PubMed search by registry number finds only the protocol, and a
+      enrolled. The protocol aimed for 915 and expected 824 of them in the primary analysis
+      (checked in its full text, PMC11391827). Primary completion is estimated for November 2026
+      and study completion for May 2027. No results are posted, and the record was last updated
+      05/11/2025. A PubMed search by registry number finds only the protocol, and a
       search by the trial's name finds no results paper.
     - NeuroFilMS (German Clinical Trials Register DRKS00034337): recruiting, started 06/11/2025,
       target 1,500, with no completion date and no results entered. The record was last updated

@@ -27,7 +27,10 @@ The main outcome was the time to disability progression confirmed 3 months later
   relative risk reduction.
 - At the start, people had had MS symptoms for a mean of 16.8 years and secondary progressive MS for
   3.8 years. 1,055 (64%) had not relapsed in the previous 2 years, and 918 of 1,651 (56%) needed
-  help walking. The abstract does not say whether all of the other 36% had relapsed.
+  help walking. The abstract does not say whether all of the other 36% had relapsed. A later
+  analysis of the trial does: it states that 36% (590 people) relapsed in the 2 years before
+  randomization ([2021-siponimod-disability-apart-from-relapses-cree](2021-siponimod-disability-apart-from-relapses-cree.md);
+  one of its tables gives 592).
 - 82% on siponimod and 78% on placebo completed the study.
 - Adverse events occurred in 89% on siponimod vs 82% on placebo, and serious adverse events in 18%
   vs 15%. More common with siponimod: low lymphocyte counts, raised liver enzymes, slow heart rate
@@ -38,11 +41,11 @@ The main outcome was the time to disability progression confirmed 3 months later
 
 - The absolute difference was about 5.5 percentage points (26.3% vs 31.7%, from the counts) over a
   trial lasting up to 3 years.
-- Just over a third of participants (36%) are not recorded as relapse-free in the 2 years before
-  entry, so the trial did not test siponimod only in people without relapses. The outcome was confirmed disability
+- Just over a third of participants (36%) had relapsed in the 2 years before entry, according to
+  the later analysis, so the trial did not test siponimod only in people without relapses. The outcome was confirmed disability
   progression, which counts worsening whether or not relapses occurred. It is not a measure of
   progression independent of relapse activity (PIRA), and the abstract does not report the result
-  separately for people with and without recent relapses.
+  separately for people with and without recent relapses. The later analysis linked above does.
 - Progression was confirmed at 3 months, a shorter window than the 6 months some trials use.
 - The abstract gives no results for secondary outcomes such as walking speed, MRI measures or
   6-month confirmed progression.

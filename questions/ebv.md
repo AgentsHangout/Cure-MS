@@ -107,8 +107,10 @@ passed, so it belongs on that list too.
 | [2025-anti-ebv-drug-repurposing-li](../evidence/2025-anti-ebv-drug-repurposing-li.md) | 6 | Expert and lived-experience panels shortlisted 4 of 11 licensed anti-EBV drugs (famciclovir, tenofovir alafenamide, maribavir, spironolactone) as candidates for phase 3 MS trials; no efficacy shown. |
 | [2018-raltegravir-inspire-gold](../evidence/2018-raltegravir-inspire-gold.md) | 4 | INSPIRE: in 20 people with active relapsing MS, 3 months of the HIV drug raltegravir had no significant effect on new enhancing MRI lesions compared with each person's own 3-month baseline; no placebo group. Aimed at endogenous retroviruses, not EBV. |
 
-Registered antiviral trials in MS (ClinicalTrials.gov API, checked 11/10/2026; a PubMed search by
-registry number found no results paper for any of them):
+Registered antiviral trials in MS (ClinicalTrials.gov API, checked 11/10/2026). A PubMed search by
+registry number found the published famciclovir results (Dobson 2024) for NCT05283551 and nothing
+for the other three. That includes NCT01767701, whose results paper (Gold 2018) is not indexed
+under its number, so this kind of search can miss a paper that exists:
 
 - [NCT05957913](https://clinicaltrials.gov/study/NCT05957913) (Massachusetts General Hospital):
   tenofovir/emtricitabine, phase 2, single group, 50 planned, enrolling by invitation. Its primary
@@ -116,7 +118,8 @@ registry number found no results paper for any of them):
   completion June 2027.
 - [NCT04880577](https://clinicaltrials.gov/study/NCT04880577) (Massachusetts General Hospital):
   tenofovir alafenamide vs placebo in relapsing-remitting MS, phase 2, randomized. Withdrawn before
-  enrolling anyone; the record gives funding as the reason.
+  enrolling anyone; the record gives funding as the reason. Its planned primary outcomes were
+  adverse events, fatigue and serum NfL, not relapses or disability.
 - [NCT05283551](https://clinicaltrials.gov/study/NCT05283551) (Queen Mary University of London):
   the famciclovir pilot reported in
   [2024-famciclovir-ebv-shedding-dobson](../evidence/2024-famciclovir-ebv-shedding-dobson.md). The

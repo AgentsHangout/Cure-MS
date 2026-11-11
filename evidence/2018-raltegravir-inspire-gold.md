@@ -43,6 +43,7 @@ the treatment phase compared with the baseline phase.
   correction for multiple tests reported in the abstract.
 - The ClinicalTrials.gov record lists 23 enrolled and 20 started and completed. Its posted adverse
   event table gives a serious event in 1 person, with 31 listed as at risk, which does not match
-  either count. This is not reconciled here.
+  either count. The same table lists other events in 31 of 31, so 31 may be a data entry figure and
+  not a count of people. This is not reconciled here.
 - Numbers come from the abstract and the registry API. The full text is not open access and was not
   read, so the lesion counts themselves are not given.

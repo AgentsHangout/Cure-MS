@@ -41,3 +41,8 @@ were feasibility and safety.
   [questions/ebv.md](../questions/ebv.md)).
 - Several authors received fees or funding from Atara Biotherapeutics, which developed ATA188, and
   one is an Atara employee.
+- A corrigendum was published (*JCI Insight* 2020;5(20):e144624,
+  [doi:10.1172/jci.insight.144624](https://doi.org/10.1172/jci.insight.144624), PMID 33055421). It
+  corrects data points in one figure of cognitive test results and one p value (PASAT3, now
+  0.0356), and says that p value is not significant after correction for multiple comparisons.
+  Those cognitive results are not reported in this file, so nothing above changes. Read 11/10/2026.

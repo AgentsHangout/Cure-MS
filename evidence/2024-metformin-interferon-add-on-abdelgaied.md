@@ -44,3 +44,7 @@ secondary outcome), T2 lesions on MRI and EDSS.
   Neither paper shows whether participants overlap.
 - Numbers come from the abstract, except where a reviewer's full-text read is named, and the MDA
   check, which uses the abstract's summary statistics.
+- A correction was published (*Journal of Neurology* 2024;271(5):2925,
+  [doi:10.1007/s00415-024-12249-9](https://doi.org/10.1007/s00415-024-12249-9), PMID 38498119). It
+  corrects one author's affiliation only. It does not address the MDA p value that fails to
+  reproduce, which stays unresolved. Read 11/10/2026.

@@ -50,6 +50,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | File | Level | In short |
 | --- | --- | --- |
 | [2013-ebv-seronegative-meta-analysis-pakpoor](../evidence/2013-ebv-seronegative-meta-analysis-pakpoor.md) | 3 | Meta-analysis of 22 adult and 3 pediatric observational studies: people with no antibodies from past EBV infection had much lower odds of MS (OR 0.18, 95% CI 0.13 to 0.26, in adults), and the size of the association depended on the antibody test used. |
+| [2015-ebv-hla-interaction-meta-analysis-xiao](../evidence/2015-ebv-hla-interaction-meta-analysis-xiao.md) | 3 | Meta-analysis of 5 observational studies (2,533 people): a high EBNA-1 antibody level and the HLA-DRB1*1501 risk gene together were associated with more MS risk than the sum of each alone (OR 6.11 with both; synergy index 1.43, 95% CI 1.05 to 1.95), with no interaction on the multiplicative scale. Not independent of Jacobs 2020 below. |
 | [2020-ebv-risk-factor-interaction-meta-analysis-jacobs](../evidence/2020-ebv-risk-factor-interaction-meta-analysis-jacobs.md) | 3 | Systematic review of observational studies: high EBV antibodies plus the HLA-DRB1*1501 risk gene went with higher odds of MS than expected from adding the two (OR 7.90 with both; additive interaction, attributable proportion 0.48). No significant interaction was found for mononucleosis with HLA or for smoking with EBV antibodies, and none on the multiplicative scale. |
 | [2022-epstein-barr-virus-bjornevik](../evidence/2022-epstein-barr-virus-bjornevik.md) | 3 | In more than 10 million US military personnel (955 with MS), MS risk was 32 times higher after EBV infection, with no rise after other viruses. |
 | [2022-ebna1-glialcam-mimicry-lanz](../evidence/2022-ebna1-glialcam-mimicry-lanz.md) | 5 | An antibody from MS spinal fluid bound both the EBV protein EBNA1 and the brain protein GlialCAM; EBNA1 immunization worsened an MS-like disease in mice. |
@@ -250,12 +251,13 @@ Stated no more strongly than the evidence allows:
   antiviral trials in MS (check trial registries for completed trials).
 - Published results of the registered EBV vaccine trials listed above, especially NCT05683834 and
   the Moderna mRNA-1189 phase 1/2. Skip preprints and press releases.
-- More pooled evidence on EBV and MS. Three meta-analyses now have files (Handel 2010, Pakpoor 2013,
-  Jacobs 2020). Handel and Jacobs were checked in the full text; Pakpoor is abstract only, because
-  its full text needs a subscription. Not yet given files: Thacker EL et al. on
-  mononucleosis (*Ann Neurol* 2006, PMID 16502434), which Handel 2010 updates; Almohmeed YH et al.
-  on EBV serology (*PLoS One* 2013, PMID 23585874); and Xiao D et al. on EBV and HLA-DRB1*1501
-  (*Sci Rep* 2015, PMID 26656273). These three were seen in PubMed and not verified on Crossref.
+- More pooled evidence on EBV and MS. Four meta-analyses now have files (Handel 2010, Pakpoor 2013,
+  Xiao 2015, Jacobs 2020). Handel, Xiao and Jacobs were checked in the full text; Pakpoor is
+  abstract only, because its full text needs a subscription. Not yet given files: Thacker EL et al.
+  on mononucleosis (*Ann Neurol* 2006, PMID 16502434), which Handel 2010 updates and whose full
+  text is not open access; and Almohmeed YH et al. on EBV serology (*PLoS One* 2013, PMID
+  23585874), which is open access (PMC3621759). These two were seen in PubMed and not verified on
+  Crossref. Also not checked: whether Xiao's five studies are among the ten Jacobs pooled.
 - Studies of whether MS drugs that deplete B cells change EBV activity, and whether that relates to
   their effect on MS.
 - Independent repeats of the molecular mimicry findings (GlialCAM, anoctamin-2, alpha-crystallin B).

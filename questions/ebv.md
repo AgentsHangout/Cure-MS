@@ -56,6 +56,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2022-epstein-barr-virus-bjornevik](../evidence/2022-epstein-barr-virus-bjornevik.md) | 3 | In more than 10 million US military personnel (955 with MS), MS risk was 32 times higher after EBV infection, with no rise after other viruses. |
 | [2022-ebna1-glialcam-mimicry-lanz](../evidence/2022-ebna1-glialcam-mimicry-lanz.md) | 5 | An antibody from MS spinal fluid bound both the EBV protein EBNA1 and the brain protein GlialCAM; EBNA1 immunization worsened an MS-like disease in mice. |
 | [2023-ebv-immune-control-vietzen](../evidence/2023-ebv-immune-control-vietzen.md) | 5 | In cells, certain NK cells and EBV-specific T cells killed GlialCAM-reactive cells; some host and virus genetic combinations were associated with MS, with estimates up to 260-fold for particular combinations in a comparison of people with and without MS (not a risk for people in general). |
+| [2025-ebna1-glialcam-antibodies-sattarnezhad](../evidence/2025-ebna1-glialcam-antibodies-sattarnezhad.md) | 3 | In 650 people with MS and 661 matched controls (Sweden), higher antibody reactivity to EBNA1 (OR 1.97) and to GlialCAM (OR 1.81) went with MS risk; with HLA-DRB1*15:01 and both antibodies together the OR was 9.40. Case-control, one time point; the mechanism is the authors' interpretation. |
 
 ### EBV vaccines
 

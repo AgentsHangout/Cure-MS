@@ -65,7 +65,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 
 | File | Level | In short |
 | --- | --- | --- |
-| [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In the Swiss cohort, 252 people on B-cell-depleting drugs: the median serum GFAP z score was higher in those who later had confirmed worsening (1.94 vs 0.71, not significant for NfL). Having both markers elevated went with PIRA HR 4.71 (95% CI 2.05-9.77), from the abstract only. |
+| [2023-gfap-vs-nfl-meier](../evidence/2023-gfap-vs-nfl-meier.md) | 3 | In the Swiss cohort (cohort 2), 252 people on B-cell-depleting drugs: median (IQR) serum GFAP z score 1.94 [0.36-2.23] vs 0.71 [-0.13 to 1.73] in those who later had confirmed worsening vs stable disability (P = .002). This is a median z score, not a hazard ratio. NfL was not significant. The combined elevation of both markers' z scores went with PIRA HR 4.71 (95% CI 2.05-9.77), from the abstract only. |
 | [2026-paramagnetic-rim-lesions-lauerer](../evidence/2026-paramagnetic-rim-lesions-lauerer.md) | 3 | In 862 people, having paramagnetic rim lesions was associated with higher risk of PIRA (HR 1.8) and, in exploratory analyses, with spinal fluid signs of inflammation inside the CNS and faster brain atrophy. |
 | [2022-slowly-expanding-lesions-calvi](../evidence/2022-slowly-expanding-lesions-calvi.md) | 3 | In 345 people with secondary progressive MS, more slowly expanding lesion volume was associated with more tissue loss and higher odds of disability progression. |
 | [2024-spinal-cord-atrophy-cagol](../evidence/2024-spinal-cord-atrophy-cagol.md) | 3 | In 445 people, PIRA was associated with faster spinal cord atrophy and about twice as many rim lesions, also in relapsing-remitting MS. |

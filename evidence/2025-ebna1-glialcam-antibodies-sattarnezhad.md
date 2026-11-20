@@ -14,9 +14,9 @@ Plasma from 650 people with MS and 661 population-based controls, matched for se
 
 - Higher antibody reactivity to EBNA1 was associated with MS: OR 1.97 (95% CI 1.53 to 2.54) for full-length EBNA1. The C-terminal region that resembles GlialCAM and other brain proteins had a higher OR (2.67, 2.06 to 3.49), and EBNA1 peptide AA381-410 had OR 3.27 (2.50 to 4.28).
 - Higher reactivity to GlialCAM was associated with MS: OR 1.81 (1.40 to 2.34) for the intracellular domain, and 2.63 (2.02 to 3.43) for the most strongly associated peptide, AA385-416. CRYAB AA2-33 had OR 1.94 and ANO2 AA134-153 had OR 2.32.
-- In blocking experiments, an EBNA1 peptide (AA386-405) reduced antibody binding to a GlialCAM peptide (AA370-389), which the authors read as cross-reactive antibodies. The reverse block was only partial.
+- In blocking experiments, an EBNA1 peptide (AA386-405) reduced antibody binding to a GlialCAM peptide (AA370-389), which the authors read as cross-reactive antibodies. The reverse block was only partial: the Results text says GlialCAM AA370-389 only partially blocks binding to EBNA1 AA386-405 (Fig. 3D and F).
 - Having HLA-DRB1*15:01 together with raised antibodies to EBNA1 and GlialCAM gave OR 9.40 (6.04 to 14.86). The authors describe these three factors as independent risk factors that add up. Other HLA-DRB1*15:01 combinations gave ORs of 5.42 and 10.01. Absence of the protective HLA-A*02:01 allele gave higher ORs (12 to 19) in its own supplementary analysis.
-- Combining several antibody reactivities gave a modest rise in risk (OR 2.1 to 3.16). The authors contrast this with a prior study's figures of 240-fold to over 1,300-fold.
+- Combining several antibody reactivities gave a modest rise in risk (OR 2.1 to 3.16). The authors contrast this with a prior study's figures: OR 243.1 for three or more mimic antibodies and 1,366 for three or more EBNA1 antibodies (the paper's own summary rounds the low end to "240- to over 1,300-fold"). The authors say their own ORs are more than two orders of magnitude lower.
 
 ## Limits
 

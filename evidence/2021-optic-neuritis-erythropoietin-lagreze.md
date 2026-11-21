@@ -29,8 +29,8 @@ The authors say conversion of optic neuritis to MS is a question for future rese
 
 - Erythropoietin was always given with high-dose methylprednisolone, so this trial doesn't test erythropoietin without steroids. The authors name this as future work.
 - Only the abstract was read. The full paper may hold subgroup, visual function or safety detail that isn't here.
-- Five participants were excluded from the primary analysis. The confidence intervals on both primary outcomes are wide, so the trial rules out neither small nor moderate benefit or harm on these measures.
-- Participants were aged 18-50 with a first optic neuritis episode, so the results don't cover older people or people already diagnosed with MS.
+- Five participants were excluded from the primary analysis. The confidence intervals on both primary outcomes are wide, so the trial cannot exclude differences of several units either way (for example 7.55 um on pRNFL, 5.01 letters on low-contrast acuity at the upper end).
+- Participants were aged 18-50 and had no previous MS diagnosis, so the results don't directly cover older people or people already diagnosed with MS.
 - Funding came from a public body (BMBF). The abstract doesn't list any conflicts of interest.
 
 This is a research note, not medical advice.

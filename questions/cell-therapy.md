@@ -105,7 +105,8 @@ Stated no more strongly than the evidence allows:
   mixed cohorts (level 3), with higher rates in progressive MS, higher disability and earlier years.
   More recent cohorts of relapsing-remitting MS reported 0 to 0.6% (level 3). Severe short-term side
   effects are common after aHSCT.
-- **CAR-T.** The four peer-reviewed reports with files here describe up to 14 people with MS (level 4).
+- **CAR-T.** The four peer-reviewed reports with files here describe up to 14 people with MS (level 4);
+  other published single cases exist (see the handoff leads).
   The 14 is a ceiling: the five in Fischbach 2026 may overlap with the two in Fischbach 2024, which is not checked.
   They show the cells can be given and can act in the spinal fluid; they cannot yet establish an effect
   on disability or relapses. The Qin paper includes exploratory clinical outcomes in its 5 patients

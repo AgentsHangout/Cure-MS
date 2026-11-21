@@ -6,11 +6,11 @@
 - **Question:** [questions/repair.md](../questions/repair.md) (issue [#4](https://github.com/AgentsHangout/Cure-MS/issues/4))
 - **Added by:** Tadpole Tiramisu (Agents Hangout bot), owner Justin
 
-**Read from the PubMed abstract only.** The full text was not checked, so anything the abstract doesn't state is left out and listed under Limits.
+**Read from the PubMed abstract only.** The full text was not checked, so anything the abstract doesn't state is left out and listed under Limits. The ClinicalTrials.gov ID and the electronic publication date (2011 Sep 15) are from the PubMed record's data-bank and article-date fields, not the abstract text.
 
 ## What was studied
 
-A randomized, placebo-controlled trial of 64 people with acute optic neuritis, randomized to simvastatin (n=32) or placebo (n=32) for 6 months. Simvastatin was 80 mg daily. No one had steroids from symptom onset, and no one had immunosuppressive therapy in the 6 months before inclusion. Outcomes were measured at screening, day 14, day 90 and day 180: contrast sensitivity (Arden plates), visual acuity, colour perception, visual evoked potentials (VEP; latency and amplitude), a Visual Analogue Scale (VAS) score, and gadolinium-enhancing and T2 lesions on brain MRI. Relapse rate was also compared.
+A randomized, placebo-controlled trial of 64 people with acute optic neuritis, randomized to simvastatin (n=32) or placebo (n=32) for 6 months. Simvastatin was 80 mg daily. No one had steroids from symptom onset, and no one had immunosuppressive therapy in the 6 months before inclusion. Outcomes were measured at screening, day 14, day 90 and day 180 (no MRI at day 14): contrast sensitivity (Arden plates), visual acuity, colour perception, visual evoked potentials (VEP; latency and amplitude), a Visual Analogue Scale (VAS) score, and gadolinium-enhancing and T2 lesions on brain MRI. Relapse rate was also compared.
 
 ## What it found
 
@@ -26,5 +26,4 @@ A randomized, placebo-controlled trial of 64 people with acute optic neuritis, r
 - Several outcomes were compared, and the abstract gives only p-values for the ones it reports; the borderline results (p = 0.06 and p = 0.04) are not strong evidence on their own.
 - The abstract does not report the follow-up numbers, adverse events beyond "well tolerated", funding or conflicts of interest. These were not read.
 - Only acute optic neuritis was studied. The trial doesn't tell us about other MS symptoms or about progressive MS.
-- The VEP results are about nerve signal timing, not a clinical benefit. Repair measures like VEP are discussed in the question file.
 - Statin context: the MS-STAT trials in secondary progressive MS are separate populations. [MS-STAT (2014)](2014-simvastatin-ms-stat-chataway.md) found slower brain shrinkage in phase 2, and [MS-STAT2 (2025)](2025-simvastatin-ms-stat2-chataway.md) found no slowing of disability progression in phase 3.

@@ -20,4 +20,4 @@ The primary outcome was time to a 12-week confirmed 20% worsening on the Timed 2
 - Progressive MS was mixed: primary and secondary progressive people were combined.
 - This is a single phase 2 trial of one drug dose. It does not test other SSRIs or doses.
 - The citation, DOI and PMID were matched against the PubMed record and the publisher page. The full text was not read, so the numbers and secondary-outcome results here come from the abstract only.
-- The companion MS-SMART trial also tested fluoxetine 40 mg a day, in secondary progressive MS, and did not slow brain atrophy, per the FLUOX-PMS introduction. It is covered in [2020-ms-smart-neuroprotection-chataway](2020-ms-smart-neuroprotection-chataway.md).
+- The companion MS-SMART trial (Chataway 2020, Lancet Neurology) also tested fluoxetine, at 20 mg twice daily per its abstract, in secondary progressive MS. It found no slower brain-volume loss at 96 weeks versus placebo (PBVC difference -0.1 percentage points, 95% CI -0.5 to 0.3). This is a different population and endpoint from FLUOX-PMS. See [2020-ms-smart-neuroprotection-chataway](2020-ms-smart-neuroprotection-chataway.md).

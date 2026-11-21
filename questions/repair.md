@@ -58,6 +58,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2017-opicinumab-renew-cadavid](../evidence/2017-opicinumab-renew-cadavid.md) | 2 | In 82 people after a first optic neuritis, opicinumab did not meet its main VEP latency outcome (-3.5 ms, p = 0.33); the per-protocol group showed more VEP recovery (-7.6 ms, p = 0.050), but a separate analysis found no significant difference in patient-reported vision or high-contrast acuity. |
 | [2025-opicinumab-renewed-aktas](../evidence/2025-opicinumab-renewed-aktas.md) | 2 | Two years after RENEW, in 52 of its 82 participants, VEP latency was numerically but not significantly better with opicinumab, and the authors report no benefit on visual acuity or other neurological functions. |
 | [2025-elezanumab-radius-cree](../evidence/2025-elezanumab-radius-cree.md) | 2 | RADIUS-R (208 people, relapsing MS) and RADIUS-P (123, progressive MS): elezanumab did not meet the functional-improvement outcome in either trial at either dose. |
+| [2017-gsk239512-remyelination-schwartzbach](../evidence/2017-gsk239512-remyelination-schwartzbach.md) | 2 | In 131 people with relapsing-remitting MS, oral GSK239512 (an H3 antagonist) gave a small MRI remyelination signal: GdE-lesion MTR effect size 0.344 (90% CI 0.018 to 0.671); the Delta-MTR interval crosses 0. An imaging biomarker, not clinical benefit; no meaningful change on EDSS or CogState; more insomnia. |
 
 ### Systematic reviews
 

@@ -1,6 +1,6 @@
 # FLUOX-PMS: fluoxetine did not slow progression in progressive MS
 
-- **Citation:** Cambron M, Mostert J, D'Hooghe M, Nagels G, Willekens B, Debruyne J, et al.; FLUOX-PMS Study Group. Fluoxetine in progressive multiple sclerosis: The FLUOX-PMS trial. *Multiple Sclerosis Journal*. 2019;25(13):1728-1735.
+- **Citation:** Cambron M, Mostert J, D'Hooghe M, Nagels G, et al.; FLUOX-PMS Study Group. Fluoxetine in progressive multiple sclerosis: The FLUOX-PMS trial. *Multiple Sclerosis Journal*. 2019;25(13):1728-1735.
 - **DOI or PMID:** [10.1177/1352458519843051](https://doi.org/10.1177/1352458519843051); [PMID 31218911](https://pubmed.ncbi.nlm.nih.gov/31218911/)
 - **Evidence level:** 2, randomized controlled trial.
 - **Question:** [Can treatments repair myelin or protect nerves in ways people can feel?](../questions/repair.md)
@@ -8,7 +8,7 @@
 
 ## What was studied
 
-A double-blind, multicenter phase 2 trial in Belgium and the Netherlands. People with primary or secondary progressive MS were randomized to fluoxetine 40 mg a day or placebo for 108 weeks. Trained study nurses assessed them every 12 weeks, visiting at home. The efficacy analysis included 137 people: 69 on fluoxetine and 68 on placebo. The trial was designed to test whether fluoxetine slows the accumulation of disability, on the basis of preclinical work suggesting neuroprotective effects.
+A double-blind, multicenter phase 2 trial. People with primary or secondary progressive MS were randomized to fluoxetine 40 mg a day or placebo for 108 weeks. Trained study nurses assessed them every 12 weeks, visiting at home. The efficacy analysis included 137 people: 69 on fluoxetine and 68 on placebo. The trial was designed to test whether fluoxetine slows the accumulation of disability, on the basis of preclinical work suggesting neuroprotective effects.
 
 ## What it found
 
@@ -20,4 +20,4 @@ The primary outcome was time to a 12-week confirmed 20% worsening on the Timed 2
 - Progressive MS was mixed: primary and secondary progressive people were combined.
 - This is a single phase 2 trial of one drug dose. It does not test other SSRIs or doses.
 - The citation, DOI and PMID were matched against the PubMed record and the publisher page. The full text was not read, so the numbers and secondary-outcome results here come from the abstract only.
-- The companion MS-SMART trial, which tested fluoxetine alongside amiloride and riluzole in secondary progressive MS, is covered in [2020-ms-smart-neuroprotection-chataway](2020-ms-smart-neuroprotection-chataway.md). Both trials found no clear neuroprotective benefit of fluoxetine on their primary outcomes.
+- The companion MS-SMART trial also tested fluoxetine 40 mg a day, in secondary progressive MS, and did not slow brain atrophy, per the FLUOX-PMS introduction. It is covered in [2020-ms-smart-neuroprotection-chataway](2020-ms-smart-neuroprotection-chataway.md).

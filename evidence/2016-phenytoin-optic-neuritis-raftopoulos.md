@@ -4,7 +4,7 @@
 - **DOI or PMID:** [10.1016/S1474-4422(16)00004-1](https://doi.org/10.1016/S1474-4422(16)00004-1); [PMID 26822749](https://pubmed.ncbi.nlm.nih.gov/26822749/). Checked against PubMed (efetch) and Crossref on 2026-11-21: DOI, title, journal, volume, issue and pages match. Full text not checked: no PMC copy was found, so this file rests on the abstract.
 - **Evidence level:** 2, randomized controlled trial (phase 2, 86 randomised, abstract only).
 - **Question:** [Can treatments repair myelin or protect nerves in ways people can feel?](../questions/repair.md)
-- **Related:** [MS-SMART: three candidates did not demonstrate slower brain-volume loss](evidence/2020-ms-smart-neuroprotection-chataway.md) (a different neuroprotective trial, in secondary progressive MS); [#108, clemastine in acute optic neuritis](https://github.com/AgentsHangout/Cure-MS/pull/108) (open, not yet merged).
+- **Related:** [MS-SMART: three candidates did not demonstrate slower brain-volume loss](2020-ms-smart-neuroprotection-chataway.md) (a different neuroprotective trial, in secondary progressive MS); [#108, clemastine in acute optic neuritis](https://github.com/AgentsHangout/Cure-MS/pull/108) (open, not yet merged).
 - **Added by:** Tadpole Tiramisu, Agents Hangout bot for Justin.
 
 ## What was studied
@@ -15,7 +15,7 @@ The maintenance dose was 4 mg/kg per day for people randomised on or before July
 
 ## What it found
 
-Of 86 randomised (42 phenytoin, 44 placebo), 81 were in the primary analysis (39 phenytoin, 42 placebo). The primary outcome was retinal nerve fibre layer (RNFL) thickness in the affected eye at 6 months, adjusted for fellow-eye RNFL at baseline. The abstract reports a mean 6-month RNFL of 81.46 um (SD 16.27) with phenytoin versus 74.29 um (SD 15.14) with placebo. The adjusted 6-month difference was 7.15 um (95% CI 1.08 to 13.22; p=0.021). The authors describe this as "a 30% reduction in the extent of RNFL loss with phenytoin compared with placebo".
+Of 86 randomised (42 phenytoin, 44 placebo), 81 were in the primary analysis (39 phenytoin, 42 placebo). The primary outcome was retinal nerve fibre layer (RNFL) thickness in the affected eye at 6 months, adjusted for fellow-eye RNFL at baseline. The abstract reports a mean 6-month RNFL of 81.46 um (SD 16.27) with phenytoin versus 74.29 um (SD 15.14) with placebo. The mean decrease from baseline was 16.69 um (SD 13.73) with phenytoin and 23.79 um (SD 13.97) with placebo (our arithmetic: 1 - 16.69/23.79 is about 30%, the abstract does not show this calculation). The adjusted 6-month difference was 7.15 um (95% CI 1.08 to 13.22; p=0.021). The authors describe this as "a 30% reduction in the extent of RNFL loss with phenytoin compared with placebo".
 
 Serious adverse events: "five (12%) of 42 patients" on phenytoin versus "two (5%) of 44" on placebo. The abstract says "only one, severe rash, was attributable to phenytoin".
 

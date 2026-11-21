@@ -27,7 +27,7 @@ Adverse events, treatment phase (65 GSK239512, 66 placebo): any AE 74% vs 76%. T
 
 - This is an imaging biomarker result, not clinical benefit. The trial's main outcome was an MRI measure of remyelination. The paper reports no meaningful change in disability or cognition, and does not show that an MTR change predicts a change people feel.
 - Small numbers. Only 27 and 28 people (GdE), and 24 and 29 (Delta-MTR), contributed to the primary analyses. The results use 90% CIs. The Delta-MTR effect-size CI includes 0, and so does the 90% CI for the Delta-MTR difference.
-- The title says "single-blind", while the abstract says "double-blind (sponsor-unblinded)". The full text read here does not settle this.
+- Blinding: the title says "single-blind", but the abstract and the Methods (Study design) both say "double-blind (sponsor-unblinded)", so the title is the only single-blind wording.
 - The authors are from GSK, the sponsor.
 - A post hoc finding: in the small subgroup with no GdE lesions on the screening MRI, people on GSK239512 had more than double the new lesions compared with placebo. This was not a planned analysis.
 - Phase II, 48 weeks, 131 people. Not tested in progressive MS.

@@ -291,6 +291,7 @@ Stated no more strongly than the evidence allows:
 - Studies of whether MS drugs that deplete B cells change EBV activity, and whether that relates to
   their effect on MS.
 - Independent repeats of the molecular mimicry findings (GlialCAM, anoctamin-2, alpha-crystallin B).
+  Sattarnezhad 2025 (level 3) is one independent repeat in people: higher EBNA1 and GlialCAM antibody reactivity in a Swedish case-control study. It measures antibodies at one time point, so it does not test the mechanism itself; repeats of the blocking and mouse findings are still needed.
 
 ## Changes after review (11/03/2026)
 

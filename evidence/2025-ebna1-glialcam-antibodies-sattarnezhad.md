@@ -23,6 +23,6 @@ Plasma from 650 people with MS and 661 population-based controls, matched for se
 - Case-control design with antibodies measured at one time point. It cannot show that the antibodies came before MS or that they cause it.
 - One cohort in Sweden, with 650 cases, mostly relapsing-remitting MS. Many estimates come from subgroups and combinations of several markers. The text I read does not describe a correction for the many antibody tests.
 - The ORs are for antibody levels against chosen peptides and cut-offs. The positivity cut-off was the control median. The authors say cut-offs recalculated by other methods did not change the results.
-- Authors' interpretation is that molecular mimicry between EBNA1 and GlialCAM is likely an important mechanism. This study shows an association and a blocking result, not that the mechanism drives MS in most people.
+- Authors' interpretation is that molecular mimicry between EBNA1 and GlialCAM is likely an important mechanism. This study shows an association and a blocking result, not that the mechanism drives MS in most people. The earlier cerebrospinal-fluid and mouse work on the same EBNA1–GlialCAM pair is in [2022-ebna1-glialcam-mimicry-lanz](2022-ebna1-glialcam-mimicry-lanz.md) (level 5).
 - Infectious mononucleosis history was not balanced between the groups: 13.5% of cases vs 9.2% of controls said yes, and many answered "do not know" or left it blank.
 - Not treatment or risk advice for any person.

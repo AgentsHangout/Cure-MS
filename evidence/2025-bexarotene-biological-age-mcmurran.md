@@ -29,11 +29,11 @@ Follow-up work on the same trial has its own files: [VEP follow-up](2024-bexarot
 
 ## Limits
 
-- Post hoc and exploratory, in one small trial. The brain-age analysis includes 44 people, and the authors note a risk of type II error. Many models were tested, and there was no correction for multiple comparisons reported in the paper.
+- Post hoc and exploratory, in one small trial. The brain-age analysis includes 44 people, and the authors note a risk of type II error. Many models were tested. The paper does not mention a correction for multiple comparisons.
 - Brain age is a model output, not a clinical outcome. The study has no disability endpoint. EDSS was used only cross-sectionally at baseline. No clinical benefit was shown.
 - Brain-age change may include artefacts. The authors say oedema may contribute and cannot rule this out.
 - Cortical lesions were detected on FLAIR, which is much less sensitive for cortical lesions. Findings may not apply to all grey matter lesions.
 - Dimethyl fumarate lowers lymphocytes. The authors reran the blood measure without lymphocytes, and the remyelination results were largely consistent.
 - Participants were aged 18 to 50 and all on dimethyl fumarate, so the results may not apply to other people with MS.
 - Funding: NIHR Cambridge Biomedical Research Centre and Clinical Research Facility, and the UK MS Society.
-- **Competing interests (from the paper):** J.H. Cole, a co-author, is a scientific advisor to and shareholder in BrainKey and Claritas HealthTech PTE. The paper uses Cole's brain-age protocol, so this conflict is relevant to the brain-age results. J.W.L. Brown reports speaking, consulting and travel fees from Biogen, Novartis and Roche. D.T. Chard reports consulting for Hoffmann-La Roche and Biogen, and research funding from several bodies including Roche and the MS Society.
+- **Competing interests (from the paper):** J.H. Cole, a co-author, is a scientific advisor to and shareholder in BrainKey and Claritas HealthTech PTE. The brain-age model is brainageR, which the paper calls "our previously established" protocol and cites to Cole's earlier work, so this conflict bears on the brain-age results. J.W.L. Brown reports speaking, consulting and travel fees from Biogen, Novartis and Roche. D.T. Chard reports consulting for Hoffmann-La Roche and Biogen, and research funding from several bodies including Roche and the MS Society.

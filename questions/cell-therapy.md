@@ -86,6 +86,7 @@ tested interaction, so this is a pattern, not a test.
 | [2024-cd19-car-t-fischbach](../evidence/2024-cd19-car-t-fischbach.md) | 4 | Reported in 2 people with progressive MS: CD19 CAR-T cells reached the spinal fluid without neurotoxicity; antibody production in spinal fluid fell in one. The abstract reports no clinical outcomes; the full paper reportedly describes short, uncontrolled clinical observations and a serious liver-enzyme elevation (reported by a reviewer, not checked here). |
 | [2025-bcma-car-t-qin](../evidence/2025-bcma-car-t-qin.md) | 4 | Reported in 5 people with progressive MS in a phase 1 trial: only mild cytokine release syndrome, severe low blood counts in all within 40 days, and signs of plasma cell depletion in the CNS. The abstract reports no clinical outcomes. The paper reports exploratory clinical outcomes for the 5 patients (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf)); the exact values are inconsistent between versions, and without a control group they cannot show the treatment caused any change. |
 | [2026-cd20-bcma-bispecific-car-t-ling](../evidence/2026-cd20-bcma-bispecific-car-t-ling.md) | 4 | Reported in 2 people with secondary progressive MS given a CD20/BCMA bispecific CAR-T product: EDSS 4.0 to 3.0 and 6.5 to 6.0 over 12 and 6 months, with CAR-T cells measured in spinal fluid in one of them and B-lineage cells depleted in blood before naive B cells returned; uncontrolled, company-funded and company-authored. |
+| [2026-cd19-car-t-immune-signatures-fischbach](../evidence/2026-cd19-car-t-immune-signatures-fischbach.md) | 4 | Reported in 5 people with progressive or relapsing-remitting MS (abstract only, uncontrolled): CD19 CAR-T changed the B cell pool in spinal fluid, with a sustained fall in spinal fluid antibody-related biomarkers, and CAR-T cells in spinal fluid upregulated phosphodiesterase 7B. Immune markers only, with no disability, relapse or MRI outcomes. Two authors declare Kyverna Therapeutics links. May overlap with the 2 people in Fischbach 2024. |
 
 ## What the evidence so far suggests
 
@@ -104,8 +105,8 @@ Stated no more strongly than the evidence allows:
   mixed cohorts (level 3), with higher rates in progressive MS, higher disability and earlier years.
   More recent cohorts of relapsing-remitting MS reported 0 to 0.6% (level 3). Severe short-term side
   effects are common after aHSCT.
-- **CAR-T.** The three peer-reviewed reports with files here describe 9 people with MS (level 4);
-  other published single cases exist (see the handoff leads).
+- **CAR-T.** The four peer-reviewed reports with files here describe up to 14 people with MS (level 4).
+  The 14 is a ceiling: the five in Fischbach 2026 may overlap with the two in Fischbach 2024, which is not checked.
   They show the cells can be given and can act in the spinal fluid; they cannot yet establish an effect
   on disability or relapses. The Qin paper includes exploratory clinical outcomes in its 5 patients
   (seen by a reviewer in a [manufacturer-hosted corrected proof](https://en.iasobio.com/uploads/2025-10/17/_1760664636_3659.pdf); the exact values differ

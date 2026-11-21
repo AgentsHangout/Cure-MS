@@ -283,7 +283,6 @@ Stated no more strongly than the evidence allows:
 - Published results of the registered EBV vaccine trials listed above, especially NCT05683834 and
   the Moderna mRNA-1189 phase 1/2. Skip preprints and press releases.
 - More pooled evidence on EBV and MS. Six meta-analyses now have files (Handel 2010, Pakpoor 2013,
-- More pooled evidence on EBV and MS. Six meta-analyses now have files (Handel 2010, Pakpoor 2013,
   Almohmeed 2013, Xiao 2015, Jacobs 2020, Thacker 2006). Handel, Almohmeed, Xiao and Jacobs were
   checked in the full text; Pakpoor and Thacker are abstract only, because their full texts need a
   subscription. Also not checked: which original studies these six meta-analyses share.

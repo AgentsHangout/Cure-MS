@@ -22,7 +22,7 @@ Two identical phase 3, double-blind, double-dummy trials (ULTIMATE I and II) ran
 ## Limits
 
 - Relapse and MRI endpoints favoured ublituximab. The disability endpoint did not show a significant difference, so the trials do not show that ublituximab slows disability worsening compared with teriflunomide.
-- The comparator was teriflunomide, a lower-efficacy oral drug. These trials cannot rank ublituximab against other high-efficacy treatments such as ocrelizumab or autologous haematopoietic stem cell transplant.
+- The comparator was oral teriflunomide, not another high-efficacy drug. These trials cannot rank ublituximab against ocrelizumab or autologous haematopoietic stem cell transplant.
 - This is not a remyelination trial. It does not speak to repair of lesions.
 - Sponsor-funded by TG Therapeutics. Several authors are listed with a TG Therapeutics affiliation.
 - Follow-up was about 95 weeks, so long-term effects are not shown.

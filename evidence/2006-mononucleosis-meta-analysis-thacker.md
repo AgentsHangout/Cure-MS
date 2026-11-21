@@ -19,4 +19,4 @@ The combined relative risk of MS after IM was 2.3 (95% CI 1.7 to 3.0; p < 10^-8)
 - Written from the abstract only. The full text is not open access, so the numbers of cases and controls, the study list, and the adjustment for confounders were not checked.
 - IM is a clinical diagnosis. Studies that rely on it do not measure EBV infection itself, and mild or unrecognised infection is missed.
 - This is an observational association. "Risk factor" is the authors' wording and does not show that EBV causes MS.
-- It is from 2006, before the cohort studies in the question file, and it is a subset of the evidence that Handel 2010 later updated (see the mononucleosis rows in [questions/ebv.md](../questions/ebv.md)). It is not an independent estimate from that meta-analysis.
+- It is from 2006, before the cohort studies in the question file. The question file says Handel 2010 updates it (see the mononucleosis rows in [questions/ebv.md](../questions/ebv.md)). Whether the two share studies was not checked here.

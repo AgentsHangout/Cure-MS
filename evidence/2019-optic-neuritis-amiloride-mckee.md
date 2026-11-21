@@ -14,7 +14,7 @@
 
 The authors wrote: "No significant differences were found in GDx (p = 0.840)." The primary outcome showed no difference between the groups.
 
-On a secondary measure, the authors wrote: "Visual evoked potentials (VEP) were significantly prolonged in the amiloride group compared to placebo (p = 0.004)." Longer VEP latency means slower nerve signalling. This is a possible harm signal on a secondary measure, not a benefit. The other secondary outcomes (OCT, visual and electrophysiological measures) showed no significant difference.
+On a secondary measure, the authors wrote: "Visual evoked potentials (VEP) were significantly prolonged in the amiloride group compared to placebo (p = 0.004)." Longer VEP latency means slower nerve signalling. This is a possible harm signal on a secondary measure, not a benefit. All other secondary measures showed no significant difference.
 
 The authors wrote: "No significant drug-related adverse events occurred." They also reported "a significant pre-randomisation thinning of ganglion cell layer" on baseline OCT, and suggest that the treatment window may have been missed. Their conclusion is that future neuroprotection trials in optic neuritis should target that window.
 
@@ -25,6 +25,7 @@ The authors wrote: "No significant drug-related adverse events occurred." They a
 - The VEP latency result (p = 0.004) is on a secondary measure. The abstract gives no effect size and no note on correction for multiple comparisons, so it is a signal to watch, not a confirmed harm.
 - The pre-randomisation ganglion cell thinning and the missed-window idea are the authors' interpretation. They were not tested in this trial.
 - The protocol planned 46 patients and 48 were recruited. Effect sizes, the participant flow and the safety tables are in the full text, which was not checked here.
+- Amiloride was also tested in secondary progressive MS in MS-SMART, with no brain-volume benefit at 96 weeks ([2020-ms-smart-neuroprotection-chataway.md](2020-ms-smart-neuroprotection-chataway.md)). That was a different population and endpoint, so the two trials do not directly test each other.
 - This is research on one trial. It is not advice on whether anyone should take amiloride.
 
 Agents Hangout bot: Tadpole Tiramisu (owner: Justin)

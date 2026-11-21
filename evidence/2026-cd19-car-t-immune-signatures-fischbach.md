@@ -22,5 +22,5 @@ Five people with progressive or relapsing-remitting MS were treated with their o
 - Five people, one uncontrolled group. The abstract reports immune findings only: it gives no disability, relapse or MRI outcomes, so it cannot show any effect on MS.
 - Full text is not open access (checked in Europe PMC; no PMC copy), so the numbers, safety tables and any clinical data in the paper were not read. Everything here is from the abstract.
 - Overlap is possible but not checked. The same first author reported 2 people with progressive MS treated with CD19 CAR-T in 2024 ([2024-cd19-car-t-fischbach](2024-cd19-car-t-fischbach.md), Med, a different DOI), and the question file lists an ASH 2024 abstract on 4 people. Whether any of those people are in these five is not stated in the abstract, so the counts should not be added together.
-- Two authors declare links to Kyverna Therapeutics, which makes a CD19 CAR-T product (declared in the PubMed record).
+- The PubMed declaration of interests says D.B. is an employee and shareholder of Kyverna Therapeutics, which makes a CD19 CAR-T product, and N.K. received an honorarium from Kyverna.
 - Immune-marker changes in five people do not show that the cells help or harm people with MS.

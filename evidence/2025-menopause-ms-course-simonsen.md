@@ -1,6 +1,6 @@
 # Menopause and MS disease course in a Norwegian cohort (Simonsen 2025)
 
-- **Citation:** Simonsen CS, Flemmen HØ, Broch L, et al. The influence of menopause on multiple sclerosis. *European Journal of Neurology*, 2025;32(1):e16566. Epub 2024 Dec.
+- **Citation:** Simonsen CS, Flemmen HØ, Broch L, et al. The influence of menopause on multiple sclerosis. *European Journal of Neurology*, 2025;32(1):e16566. Epub 2024 Nov 27.
 - **DOI or PMID:** [doi:10.1111/ene.16566](https://doi.org/10.1111/ene.16566), PMID [39601490](https://pubmed.ncbi.nlm.nih.gov/39601490/)
 - **Evidence level:** 3 (cohort study)
 - **Question:** [questions/sex-differences.md](../questions/sex-differences.md)
@@ -23,5 +23,6 @@ A cohort study with clinical data collected prospectively, from Norwegian neurol
 - One country and a small number of centres, so it may not apply elsewhere.
 - The abstract's EDSS slope interval and the relapse-rate interval are internally inconsistent (for example a p-value that does not match its 95% CI), so no before-and-after coefficients are quoted here.
 - "No significant difference" is not proof of no effect, and the study's power to detect a small change is not stated in the abstract.
-- Men were not a matched comparison group in the abstract's description; the sex comparison is an extra analysis.
+- The abstract calls the men "similarly aged" but doesn't describe how they were matched; the sex comparison is an extra analysis.
+- The time-to-diagnosis results also conflict within the abstract. Women whose menopause came before onset had 3.1 vs 7.4 years to diagnosis (earlier menopause, shorter time), but the abstract's second line, "menopause before diagnosis", gives 8.8 vs 5.5 years, the reverse direction. The abstract doesn't explain the difference, so neither result is relied on here.
 - Numbers come from the PubMed abstract; the full text was not checked.

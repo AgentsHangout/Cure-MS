@@ -22,7 +22,7 @@ A randomized, placebo-controlled trial of 64 people with acute optic neuritis, r
 ## Limits
 
 - Abstract only. The abstract does not report the visual acuity result, even though the title says simvastatin "improves final visual outcome". The main reported benefits are VEP measures, which are nerve-signal tests and not the same as a clinical visual-acuity benefit. The abstract gives no visual acuity numbers, so this file doesn't claim one.
-- A small, single trial of 64 people, with 32 per group, in one center setting (Glostrup Hospital, Denmark, per the affiliation).
+- A small, single trial: 64 people, 32 per group. The abstract doesn't say how many centers took part; the first author is at Glostrup Hospital, Denmark.
 - Several outcomes were compared, and the abstract gives only p-values for the ones it reports; the borderline results (p = 0.06 and p = 0.04) are not strong evidence on their own.
 - The abstract does not report the follow-up numbers, adverse events beyond "well tolerated", funding or conflicts of interest. These were not read.
 - Only acute optic neuritis was studied. The trial doesn't tell us about other MS symptoms or about progressive MS.

@@ -22,7 +22,7 @@ On secondary outcomes, lamotrigine reduced deterioration on the timed 25-foot wa
 
 - Small trial in one type of MS (secondary progressive), 2 years. The 95% CI for the primary result (-2.56 to 1.15 mL) is wide, so it cannot rule out a modest effect in either direction.
 - The abstract says "All patients who were randomly assigned were included in the primary analysis", but also that 108 were analysed for the primary endpoint (52 and 56). It does not explain the 12 difference. Check the full text.
-- The early volume loss and its partial reversal come from an exploratory modelling analysis, with p-values not corrected for the number of outcomes. The authors call for future work on "effects unrelated to neurodegeneration", so the abstract does not settle whether the early change is tissue loss or something else.
+- The early volume loss and its partial reversal come from an exploratory modelling analysis, so they are hypothesis-generating. The authors call for future work on "effects unrelated to neurodegeneration", so the abstract does not settle whether the early change is tissue loss or something else.
 - Only the abstract was checked. The full text is not open access and is not in PubMed Central, so the methods, the adverse-event counts and the secondary-outcome tables were not read.
 - Funding: Multiple Sclerosis Society of Great Britain and Northern Ireland, and the UK Department of Health (PubMed grant list).
 - Related, but a different drug set: [2020-ms-smart-neuroprotection-chataway.md](2020-ms-smart-neuroprotection-chataway.md).

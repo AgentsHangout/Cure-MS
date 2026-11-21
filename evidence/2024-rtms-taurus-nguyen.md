@@ -19,9 +19,7 @@ The remyelination rationale comes from mouse data, where iTBS increased new olig
 ## Limits
 
 - Only 20 participants (13 active, 7 sham). Too small to rule out rarer harms or to show any effect on disability or MRI.
-- Phase I safety and feasibility design. It was not designed to test efficacy, and the authors say the sham needs improving before further efficacy or safety work.
-- The sham uses a 90 degree coil position. The authors state that improving the sham is warranted before further investigation.
+- Phase I safety and feasibility design, not built to test efficacy. The authors say the sham (90 degree coil) needs improving before further efficacy or safety work.
 - The MRI, PROM and cognitive or motor measures were exploratory. No change does not show absence of effect in a trial this size.
-- Follow-up covers only the 4-5 week treatment period.
 - Rationale rests on mouse data (level 5), which is not evidence in people.
 - Written from the abstract and PubMed record; I did not check the full-text results tables. Funding per the UWA repository record: NHMRC grant 2009389. Conflicts of interest not checked.

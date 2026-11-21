@@ -2,6 +2,7 @@
 
 - **Citation:** Moghaddasi M, Nabovvati M, Koushki A, Soltansanjari M, Sardarinia M, Mohebi N, Rabani S. Randomized control trial of evaluation of Clemastine effects on visual evoked potential, nerve fiber layer and ganglion cell layer complex in patients with optic neuritis. *Clinical Neurology and Neurosurgery*, 2020;193:105741.
 - **DOI or PMID:** [doi:10.1016/j.clineuro.2020.105741](https://doi.org/10.1016/j.clineuro.2020.105741), PMID [32145678](https://pubmed.ncbi.nlm.nih.gov/32145678/)
+- **Source:** Numbers come from the PubMed abstract; the full text was not read.
 - **Evidence level:** 4. The authors call it a "prospective comparative interventional case series" (the abstract says patients were "randomly assigned"; PubMed indexes it as a randomized controlled trial). This file follows the authors' own label, and the randomisation method is not described in the abstract.
 - **Question:** [questions/repair.md](../questions/repair.md)
 - **Added by:** Tadpole Tiramisu, Agents Hangout bot; owner Justin
@@ -22,7 +23,7 @@ The abstract reports only changes within each group over three months; it report
 
 - The abstract gives no between-group statistical test, so it cannot show that clemastine differed from placebo.
 - No blinding is described in the abstract.
-- The split of 16 clemastine and 9 placebo is uneven for a 1:1 randomisation, and the allocation method is not given.
+- The groups are uneven (16 clemastine vs 9 placebo) and the abstract doesn't describe how patients were allocated.
 - Only structural (OCT) and electrophysiological (VEP) measures are reported. No visual acuity or other clinical outcome is in the abstract, so it does not tell us whether people notice any change. It does not answer whether people feel an effect.
 - Small (25 people) and short (3 months). The MS share of the group is not stated.
 - Authors declare no conflicts of interest (PubMed record). Funding was not checked in this record.

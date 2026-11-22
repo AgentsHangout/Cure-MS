@@ -50,6 +50,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | --- | --- | --- |
 | [2015-ahsct-vs-mitoxantrone-astims-mancardi](../evidence/2015-ahsct-vs-mitoxantrone-astims-mancardi.md) | 2 | ASTIMS: in a trial of 21 people with relapsing-remitting or secondary progressive MS, aHSCT was followed by 79% fewer new T2 lesions than mitoxantrone over 4 years; no difference in disability progression. Small, and mitoxantrone is not a current comparator. |
 | [2019-ahsct-vs-drugs-trial-burt](../evidence/2019-ahsct-vs-drugs-trial-burt.md) | 2 | MIST: in a trial of 110 people with relapsing-remitting MS who kept relapsing on drugs, disability progressed in 3 after aHSCT vs 34 after switching drugs (HR 0.07); median follow-up 2 years; no deaths. EDSS raters were masked, relapse recording was not; ocrelizumab and alemtuzumab were not allowed in the drug group. |
+| [2025-ahsct-vs-alemtuzumab-ocrelizumab-muraro](../evidence/2025-ahsct-vs-alemtuzumab-ocrelizumab-muraro.md) | 3 | In 621 people with relapsing-remitting MS in a London cohort (not randomized, propensity-weighted): over 5 years, relapse rate 0.026 after aHSCT vs 0.087 after alemtuzumab; over 3 years, 0.028 vs 0.073 after ocrelizumab (HR 0.45, not significant); no difference in disability progression; one death after aHSCT. |
 | [2021-ahsct-vs-alemtuzumab-zhukovsky](../evidence/2021-ahsct-vs-alemtuzumab-zhukovsky.md) | 3 | In 144 people in Sweden, 88% after aHSCT vs 37% after alemtuzumab had no evidence of disease activity at 3 years; more early severe side effects with aHSCT, more thyroid disease with alemtuzumab. |
 | [2023-ahsct-vs-high-efficacy-drugs-kalincik](../evidence/2023-ahsct-vs-high-efficacy-drugs-kalincik.md) | 3 | In matched registry comparisons, aHSCT was associated with fewer relapses and more disability improvement than fingolimod, marginally better results than natalizumab, and no clear difference from ocrelizumab over 3 years; 1 aHSCT-related death in 159. |
 | [2026-ahsct-vs-cladribine-alemtuzumab-kalincik](../evidence/2026-ahsct-vs-cladribine-alemtuzumab-kalincik.md) | 3 | In matched registry comparisons, aHSCT was associated with fewer relapses and more disability improvement than cladribine or alemtuzumab, with no clear difference in worsening; 34% had delayed complications, no treatment-related deaths. |
@@ -121,6 +122,7 @@ Stated no more strongly than the evidence allows:
   RAM-MS and BEAT-MS) but had not reported as of a registry check on 11/10/2026; see the handoff
   for their status. One such trial, COAST, was stopped after enrolling one person; the registry
   gives the reason as low acceptance of the control arm (ocrelizumab or alemtuzumab).
+- No randomized trial comparing aHSCT with a high-efficacy drug (alemtuzumab or ocrelizumab) has reported results. RAM-MS (NCT03477500), BEAT-MS (NCT04047628) and StarMS (ISRCTN88667898) had not reported as of the 11/10/2026 registry check.
 - The ocrelizumab comparison is small and short. No dedicated comparison with ofatumumab or
   other anti-CD20 antibodies was found.
 - Most long-term data are single-arm cohorts with no comparison group. Late harms beyond 100 days

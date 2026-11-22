@@ -19,6 +19,6 @@ No results. The paper sets out the design and the pre-specified analyses only. T
 
 - Protocol only. Nothing here says whether metformin plus clemastine works or is safe.
 - Single centre, with a planned 70 participants, so any later result will be small.
-- The registry entry (NCT05131828) lists the study as completed, with an enrolment count of 70. The paper I checked has no results, and I did not find results in the places I checked, so this file has no outcome data.
+- The registry entry (NCT05131828) lists the study as completed on 2025-09-26, with an enrolment count of 70. The paper I checked has no results, and I did not find results in the places I checked, so this file has no outcome data.
 - Background for the drug logic: [CCMR One, bexarotene, Brown 2021](2021-bexarotene-ccmr-one-brown.md) and [ReBUILD, clemastine, Green 2017](2017-clemastine-rebuild-green.md).
 - Funded by the Multiple Sclerosis Society (award 129), per Crossref.

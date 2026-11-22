@@ -96,6 +96,7 @@ include one small randomized pilot (Bove 2022), one registry cohort and one mark
 | [2019-age-at-menarche-meta-analysis-azimi](../evidence/2019-age-at-menarche-meta-analysis-azimi.md) | 3 | Pooling three observational studies (two from Iran, one from Canada), each year later at first period was associated with lower odds of MS (crude, unadjusted OR 0.88). |
 | [2019-age-at-puberty-mendelian-randomization-harroud](../evidence/2019-age-at-puberty-mendelian-randomization-harroud.md) | 3 | Genetically later puberty was associated with lower MS odds (OR 0.92 per year), but the association weakened and was no longer significant after accounting for body mass index (OR 0.96). |
 | [2025-menopause-disability-progression-bridge](../evidence/2025-menopause-disability-progression-bridge.md) | 3 | In 987 Australian women with relapse-onset MS, menopause was not associated with confirmed disability progression (HR 0.95, 95% CI 0.70 to 1.29) or conversion to secondary progressive MS. |
+| [2025-menopause-ms-course-simonsen](../evidence/2025-menopause-ms-course-simonsen.md) | 3 | In 559 peri- or postmenopausal women and 386 similarly aged men with MS in Norway, EDSS progression and relapse rate did not differ significantly in the 5 years before vs after menopause; women's EDSS progressed more slowly than men's after menopause (coef -0.02, p=0.032). Observational, self-reported menopause age. |
 | [2024-oral-contraceptives-uk-biobank-nova](../evidence/2024-oral-contraceptives-uk-biobank-nova.md) | 3 | In 181,058 UK Biobank women, pill use was not significantly associated with MS overall (ever use HR 1.30, 95% CI 0.93 to 1.82); higher risks appeared only in subgroups, such as women who never gave birth. |
 
 ### Genetic studies split by sex
@@ -269,7 +270,9 @@ Additional leads and dated follow-ups:
 Searches not yet done:
 
 - Mendelian randomization of age at menopause and sex hormone levels on MS risk (age at puberty now
-  has a file).
+  has a file). Menopause search done for now: Simonsen 2025 (cohort) now has a file; Sun et al. 2024
+  (PMID 37880454, DOI 10.1007/s10072-023-07145-5), a Mendelian randomization of age at menopause, was
+  found but is a letter with no abstract, so it has no file and no numbers are claimed.
 - Powered randomized trials of menopausal hormone therapy on MS outcomes (beyond the Bove 2022
   pilot), and
   population-based studies of parity and later course that account for disease severity before

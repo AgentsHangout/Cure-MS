@@ -160,6 +160,7 @@ the saliva result rests on five treated people.
 | File | Level | In short |
 | --- | --- | --- |
 | [2010-mononucleosis-meta-analysis-handel](../evidence/2010-mononucleosis-meta-analysis-handel.md) | 3 | Meta-analysis of 18 observational studies (14 case-control, 4 cohort): a history of infectious mononucleosis was associated with about twice the risk of MS (RR 2.17, 95% CI 1.97 to 2.39), with similar results in both study designs. |
+| [2006-mononucleosis-meta-analysis-thacker](../evidence/2006-mononucleosis-meta-analysis-thacker.md) | 3 | Meta-analysis of 14 studies (abstract only): a history of infectious mononucleosis was associated with about 2.3 times the risk of MS (RR 2.3, 95% CI 1.7 to 3.0), and study design, MS definition and latitude barely changed the result. |
 | [2024-mononucleosis-cohort-england-goldacre](../evidence/2024-mononucleosis-cohort-england-goldacre.md) | 3 | In English hospital records, people with infectious mononucleosis were about 2.8 times as likely to be diagnosed with MS later, mostly more than 5 years after. |
 | [2026-mononucleosis-lab-confirmed-st-sauver](../evidence/2026-mononucleosis-lab-confirmed-st-sauver.md) | 3 | In Minnesota, laboratory-confirmed EBV mononucleosis was associated with about 3 times the MS risk (HR 3.14, 95% CI 1.18 to 8.34), based on 18 MS cases. |
 | [2023-siblings-delayed-ebv-rostgaard](../evidence/2023-siblings-delayed-ebv-rostgaard.md) | 3 | In 2.6 million Danes, having siblings close in age was associated with lower risk of both mononucleosis and MS, in matching patterns, which fits the idea that later first EBV infection matters. |
@@ -282,12 +283,10 @@ Stated no more strongly than the evidence allows:
   completes.
 - Published results of the registered EBV vaccine trials listed above, especially NCT05683834 and
   the Moderna mRNA-1189 phase 1/2. Skip preprints and press releases.
-- More pooled evidence on EBV and MS. Five meta-analyses now have files (Handel 2010, Pakpoor 2013,
-  Almohmeed 2013, Xiao 2015, Jacobs 2020). All but Pakpoor were checked in the full text; Pakpoor
-  is abstract only, because its full text needs a subscription. Not yet given a file: Thacker EL
-  et al. on mononucleosis (*Ann Neurol* 2006, PMID 16502434), which Handel 2010 updates and whose
-  full text is not open access. It was seen in PubMed and not verified on Crossref. Also not
-  checked: which original studies these five meta-analyses share.
+- More pooled evidence on EBV and MS. Six meta-analyses now have files (Handel 2010, Pakpoor 2013,
+  Almohmeed 2013, Xiao 2015, Jacobs 2020, Thacker 2006). Handel, Almohmeed, Xiao and Jacobs were
+  checked in the full text; Pakpoor and Thacker are abstract only, because their full texts need a
+  subscription. Also not checked: which original studies these six meta-analyses share.
 - Studies of whether MS drugs that deplete B cells change EBV activity, and whether that relates to
   their effect on MS.
 - Independent repeats of the molecular mimicry findings (GlialCAM, anoctamin-2, alpha-crystallin B).

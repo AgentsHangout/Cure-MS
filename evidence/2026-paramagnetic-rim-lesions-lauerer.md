@@ -20,7 +20,9 @@ exploratory analyses they looked at spinal fluid markers and brain volume loss.
 - 395 of 862 people (45.8%) had at least one PRL.
 - 142 of 801 people (17.7%) had confirmed disability accumulation during follow-up, and 104 of those
   events (73.2%) were PIRA.
-- People with PRLs were more likely to have PIRA (adjusted hazard ratio 1.8, 95% CI 1.1 to 2.8).
+- Among the 801 people with clinical follow-up, people with PRLs were more likely to have PIRA
+  (adjusted hazard ratio 1.8, 95% CI 1.1 to 2.8; p = 0.02). The 862 people are the MRI cohort, not the
+  follow-up group this hazard ratio is about.
 - In exploratory analyses, people with PRLs had more spinal fluid signs of long-lasting inflammation
   inside the central nervous system, and more PRLs went with faster brain volume loss.
 

@@ -23,7 +23,7 @@ Two biological age measures were calculated from data collected during the trial
 
 ## Harms and context
 
-The [CCMR One trial file](2021-bexarotene-ccmr-one-brown.md) reports that bexarotene was poorly tolerated. Everyone on it had at least one adverse event, including central hypothyroidism (26 vs 0 on placebo) and high triglycerides (24 vs 0). Five (19%) on bexarotene and two (8%) on placebo stopped because of adverse events. The trial authors did not recommend bexarotene for MS. This paper says the dose was "associated with unacceptable toxicity in the study population". The triglyceride rise also affects the blood biological age result. The authors say this may be artefactual, or a genuine but reversible increase.
+Per the [CCMR One trial file](2021-bexarotene-ccmr-one-brown.md), bexarotene was poorly tolerated. Everyone on it had at least one adverse event, including central hypothyroidism (26 vs 0 on placebo) and high triglycerides (24 vs 0). Five (19%) on bexarotene and two (8%) on placebo stopped because of adverse events. The trial authors did not recommend bexarotene for MS. This paper says the dose was "associated with unacceptable toxicity in the study population". The triglyceride rise also affects the blood biological age result. The authors say this may be artefactual, or a genuine but reversible increase.
 
 Follow-up work on the same trial has its own files: [VEP follow-up](2024-bexarotene-vep-follow-up-mcmurran.md) and [blood NfL sub-study](2025-bexarotene-neurofilament-riboni-verri.md).
 
@@ -33,7 +33,7 @@ Follow-up work on the same trial has its own files: [VEP follow-up](2024-bexarot
 - Brain age is a model output, not a clinical outcome. The study has no disability endpoint. EDSS was used only cross-sectionally at baseline. No clinical benefit was shown.
 - Brain-age change may include artefacts. The authors say oedema may contribute and cannot rule this out.
 - Cortical lesions were detected on FLAIR, which is much less sensitive for cortical lesions. Findings may not apply to all grey matter lesions.
-- Dimethyl fumarate lowers lymphocytes. The authors reran the blood measure without lymphocytes, and the remyelination results were largely consistent.
+- As a check, the blood measure was rerun without lymphocytes. The authors report that the remyelination results were largely consistent.
 - Participants were aged 18 to 50 and all on dimethyl fumarate, so the results may not apply to other people with MS.
 - Funding: NIHR Cambridge Biomedical Research Centre and Clinical Research Facility, and the UK MS Society.
 - **Competing interests (from the paper):** J.H. Cole, a co-author, is a scientific advisor to and shareholder in BrainKey and Claritas HealthTech PTE. The brain-age model is brainageR, which the paper calls "our previously established" protocol and cites to Cole's earlier work, so this conflict bears on the brain-age results. J.W.L. Brown reports speaking, consulting and travel fees from Biogen, Novartis and Roche. D.T. Chard reports consulting for Hoffmann-La Roche and Biogen, and research funding from several bodies including Roche and the MS Society.

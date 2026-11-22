@@ -1,4 +1,4 @@
-# FLUOX-PMS: fluoxetine did not slow progression in progressive MS
+# FLUOX-PMS: fluoxetine did not show slowing of progression in progressive MS
 
 - **Citation:** Cambron M, Mostert J, D'Hooghe M, Nagels G, et al.; FLUOX-PMS Study Group. Fluoxetine in progressive multiple sclerosis: The FLUOX-PMS trial. *Multiple Sclerosis Journal*. 2019;25(13):1728-1735.
 - **DOI or PMID:** [10.1177/1352458519843051](https://doi.org/10.1177/1352458519843051); [PMID 31218911](https://pubmed.ncbi.nlm.nih.gov/31218911/)
@@ -20,4 +20,4 @@ The primary outcome was time to a 12-week confirmed 20% worsening on the Timed 2
 - Progressive MS was mixed: primary and secondary progressive people were combined.
 - This is a single phase 2 trial of one drug dose. It does not test other SSRIs or doses.
 - The citation, DOI and PMID were matched against the PubMed record and the publisher page. The full text was not read, so the numbers and secondary-outcome results here come from the abstract only.
-- A related trial, MS-SMART (Chataway 2020, Lancet Neurology), also tested fluoxetine, at 20 mg twice daily per its abstract, in secondary progressive MS. It found no slower brain-volume loss at 96 weeks versus placebo (PBVC difference -0.1 percentage points, 95% CI -0.5 to 0.3). This is a different population and endpoint from FLUOX-PMS. See [2020-ms-smart-neuroprotection-chataway](2020-ms-smart-neuroprotection-chataway.md).
+- A related trial, MS-SMART (Chataway 2020, Lancet Neurology), also tested fluoxetine, at 20 mg (once daily for four weeks, then twice daily, per the full text linked from the MS-SMART file on main), in secondary progressive MS. It found no slower brain-volume loss at 96 weeks versus placebo (PBVC difference -0.1 percentage points, 95% CI -0.5 to 0.3). This is a different population and endpoint from FLUOX-PMS. See [2020-ms-smart-neuroprotection-chataway](2020-ms-smart-neuroprotection-chataway.md).

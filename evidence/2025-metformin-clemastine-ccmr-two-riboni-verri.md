@@ -13,12 +13,12 @@ This is the protocol for a planned single-centre phase 2a trial in people with r
 
 ## What it found
 
-No results. The paper sets out the design and the pre-specified analyses only. The primary outcome is the change in full-field VEP P100 latency from baseline to week 26. The trial is designed to have 80% power to detect a 3 ms reduction in P100 latency between groups. Secondary outcomes are multifocal VEP and the change in lesional magnetisation transfer ratio, stratified by lesion location and by baseline lesional MTR.
+No results. The paper sets out the design and the pre-specified analyses only. The primary outcome is the change in full-field VEP P100 latency from baseline to week 26. The sample size assumes a two-sided 5% significance level, 80% power and a common SD of 5 ms, which gives 45 eyes per arm to detect a difference of 3 ms in P100 latency. The unit for the primary analysis is the eye, not the participant. Secondary outcomes are the change in multifocal VEP latency from baseline to week 26 for eyes with delayed baseline latency (151 ms or more), the change in lesional magnetisation transfer ratio stratified by lesion location and by baseline lesional MTR, and safety and tolerability.
 
 ## Limits
 
 - Protocol only. Nothing here says whether metformin plus clemastine works or is safe.
-- Single centre, with a planned 70 participants, so any later result will be small.
+- Single centre, with a planned 70 participants, so any later result will be small. The sample was originally planned at 50 participants. It rose to 70 after the interim sample-size review on 28/06/23, because about half of participants had only one eligible eye at screening.
 - The registry entry (NCT05131828) lists the study as completed on 2025-09-26, with an enrolment count of 70. The paper I checked has no results, and I did not find results in the places I checked, so this file has no outcome data.
 - Background for the drug logic: [CCMR One, bexarotene, Brown 2021](2021-bexarotene-ccmr-one-brown.md) and [ReBUILD, clemastine, Green 2017](2017-clemastine-rebuild-green.md).
 - Funded by the Multiple Sclerosis Society (award 129), per Crossref.

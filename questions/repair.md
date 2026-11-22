@@ -58,6 +58,7 @@ Levels follow [docs/evidence-levels.md](../docs/evidence-levels.md).
 | [2017-opicinumab-renew-cadavid](../evidence/2017-opicinumab-renew-cadavid.md) | 2 | In 82 people after a first optic neuritis, opicinumab did not meet its main VEP latency outcome (-3.5 ms, p = 0.33); the per-protocol group showed more VEP recovery (-7.6 ms, p = 0.050), but a separate analysis found no significant difference in patient-reported vision or high-contrast acuity. |
 | [2025-opicinumab-renewed-aktas](../evidence/2025-opicinumab-renewed-aktas.md) | 2 | Two years after RENEW, in 52 of its 82 participants, VEP latency was numerically but not significantly better with opicinumab, and the authors report no benefit on visual acuity or other neurological functions. |
 | [2025-elezanumab-radius-cree](../evidence/2025-elezanumab-radius-cree.md) | 2 | RADIUS-R (208 people, relapsing MS) and RADIUS-P (123, progressive MS): elezanumab did not meet the functional-improvement outcome in either trial at either dose. |
+| [2024-domperidone-remyelination-zhang](../evidence/2024-domperidone-remyelination-zhang.md) | 2 | Pilot RCT of 17 people with relapsing MS (12 domperidone, 5 control): the feasibility target (24 people in 36 months) was missed, no MRI repair measure differed significantly between groups, and 7 of 12 treated had prolactin at least four times normal. |
 
 ### Systematic reviews
 

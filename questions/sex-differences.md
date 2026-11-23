@@ -87,6 +87,7 @@ include one small randomized pilot (Bove 2022), one registry cohort and one mark
 | [2022-hormone-therapy-danish-registry-kopp](../evidence/2022-hormone-therapy-danish-registry-kopp.md) | 3 | In 3,325 Danish women with MS (333 used hormone therapy), no association with disability accrual was found, with wide confidence intervals and a trend toward more risk with longer use; observational. |
 | [2022-bazedoxifene-estrogen-menopause-trial-bove](../evidence/2022-bazedoxifene-estrogen-menopause-trial-bove.md) | 2 | A 2-month randomized pilot in 24 menopausal women with MS found hormone therapy feasible and well tolerated; hot-flash interference was lower but not significantly; it measured MS symptoms, quality of life, function and MRI but was not powered to establish effects on MS activity or disability. |
 | [2025-menopausal-hormone-therapy-adipokines-juutinen](../evidence/2025-menopausal-hormone-therapy-adipokines-juutinen.md) | 4 | In 16 menopausal women with MS and 15 healthy controls, all on hormone therapy, one inflammation-related adipokine fell over a year; no untreated or randomized MS comparison, and no effect on relapses or disability was tested. |
+| [2026-hrt-disability-registry-copeland](../evidence/2026-hrt-disability-registry-copeland.md) | 3 | Preprint, abstract only. In 7,623 Swedish women with MS aged 40 to 60 at entry, current hormone replacement therapy went with a lower hazard of sustained EDSS 4.0 (aHR 0.70, 95% CI 0.51 to 0.96); EDSS 6.0 (aHR 0.80, 0.55 to 1.16) and relapses (aHR 1.00, 0.74 to 1.36) were not significant. Menopausal status was not measured; observational. |
 
 ### Puberty, menopause and the pill
 
@@ -192,7 +193,8 @@ Stated no more strongly than the evidence allows:
   this runs largely through body weight. Number of births and later course now has files, with mixed results that
   may reflect who chooses pregnancy. Menopausal hormone therapy has one small randomized pilot (24
   women, 2 months, focused on feasibility and hot flashes), one Danish registry cohort (observational,
-  no association with disability found) and one 16-person marker study; no trial here is powered to
+  no association with disability found), one Swedish registry preprint (Copeland 2026, abstract only,
+  not peer reviewed, one of three outcomes significant, menopausal status not measured) and one 16-person marker study; no trial here is powered to
   establish effects on MS activity or disability. Sex hormone levels measured before onset
   still have no file.
 - Nearly all numbers here come from abstracts. Several abstracts leave out details (the Canadian

@@ -11,15 +11,16 @@ A systematic review of published epidemiological articles on MS in Latin America
 
 ## What it found
 
-- Incidence was reported in 4 studies, with rates of 0.3 to 3 new cases per 100,000 person-years.
-- Prevalence was reported in 13 studies, with rates of 0.83 to 38.2 cases per 100,000 inhabitants.
+- Incidence: the abstract says "ranged from 0.3 to 3 annual cases per 100,000 person-years". The full-text Results say "ranged from 0.15 to 3 annual cases per 100,000 person-years". The 0.15 is the lower confidence bound of Gracia 2009 (1990 to 1999), 0.3 (0.15 to 0.4) in Table 1; the Table 1 point estimates run from 0.3 to 3.
+- Prevalence: the abstract says "ranged from 0.83 to 38.2 cases per 100,000 inhabitants" in 13 studies. The full-text Results say "ranged from 0.75 to 38.2". The 0.83 is the lower confidence bound of Colombia Caldas, 1.58 (0.83 to 2.33) in Table 2; the lowest Table 2 point estimate is 0.75 (Guayaquil, Ecuador).
 - Two studies showed an increase in prevalence and incidence over the last five years in specific regions.
 - The authors say the reported frequency is lower than in some European and North American countries, and they call for follow-up studies of prevalence and incidence in the region.
 
 ## Limits
 
-- The ranges are not pooled estimates. The studies differ in place, year, case-finding method and age groups, and the wide prevalence range (0.83 to 38.2) may reflect those differences.
-- Only 4 incidence studies were found, so the regional incidence picture is thin.
-- Most of the studies are descriptive, so they can say how common MS was in a place and time, not why.
+- The ranges are not pooled estimates. The studies differ in place and year (Tables 1 and 2). Table 2 footnote a says three studies (Sánchez 2000, Cristiano 2009, Cristiano 2016) used capture-recapture to estimate prevalence. The tables give no age breakdown, so age groups are not compared here. Our inference: the wide prevalence range (0.83 to 38.2 in the abstract) may reflect these differences.
+- Incidence rests on 4 studies in Table 1. The abstract also says 4, but the full-text Results say five, so the count is unclear.
+- Our inference, not stated by the paper: the included studies describe how common MS was in a place and time, so they say little about why.
 - Comparisons with Europe and North America depend on the same kind of method and diagnosis being used in each place, which the abstract does not show.
 - The review does not report a sex ratio (F:M) for any study. Tables 1 and 2 of the full text give no sex breakdown. The full text says the increase in two studies was "mainly in females", with no ratio given.
+- Table 2 lists Guayaquil, Ecuador as 0.75 (0.024 to 0.175). The printed confidence interval does not contain the point estimate, so that entry may be a typo in the paper.

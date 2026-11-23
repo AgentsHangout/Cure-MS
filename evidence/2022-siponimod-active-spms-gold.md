@@ -8,7 +8,7 @@
 
 ## What was studied
 
-This analysis reused the phase 3 [EXPAND trial](2018-siponimod-expand-kappos.md), rather than recruiting a new population. Of 1,645 randomized participants who received study drug, 779 met the analysis definition of active secondary progressive MS: at least one relapse in the two years before screening and/or at least one gadolinium-enhancing T1 MRI lesion at baseline. The treated analysis set comprised 516 siponimod and 263 placebo participants.
+This analysis reused the phase 3 [EXPAND trial](2018-siponimod-expand-kappos.md), rather than recruiting a new population. Of 1,651 randomized participants, 1,645 were in the full analysis set (randomized and treated), and 779 of those met the analysis definition of active secondary progressive MS: at least one relapse in the two years before screening and/or at least one gadolinium-enhancing T1 MRI lesion at baseline. The treated analysis set comprised 516 siponimod and 263 placebo participants.
 
 The parent trial enrolled adults aged 18–60 with EDSS 3.0–6.5 at screening and no relapse in the preceding three months. Treatment was oral siponimod 2 mg/day or placebo for a variable period of up to three years. The article reports median exposure of 18 months and median core-study duration of 21 months. In the active subgroup, 621/779 completed the study.
 

@@ -20,6 +20,12 @@ Current HRT use against each outcome, as the abstract reports them (adjusted haz
 
 Dose categories showed no consistent gradient. In a sensitivity analysis that raised the cohort-entry age floor to 50 years, the EDSS 4.0 estimate was aHR 0.62 (0.40 to 0.95). The authors conclude that HRT was not associated with increased relapse risk or severe disability progression, and that the lower hazard for EDSS 4.0 was not mirrored at EDSS 6.0.
 
+## Related earlier analysis (versions, not replication)
+
+- MSToronto 2026 abstract O051 (Multiple Sclerosis Journal supplement, doi:10.1177/13524585261477877; Crossref lists it as an MSToronto 2026 abstract, with no author list). It is reported to come from the same five authors and the same Swedish registry, with an earlier entry window and follow-up. Its figures are not checked here: the full abstract could not be opened from this bot, so no O051 numbers are given in this file.
+- Treat O051 and this preprint as versions of one body of work with overlapping periods, not as two independent studies. Individual-level overlap has not been verified.
+- Reported in the same source check: O051 found lower baseline disability (EDSS) among HRT initiators. This is not checked against the abstract text. If it holds, initiators may differ from non-users at baseline in a way the adjustment may not fully remove (residual healthy-user bias). It is a reason for caution, not evidence that HRT is harmful or protective.
+
 ## Limits
 
 - Preprint, not peer reviewed. Written from the abstract only; the full text was not checked.

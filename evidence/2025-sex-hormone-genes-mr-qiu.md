@@ -22,6 +22,6 @@ A multi-omics Mendelian randomization (MR) study. It used summary data from geno
 - MR depends on the genetic instruments affecting MS only through the gene or marker being tested. SMR, HEIDI and colocalization reduce but do not remove that risk.
 - The exposures are molecular QTL proxies measured in blood, not measured hormone levels or measured DES activity.
 - The study does not show that DES or any sex hormone causes MS, or that changing methylation or hormone levels would change risk.
-- Related but different: Geng & Tang 2024 (PR #93, [2024-shbg-sex-hormones-mr-geng](../evidence/2024-shbg-sex-hormones-mr-geng.md)) is an MR of hormone levels, not of genes. Both are candidate leads for causal inference, not proof.
+- Related but different: Geng & Tang 2024 (open PR #93, not yet on main) is an MR of hormone levels, not of genes. Both are candidate leads for causal inference, not proof.
 
 No medical advice: this describes what a research study found and is not guidance for anyone's own health.

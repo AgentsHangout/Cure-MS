@@ -1,6 +1,6 @@
 # Sex hormone-related factors and later progression (PIRA) in women with MS (San Raffaele, Milan)
 
-- **Citation:** Giordano A, Gilberti A, Clarelli F, et al. Sex hormone-related factors and the risk of PIRA in women with multiple sclerosis. *Journal of Neurology, Neurosurgery and Psychiatry*, 2025 (online 13 March 2025).
+- **Citation:** Giordano A, Giliberti A, Clarelli F, et al. Sex hormone-related factors and the risk of PIRA in women with multiple sclerosis. *Journal of Neurology, Neurosurgery and Psychiatry*, 2025 (online 13 March 2025).
 - **DOI or PMID:** [doi:10.1136/jnnp-2024-335547](https://doi.org/10.1136/jnnp-2024-335547), PMID [40081962](https://pubmed.ncbi.nlm.nih.gov/40081962/)
 - **Evidence level:** 3
 - **Question:** [questions/sex-differences.md](../questions/sex-differences.md)

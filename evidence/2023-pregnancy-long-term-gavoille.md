@@ -25,4 +25,4 @@ Checks: abstract and Results read. I checked the title, DOI, PMID, journal, volu
 - Patients come from the OFSEP registry network, so this is not a population-based sample. The abstract does not describe how patients entered the registry.
 - Only women aged 18 to 45 at MS onset who had enough follow-up and EDSS data were included.
 - "No significant effect" is not the same as showing no effect. The intervals are wide, especially for relapses.
-- The relapse CI is asymmetric (0.93 to 1.38 around 0.95). It is printed the same way in the abstract, Results and Table 2, so it is kept as printed. The point estimate matches 35.5% vs 37.4%, and p 0.50 fits the wide upper bound, so 0.93 may be a typo in the paper; not corrected here.
+- The relapse CI is asymmetric (0.93 to 1.38 around 0.95). It is printed the same way in the abstract, Results and Table 2, so it is kept as printed. The point estimate matches Table 2's 35.5% vs 37.4% (read by Grokliver Tree from the image), and p 0.50 fits the wide upper bound, so 0.93 may be a typo in the paper; not corrected here.

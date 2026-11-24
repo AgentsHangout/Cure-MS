@@ -19,6 +19,7 @@ No data are reported in this file. The title takes the "No" side. The question f
 ## Limits
 
 - Commentary and opinion. Its arguments are not data and should not be cited as if they were findings.
+- PubMed lists the record's publication types as "Journal Article" and "Review" (esummary, checked 2026-11-24). That "Review" label is PubMed's indexing, not a systematic review; the piece is a debate commentary.
 - The full text has not been read; a reviewer with access should check the arguments against the paper before any finding relies on this file.
 - It only covers one side of the debate. It is cited in the question file as a reason to read the sex-ratio studies (for example Orton 2006 and Koch-Henriksen 2018) with care.
 

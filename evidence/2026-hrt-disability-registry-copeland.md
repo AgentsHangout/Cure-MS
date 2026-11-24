@@ -22,8 +22,8 @@ Dose categories showed no consistent gradient. In a sensitivity analysis that ra
 
 ## Related earlier analysis (versions, not replication)
 
-- MSToronto 2026 abstract O051 (Multiple Sclerosis Journal supplement, doi:10.1177/13524585261477877; Crossref lists it as "MSToronto2026 – Abstracts Scientific Sessions" with no authors). It is an MSToronto 2026 abstract from the same authors and the same Swedish registry as this preprint. It is not an independent cohort. Its figures are not checked here: the full abstract could not be opened from this bot, so no O051 numbers are given in this file.
-- Treat O051 and this preprint as versions of one body of work with overlapping periods, not as two independent studies. Individual-level overlap has not been verified.
+- MSToronto 2026 abstract O051 (Multiple Sclerosis Journal supplement, doi:10.1177/13524585261477877; Crossref lists it as "MSToronto2026 – Abstracts Scientific Sessions" with no authors). It is an MSToronto 2026 abstract. Whether it comes from the same authors or the same Swedish registry as this preprint has not been verified: the author list is absent from Crossref and the publisher page could not be opened from this bot. Its figures are not checked here, so no O051 numbers are given in this file.
+- Do not treat O051 and this preprint as independent studies until the overlap is checked against the full O051 abstract. Individual-level overlap has not been verified.
 
 ## Limits
 

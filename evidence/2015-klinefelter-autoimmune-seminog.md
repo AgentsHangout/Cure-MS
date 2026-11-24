@@ -21,7 +21,7 @@ The MS result is one of 30 comparisons. Its interval is wide (1.2 to 11.0) and o
 ## Limits
 
 - Only diagnoses recorded in hospital (day cases and inpatient stays) were counted. People managed only in primary care, or never admitted, are not captured.
-- The MS estimate is imprecise, and the case count is not given in the abstract. Wide intervals suggest few cases.
+- The MS estimate is imprecise, and the case count is not given in the abstract.
 - The abstract does not say whether the results were adjusted for testing 30 diseases. Several of the raised risks may be chance findings.
 - This is an association. It says nothing about cause. The authors suggest the XXY karyotype may give clues to how autoimmunity arises. That is a hypothesis about X-chromosome dose, not a shown mechanism.
 - Checked from the PubMed and Europe PMC records (metadata and abstract). Full text not checked.

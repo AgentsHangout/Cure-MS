@@ -16,9 +16,9 @@ The authors sorted outcomes into clinical, MRI and immune categories. They descr
 
 ## Limits
 
-- The paper gives two different counts of the trial designs. Results says seven clinical trials and three RCTs. Methods and Discussion say five RCTs and four clinical trials. The abstract gives only the total of nine and does not split it. This file does not pick one count.
+- The paper's trial counts don't agree with each other. Methods says five RCTs and four clinical trials, which adds to the nine included studies. Results says seven clinical trials and three RCTs, which adds to ten. The abstract gives only the total of nine. This file reports both and does not pick one.
 - The studies are small (mean about 44 people) and many are crossover designs, so the number of trials and their designs can't by themselves show a treatment effect.
-- The review describes the postpartum POPARTMUS trial (Vukusic et al., PMID 33269975) as ongoing with no results in the outcome categories. Other sources list it with published results, so check that before relying on the review's table.
+- The review describes the postpartum POPARTMUS trial as ongoing with no results in the outcome categories. It has published results: Vukusic et al. 2021, Multiple Sclerosis Journal, PMID 33269975, DOI 10.1177/1352458520978218 (https://doi.org/10.1177/1352458520978218). The PubMed abstract reports recruitment stopped early (n = 202) with no treatment effect on the 12-week annualized relapse rate. Check this against the review's table before relying on it.
 - Quality scores (PEDro, Table 4), the study-by-study tables (Tables 1 to 3) and the search flow diagram were not checked visually by the author of this file.
 - Hormone doses and comparators differ across studies, and some studies compared with healthy controls or with no treatment, so the set can't be read as one comparison.
 

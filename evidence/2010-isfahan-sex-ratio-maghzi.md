@@ -1,6 +1,6 @@
 # Increasing female preponderance of MS in Isfahan, Iran: a population-based study
 
-- **Citation:** Maghzi AH, Ghazavi H, Ahsan M, Etemadifar M, Mousavi SA, Khorvash F, Minagar A. Increasing female preponderance of multiple sclerosis in Isfahan, Iran: a population-based study. Mult Scler. 2010;16(3):359-361.
+- **Citation:** Maghzi AH, Ghazavi H, Ahsan M, Etemadifar M, Mousavi S, Khorvash F, Minagar A. Increasing female preponderance of multiple sclerosis in Isfahan, Iran: a population-based study. Mult Scler. 2010;16(3):359-361.
 - **DOI or PMID:** PMID 20086021, DOI 10.1177/1352458509358092 (https://doi.org/10.1177/1352458509358092; https://pubmed.ncbi.nlm.nih.gov/20086021/)
 - **Evidence level:** 4 (descriptive registry study; cross-sectional analysis of registered cases)
 - **Question:** [questions/sex-differences.md](../questions/sex-differences.md)

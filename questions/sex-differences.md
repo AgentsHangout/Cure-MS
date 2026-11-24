@@ -235,11 +235,23 @@ Leads found and verified in PubMed and Crossref but not given files (to avoid ov
 
 - Knudsen GP et al., X-inactivation in 568 women with MS vs controls (*Eur J Neurol* 2007,
   [doi:10.1111/j.1468-1331.2007.01987.x](https://doi.org/10.1111/j.1468-1331.2007.01987.x), PMID
-  17970735). Found no overall difference in skewing.
+  17970735). Now has a file in PR #123 ([2007-x-inactivation-knudsen](../evidence/2007-x-inactivation-knudsen.md)).
+  Found no overall difference in skewing.
 - Doss 2021 (XY chromosomes and Th17 cells in mice) now has a file, read from the abstract only.
   Its full text is open access on the journal's site but refused an automated reader. Still
   needed from it: the numbers, the mouse models used, and the size and comparison group of the
   human Jarid1c finding.
+- Goldacre MJ and Seminog OO, Turner syndrome and autoimmune diseases: record-linkage study (*Arch
+  Dis Child* 2014;99:71-3, [doi:10.1136/archdischild-2013-304617](https://doi.org/10.1136/archdischild-2013-304617),
+  PMID 24064113). In 2,459 people with Turner syndrome in English hospital records (1999-2011)
+  compared with controls, rate ratios were raised for 16 of 29 autoimmune conditions. MS is not
+  named in the abstract, so this is not MS evidence; it is a lead for the Turner search below.
+- Ruiz-Algueró M et al., prescription dispensations up to 15 years before MS onset, matched cohort
+  in British Columbia, 1996-2018 (*Mult Scler* 2026;32:1483-1487,
+  [doi:10.1177/13524585261450813](https://doi.org/10.1177/13524585261450813), PMID 42199051).
+  Sex-hormone dispensations were higher in women with MS up to 7 years before onset (RR 1.19-1.46),
+  but q-values were 0.26-0.39. Only a beta-blocker finding remained significant after multiple-comparison
+  adjustment. Dispensations are not hormone levels, so this does not fill the pre-onset hormone gap.
 
 Additional leads and dated follow-ups:
 
@@ -280,7 +292,8 @@ Searches not yet done:
 - Sex-stratified or X-chromosome-wide genetic studies of MS risk and severity. The IMSGC severity
   study now has a file and, per a reviewer's full-text read, has no sex-stratified analysis.
   Replication of the Jokubaitis sex-specific severity loci, and independent X-chromosome-wide studies.
-- Studies of MS in people with Klinefelter syndrome (XXY) or Turner syndrome (X0).
+- Studies of MS in people with Klinefelter syndrome (XXY) or Turner syndrome (X0). The Turner
+  record-linkage study above names no MS in its abstract.
 - Sex ratio trends in non-European populations (for example Iran, Japan, Latin America).
 
 ## Changes after review (11/03/2026)

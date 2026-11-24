@@ -1,6 +1,6 @@
 # Sex differences in social cognition, grey matter and MS impact: Ciampi 2026 (prospective single-centre cohort)
 
-- **Citation:** Ciampi E, Soler et al. (author list continues in PubMed), "Sex differences in social cognition, grey matter correlates, physical and psychological impact in multiple sclerosis: a prospective Cohort study", Mult Scler Relat Disord, 2026; 117:108064.
+- **Citation:** Ciampi E, Soler, Carcamo et al., "Sex differences in social cognition, grey matter correlates, physical and psychological impact in multiple sclerosis: a prospective Cohort study", Mult Scler Relat Disord, 2026; 117:108064.
 - **DOI or PMID:** DOI [10.1016/j.msard.2026.108064](https://doi.org/10.1016/j.msard.2026.108064), PMID [43050918](https://pubmed.ncbi.nlm.nih.gov/43050918/)
 - **Evidence level:** 4 (the sex comparisons are mainly cross-sectional at baseline; the study has 24-month follow-up, but no change survived multiple-testing correction). Abstract only.
 - **Question:** [questions/sex-differences.md](../questions/sex-differences.md)
@@ -8,7 +8,7 @@
 
 ## What was studied
 
-A prospective single-centre cohort in Chile with 24-month follow-up: 146 people with relapsing or early MS (65% female; mean age 39.3 +/- 11.8 years; median EDSS 1.25). Social cognition was measured with the mini-Social Cognition and Emotional Assessment (mini-SEA, including Theory of Mind and face emotion recognition), with other cognitive tests, physical and psychological impact scales, and brain volume from 3T MRI. Men and women were compared, and the link between social cognition and peripheral grey matter volume was tested separately by sex. The abstract does not describe a healthy control group.
+A prospective single-centre cohort with 24-month follow-up: 146 people with multiple sclerosis (65% female; mean age 39.3 +/- 11.8 years; median EDSS 1.25). The abstract does not give the MS subtype. Social cognition was measured with the mini-Social Cognition and Emotional Assessment (mini-SEA, including Theory of Mind and face emotion recognition), with other cognitive tests, physical and psychological impact scales, and brain volume from 3T MRI. Men and women were compared, and the link between social cognition and peripheral grey matter volume was tested separately by sex. The abstract does not describe a healthy control group.
 
 ## What it found
 

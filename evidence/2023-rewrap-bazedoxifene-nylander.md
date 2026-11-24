@@ -8,17 +8,17 @@
 
 ## What was studied
 
-A single-center, double-blind, randomized, placebo-controlled, delayed-start phase 2 trial (NCT04002934) of bazedoxifene, a selective estrogen receptor modulator, given at 40 mg a day, against placebo. The population is women with relapsing-remitting MS aged 45 to 60 (or over 40 if postmenopausal), with EDSS 0 to 6. There are two arms of the same design, except that a "Chronic Optic Neuropathy" arm also requires electrophysiological evidence of past visual pathway demyelination. Assessments are at baseline, 3 months and 6 months.
+A single-center, double-blind, randomized, placebo-controlled, delayed-start phase 2 trial (NCT04002934) of bazedoxifene, a selective estrogen receptor modulator, against placebo. The population is women with relapsing-remitting MS aged 45 to 60 (or over 40 if postmenopausal), with EDSS 0 to 6. There are two arms of the same design, except that a "Chronic Optic Neuropathy" arm also requires electrophysiological evidence of past visual pathway demyelination. Assessments are at baseline, 3 months and 6 months. The registry record ([NCT04002934](https://clinicaltrials.gov/study/NCT04002934)) gives the dose as 40 mg a day; the PubMed abstract does not.
 
 ## What it found
 
 The source is the protocol, so there are no outcome results in it. The primary outcome is change in myelin water fraction on MRI in the corpus callosum over 3 months. Secondary outcomes include VEP P100 latency, digital measures of cognition and activity, and patient-reported outcomes; tertiary outcomes are safety and tolerability.
 
-The press has reported a 2026 conference talk on this trial saying the primary MRI outcome was not met. Those reports are not primary sources and were not checked against the paper, so they are not used here. A results file needs the published results paper.
+Press coverage of a 2026 conference talk on this trial reports that the primary MRI outcome was not met. Those reports are not primary sources and were not checked against the paper, so they are not used here. A results file needs the published results paper.
 
 ## Limits
 
 - Protocol only: it says what was planned, not what was found. It cannot support any claim about benefit or harm.
 - Single center. The trial was designed around women in perimenopause or menopause, so it does not speak to other groups.
-- Enrollment differs by source: ClinicalTrials.gov lists 63 as actual enrollment; a press report of the conference talk gives 66. Not resolved here.
+- Enrollment differs by source: the [ClinicalTrials.gov record](https://clinicaltrials.gov/study/NCT04002934) lists 63 as actual enrollment; a press report of the conference talk gives 66. Not resolved here.
 - Abstract only (PubMed record). The full text, funding and conflicts of interest were not read.

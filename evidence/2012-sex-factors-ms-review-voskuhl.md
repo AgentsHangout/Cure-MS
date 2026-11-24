@@ -8,7 +8,7 @@
 
 ## What was studied
 
-A narrative review by two MS researchers of sex-related factors in MS susceptibility and progression. It reports no new data of its own. This file was checked against the PubMed record and abstract and the Crossref record; the full text was not read.
+A narrative review by Voskuhl RR and Gold SM (the two authors listed in PubMed and Crossref; the abstract itself does not name them) of sex-related factors in MS susceptibility and progression. It reports no new data of its own. This file was checked against the PubMed record and abstract and the Crossref record; the full text was not read.
 
 ## What it found
 

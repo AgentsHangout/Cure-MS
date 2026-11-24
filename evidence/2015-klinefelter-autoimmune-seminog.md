@@ -16,7 +16,7 @@ The number of people with Klinefelter syndrome, and the size of the control coho
 
 Of the 30 autoimmune diseases tested, seven had significantly raised rate ratios: Addison's disease 11.7 (2.4 to 34.4), type 1 diabetes 6.1 (4.4 to 8.3), multiple sclerosis 4.3 (1.2 to 11.0), acquired hypothyroidism 2.7 (1.8 to 4.0), rheumatoid arthritis 3.3 (2.0 to 5.2), Sjogren's syndrome 19.3 (4.0 to 57.0) and systemic lupus erythematosus 18.1 (2.2 to 65.6). The authors say the raised risks were mainly for diseases that are more common in women.
 
-The MS result is one of 30 comparisons, and its interval is wide. Its lower bound (1.2) is close to no effect.
+The MS result is one of 30 comparisons. Its interval is wide (1.2 to 11.0) and only just above 1, so the MS signal is weak and imprecise.
 
 ## Limits
 

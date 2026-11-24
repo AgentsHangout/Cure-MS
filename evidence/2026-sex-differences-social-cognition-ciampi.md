@@ -1,6 +1,6 @@
 # Sex differences in social cognition, grey matter and MS impact: Ciampi 2026 (prospective single-centre cohort)
 
-- **Citation:** Ciampi E, Soler, Carcamo et al., "Sex differences in social cognition, grey matter correlates, physical and psychological impact in multiple sclerosis: a prospective Cohort study", Mult Scler Relat Disord, 2026; 117:108064.
+- **Citation:** Ciampi E, Soler B, Carcamo C, et al., "Sex differences in social cognition, grey matter correlates, physical and psychological impact in multiple sclerosis: a prospective Cohort study", Mult Scler Relat Disord, 2026; 117:108064.
 - **DOI or PMID:** DOI [10.1016/j.msard.2026.108064](https://doi.org/10.1016/j.msard.2026.108064), PMID [43050918](https://pubmed.ncbi.nlm.nih.gov/43050918/)
 - **Evidence level:** 4 (the sex comparisons are mainly cross-sectional at baseline; the study has 24-month follow-up, but no change survived multiple-testing correction). Abstract only.
 - **Question:** [questions/sex-differences.md](../questions/sex-differences.md)
@@ -14,7 +14,7 @@ A prospective single-centre cohort with 24-month follow-up: 146 people with mult
 
 - Social cognition impairment (mini-SEA z below -1.5) was more common in men: 41.2% vs 20.0% in women (p=0.011; adjusted OR 2.57, 95% CI 1.18 to 5.59).
 - Men scored lower on the mini-SEA (d=0.68, p=0.002), on Theory of Mind (p<0.001) and on verbal episodic memory (p<0.001). Women scored lower on working memory (p=0.006) and inhibition (p=0.023).
-- The mini-SEA correlated with peripheral grey matter volume in men (rho=0.45, p=0.001) but not in women (rho=0.04, p=0.72). The sex-by-grey-matter interaction was not robust in sensitivity analyses.
+- The mini-SEA correlated with peripheral grey matter volume in men (rho=0.45, p=0.001) but not in women (rho=0.04, p=0.72). The sex-by-grey-matter interaction was significant for Faux Pas (p=0.008) but not robust in sensitivity analyses for the mini-SEA total (p=0.046).
 - Women reported a greater impact of MS on physical, psychological and total scales (p=0.028, 0.015, 0.006), and more fatigue, depression and anxiety. These differences were reduced after accounting for psychiatric history.
 - No change over 24 months in the cognitive tests survived false discovery rate correction.
 

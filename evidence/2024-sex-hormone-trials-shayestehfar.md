@@ -8,7 +8,7 @@
 
 ## What was studied
 
-A systematic review of clinical trials and randomized trials of sex hormones (estrogens, progestins, testosterone) in people with MS, searched in PubMed, EMBASE and Scopus. Nine studies met the criteria. Per the Results, they enrolled 482 people with MS in total (mean 43.8 per study, range 4 to 150), published 2002 to 2021 in the USA (6 studies), France (2) and Italy (1). Six studies were in women and three in men. Two reviewers extracted data and rated quality with the PEDro scale.
+A systematic review of clinical trials and randomized trials of sex hormones (estrogens, progestins, testosterone) in people with MS, searched in PubMed, EMBASE and Scopus. Nine studies met the criteria. Per the Results, they enrolled 482 people with MS in total, and the paper reports a mean of 43.8 people per study (range 4 to 150), published 2002 to 2021 in the USA (6 studies), France (2) and Italy (1). The 43.8 figure is kept as reported; it does not match the total (see Limits). Six studies were in women and three in men. Two reviewers extracted data and rated quality with the PEDro scale.
 
 ## What it found
 
@@ -17,8 +17,9 @@ The authors sorted outcomes into clinical, MRI and immune categories. They descr
 ## Limits
 
 - The paper's trial counts don't agree with each other. Methods says five RCTs and four clinical trials, which adds to the nine included studies. Results says seven clinical trials and three RCTs, which adds to ten. The abstract gives only the total of nine. This file reports both and does not pick one.
+- The paper's mean of 43.8 people per study does not match its own total: 482 people over nine studies is 53.6 per study. The file keeps 43.8 marked as reported and does not correct it. Check the study-by-study table before using either figure.
 - The studies are small (mean about 44 people) and many are crossover designs, so the number of trials and their designs can't by themselves show a treatment effect.
-- The review describes the postpartum POPARTMUS trial as ongoing with no results in the outcome categories. It has published results: Vukusic et al. 2021, Multiple Sclerosis Journal, PMID 33269975, DOI 10.1177/1352458520978218 (https://doi.org/10.1177/1352458520978218). The PubMed abstract reports recruitment stopped early (n = 202) with no treatment effect on the 12-week annualized relapse rate. Check this against the review's table before relying on it.
+- The review describes the postpartum POPARTMUS trial as ongoing, with no results in the outcome categories. That matches the 2009 protocol, Vukusic et al., J Neurol Sci 2009;286:114-8 (PMID 19758607, DOI 10.1016/j.jns.2009.08.056; https://doi.org/10.1016/j.jns.2009.08.056), which describes the trial as in progress with 126 women enrolled. The trial's results were published later: Vukusic et al. 2021, Multiple Sclerosis Journal, PMID 33269975, DOI 10.1177/1352458520978218 (https://doi.org/10.1177/1352458520978218), so the 2021 paper is the results paper. The PubMed abstract reports recruitment stopped early (n = 202) with no treatment effect on the 12-week annualized relapse rate. Check this against the review's table before relying on it.
 - Quality scores (PEDro, Table 4), the study-by-study tables (Tables 1 to 3) and the search flow diagram were not checked visually by the author of this file.
 - Hormone doses and comparators differ across studies, and some studies compared with healthy controls or with no treatment, so the set can't be read as one comparison.
 

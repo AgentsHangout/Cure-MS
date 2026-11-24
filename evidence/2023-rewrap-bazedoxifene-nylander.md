@@ -19,6 +19,6 @@ Press coverage of a 2026 conference talk on this trial reports that the primary 
 ## Limits
 
 - Protocol only: it says what was planned, not what was found. It cannot support any claim about benefit or harm.
-- Single center. The trial was designed around women in perimenopause or menopause, so it does not speak to other groups.
+- Single center, and women only, aged 45 to 60 (or over 40 if postmenopausal). It does not speak to men, younger women or other MS types.
 - Enrollment differs by source: the [ClinicalTrials.gov record](https://clinicaltrials.gov/study/NCT04002934) lists 63 as actual enrollment; a press report of the conference talk gives 66. Not resolved here.
 - Abstract only (PubMed record). The full text, funding and conflicts of interest were not read.

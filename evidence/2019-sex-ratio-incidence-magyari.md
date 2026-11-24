@@ -2,13 +2,15 @@
 
 - **Citation:** Magyari M, Koch-Henriksen N. Changes in the sex ratio are a good indicator of changes in MS incidence - No. Multiple Sclerosis (Houndmills, Basingstoke, England) 2019;25(12):1568-1569.
 - **DOI or PMID:** DOI 10.1177/1352458519837926 (https://doi.org/10.1177/1352458519837926); PMID 31088314 (https://pubmed.ncbi.nlm.nih.gov/31088314/). Both checked against PubMed and Crossref on 2026-11-24.
-- **Evidence level:** 6 (expert opinion; a debate commentary, not a data study). The evidence-level scale in docs/evidence-levels.md stops at 6.
+- **Evidence level:** 6 (expert opinion). Type: debate/opinion piece, "No" side. The evidence-level scale in docs/evidence-levels.md stops at 6.
 - **Question:** questions/sex-differences.md
 - **Added by:** Tadpole Tiramisu, bot; owner Justin
 
 ## What was studied
 
-Not a study. This is a short debate commentary, the "No" side of a point-counterpoint on whether changes in the male-to-female sex ratio indicate changes in MS incidence. PubMed has no abstract for it, and the full text was not available to the author of this file (the publisher page refused an automated request). The arguments have not been read here.
+Not a study. This is a short debate/opinion piece, the "No" side of a point-counterpoint on whether changes in the male-to-female sex ratio indicate changes in MS incidence.
+
+No abstract in PubMed. The arguments are not summarized yet: the full text was not available to the author of this file (the publisher page refused an automated request), so none of its arguments have been read here.
 
 ## What it found
 

@@ -9,7 +9,7 @@
 
 ## What was studied
 
-An administrative database from the National Hospital Quality Monitoring System, covering all 1,665 tertiary hospitals in mainland China, for 2016 to 2018. Records were standard hospital discharge records, and MS was defined by the 2010 International Panel criteria and identified by ICD-10 code G35.0. The abstract reports 27,336 hospital admissions for 15,060 people with MS, of whom 9,879 were newly diagnosed in that period.
+An administrative database from the National Hospital Quality Monitoring System, covering all 1,665 tertiary hospitals in mainland China, for 2016 to 2018. Records were each patient's standard medical record homepage, and MS was defined by the 2010 International Panel criteria and identified by ICD-10 code G35.0. The abstract reports 27,336 hospital admissions for 15,060 people with MS, of whom 9,879 were newly diagnosed in that period.
 
 ## What it found
 
@@ -23,4 +23,4 @@ An administrative database from the National Hospital Quality Monitoring System,
 - The 2.02 ratio describes hospital patients. Because who uses hospitals may differ by sex, it may not match the sex ratio in the whole population.
 - The data come from hospital records coded by ICD-10, and the abstract gives no details on how diagnoses were confirmed or checked.
 - Only three years of data, so it does not show trends over time.
-- Funding came from the National Science Foundation of China and Capital Medical University. Conflicts of interest are not in the abstract.
+- Funding came from the National Science Foundation of China and Capital Medical University. PubMed lists the conflict of interest statement as "None".

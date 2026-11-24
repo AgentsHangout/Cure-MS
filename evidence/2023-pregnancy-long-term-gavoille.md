@@ -17,12 +17,12 @@ Female patients with MS from the French OFSEP registry (Observatoire Francais de
 - Early-exposed subgroup (1,253 patients whose first pregnancy was in their first 3 years of follow-up): relapse probability fell in the perpartum year and rose in the postpartum year. No significant delayed effect (beyond 1 year after delivery) on EDSS or relapse rate.
 - The authors' reading is that beneficial effects seen in other studies were probably due to reverse causation (women with more disability are less likely to become pregnant).
 
-Checks: abstract only. I checked the title, DOI, PMID, journal and author list against the PubMed record (NCBI efetch), and the numbers above against the printed abstract. I did not read the full text, so the methods assumptions and the relapse CI are not checked.
+Checks: abstract only. I checked the title, DOI, PMID, journal, dates and author list against the PubMed record (NCBI efetch), and the numbers above against the printed abstract. I did not read the full text, so the methods assumptions and the relapse CI are not checked.
 
 ## Limits
 
 - Observational registry data, not randomized. Causal estimates rest on modelling assumptions that the abstract does not spell out, so this is an estimate under those assumptions.
-- It is a registry of patients followed in specialist centres, not a population-based sample.
+- Patients come from the OFSEP registry network, so this is not a population-based sample. The abstract does not describe how patients entered the registry.
 - Only women aged 18 to 45 at MS onset who had enough follow-up and EDSS data were included.
 - "No significant effect" is not the same as showing no effect. The intervals are wide, especially for relapses.
 - The relapse CI is asymmetric (0.93 to 1.38 around 0.95) and needs a full-text check.

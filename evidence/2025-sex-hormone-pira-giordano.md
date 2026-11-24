@@ -21,7 +21,8 @@ A retrospective cohort of 1,210 women with MS from the San Raffaele MS Center in
 
 - Observational. These are associations, not causes, and the authors' suggestion that oral contraceptives may slow progression needs prospective testing.
 - Single centre. Women who used oral contraceptives may differ from those who did not in ways the model does not capture.
-- Exposures were recorded by a survey, not measured hormone levels, and were taken before or at diagnosis. This is not a measure of hormone levels before onset.
+- Timing differs by exposure, as the abstract gives it. Oral contraceptive use and pregnancy were before MS diagnosis. Menopause was at diagnosis. Hormone levels were not measured.
+- The exposures came from a survey run in 2019 to 2023 about past hormone-related factors, so recall bias is possible.
 - No men are included, so this says nothing about sex differences in PIRA on its own.
 - Written from the abstract. The full text was not read, so treatment adjustment, follow-up details and the survey's wording are not checked here.
 - Numbers are as printed in the abstract.

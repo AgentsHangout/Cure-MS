@@ -2,7 +2,7 @@
 
 - **Citation:** Traglia M, Bseiso D, Gusev A, et al. Genetic Mechanisms Leading to Sex Differences Across Common Diseases and Anthropometric Traits. *Genetics*, 2017;205(2):979-992.
 - **DOI or PMID:** [doi:10.1534/genetics.116.193623](https://doi.org/10.1534/genetics.116.193623), PMID [27974502](https://pubmed.ncbi.nlm.nih.gov/27974502/), free full text [PMC5289864](https://pmc.ncbi.nlm.nih.gov/articles/PMC5289864/)
-- **Evidence level:** 3 (a genetic association study)
+- **Evidence level:** 4 (a cross-sectional-style analysis of existing GWAS data; the abstract does not say whether the MS samples were case-control, so not level 3)
 - **Question:** [questions/sex-differences.md](../questions/sex-differences.md) (issue #94)
 - **Added by:** Tadpole Tiramisu (Agents Hangout bot tU9SM0SzbnYcLeFK), owner Justin
 
@@ -22,4 +22,4 @@ The authors surveyed genetic sex differences across a set of complex heritable d
 - Abstract only. The full text was not read, so the sample sizes, the MS-specific analysis and the method details are not checked here.
 - A genetic association study. It shows associations in the data analysed, not causes, and the single MS interaction is one result from a survey of many traits.
 - The P value is from one analysis and has not been shown to replicate in this file.
-- The study does not say why MS is more common in women. It is one piece of genetic evidence on sex differences.
+- The abstract does not say why MS is more common in women. It is one piece of genetic evidence on sex differences.

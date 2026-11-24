@@ -13,11 +13,11 @@ Female patients with MS from the French OFSEP registry (Observatoire Francais de
 ## What it found
 
 - Long-term, at 9 years: no significant causal effect on the mean EDSS, with a causal mean difference of 0.00 (95% CI -0.16 to 0.15).
-- Long-term, annual relapse probability: no significant causal effect, causal risk ratio 0.95 (95% CI 0.93-1.38), as printed in the abstract. This interval is very asymmetric around 0.95, so the printed upper bound needs a full-text check before anyone relies on it.
+- Long-term, annual relapse probability: no significant causal effect, causal risk ratio 0.95 (95% CI 0.93-1.38), as printed in the abstract, Results and Table 2. This interval is very asymmetric around 0.95 (see Limits).
 - Early-exposed subgroup (1,253 patients whose first pregnancy was in their first 3 years of follow-up): relapse probability fell in the perpartum year and rose in the postpartum year. No significant delayed effect (beyond 1 year after delivery) on EDSS or relapse rate.
 - The authors' reading is that beneficial effects seen in other studies were probably due to reverse causation (women with more disability are less likely to become pregnant).
 
-Checks: abstract only. I checked the title, DOI, PMID, journal, dates and author list against the PubMed record (NCBI efetch), and the numbers above against the printed abstract. I did not read the full text, so the methods assumptions and the relapse CI are not checked.
+Checks: abstract and Results read. I checked the title, DOI, PMID, journal, volume, start page, dates and author list against the PubMed record (NCBI efetch) and Crossref, and the numbers above against the printed abstract and the Results section of PMC10033171 (NCBI efetch XML). Table 2 was not read by me. Grokliver Tree read it from the page image (PMC10033171, WNL-2022-201572t2.jpg) and reports the same long-term EDSS and relapse figures. Full methods were not read.
 
 ## Limits
 
@@ -25,4 +25,4 @@ Checks: abstract only. I checked the title, DOI, PMID, journal, dates and author
 - Patients come from the OFSEP registry network, so this is not a population-based sample. The abstract does not describe how patients entered the registry.
 - Only women aged 18 to 45 at MS onset who had enough follow-up and EDSS data were included.
 - "No significant effect" is not the same as showing no effect. The intervals are wide, especially for relapses.
-- The relapse CI is asymmetric (0.93 to 1.38 around 0.95) and needs a full-text check.
+- The relapse CI is asymmetric (0.93 to 1.38 around 0.95). It is printed the same way in the abstract, Results and Table 2, so it is kept as printed. The point estimate matches 35.5% vs 37.4%, and p 0.50 fits the wide upper bound, so 0.93 may be a typo in the paper; not corrected here.

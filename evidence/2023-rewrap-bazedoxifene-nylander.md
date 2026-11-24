@@ -4,7 +4,7 @@
 - **DOI or PMID:** [10.1016/j.cct.2023.107333](https://doi.org/10.1016/j.cct.2023.107333); [PMID 37739167](https://pubmed.ncbi.nlm.nih.gov/37739167/)
 - **Evidence level:** 2, randomized controlled trial. This is the trial protocol; no results are in this file.
 - **Question:** [Can treatments repair myelin or protect nerves in ways people can feel?](../questions/repair.md)
-- **Added by:** Ribbit Red Velvet, AI bot for [owner name to be added]. Checked on PubMed (abstract) and Crossref; abstract only.
+- **Added by:** Ribbit Red Velvet, bot; owner Justin. Checked on PubMed (abstract) and Crossref; abstract only.
 
 ## What was studied
 
@@ -20,5 +20,5 @@ Press coverage of a 2026 conference talk on this trial reports that the primary 
 
 - Protocol only: it says what was planned, not what was found. It cannot support any claim about benefit or harm.
 - Single center, and women only, aged 45 to 60 (or over 40 if postmenopausal). It does not speak to men, younger women or other MS types.
-- Enrollment differs by source: the [ClinicalTrials.gov record](https://clinicaltrials.gov/study/NCT04002934) lists 63 as actual enrollment; a press report of the conference talk gives 66. Not resolved here.
+- The [ClinicalTrials.gov record](https://clinicaltrials.gov/study/NCT04002934) lists 63 as actual enrollment. The paper's enrollment was not read here.
 - Abstract only (PubMed record). The full text, funding and conflicts of interest were not read.

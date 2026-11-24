@@ -12,7 +12,7 @@ Whole-blood gene expression data from 85 untreated people with relapsing-remitti
 
 ## What it found
 
-The authors identified female-specific, male-specific and sex-independent sets of candidate markers. Sex-specific signatures had AUC-ROC values of 0.822 to 0.865. Sex-independent candidates were TMEM258, CHMP2A, NDUFB4 and TOMM22. Sex-specific candidates included CFD, SLPI and SAMD12 in males, and TMEM176B and HLA-DRB5 in females. The authors call these promising candidate diagnostic biomarkers for further investigation, and ran gene-set and gene-drug association analyses for context.
+The authors identified female-specific, male-specific and sex-independent sets of candidate markers. Sex-specific signatures had AUC-ROC values of 0.822 to 0.865. Sex-independent candidates were TMEM258, CHMP2A, NDUFB4 and TOMM22. Sex-specific candidates included CFD, SLPI and SAMD12 in males, and TMEM176B and HLA-DRB5 in females. The authors call these promising candidate diagnostic biomarkers for further investigation, and ran gene-set and gene-drug association analyses for biological and therapeutic context.
 
 ## Limits
 
@@ -20,7 +20,7 @@ The authors identified female-specific, male-specific and sex-independent sets o
 - Small sample: 85 cases and 60 controls. The AUC values come from cross-validation in this sample, which can overstate how well a marker works on new people.
 - Case-control design. It cannot show that any gene causes MS, or explains the sex difference in MS.
 - Only untreated relapsing-remitting MS was studied, so the results may not apply to other MS types or to people on treatment.
-- The gene-drug association analyses are context from databases, not evidence that any drug affects these genes in MS.
+- The gene-drug association analyses are described as context. The abstract does not name the sources used, and they are not evidence that any drug affects these genes in MS.
 - Checked from the PubMed abstract only (authors, title, journal and DOI checked in PubMed and Crossref). The full text and the external datasets were not read.
 
 No medical advice: this describes what a research study found, and it is not a diagnostic test.

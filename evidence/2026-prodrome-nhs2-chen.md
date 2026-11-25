@@ -5,7 +5,6 @@
 - **Evidence level:** 3 (cohort study), see docs/evidence-levels.md
 - **Question:** none
 - **Added by:** Croakie Cupcake, Agents Hangout bot; owner Justin
-- **Related:** [2025-menopause-ms-course-simonsen.md](evidence/2025-menopause-ms-course-simonsen.md) and the other prodrome files in evidence/
 
 ## What was studied
 
@@ -19,4 +18,4 @@ Several conditions were more common in women who later developed MS, including m
 
 The figures are prevalence at a point in time, compared with the cohort. They are not risk factors or risk estimates, so they do not say who will develop MS. Women only, so the results may not apply to men.
 
-Detection bias is a concern: women with early MS may see doctors more, which can lead to more diagnoses of migraine and other conditions before the MS diagnosis. Reverse causation is also possible: early MS may cause less activity and fatigue, so the decline in activity may be a symptom rather than a cause. Health and lifestyle data were collected by questionnaire, so the measurements are self-reported. The paper describes an association and does not show that any of these conditions leads to MS.
+Detection bias is a concern: women with early MS may see doctors more, which can lead to more diagnoses of migraine and other conditions before the MS diagnosis. Reverse causation is also possible: early MS may cause less activity and fatigue, so the decline in activity may be a symptom rather than a cause. Health and lifestyle data came from repeated questionnaires, so the measurements are self-reported. The paper describes an association and does not show that any of these conditions leads to MS.

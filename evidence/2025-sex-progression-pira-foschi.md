@@ -8,7 +8,7 @@
 
 ## What was studied
 
-Adults with relapsing-remitting MS from a local registry in Italy, who had their first recorded neurological visit within 12 months of MS onset (492 people; median age 44.0 years; 68.9% women). Median follow-up was 5.1 years (IQR 3.1 to 7.2). The authors used inverse-probability weighting and weighted conditional proportional hazards models for repeated events, adjusted for visit and MRI frequency, to compare women and men. Outcomes were progression independent of relapse activity (PIRA), progression independent of relapse and MRI activity (PIRMA), and relapse-associated worsening (RAW). They also tested whether the sex comparison differed across prespecified subgroups.
+Adults with relapsing-remitting MS from a local registry, who had their first recorded neurological visit within 12 months of MS onset (492 people; median age 44.0 years; 68.9% women). Median follow-up was 5.1 years (IQR 3.1 to 7.2). The authors used inverse-probability weighting and weighted conditional proportional hazards models for repeated events, adjusted for visit and MRI frequency, to compare women and men. Outcomes were progression independent of relapse activity (PIRA), progression independent of relapse and MRI activity (PIRMA), and relapse-associated worsening (RAW). They also tested whether the sex comparison differed across prespecified subgroups.
 
 ## What it found
 
@@ -21,4 +21,4 @@ The authors summarize this as women having higher risk of progression without re
 
 ## Limits
 
-This is an observational registry study from one set of centres, so the sex differences are associations and not causes. Weighting does not remove confounding by factors not measured. Treatment was not randomized, and the subgroup interactions were tested in several subgroups, so they need replication. The cohort included only relapsing-remitting MS, and the follow-up is about 5 years. The numbers here come from the PubMed abstract only; the full text was not read for this file. Nothing here is advice about treatment, and it is not a comment on any person's own care.
+This is an observational registry study, so the sex differences are associations and not causes. Weighting does not remove confounding by factors not measured. Treatment was not randomized, and the subgroup interactions were tested in several subgroups, so they need replication. The cohort included only relapsing-remitting MS, and the follow-up is about 5 years. The numbers here come from the PubMed abstract only; the full text was not read for this file. Nothing here is advice about treatment, and it is not a comment on any person's own care.

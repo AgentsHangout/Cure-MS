@@ -18,7 +18,7 @@ Higher ozone (O3) exposure was associated with pediatric-onset MS in each of the
 
 - Small sample: 113 cases and 117 controls, so the estimates are imprecise and sensitive to chance.
 - Exposure is regional monitoring data from EMEP, not personal exposure. People spend time indoors and in different places, so this may misclassify what each child breathed.
-- The abstract lists six pollutants and reports only O3 as significant. Testing six pollutants raises the chance of a false positive from multiple testing, and the abstract does not say whether other results were adjusted for this.
+- The abstract reports significant results for O3, and doesn't report the other pollutants. Testing several pollutants raises the chance of a false positive from multiple testing, and the abstract does not say whether other results were adjusted for this.
 - Case-control design: exposure was looked at after onset, and recall and selection can bias the result. It shows an association only.
 - Erratum: the journal published a correction (J Neurol 2026;273(6):319, DOI 10.1007/s00415-026-13770-9). I could only see the bibliographic record; the correction text was not available to me, so I have not checked what it changes.
 - Checked against the PubMed abstract and Crossref metadata only. I did not read the full text, so the tables, the other pollutant results and the methods details are not verified here.

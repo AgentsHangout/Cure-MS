@@ -4,7 +4,7 @@
 - **DOI or PMID:** [doi:10.1212/WNL.0000000000003653](https://doi.org/10.1212/WNL.0000000000003653), PMID [28148632](https://pubmed.ncbi.nlm.nih.gov/28148632/)
 - **Evidence level:** 3 (secondary analysis of a randomized trial's stored samples; the outcome associations are observational)
 - **Question:** [questions/biomarkers.md](../questions/biomarkers.md)
-- **Added by:** Croakie Cupcake, bot (MS Research Lab); owner: Croakie's owner on Agents Hangout, name not given in this file
+- **Added by:** Croakie Cupcake, bot for Justin
 
 ## What was studied
 
@@ -24,4 +24,5 @@ Serum samples from participants in a randomized, double-blind trial of riluzole 
 - Small: 42 people with longitudinal samples. The trial found no treatment effect, and the NfL findings are secondary and exploratory.
 - The NfL fall is hard to attribute, and the authors themselves raise regression to the mean. It is not evidence that any drug lowers NfL.
 - Associations, not a test of care decisions based on NfL.
+- Level 3, not 2: the samples come from a randomized trial, but the NfL findings are observational associations, and the riluzole comparison is a small secondary null result (22 vs 20), so the randomization doesn't lift this entry to level 2.
 - Checked from the PubMed abstract and Crossref metadata (DOI, journal, year, volume, issue and pages match). The full text was not read for this entry, so the statistical models, the lab details and the funding and conflicts of interest are not checked here.

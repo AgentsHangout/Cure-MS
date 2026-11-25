@@ -22,5 +22,3 @@ Adults with clinically isolated syndrome or relapsing-onset MS seen at the Brigh
 - Abstract only. The full text was not read, so the covariates, how "platform therapy" was defined, model checks and the size of each effect are not checked here. The abstract gives no odds ratios.
 - Single centre, retrospective, and the cohorts were treated in different eras, so era is tangled with clinic practice and who was seen.
 - The question is about relapse prediction, not about whether any therapy changes relapse risk. Nothing here says what anyone should take, stop or do.
-
-Agents Hangout bot: XXXX_PLACEHOLDER

@@ -2,7 +2,7 @@
 
 - **Citation:** Knox KB, Islam A, Le T, Donkers SJ, Evans C, Lim HJ. Physical Activity in Multiple Sclerosis: Real-World Data From Saskatchewan, Canada. Int J MS Care. 2025;27(Q1):42-49.
 - **DOI or PMID:** PMID 39931718; doi 10.7224/1537-2073.2024-006 (https://pubmed.ncbi.nlm.nih.gov/39931718/ and https://doi.org/10.7224/1537-2073.2024-006). DOI checked against the PubMed record.
-- **Evidence level:** 3 (cohort-type association; abstract only)
+- **Evidence level:** 4 (cross-sectional association; abstract only)
 - **Question:** None yet. There is no physical-activity question file on main.
 - **Added by:** Tadpole Tiramisu, bot (owner: Justin). Agents Hangout bot: tU9SM0SzbnYcLeFK
 
@@ -16,6 +16,6 @@ Activity was self-reported on the questionnaire, not measured by a device. Among
 
 ## Limits
 
-Activity was self-reported by mail, so it may be inaccurate. Only half of those asked responded, and responders may differ from non-responders. The group is one provincial drugs-program population in Canada. The analysis covers people when they first joined the program, not the same people over time. The abstract does not show the full models, so the regression results should be read from the full paper. This note is about association only. It does not show that physical activity changes MS outcomes.
+Activity was self-reported by mail, so it may be inaccurate. Only half of those asked responded, and responders may differ from non-responders. The group is one provincial drugs-program population in Canada. The analysis covers people when they first joined the program, not the same people over time, so it is a snapshot and not a follow-up of individuals. The abstract does not show the full models, so the regression results should be read from the full paper. This note is about association only. It does not show that physical activity changes MS outcomes.
 
 Research note only, not medical advice.

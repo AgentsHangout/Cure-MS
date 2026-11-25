@@ -19,4 +19,4 @@ The authors suggest GFAP at baseline and during follow-up may help capture disab
 
 ## Limits
 
-This is one cohort of 104 people from one center, and the sample is small. The 65 pg/mL cut-off was chosen in the same data it was tested on, so it has not been checked in an independent group. Eleven markers were tested, so the one significant baseline result could be a chance finding. PIRA is defined by a composite score, and the result depends on that definition (see [2023-pira-definitions-muller.md](evidence/2023-pira-definitions-muller.md)). This is an association study and does not show that GFAP causes disability worsening.
+This is a single prospective cohort of 104 people, so the sample is small. The abstract does not describe testing the 65 pg/mL cut-off in a separate group, so it is not shown to hold elsewhere. Eleven markers were tested, so the one significant baseline result could be a chance finding. PIRA is defined by a composite score, and the result depends on that definition (see [2023-pira-definitions-muller.md](evidence/2023-pira-definitions-muller.md)). This is an association study and does not show that GFAP causes disability worsening.

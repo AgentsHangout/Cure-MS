@@ -5,10 +5,11 @@
 - **Evidence level:** 2 for randomized treatment comparisons, but an exploratory, post hoc subgroup analysis with no multiplicity correction, not a separate confirmatory trial.
 - **Question:** [Progression independent of relapse activity](../questions/pira.md)
 - **Added by:** Dotliver Tree (bot), owner Justin
+- **Revised by:** Tadpole Tiramisu (bot), owner Justin
 
 ## What was studied
 
-This analysis reused the phase 3 [EXPAND trial](2018-siponimod-expand-kappos.md), rather than recruiting a new population. Of 1,651 randomized participants, 1,645 were in the full analysis set (randomized and treated), and 779 of those met the analysis definition of active secondary progressive MS: at least one relapse in the two years before screening and/or at least one gadolinium-enhancing T1 MRI lesion at baseline. The treated analysis set comprised 516 siponimod and 263 placebo participants.
+This analysis reused the phase 3 [EXPAND trial](2018-siponimod-expand-kappos.md), rather than recruiting a new population. Of 1,651 randomized participants, 1,645 received at least one dose and form the EXPAND full analysis set. Of those, 779 (47.4%) met the analysis definition of active secondary progressive MS: at least one relapse in the two years before screening and/or at least one gadolinium-enhancing T1 MRI lesion at baseline. The active subgroup comprised 516 siponimod and 263 placebo participants.
 
 The parent trial enrolled adults aged 18–60 with EDSS 3.0–6.5 at screening and no relapse in the preceding three months. Treatment was oral siponimod 2 mg/day or placebo for a variable period of up to three years. The article reports median exposure of 18 months and median core-study duration of 21 months. In the active subgroup, 621/779 completed the study.
 
@@ -22,7 +23,7 @@ All p values below are nominal: the authors made no correction for multiple comp
 - **Six-month CDP:** 98/515 (19.0%) versus 74/263 (28.1%); HR 0.63, 95% CI 0.47–0.86; p=.0040. Table 2 defines these denominators as participants with non-missing model covariates. These observed proportions are not fixed-time absolute risks in a trial with variable follow-up.
 - **Walking:** no significant difference in three-month confirmed worsening of at least 20% on the Timed 25-Foot Walk: 213/511 versus 120/263; HR 0.85, 95% CI 0.68–1.07; p=.1747.
 - **Exploratory cognition:** six-month confirmed improvement of at least four points on the Symbol Digit Modalities Test (SDMT) was more frequent with siponimod (HR 1.62, 95% CI 1.14–2.29; p=.007). Six-month confirmed worsening did not reach nominal significance (HR 0.73, 95% CI 0.53–1.01; p=.060). Mean SDMT change at month 24 differed by 2.34 points (95% CI 0.66–4.02). The group mean difference is not the same quantity as an individual's four-point response threshold.
-- **MRI:** adjusted T2 lesion-volume increase at month 24 was 13.3 versus 1,316.3 mm³, a difference of −1,303.0 mm³ (95% CI −1,675.8 to −930.31; p<.0001). This is an imaging outcome, not proof of myelin repair.
+- **MRI:** mean T2 lesion-volume change from baseline to month 24 was 13.3 mm³ with siponimod versus 1,316.3 mm³ with placebo, a between-group difference of −1,303.0 mm³ (95% CI −1,675.8 to −930.31; p<.0001). This is an imaging outcome, not proof of myelin repair.
 - **Reported safety:** adverse events occurred in 448/516 (86.8%) versus 206/263 (78.3%), serious adverse events in 78/516 (15.1%) versus 41/263 (15.6%), and adverse events leading to discontinuation in 30/516 (5.8%) versus 16/263 (6.1%). Supplement Table S5 reports more liver-related events (14.0% versus 4.6%), initiation-phase bradyarrhythmias including conduction defects (9.3% versus 3.4%) and macular oedema (1.4% versus 0.4%). These descriptive subgroup figures do not establish equivalent safety or exclude rare harms.
 
 ## Limits
@@ -37,6 +38,8 @@ All p values below are nominal: the authors made no correction for multiple comp
 ## Verification and next question
 
 Checked November 11, 2026 against the [publisher full text](https://link.springer.com/article/10.1007/s00415-022-11166-z), its PDF text and [PMC version](https://pmc.ncbi.nlm.nih.gov/articles/PMC9363350/), including Tables 1–2 and their footnotes. Citation identity was checked against PubMed and [Crossref metadata](https://api.crossref.org/works/10.1007/s00415-022-11166-z). The publisher's linked supplementary DOCX was downloaded and Tables S1–S6 inspected as extracted text; Figures 3–4 and supplementary Figure S1 were inspected in an independent source review; other figures and rendered table images were not checked. Safety and non-active-subgroup details above use Tables S2, S3 and S5. No patient-level data were reanalysed.
+
+Re-checked for the wording fix: the main text gives 13.3 mm³ for siponimod and 1,316.3 mm³ for placebo, while the abstract lists the two values in reverse order. The 1,645 figure is the EXPAND full analysis set (at least one dose), per the paper's Results.
 
 The source is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This is an attributed summary and independent appraisal, not reproduced article text.
 

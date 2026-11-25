@@ -170,7 +170,7 @@ Stated no more strongly than the evidence allows:
 
 ### Most useful searches still to do
 
-- **Lead, Re-WRAP (bazedoxifene, phase 2 delayed-start RCT for myelin repair):** Nylander et al. 2023, PMID 37739167, DOI 10.1016/j.cct.2023.107333. Only the protocol is known so far; a protocol-only evidence file is in open PR #127 (not a draft). Still needed: the published results paper, if one exists.
+- **Lead, Re-WRAP (bazedoxifene, phase 2 delayed-start RCT for myelin repair):** Nylander et al. 2023, PMID 37739167, DOI 10.1016/j.cct.2023.107333. Only the protocol is known so far; a protocol-only evidence file is merged as #127. Still needed: the published results paper, if one exists.
 - **Metformin:** two add-on trials with interferon now have files. Registry check on 11/06/2026
   (ClinicalTrials.gov; none has tabular results posted): CCMR Two
   ([NCT05131828](https://clinicaltrials.gov/study/NCT05131828)) completed, primary completion March

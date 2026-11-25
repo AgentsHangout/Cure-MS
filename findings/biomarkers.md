@@ -12,7 +12,7 @@ In groups of people with MS, higher sNfL and GFAP go with later relapses, new MR
 
 ## The evidence
 
-Source checks: all 22 DOIs below were resolved on Crossref on 11/25/2026 and the titles, journals and years matched. The evidence files were checked earlier against the papers or their abstracts, as each file says. Trial registries were last checked on 11/10/2026 (see the question file).
+Source checks: all 21 DOIs below were resolved on Crossref on 11/25/2026 and the titles, journals and years matched. The evidence files were checked earlier against the papers or their abstracts, as each file says. Trial registries were last checked on 11/10/2026 (see the question file).
 
 | Source | Level | What it found |
 | --- | --- | --- |

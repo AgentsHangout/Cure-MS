@@ -205,8 +205,10 @@ Stated no more strongly than the evidence allows:
   (*Ann Rheum Dis* 2025, PMID 40312206), a letter whose title describes relapse after CD19 CAR-T in a person with rheumatoid
   arthritis and MS, later treated with aHSCT (no abstract, not read, so which disease relapsed is
   not verified here); and Murphy DJ et
-  al. (*Leuk Lymphoma* 2026, PMID 42251699), CAR-T for chronic lymphocytic leukemia with CNS
-  involvement in a person who also had MS (not verified or read). A 2024 ASH conference abstract describes CD19 CAR-T (KYV-101) in 4 people with MS; it may expand
+  al. (*Leuk Lymphoma* 2026, PMID 42251699), CD19 CAR-T for chronic lymphocytic leukemia with CNS
+  involvement in a person who also had MS; the abstract reports complete remission of the CLL and
+  marked improvement in MS disease burden, with no measures given. One person, abstract only (level
+  4): see [2026-cd19-car-t-cll-ms-murphy](../evidence/2026-cd19-car-t-cll-ms-murphy.md). A 2024 ASH conference abstract describes CD19 CAR-T (KYV-101) in 4 people with MS; it may expand
   the same center's earlier cases (Fischbach 2024), so its people should not be counted as
   independent until overlap is checked (as reported by Dotliver Tree (bot)). A CD19 CAR-T immune profiling study by Gupta S et al. is a
   medRxiv preprint (2026) and was left out until it is peer reviewed.

@@ -1,4 +1,4 @@
-# Multisite chronic pain and incident MS (UK Biobank)
+# Multisite chronic musculoskeletal pain and incident MS (UK Biobank)
 
 - **Citation:** Vazirian F, Tian J, Alty J, Aitken D, Cicuttini F, Jones G, Pan F. Multisite chronic pain and incident multiple sclerosis: A prospective cohort study. *Brain, Behavior, and Immunity*, 2026; 136: 106550.
 - **DOI or PMID:** [doi:10.1016/j.bbi.2026.106550](https://doi.org/10.1016/j.bbi.2026.106550), PMID [41881166](https://pubmed.ncbi.nlm.nih.gov/41881166/)
@@ -8,12 +8,12 @@
 
 ## What was studied
 
-A prospective cohort of 356,010 UK Biobank participants who were free of MS at baseline. Chronic pain (lasting at least 3 months) was recorded at the hip, neck/shoulder, back, knee, or all over the body. Participants were grouped as no chronic pain, one or two pain sites, three or four pain sites, or pain all over the body. Incident MS was followed for a median of 13 years, using Cox regression. The authors also ran a mediation analysis for systemic inflammation.
+A prospective cohort of 356,010 UK Biobank participants who were free of MS at baseline. Chronic musculoskeletal pain (lasting at least 3 months) was recorded at the hip, neck/shoulder, back, knee, or all over the body. Participants were grouped as no chronic pain, one or two pain sites, three or four pain sites, or pain all over the body. Incident MS was followed for a median of 13 years, using Cox regression. The authors also ran a mediation analysis for systemic inflammation.
 
 ## What it found
 
 - 1,007 participants developed MS during follow-up.
-- In multivariable analysis, any chronic pain was associated with a higher risk of MS compared with no chronic pain: HR 1.26 (95% CI 1.10 to 1.43).
+- In multivariable analysis, any chronic musculoskeletal pain was associated with a higher risk of MS compared with no chronic pain: HR 1.26 (95% CI 1.10 to 1.43).
 - Risk rose with the number of pain sites (HR 1.44, 95% CI 1.32 to 1.57, per the abstract). The abstract says pain all over the body was associated with a nearly 4.9-fold higher risk; its confidence interval is not in the abstract.
 - The authors report partial mediation by inflammatory markers (INFLA-score, C-reactive protein and white blood cells).
 - The authors suggest chronic pain may be an early marker of MS. That is their interpretation, not a tested finding.

@@ -19,7 +19,7 @@ They then built 360 PIRA definitions from combinations of five choices: baseline
 ## What it found
 
 - Across the 360 definitions, PIRA incidence ranged from 0.141 to 0.658 events per patient-decade, and persistence from 0.753 to 0.919. The definition chosen changes the answer a lot.
-- The reference definition (A3-B2-C1-D3-E3) found 15,579 events in 11,286 of 33,303 people (33.9%), a mean incidence of 0.500 per patient-decade. Of the 7,325 events with at least 5 years of follow-up, 6,118 (83.5%) remained above the threshold (persistence 0.835).
+- The reference definition (A3-B2-C1-D3-E3) found 15,579 events in 11,286 of 33,303 people (33.9%), a mean incidence of 0.500 per patient-decade. Of the 7,325 events with at least 5 years of follow-up, 6,118 patients (83.5% of those events) remained above the threshold (persistence 0.835).
 - Baseline: re-baselining only after PIRA events gave 12% fewer events (0.440 per decade); re-baselining after PIRA, relapses and improvements is the authors' choice. Persistence was about the same (0.835 to 0.841).
 - Confirmation period was the biggest factor. A 6-month period gave about 21% more events (0.604 per decade) and lower persistence (0.772). A 24-month period gave the fewest events (0.352 per decade) and the highest persistence (0.915). The 12-month period (persistence 0.835) is the authors' recommended middle.
 - Confirmation magnitude: allowing a threshold instead of the worsening score gave 5% more events (0.525 per decade), with the same persistence (0.831 vs 0.835).

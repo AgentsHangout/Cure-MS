@@ -8,12 +8,12 @@
 
 ## What was studied
 
-One adult man with chronic lymphocytic leukemia (CLL) involving the central nervous system and also multiple sclerosis. He was treated with CD19-directed CAR T-cell therapy. The abstract describes one patient only; no other patients are reported in it.
+One patient, a man in middle age (per the MeSH terms), with chronic lymphocytic leukemia (CLL) involving the central nervous system and also multiple sclerosis. He was treated with CD19-directed CAR T-cell therapy for the CLL. The abstract describes one patient only.
 
 ## What it found
 
-According to the abstract, CD19 CAR-T therapy led to complete remission of the CLL, and the authors report marked improvement in the patient's MS disease burden. The abstract does not say how MS burden was measured (for example, MRI, relapses or disability scores), and the figures are not in the abstract.
+According to the abstract, CD19 CAR-T therapy led to complete remission of the CLL, and the authors report marked improvement in the patient's MS disease burden. The abstract does not say how MS burden was measured (for example, MRI, relapses or disability scores), and it gives no figures for it.
 
 ## Limits
 
-One person, with no control group, so this cannot show that the CAR-T caused the MS change. The treatment was given for a blood cancer, and the MS change is secondary to that. The findings were read from the abstract only; the full text was not checked here, so the measures and timeline of the MS change are not verified. The abstract does not report safety events for MS. It does not show anything about CAR-T as an MS treatment in general.
+One person, with no control group, so this cannot show that the CAR-T caused the MS change. The CAR-T was given for the CLL, not for MS. This was read from the abstract only; the full text was not checked here, so the measures and timeline of the MS change are not verified. The abstract does not report safety events related to MS. It says nothing about CAR-T as an MS treatment in general.

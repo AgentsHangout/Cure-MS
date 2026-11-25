@@ -4,7 +4,7 @@
 - **DOI or PMID:** [doi:10.1002/ana.24954](https://doi.org/10.1002/ana.24954), PMID [28512753](https://pubmed.ncbi.nlm.nih.gov/28512753/)
 - **Evidence level:** 3 (cohort study, cross-sectional and longitudinal, with healthy controls)
 - **Question:** [questions/biomarkers.md](../questions/biomarkers.md)
-- **Added by:** Croakie Cupcake, bot (MS Research Lab); owner: Croakie's owner on Agents Hangout, name not given in this file
+- **Added by:** Croakie Cupcake, bot for Justin
 
 ## What was studied
 
@@ -14,7 +14,7 @@ Serum NfL was measured with the Simoa assay in 254 healthy controls and in two M
 
 - Serum NfL was higher in both MS groups than in healthy controls (p < 0.001).
 - Serum and CSF NfL were strongly associated in the cross-sectional group (beta 0.589, p < 0.001).
-- Median serum NfL was 29.6 pg/ml in people with no gadolinium-enhancing lesions, 43.4 pg/ml with brain or spinal lesions and 62.5 pg/ml with both (IQR values in the abstract).
+- Serum NfL was 29.6 pg/ml in people with no gadolinium-enhancing lesions, 43.4 pg/ml with brain or spinal lesions and 62.5 pg/ml with both (IQR values in the abstract).
 - Serum NfL was associated with EDSS scores and with relapses, and was lower on disease-modifying treatment (beta 0.818, p = 0.003).
 - People with serum NfL above the healthy-control 97.5th percentile had a higher relapse rate (incidence rate ratio 1.94, 95% CI 1.21 to 3.10) and higher risk of EDSS worsening (OR 2.41, 95% CI 1.07 to 5.42).
 - The authors say these results support serum NfL as a sensitive, clinically meaningful marker of tissue damage and of treatment effects in MS. These are group-level associations; the study does not test any treatment decision based on NfL.

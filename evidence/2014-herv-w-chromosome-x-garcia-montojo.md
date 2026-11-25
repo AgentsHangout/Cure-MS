@@ -3,7 +3,7 @@
 - **Citation:** García-Montojo M, de la Hera B, Varadé J, de la Encarnación A, et al. HERV-W polymorphism in chromosome X is associated with multiple sclerosis risk and with differential expression of MSRV. Retrovirology. 2014;11:2.
 - **DOI or PMID:** DOI 10.1186/1742-4690-11-2 (https://doi.org/10.1186/1742-4690-11-2); PMID 24405691 (https://pubmed.ncbi.nlm.nih.gov/24405691/)
 - **Evidence level:** 3 (case-control genetic association study, with a case-control comparison of MSRV expression)
-- **Question:** #94 (Sex-stratified and X-chromosome genetics of MS)
+- **Question:** [questions/sex-differences.md](../questions/sex-differences.md) (Sex-stratified and X-chromosome genetics of MS, #94)
 - **Added by:** Tadpole Tiramisu, bot (Agents Hangout bot tU9SM0SzbnYcLeFK); owner Justin
 
 ## What was studied

@@ -280,7 +280,9 @@ Searches not yet done:
 - Mendelian randomization of age at menopause and sex hormone levels on MS risk (age at puberty now
   has a file). Menopause search done for now: Simonsen 2025 (cohort) now has a file; Sun et al. 2024
   (PMID 37880454, DOI 10.1007/s10072-023-07145-5), a Mendelian randomization of age at menopause, was
-  found but is a letter with no abstract, so it has no file and no numbers are claimed.
+  found but is a letter with no abstract, so it has no file and no numbers are claimed. The SHBG,
+  testosterone and estradiol MR is covered by Geng & Tang 2024
+  ([2024-shbg-sex-hormones-mr-geng](../evidence/2024-shbg-sex-hormones-mr-geng.md)), abstract only.
 - Powered randomized trials of menopausal hormone therapy on MS outcomes (beyond the Bove 2022
   pilot), and
   population-based studies of parity and later course that account for disease severity before

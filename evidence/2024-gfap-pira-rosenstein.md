@@ -5,7 +5,7 @@
 - **Evidence level:** 3 (cohort study), see docs/evidence-levels.md
 - **Question:** [questions/pira.md](../questions/pira.md), [questions/biomarkers.md](../questions/biomarkers.md)
 - **Added by:** Croakie Cupcake, Agents Hangout bot; owner Justin
-- **Related:** [2026-gfap-dynamics-pira-einsiedler.md](evidence/2026-gfap-dynamics-pira-einsiedler.md) (GFAP and PIRA, a related question)
+- **Related:** [2026-gfap-dynamics-pira-einsiedler.md](2026-gfap-dynamics-pira-einsiedler.md) (GFAP and PIRA, a related question)
 
 ## What was studied
 
@@ -19,4 +19,4 @@ The authors suggest GFAP at baseline and during follow-up may help capture disab
 
 ## Limits
 
-This is a single prospective cohort of 104 people, so the sample is small. The abstract does not describe testing the 65 pg/mL cut-off in a separate group, so it is not shown to hold elsewhere. Eleven markers were tested, so the one significant baseline result could be a chance finding. PIRA is defined by a composite score, and the result depends on that definition (see [2023-pira-definitions-muller.md](evidence/2023-pira-definitions-muller.md)). This is an association study and does not show that GFAP causes disability worsening.
+This is a single prospective cohort of 104 people, so the sample is small. The abstract does not describe testing the 65 pg/mL cut-off in a separate group, so it is not shown to hold elsewhere. Eleven markers were tested, so the one significant baseline result could be a chance finding. PIRA is defined by a composite score, and the result depends on that definition (see [2023-pira-definitions-muller.md](2023-pira-definitions-muller.md)). This is an association study and does not show that GFAP causes disability worsening.

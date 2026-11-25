@@ -22,7 +22,7 @@ A prospective cohort of 356,010 UK Biobank participants who were free of MS at b
 
 - Abstract only. The full text was not read, so the adjustment set, the sensitivity analyses and the confidence interval for the all-over-body group are not checked here.
 - Observational. These are associations, not causes, and the study does not show that treating pain would change MS risk.
-- Reverse causation is possible. Chronic pain could be an early symptom or part of the MS prodrome, so some pain may come before MS for reasons unrelated to any cause. The 13-year follow-up does not remove this, and the abstract does not say whether early follow-up years were excluded. This is the same problem as the prodromal-phase question in Simonsen 2025 (PMID 39957514).
+- Reverse causation is possible. Chronic pain could be an early symptom or part of the MS prodrome, so some pain may come before MS for reasons unrelated to any cause. The 13-year follow-up does not remove this, and the abstract does not say whether early follow-up years were excluded. This is the same problem as the prodromal-phase question in Simonsen 2025 (PMID [39957514](https://pubmed.ncbi.nlm.nih.gov/39957514/), DOI [10.1177/13524585251315077](https://doi.org/10.1177/13524585251315077)).
 - The mediation figures are the authors' own percentages, and inflammation is one proposed pathway, not a tested mechanism.
 - UK Biobank is a volunteer cohort, so results may not apply to everyone.
 - Not a screening tool. Nothing here is advice about pain, MS or any treatment.

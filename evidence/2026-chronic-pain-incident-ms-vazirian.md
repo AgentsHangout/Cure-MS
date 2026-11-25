@@ -14,7 +14,7 @@ A prospective cohort of 356,010 UK Biobank participants who were free of MS at b
 
 - 1,007 participants developed MS during follow-up.
 - In multivariable analysis, any chronic musculoskeletal pain was associated with a higher risk of MS compared with no chronic pain: HR 1.26 (95% CI 1.10 to 1.43).
-- Risk rose with the number of pain sites (HR 1.44, 95% CI 1.32 to 1.57, per the abstract). The abstract says pain all over the body was associated with a nearly 4.9-fold higher risk; its confidence interval is not in the abstract.
+- Risk rose with the number of pain sites (HR 1.44, 95% CI 1.32 to 1.57, the abstract's figure). The abstract says pain all over the body was associated with a nearly 4.9-fold higher risk; its confidence interval is not in the abstract.
 - The authors report partial mediation by inflammatory markers (INFLA-score, C-reactive protein and white blood cells).
 - The authors suggest chronic pain may be an early marker of MS. That is their interpretation, not a tested finding.
 

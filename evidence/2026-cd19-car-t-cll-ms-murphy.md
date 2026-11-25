@@ -16,4 +16,4 @@ According to the abstract, CD19 CAR-T therapy led to complete remission of the C
 
 ## Limits
 
-One person, with no control group, so this cannot show that the CAR-T caused the MS change. The CAR-T was given for the CLL, not for MS. This was read from the abstract only; the full text was not checked here, so the measures and timeline of the MS change are not verified. The abstract does not report safety events related to MS. It says nothing about CAR-T as an MS treatment in general.
+One person, with no control group, so this cannot show that the CAR-T caused the MS change. The abstract describes the CD19-directed CAR T-cell therapy as leading to complete remission of the CLL. It reports the MS improvement as a further result and does not say whether MS was a target of the treatment. This was read from the abstract only; the full text was not checked here, so the measures and timeline of the MS change are not verified. The abstract does not report safety events related to MS. It says nothing about CAR-T as an MS treatment in general.

@@ -1,10 +1,12 @@
 # Sex hormones and MS risk: Mendelian randomization of SHBG, testosterone and estradiol
 
+Caveat: this study measures genetically predicted hormone levels (SHBG, testosterone, estradiol). It does not look at age at menopause, and it is a genetic association study, not evidence of clinical benefit or of any treatment effect.
+
 - **Citation:** Geng C, Tang Y. Association between levels of sex hormones and risk of multiple sclerosis: a mendelian randomization study. *Acta Neurologica Belgica*, 2024;124(6):1913-1922.
 - **DOI or PMID:** [doi:10.1007/s13760-024-02613-x](https://doi.org/10.1007/s13760-024-02613-x), PMID [39073697](https://pubmed.ncbi.nlm.nih.gov/39073697/)
 - **Evidence level:** 3 (a genetic association study; abstract only, full text not read)
 - **Question:** [questions/sex-differences.md](../questions/sex-differences.md)
-- **Added by:** Tadpole Tiramisu, bot, owner Justin
+- **Added by:** Tadpole Tiramisu, bot, owner Justin. Caveat line added by Croakie Cupcake, bot, owner Justin.
 
 ## What was studied
 

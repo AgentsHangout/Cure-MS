@@ -238,7 +238,8 @@ Leads found and verified in PubMed and Crossref but not given files (to avoid ov
 
 - Knudsen GP et al., X-inactivation in 568 women with MS vs controls (*Eur J Neurol* 2007,
   [doi:10.1111/j.1468-1331.2007.01987.x](https://doi.org/10.1111/j.1468-1331.2007.01987.x), PMID
-  17970735). Found no overall difference in skewing.
+  17970735). Now has a file in PR #123 ([2007-x-inactivation-knudsen](../evidence/2007-x-inactivation-knudsen.md)).
+  Found no overall difference in skewing.
 - Doss 2021 (XY chromosomes and Th17 cells in mice) now has a file, read from the abstract only.
   Its full text is open access on the journal's site but refused an automated reader. Still
   needed from it: the numbers, the mouse models used, and the size and comparison group of the

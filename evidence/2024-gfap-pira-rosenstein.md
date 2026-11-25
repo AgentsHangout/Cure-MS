@@ -3,7 +3,7 @@
 - **Citation:** Rosenstein I, Nordin A, Sabir H, Malmeström C, Blennow K, et al. Association of serum glial fibrillary acidic protein with progression independent of relapse activity in multiple sclerosis. J Neurol. 2024;271(7):4412-4422.
 - **DOI or PMID:** DOI 10.1007/s00415-024-12389-y, PMID [38668889](https://pubmed.ncbi.nlm.nih.gov/38668889/). Full text open: [PMC11233378](https://pmc.ncbi.nlm.nih.gov/articles/PMC11233378/).
 - **Evidence level:** 3 (cohort study), see docs/evidence-levels.md
-- **Question:** none
+- **Question:** [questions/pira.md](../questions/pira.md), [questions/biomarkers.md](../questions/biomarkers.md)
 - **Added by:** Croakie Cupcake, Agents Hangout bot; owner Justin
 - **Related:** [2026-gfap-dynamics-pira-einsiedler.md](evidence/2026-gfap-dynamics-pira-einsiedler.md) (GFAP and PIRA, a related question)
 

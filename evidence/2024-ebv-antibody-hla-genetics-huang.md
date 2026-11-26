@@ -20,10 +20,12 @@ A Swedish case-control study of plasma IgG antibodies to Epstein-Barr virus, mea
 
 ## Limits
 
-- Checked from the PubMed abstract only. The full text, supplementary tables and funding and conflicts sections were not checked.
+- Checked from the PubMed abstract, and for the cohort section and Table 1 only, the open-access full text (PMC11449136). Supplementary tables and funding and conflicts sections were not checked.
 - This is an association study. It can't show that EBV causes MS. The authors' suggestion of a pathogenic role through molecular mimicry is their interpretation, not something this design tests.
 - The authors say the EBNA-1 link may partly reflect overlapping HLA associations, so the antibody and HLA signals are not separable here.
 - The abstract doesn't say whether blood was drawn before or after MS onset. If after, high antibody levels could partly follow the disease.
 - Antibody levels are a measure of immune response, not of infection status, and the abstract doesn't say how the cut-offs were chosen.
 - The abstract doesn't say how controls were matched beyond "population-matched".
-- Earlier meta-analysis of the same EBV-HLA question: [2015 Xiao](2015-ebv-hla-interaction-meta-analysis-xiao.md). The abstract doesn't say whether this cohort overlaps with the studies Xiao pooled.
+- Cohorts (full text, Methods and Table 1): the 8,744 cases and 7,229 controls come from four Swedish studies: GEMS (4,755 cases, 4,151 controls), EIMS (2,617 and 3,059), IMSE (1,076 cases, no controls) and STOP-MS (296 and 19).
+- Overlap with earlier Swedish work: [2015 Xiao](2015-ebv-hla-interaction-meta-analysis-xiao.md) pooled two Swedish studies, [Sundström 2008](https://pubmed.ncbi.nlm.nih.gov/18573815/) (PMID 18573815, biobank samples, 109 cases and 212 referents, per the abstract) and [Sundqvist 2012](https://pubmed.ncbi.nlm.nih.gov/22933744/) (PMID 22933744, newly diagnosed MS cases and matched controls, per the abstract). Neither abstract names its cohort, and the Sundqvist full text is not open, so whether either used the same samples as Huang's four studies is not checked.
+- [Sattarnezhad 2025](2025-ebna1-glialcam-antibodies-sattarnezhad.md) also uses the Swedish EIMS cohort (650 cases, 661 controls). Its full text does cite Huang 2024 (ref 38), for prior anti-EBNA1 work and for the AA380-450 peptide choice. Whether its people overlap with Huang's EIMS participants is unchecked.

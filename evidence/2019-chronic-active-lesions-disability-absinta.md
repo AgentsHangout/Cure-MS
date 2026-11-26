@@ -31,7 +31,8 @@ Three studies at one centre, the NIH Clinical Center.
 - Observational, at one centre, and association rather than cause. It does not show that treating rim lesions would prevent disability.
 - The abstract does not give the size of the disability association (no effect estimate or confidence interval), and it does not use the term PIRA. Which disability measure was used, and what was adjusted for, is not checked here.
 - The 8% excluded for unreadable scans could bias the result, though the abstract does not say how.
-- The pathology result is one patient. The lesion-growth comparison is 27 rim vs 27 rimless lesions in 23 people, and that part is exploratory in design.
+- The pathology result is one patient.
+- The lesion-growth comparison (27 rim vs 27 rimless lesions in 23 people) is the primary analysis for annual lesion volume change, as the abstract lists it. Only the T1 comparison is exploratory. It is small and comes from 23 people.
 - Needs susceptibility MRI at 3 T or 7 T, which is not routine everywhere.
 - The treatment claim (rims occur on effective therapy) rests on the abstract's conclusion; the treatment breakdown is not checked.
 - The journal lists an erratum (JAMA Neurol. 2019;76(12):1520, doi:10.1001/jamaneurol.2019.4331). Its content has not been read.

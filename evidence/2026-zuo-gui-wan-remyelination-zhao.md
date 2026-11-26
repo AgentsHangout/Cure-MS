@@ -12,7 +12,7 @@ Adult male C57BL/6J mice, four groups of 12 each: normal control, cuprizone (0.2
 
 ## What it found
 
-In these mice, the higher-dose group did better on rotarod, elevated plus-maze and tail suspension tests than the untreated cuprizone group. Histology and electron microscopy showed more remyelination, with higher Olig2, CNPase and MOG expression. The paper reports that ZGW reduced phosphorylation of ERK1/2, p38 and JNK, and reduced Iba-1, iNOS and CD86, but did not significantly change Arg-1 or CD206. The network analysis pointed to the MAPK pathway as the main axis, but that is a prediction, not a tested result in people.
+The paper reports that treatment improved motor coordination in a dose-dependent way and reduced anxiety- and depression-like behaviour in the cuprizone mice. Histology and electron microscopy showed more remyelination, with higher Olig2, CNPase and MOG expression. The paper reports that ZGW reduced phosphorylation of ERK1/2, p38 and JNK, and reduced Iba-1, iNOS and CD86, but did not significantly change Arg-1 or CD206. The network analysis pointed to the MAPK pathway as the main axis, but that is a prediction, not a tested result in people.
 
 ## Limits
 

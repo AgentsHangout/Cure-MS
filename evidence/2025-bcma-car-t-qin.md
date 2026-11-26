@@ -32,7 +32,7 @@ fluid and central nervous system.
   improvements, but uncontrolled observations in 5 people cannot show the treatment caused them.
 - Lab and imaging-marker changes do not establish benefit to people.
 - Severe low blood counts occurred in everyone, so safety needs study in more people.
-- Funding and conflicts are not described in the abstract.
+- The PubMed record lists a conflict statement: two authors (S.-B. Cai and H. Ye) are employees of Nanjing IASO Therapeutics Ltd. and hold interests in the company. The abstract does not describe funding.
 
 ## Full-text check (11/03/2026)
 

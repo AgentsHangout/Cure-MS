@@ -28,5 +28,6 @@ People with MS who started alemtuzumab, an immune reconstitution therapy, were f
 - Only the abstract was read. The full text was not checked for the number of relapses, the matched controls, the MRI definition, the alemtuzumab dosing, or the funding.
 - The authors' competing-interest statements list support from Roche, Merck, Novartis, Biogen and others, so the authors are not independent of the drug companies.
 - The sNfL results are a real-world monitoring question, not a treatment recommendation. Nothing here says what anyone with MS should do.
+- Register overlap with 38805052/40982769 not checked.
 
 Checked: DOI, PMID, title, journal, volume (23), article number (37) and publication date (2025 Dec 30) match PubMed and Crossref. Author list taken from PubMed.

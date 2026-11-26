@@ -25,7 +25,7 @@ The abstract says the authors consider the diagnostic accuracy of kappa-FLC simi
 
 ## Limits
 
-This is expert opinion. The consensus was reached in a panel meeting, not from a systematic search, and the paper does not say how the search for data was done. The statements are recommendations and hypotheses for future work, and two of them (4 and 6) say more data is needed. The text itself says some of the research issues are still open, including the prognostic value of intrathecal kappa-FLC synthesis.
+This is expert opinion. The consensus was reached in a panel meeting, not from a systematic search, and the paper does not describe a systematic search for the data it discussed. Statement 4 says multicentre studies are needed to confirm the cut-offs. Statement 6 is a recommendation for a future criteria revision, not a finding that the test is already in the criteria. The paper also lists prognostic value of intrathecal kappa-FLC synthesis as an open research issue.
 
 Several panel members report industry ties, including the first author (speaker honoraria, consultancy and advisory roles with MS drug makers). The statement says the authors received no financial support for the research, authorship or publication.
 

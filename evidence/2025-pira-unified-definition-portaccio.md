@@ -1,6 +1,6 @@
 # A unified PIRA definition tested in the Italian MS Register (30,203 people)
 
-- **Citation:** Portaccio E, Betti M, De Meo E, Pastò L, Prestipino E, Lugaresi A, et al. (Italian MS and Related Disorders Register). Toward a Unified Definition of Progression Independent of Relapse Activity in Multiple Sclerosis. *Neurology*, 2025 (published online 21 Oct 2025).
+- **Citation:** Portaccio E, Betti M, De Meo E, Pastò L, Prestipino E, Lugaresi A, et al. (Italian MS and Related Disorders Register). Toward a Unified Definition of Progression Independent of Relapse Activity in Multiple Sclerosis. *Neurology*, 2025 (electronic publication 22 Sep 2025; PubMed publication date 21 Oct 2025).
 - **DOI or PMID:** [doi:10.1212/WNL.0000000000213977](https://doi.org/10.1212/WNL.0000000000213977), PMID [40982769](https://pubmed.ncbi.nlm.nih.gov/40982769/). Full text open at [PMC12477792](https://pmc.ncbi.nlm.nih.gov/articles/PMC12477792/). DOI and PMID checked against the PubMed record (efetch) and the PMC record.
 - **Evidence level:** 3 (retrospective cohort analysis of registry data, observational, no randomization)
 - **Question:** [questions/pira.md](../questions/pira.md)

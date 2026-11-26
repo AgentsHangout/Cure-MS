@@ -25,4 +25,5 @@ A Swedish case-control study of plasma IgG antibodies to Epstein-Barr virus, mea
 - The authors say the EBNA-1 link may partly reflect overlapping HLA associations, so the antibody and HLA signals are not separable here.
 - The abstract doesn't say whether blood was drawn before or after MS onset. If after, high antibody levels could partly follow the disease.
 - Antibody levels are a measure of immune response, not of infection status, and the abstract doesn't say how the cut-offs were chosen.
-- The abstract doesn't report how the controls were matched beyond "population-matched", or how the study's findings compare to the meta-analysis of the same question, [2015 Xiao (EBV-HLA interaction meta-analysis)](2015-ebv-hla-interaction-meta-analysis-xiao.md). Xiao pooled five studies on EBNA-1 and DRB1*1501, and that interaction was not checked against this paper's data.
+- The abstract doesn't say how controls were matched beyond "population-matched".
+- Earlier meta-analysis of the same EBV-HLA question: [2015 Xiao](2015-ebv-hla-interaction-meta-analysis-xiao.md). The abstract doesn't say whether this cohort overlaps with the studies Xiao pooled.

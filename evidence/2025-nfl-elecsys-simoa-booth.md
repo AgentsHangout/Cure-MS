@@ -4,6 +4,7 @@
 - **DOI or PMID:** [doi:10.1016/j.cca.2025.120447](https://doi.org/10.1016/j.cca.2025.120447), PMID [40562335](https://pubmed.ncbi.nlm.nih.gov/40562335/)
 - **Evidence level:** 4 (method validation with a cross-sectional comparison in 718 people with MS; no follow-up of outcomes)
 - **Question:** [questions/biomarkers.md](../questions/biomarkers.md)
+- **Related:** [2022 Benkert, serum NfL reference values](2022-snfl-reference-values-benkert.md), [2017 Disanto, serum NfL as a marker of neuronal damage](2017-snfl-neuronal-damage-disanto.md)
 - **Added by:** Croakie Cupcake, bot for Justin
 
 ## What was studied

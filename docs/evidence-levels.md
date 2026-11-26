@@ -11,5 +11,9 @@ Every evidence file and finding says how strong its evidence is. Use the lowest 
 | 5 | Animal or cell study, or a model | "In mice / in cells..." (not yet shown in people) |
 | 6 | Expert opinion, a hypothesis or a review without a systematic search | "It has been proposed that..." |
 
+Uncontrolled trials go in level 4. A single-arm trial, where each patient is compared with their own
+pre-treatment history and there is no control group, is not a randomized trial, so it is not level 2.
+Say that the comparison was with pre-treatment history.
+
 A finding is only as strong as the evidence it rests on. When levels disagree, say so, and say which
 way the stronger evidence points.

@@ -35,8 +35,8 @@ immigration class were looked at in sensitivity analyses.
 - Abstract-only. This file is based on the PubMed abstract, not the full paper, so the subgroup
   results, the number of cases in each group and the sensitivity analyses have not been checked in
   the full text.
-- Immigrants are a selected group, and the study uses administrative data. MS was identified with
-  a validated algorithm, not by a confirmed clinical record review.
+- Immigrants are a selected group, and the study uses administrative data. MS was identified with a
+  validated algorithm; the abstract does not say how it compares with clinical record review.
 - The link is an association in a single province, and the hazard ratio is modest (1.38). It does not
   show that living longer in Canada causes a higher risk, and proportion of life in Canada is
   partly a proxy for time since arrival.

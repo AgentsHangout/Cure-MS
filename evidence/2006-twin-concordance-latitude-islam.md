@@ -8,7 +8,7 @@
 
 ## What was studied
 
-A twin series of 418 monozygotic (MZ) and 380 same-sex dizygotic (DZ) pairs with MS, ascertained from 1980 to 1992 and followed. Twins were from Canada and adjacent US states. Those born at or above about 41-42 degrees N were called "northern". Concordance was compared by zygosity, sex, latitude of birthplace, ancestry (descent from high-risk populations) and early diagnosis (before a median age of 29.3 years).
+A twin series of 418 monozygotic (MZ) and 380 same-sex dizygotic (DZ) pairs with MS, ascertained from 1980 to 1992 and followed. The twins were from Canada and adjacent US states. Within that series, twins born at or above about 41-42 degrees N are labelled "northern"; the label marks that birthplace subgroup, not where the whole series came from. Concordance was compared by zygosity, sex, latitude of birthplace, ancestry (descent from high-risk populations) and early diagnosis (before a median age of 29.3 years).
 
 ## What it found
 

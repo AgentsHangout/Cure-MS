@@ -20,7 +20,7 @@ From the abstract only. Of 732 randomised, 544 (74%) completed the double-blind 
 - Composite progression: 73.2% vs 83.3% (difference 10.1%, 95% CI 3.6 to 16.6; p=0.0023).
 - Confirmed time to requiring a wheelchair (EDSS 7): 11.5% vs 18.9% (difference 7.4%, 95% CI 0.8 to 13.9; p=0.0274).
 - T2 lesion volume change: 0.45% vs 13.00%; T1 hypointense lesion volume change: 36.68% vs 60.93% (both p<0.0001).
-- Adverse events were 238.09 per 100 patient-years and serious adverse events 12.63 per 100 patient-years; the most common serious events were infections (4.13 per 100 patient-years). The authors report no new safety signals compared with the double-blind phase.
+- Adverse events were 238.09 per 100 patient-years and serious adverse events 12.63 per 100 patient-years; these rates are for all ocrelizumab exposure in the extension and are not a comparison between groups. The most common serious events were infections (4.13 per 100 patient-years). The authors report no new safety signals compared with the double-blind phase.
 
 The authors' interpretation is that earlier, continuous ocrelizumab gave sustained benefit on progression measures over 6.5 study years.
 

@@ -25,6 +25,6 @@
 - Observational. The authors say there was no comparison group to test a treatment effect of B-cell depleting therapy on sGFAP or sNfL, so these data cannot show what the drug does to either marker.
 - These are associations with later PIRA. The paper does not test whether acting on a high marker changes outcomes, so it does not show that either marker is proof of benefit or harm from treatment.
 - The abstract compares the two HRs (sGFAP 1.80, sNfL 1.45) but does not report a formal test of the difference between them.
-- The main longitudinal analysis left out 104 people with under 4 years of follow-up. Only people with at least 3 documented visits and an index sample 8-24 months after treatment start were in the PIRA time-to-event analysis.
+- The 104 people with under 4 years of follow-up were excluded from the longitudinal analysis of biomarker dynamics. The PIRA analysis needed at least 3 documented visits and an index sample 8 to 24 months after treatment start.
 - Funding and conflicts: the Swiss MS Cohort is supported by the Swiss MS Society and by grants from Biogen, Bristol Myers Squibb, Merck, Novartis and Roche. The acknowledgment lists grant funding from Merck, Novartis and Roche for this work. The authors state no conflicts of interest to report.
 - Checked against: PubMed record for PMID 39411917 (DOI 10.1002/ana.27096, Ann Neurol 2025 Jan 97(1):104-115), and the full text in PMC11683165 (methods, results, Table 1, limitations, funding). Numbers here are taken from that full text and the abstract.

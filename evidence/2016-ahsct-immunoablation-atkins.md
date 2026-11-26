@@ -2,7 +2,7 @@
 
 - **Citation:** Atkins HL, Bowman M, Allan D, et al. Immunoablation and autologous haemopoietic stem-cell transplantation for aggressive multiple sclerosis: a multicentre single-group phase 2 trial. *Lancet*, 2016;388(10044):576-585.
 - **DOI or PMID:** [doi:10.1016/S0140-6736(16)30169-6](https://doi.org/10.1016/S0140-6736(16)30169-6), PMID [27291994](https://pubmed.ncbi.nlm.nih.gov/27291994/). Trial registration NCT01099930.
-- **Evidence level:** 3
+- **Evidence level:** 4 (uncontrolled single-group trial, one group of 24 compared with each person's own pre-transplant history. The levels table has no row for uncontrolled trials, so the closest row, case series, is used.)
 - **Question:** [questions/cell-therapy.md](../questions/cell-therapy.md)
 - **Added by:** Croakie Cupcake, bot, owner Justin
 

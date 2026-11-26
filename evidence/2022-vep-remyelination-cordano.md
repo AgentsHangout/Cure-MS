@@ -8,13 +8,13 @@
 
 ## What was studied
 
-Animal experiments (mice) on the optic nerve, not people. The authors compared visual evoked potential (VEP) latency, an electrical test of how fast signals reach the brain, with histology and electron microscopy of myelin in inflammatory and chemical models of demyelination. They then gave clemastine, a compound studied for remyelination, and looked at VEP latency and myelin. They also used a transgenic mouse that cannot form new myelin, to test whether clemastine's effect on VEP depends on myelin being made.
+Animal experiments on the optic nerve, not people. The abstract says "animal" and does not name the species; the full text was not checked for that. The authors compared visual evoked potential (VEP) latency, an electrical test of how fast signals reach the brain, with histology and electron microscopy of myelin in inflammatory and chemical models of demyelination. They then gave clemastine, a compound studied for remyelination, and looked at VEP latency and myelin. They also used a transgenic animal that cannot form new myelin, to test whether clemastine's effect on VEP depends on myelin being made.
 
 ## What it found
 
 - In the abstract's account, VEP latency tracked quantitative myelin measures (nodal structure and ultrastructure) across the inflammatory and chemical models.
 - VEP latency improved after clemastine, in step with the myelin measures.
-- In the transgenic mice that cannot form new myelin, clemastine did not improve VEP latency after injury.
+- In the transgenic animals that cannot form new myelin, clemastine did not improve VEP latency after injury.
 - The authors conclude that VEP "is thereby a validated tool for preclinical verification of remyelination." That is their conclusion about animal work only.
 
 ## Limits
@@ -23,4 +23,4 @@ Animal experiments (mice) on the optic nerve, not people. The authors compared v
 - Read from the abstract on PubMed. The full text, numbers, and the sample sizes per group were not checked here.
 - The word "validated" is the authors' term for preclinical use. This paper does not test whether a change in VEP latency predicts a change people feel, so it does not validate VEP as a surrogate endpoint for clinical benefit.
 - The human VEP trials (for example [2017-clemastine-rebuild-green](2017-clemastine-rebuild-green.md)) are a separate question and are not covered by this paper.
-- Affiliations include Inception Sciences (Karin Stebbins). The funding and conflict-of-interest statements were not checked here.
+- Conflicts of interest (PubMed record, PMID 35678509): C.C. reports grants from FISM. K.S. and D.L. are employees of Pipeline Therapeutics. A.C.-H. is an employee of Prilenia Therapeutics. J.R.C. has received consulting compensation from Inception Sciences and Pipeline Therapeutics, and is a contributor to a US provisional patent on bazedoxifene as a remyelination therapy. A.J.G. reports grants and other support from Inception Biosciences and others, and is a contributor to a patent application on a small-molecule remyelination drug. Several authors are tied to companies working on remyelination, so read the results with that in mind. Funding details beyond the COI statement were not checked here.

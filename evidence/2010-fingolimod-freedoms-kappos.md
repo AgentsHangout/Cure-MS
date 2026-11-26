@@ -15,7 +15,7 @@ A 24-month, double-blind, randomized, placebo-controlled trial in people aged 18
 ## What it found
 
 - Annualized relapse rate (primary end point): 0.18 with 0.5 mg, 0.16 with 1.25 mg, and 0.40 with placebo (P<0.001 for each dose vs placebo).
-- Time to disability progression (secondary end point): hazard ratio 0.70 (0.5 mg) and 0.68 (1.25 mg) vs placebo, P=0.02 for both. Confirmed progression at 24 months was 17.7%, 16.6% and 24.1%.
+- Time to disability progression (secondary end point): hazard ratio 0.70 (0.5 mg) and 0.68 (1.25 mg) vs placebo, P=0.02 for both. The cumulative probability of disability progression over 24 months, confirmed after 3 months, was 17.7% (0.5 mg), 16.6% (1.25 mg) and 24.1% (placebo).
 - MRI measures (new or enlarged T2 lesions, gadolinium-enhancing lesions, brain volume loss) were better than placebo at both doses (P<0.001).
 - Adverse events related to fingolimod named in the abstract: bradycardia and atrioventricular conduction block at the start of treatment, macular edema, raised liver enzymes, and mild hypertension.
 

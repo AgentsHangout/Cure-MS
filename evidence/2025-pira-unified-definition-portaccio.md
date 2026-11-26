@@ -15,13 +15,13 @@ The authors built 18 PIRA definitions from combinations of: a fixed or roving ba
 ## What it found
 
 - PIRA frequency ranged from 38.8% to 74.1% across the 18 definitions. EDSS 6.0 was reached by 4,401 people (15%).
-- The 90-day relapse window gave higher sensitivity for EDSS 6.0 (66.7% to 69.4%). The no-relapse-from-baseline window gave higher specificity (55.3% to 62.2%).
+- The 90-day relapse window gave higher sensitivity for EDSS 6.0 (66.7% to 69.4%). The no-relapse-from-baseline window gave higher specificity: 55.3% to 62.2% in the abstract and Results, but Table 1 and the Discussion give the top value as 62.6% (fixed baseline, 48-week, ABS). The two numbers differ in the paper itself.
 - The authors' best-performing definition, for predictive value and feasibility, combines a roving baseline, no relapse 90 days before and 30 days after the event, and 24-week confirmation.
-- These figures are from the abstract and Results text of the full article. The rest of the full text was not checked line by line.
+- These figures are from the abstract, Results, Discussion and Table 1 of the full article. The rest of the full text was not checked line by line.
 
 ## Limits
 
-- The register is retrospective, from routine care. Visits were not at fixed intervals, and relapses or worsening can be missed.
+- The register is retrospective, from routine care. The Discussion notes that infrequent clinical visits may miss milder episodes, so relapses or worsening can be missed.
 - The outcome used to judge definitions is reaching EDSS 6.0. That is a proxy for long-term disability. A definition that predicts EDSS 6.0 better is not thereby shown to be the correct definition of PIRA.
 - The EDSS alone was used. The authors note it may under-count PIRA by leaving out other measures.
 - The authors call the best definition the one with "best predictive value and feasibility". It is one trade-off, not a settled standard.

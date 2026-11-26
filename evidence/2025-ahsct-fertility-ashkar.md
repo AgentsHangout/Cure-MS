@@ -1,6 +1,6 @@
 # Autologous stem cell transplant and female fertility in MS (meta-analysis, 2025)
 
-- **Citation:** Ashkar A, Irfan Shayan A, Siddiqui F, Ali Baig MM, Shah S. Effects of autologous hematopoietic stem cell transplantation on female fertility in multiple sclerosis: a systematic review and meta-analysis. Taiwan Journal of Obstetrics and Gynecology, 2025;64(6):951-956.
+- **Citation:** Ashkar A, Irfan SA, Siddiqui F, Ali Baig MM, Shah S. Effects of autologous hematopoietic stem cell transplantation on female fertility in multiple sclerosis: a systematic review and meta-analysis. Taiwan Journal of Obstetrics and Gynecology, 2025;64(6):951-956.
 - **DOI or PMID:** PMID 41213786 (https://pubmed.ncbi.nlm.nih.gov/41213786/); DOI 10.1016/j.tjog.2025.06.003 (https://doi.org/10.1016/j.tjog.2025.06.003)
 - **Evidence level:** 3 (a meta-analysis of four cohort studies, per the abstract; not a meta-analysis of randomized trials, so not level 1)
 - **Question:** none yet

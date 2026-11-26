@@ -26,5 +26,5 @@ A double-blind, placebo-controlled phase 3 trial, run mostly in the USA (101 of 
 - Only relapsing-remitting MS, aged 18 to 55. It does not tell us about progressive MS or people outside those ages.
 - The 1.25 mg arm was switched to 0.5 mg during the trial, so the 1.25 mg results are hard to read on their own. This file uses only the 0.5 mg arm.
 - Funded by Novartis Pharma AG (per the abstract). Conflicts of interest and the full safety tables are not checked here.
-- The relapse and brain-volume results are the main effects. The disability result was not significant.
+- Relapse rate (primary) was lower; brain volume (secondary) also favoured fingolimod; disability was not significant.
 - The same trial design, with 0.5 mg and 1.25 mg arms, was also reported for FREEDOMS (2010); see [2010-fingolimod-freedoms-kappos.md](2010-fingolimod-freedoms-kappos.md). That is a separate trial, so the two should not be counted as one result.

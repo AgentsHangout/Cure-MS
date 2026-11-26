@@ -17,3 +17,8 @@ In the 18 pre-onset cases, geometric mean titers of EBV antibodies were higher t
 ## Limits
 
 Abstract only; the full text was not read, so the funding and conflict-of-interest statements are not checked. Only 18 cases had pre-onset blood, so the confidence intervals are wide, and the EBNA-2 interval runs from 1.1 to 13.7. Several antibodies were compared, so chance findings are possible. The study is in women only, from two nurses' health cohorts, and it shows association, not cause. The RR is per 4-fold titer difference, as the abstract states.
+
+## Related on main
+
+- [Levin 2005](2005-ebv-antibody-onset-levin.md): nested case-control in US military serum samples, EBV titers before MS onset (DOI 10.1001/jama.293.20.2496).
+- [Bjornevik 2022](2022-epstein-barr-virus-bjornevik.md): longitudinal cohort of US military personnel, EBV infection before MS (DOI 10.1126/science.abj8222).

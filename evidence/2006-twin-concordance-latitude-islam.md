@@ -23,7 +23,7 @@ The paper reads the latitude difference as partly environmental and partly genet
 
 - Twins were ascertained and followed, not drawn at random from the general population. The authors describe the sample as representative of twins with MS. That is not the same as representative of all twins, so concordance may be biased.
 - The latitude split is a single cut-off (about 41-42 degrees N) on birthplace in one region, and latitude stands in for unmeasured environmental exposures.
-- The result is a ratio of concordance, with wide confidence intervals. The subgroup estimates rest on modest numbers of pairs.
+- The result is a ratio of concordance, with wide confidence intervals (for example 1.2-3.2 for northern MZ twins, and 1.0-8.9 for men's MZ/DZ ratio). The CIs are the main guide to how precise each subgroup estimate is.
 - The result is about association within twin pairs. It does not show that living at a given latitude causes MS, and it does not measure any individual's risk.
 - This check used the PubMed record and Crossref metadata (title, authors, volume, pages, DOI and abstract). I did not read the full text.
 

@@ -20,7 +20,7 @@ All figures here are from the abstract. The full text was not read for this file
 
 - Observational. The study shows that higher EBV antibody titers came before MS onset in this group. It does not show that EBV causes MS, and the authors' age-dependent reading is their interpretation.
 - Small: 83 cases, and only 69 matched sets had samples from before onset. The confidence intervals are wide (the highest-titer RR runs from 2.5 to 35.4).
-- Population: young adult US military personnel, with a disability-based MS case definition, which may not match people with MS in general.
+- Population: US military personnel, with a disability-based MS case definition, which may not match people with MS in general. The ages of the sample were not checked (the full text was not read).
 - Blood samples were taken at a few time points, and up to 11 years before onset. Early disease could still affect antibody levels, which the design is meant to limit but cannot fully rule out.
 - A retraction-and-republication editorial for this article is linked from PubMed (PMID 15914757, JAMA 2005, "Correcting the literature: retraction and republication"). Its content was not read, so the reason for it is not checked here.
 - Funding and conflicts of interest were not checked (not in the abstract).
